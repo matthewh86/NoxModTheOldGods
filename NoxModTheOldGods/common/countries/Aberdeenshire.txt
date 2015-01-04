@@ -1,0 +1,232 @@
+# Aberdeenshire
+graphical_culture = westerngfx
+color = { 220 20 20 }
+historical_idea_groups = {
+	defensive_ideas
+	aristocracy_ideas
+	naval_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Mallt" "Nesta" "Denis" "Cerie" "Adda" "Maelgwn" "Owena" "Llecci" "Io" "Maches" 
+	"Euronwy" "Einion" "Si‚n" "Gwenwynwyn" "Lachlan" "Tudwallon" "Elspeth" "Ynyr" "Meirion" "Ysfael" 
+	"Bronwen" "Morgan" "Ranald" "Caradog" "Ceneu" "Iseult" "Iolo" "Haer" "Ednyfed" "Elystan" 
+	"Pryderi" "Maldoven" "Marchell" "Robert" "Sion" "Hellawes" "Shona" "Cristin" "Enid" "Dwywai" 
+	"Marared" "Mael" "Trahaearn" "Edern" "Mair" "Rhys" "Arthfael" "Gwriad" "Brochfael" "Ithel" 
+	"Meurig" "Hywel" "Aneurin" "Brychan" "Glynys" "Ffernfael" "Ysbail" "Owain" "Brwt" "Cerys" 
+	"Nest" "Gruffydd" "Melisant" "Fyrsil" "Gwenhwyfar" "Aeronwen" "Clarisant" "Alwyn" "Aelwyd" "Emrys" 
+	"Rhiannon" "Gronw" "Anarawd" "Morydd" "Blodwen" "Sl·Ìne" "Caswallon" "Ilud" "Mawd" "Gwen" 
+	"Gwladys" "Gwenfrewwi" "Deheuwant" "Siwan" "Essyllt" "Iestyn" "Angharad" "Alan" "Eilionora" "AÌbinn" 
+	"Gwerthefyr" "Arddyn" "Seonaid" "Fiachnae" "Olwen" "Llywelyn" "Seisyll" "Cedwyn" "Dogfael" "¡engus" 
+	"Cynan" "Gwenwyn" "Deniela" "Ceridwen" "Heledd" "Peredyr" "Margred" "Meilyr" "Elaine" "Pandoff" 
+	"Sannant" "Mabyn" "Heulwen" "Myfanwy" "Llywarch" "Cadog" "Isabel" "Colin" "Kenneth" "Donald" 
+	"Malmure" "Adam" "Angus" "Archibald" "Brice" "Colban" "Dugald" "Duncan" "Edgar" "Edward" 
+	"Ewan" "Farquhar" "Fergus" "Findlay" "Gilbert" "Gilbride" "Gilchrist" "Gilpatrick" "Giric" "Godfrey" 
+	"Gregor" "Henry" "Hugh" "James" "Macbeth" "Malcolm" "Maldred" "Malise" "Matad" "Murdoch" 
+	"Neil" "Radulf" "Richard" "Roderick" "Uhtred" "Waldeve" "Walter" "William" }
+monarch_names = {
+	"Mallt #0" = -17
+	"Nesta #0" = -34
+	"Denis #0" = -17
+	"Cerie #0" = -34
+	"Adda #0" = 33
+	"Maelgwn #0" = 33
+	"Owena #0" = -17
+	"Llecci #0" = -51
+	"Io #0" = 33
+	"Maches #0" = -17
+	"Euronwy #0" = -17
+	"Einion #0" = 33
+	"Si‚n #0" = -17
+	"Gwenwynwyn #0" = 16
+	"Lachlan #0" = 16
+	"Tudwallon #0" = 50
+	"Elspeth #0" = -51
+	"Ynyr #0" = 16
+	"Meirion #0" = 16
+	"Ysfael #0" = 16
+	"Bronwen #0" = -17
+	"Morgan #0" = 33
+	"Ranald #0" = 16
+	"Caradog #0" = 16
+	"Ceneu #0" = 33
+	"Iseult #0" = -17
+	"Iolo #0" = 16
+	"Haer #0" = -34
+	"Ednyfed #0" = 16
+	"Elystan #0" = 33
+	"Pryderi #0" = 16
+	"Maldoven #0" = 16
+	"Marchell #0" = -17
+	"Robert #0" = 16
+	"Sion #0" = 16
+	"Hellawes #0" = -17
+	"Shona #0" = -17
+	"Cristin #0" = -17
+	"Enid #0" = -17
+	"Dwywai #0" = -17
+	"Marared #0" = -17
+	"Mael #0" = 16
+	"Trahaearn #0" = 16
+	"Edern #0" = 16
+	"Mair #0" = -34
+	"Rhys #0" = 50
+	"Arthfael #0" = 100
+	"Gwriad #0" = 16
+	"Brochfael #0" = 33
+	"Ithel #0" = 33
+	"Meurig #0" = 33
+	"Hywel #0" = 33
+	"Aneurin #0" = 16
+	"Brychan #0" = 16
+	"Glynys #0" = -17
+	"Ffernfael #0" = 16
+	"Ysbail #0" = -17
+	"Owain #0" = 16
+	"Brwt #0" = 50
+	"Cerys #0" = -17
+	"Nest #0" = -51
+	"Gruffydd #0" = 16
+	"Melisant #0" = -17
+	"Fyrsil #0" = 33
+	"Gwenhwyfar #0" = -51
+	"Aeronwen #0" = -17
+	"Clarisant #0" = -17
+	"Alwyn #0" = 33
+	"Aelwyd #0" = -34
+	"Emrys #0" = 16
+	"Rhiannon #0" = -51
+	"Gronw #0" = 33
+	"Anarawd #0" = 50
+	"Morydd #0" = 16
+	"Blodwen #0" = -17
+	"Sl·Ìne #0" = -17
+	"Caswallon #0" = 16
+	"Ilud #0" = -17
+	"Mawd #0" = -17
+	"Gwen #0" = -34
+	"Gwladys #0" = -17
+	"Gwenfrewwi #0" = -68
+	"Deheuwant #0" = 16
+	"Siwan #0" = -17
+	"Essyllt #0" = -17
+	"Iestyn #0" = 16
+	"Angharad #0" = -17
+	"Alan #0" = 16
+	"Eilionora #0" = -17
+	"AÌbinn #0" = -17
+	"Gwerthefyr #1" = 16
+	"Arddyn #0" = -17
+	"Seonaid #0" = -17
+	"Fiachnae #0" = 33
+	"Olwen #0" = -17
+	"Llywelyn #0" = 16
+	"Seisyll #0" = 16
+	"Cedwyn #0" = 16
+	"Dogfael #1" = 50
+	"¡engus #0" = 16
+	"Cynan #0" = 16
+	"Gwenwyn #0" = -34
+	"Deniela #0" = -17
+	"Ceridwen #0" = -17
+	"Heledd #0" = -17
+	"Peredyr #0" = 16
+	"Margred #0" = -17
+	"Meilyr #0" = 16
+	"Elaine #0" = -17
+	"Pandoff #0" = 16
+	"Sannant #0" = -17
+	"Mabyn #0" = -17
+	"Heulwen #0" = -17
+	"Myfanwy #0" = -17
+	"Llywarch #0" = 16
+	"Cadog #0" = 16
+	"Isabel #1" = -17
+	"Colin #0" = 16
+	"Kenneth #2" = 0
+	"Donald #1" = 0
+	"Malmure #1" = -1
+	"Adam #0" = 0
+	"Angus #0" = 0
+	"Archibald #0" = 0
+	"Brice #0" = 0
+	"Colban #0" = 0
+	"Dugald #0" = 0
+	"Duncan #0" = 0
+	"Edgar #0" = 0
+	"Edward #0" = 0
+	"Ewan #0" = 0
+	"Farquhar #0" = 0
+	"Fergus #0" = 0
+	"Findlay #0" = 0
+	"Gilbert #0" = 0
+	"Gilbride #0" = 0
+	"Gilchrist #0" = 0
+	"Gilpatrick #0" = 0
+	"Giric #0" = 0
+	"Godfrey #0" = 0
+	"Gregor #0" = 0
+	"Henry #0" = 0
+	"Hugh #0" = 0
+	"James #0" = 0
+	"Macbeth #0" = 0
+	"Malcolm #0" = 0
+	"Maldred #0" = 0
+	"Malise #0" = 0
+	"Matad #0" = 0
+	"Murdoch #0" = 0
+	"Neil #0" = 0
+	"Radulf #0" = 0
+	"Richard #0" = 0
+	"Roderick #0" = 0
+	"Uhtred #0" = 0
+	"Waldeve #0" = 0
+	"Walter #0" = 0
+	"William #0" = 0
+}
+ship_names = {
+	Advantage "Ann of Anstruther"
+	Bonaventure Bruce
+	Charles "Christian of Boness" Christopher Cuckoo
+	Flower Fortune
+	"Good Fortune" Green-tree
+	"Great Michael"
+	James Janet "Jenny Pirwin"
+	"King's Caravel"
+	"Lamb of Leith" Lesley Lion
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+	Pelican "Prince Rupert" "Providence of Dundee"
+	"Rainbow of Dundee" Rothes
+	Salamander "St. Salvator"
+	Thistle
+	Unicorn
+	Venture
+	Wemyss
+	"Yellow Caravel"
+}
+

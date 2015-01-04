@@ -1,0 +1,124 @@
+# Estonia
+graphical_culture = easterngfx
+color = { 150 75 75 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Maija" "Poshayka" "Oshama" "Tikshayka" "Malyaka" "Nyayka" "Nalka" "Inyava" "Syryava" "Toyaksha" 
+	"Potekay" "Velmayka" "Paksyut" "Chechama" "Valdava" "Uchva" "Syrka" "Chichayka" "Viryas" "Nulzyava" 
+	"Pivtsay" "Vechkas" "Paksyay" "Tatka" "Chindyapa" "Tundya" "Parava" "Slyugan'ka" "Ovtay" "Pokshayka" 
+	"Elyuva" "Meltsayka" "Unzhutka" "Chindyayka" "Dergun" "Nuyaksha" "Andyamo" "Kezhay" "Nuyanza" "Ruzava" 
+	"Tyueykezhut" "Ashava" "Siyamka" "Altocumulus" "Deryab" "Dobrinya" "Inzhay" "Kezhapa" "Kezhedey" "Kezhevat" 
+	"Kichay" "Malyy" "Mordvinko" "Nuyat" "Pakstyan" "Parush" "Putyayka" "Setyamka" "Shindyay" "Varaka" 
+	"Virdyan" "Viryay" }
+monarch_names = {
+	"Maija #0" = -8
+	"Poshayka #0" = -8
+	"Oshama #0" = -8
+	"Tikshayka #1" = 28
+	"Malyaka #0" = 21
+	"Nyayka #0" = -8
+	"Nalka #0" = 7
+	"Inyava #0" = -8
+	"Syryava #0" = -15
+	"Toyaksha #0" = -8
+	"Potekay #0" = -8
+	"Velmayka #0" = 7
+	"Paksyut #0" = 14
+	"Chechama #0" = -15
+	"Valdava #0" = -15
+	"Uchva #0" = 7
+	"Syrka #0" = 21
+	"Chichayka #0" = -22
+	"Viryas #0" = 36
+	"Nulzyava #0" = -15
+	"Pivtsay #0" = 7
+	"Vechkas #0" = 14
+	"Paksyay #0" = 14
+	"Tatka #0" = -15
+	"Chindyapa #0" = -8
+	"Tundya #0" = -8
+	"Parava #0" = -8
+	"Slyugan'ka #0" = -15
+	"Ovtay #0" = 7
+	"Pokshayka #0" = 7
+	"Elyuva #0" = -8
+	"Meltsayka #0" = 7
+	"Unzhutka #0" = -8
+	"Chindyayka #0" = -8
+	"Dergun #0" = 14
+	"Nuyaksha #0" = 7
+	"Andyamo #0" = 21
+	"Kezhay #0" = 7
+	"Nuyanza #0" = 14
+	"Ruzava #0" = -8
+	"Tyueykezhut #0" = 7
+	"Ashava #0" = -8
+	"Siyamka #0" = -8
+	"Altocumulus #0" = 0
+	"Deryab #0" = 0
+	"Dobrinya #0" = 0
+	"Inzhay #0" = 0
+	"Kezhapa #0" = 0
+	"Kezhedey #0" = 0
+	"Kezhevat #0" = 0
+	"Kichay #0" = 0
+	"Malyy #0" = 0
+	"Mordvinko #0" = 0
+	"Nuyat #0" = 0
+	"Pakstyan #0" = 0
+	"Parush #0" = 0
+	"Putyayka #0" = 0
+	"Setyamka #0" = 0
+	"Shindyay #0" = 0
+	"Varaka #0" = 0
+	"Virdyan #0" = 0
+	"Viryay #0" = 0
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+

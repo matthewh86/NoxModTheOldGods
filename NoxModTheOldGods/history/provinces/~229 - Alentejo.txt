@@ -1,7 +1,7 @@
 #229 - Alentejo
 
-owner = AIA
-controller = AIA
+owner = AND
+controller = AND
 culture = portugese
 religion = catholic
 capital = "Évora"
@@ -10,7 +10,7 @@ hre = no
 base_tax = 4
 manpower = 3
 citysize = 8000
-add_core = AIA
+add_core = AND
 fort1 = yes
 discovered_by = western
 discovered_by = muslim

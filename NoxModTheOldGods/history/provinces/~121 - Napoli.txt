@@ -1,7 +1,7 @@
 #121 - Napoli
 
-owner = AMF
-controller = AMF
+owner = NPI
+controller = NPI
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -12,7 +12,7 @@ fort1 = yes
 capital = "Napoli" 
 citysize = 140000	# Estimated
 marketplace = yes 
-add_core = AMF
+add_core = NPI
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

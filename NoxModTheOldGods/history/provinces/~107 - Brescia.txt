@@ -1,7 +1,7 @@
 #107 - Brescia
 
-owner = LMB		# From 1426
-controller = LMB
+owner = BRS		# From 1426
+controller = BRS
 culture = lombard 
 religion = catholic 
 hre = yes 
@@ -12,7 +12,7 @@ fort1 = yes
 capital = "Brescia" 
 citysize = 47000 	# Estimated 
 temple = yes		# 11th cent.
-add_core = LMB
+add_core = BRS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

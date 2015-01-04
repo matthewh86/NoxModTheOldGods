@@ -1,0 +1,193 @@
+# Niederlausitz
+graphical_culture = easterngfx
+color = { 185 27 17 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Smil" "Jesek" "Eufemie" "Cenek" "Helena" "Vladislav" "Eliska" "Richeza" "Heralt" "Vojslava" 
+	"Premysl" "Nezamysl" "Mnata" "Vojen" "Unislav" "Kresomysl" "Diepold" "Hostivit" "Neklan" "Hedvika" 
+	"Borivoj" "Strojmir" "Tobiás" "Hrabis" "Spytimir" "Sobieslav" "Milic" "Olga" "Prokop" "Konstancie" 
+	"Drslav" "Bozena" "Otakar" "Blazena" "Vilemína" "Ojír" "Anna" "Jirík" "Ctirad" "Bohuslava" 
+	"Ota" "Skonka" "Budivoj" "Hynek" "Perchta" "Pelhrim" "Domaslava" "Drahomíra" "Boleslav" "Zbynek" 
+	"Jitka" "Havel" "Dorota" "Mojmír" "Rostislav" "Castolov" "Vladimír" "Spytihnev" "Judita" "Markvart" 
+	"Dobromila" "Albrecht" "Barbora" "Albert" "Ales" "Arnost" "Bavor" "Bedrich" "Benes" "Bocek" 
+	"Bohuslav" "Bores" "Borijov" "Bretislav" "Chval" "Detrich" "Gerhard" "Hanus" "Herman" "Jan" 
+	"Jaromír" "Jaroslav" "Jindrich" "Karel" "Kojata" "Konrád" "Kuník" "Litold" "Matous" "Mikulás" 
+	"Oldrich" "Ondrej" "Petr" "Rajmund" "Sezima" "Slavibor" "Slavomír" "Strachkvas" "Svatobor" "Svatopluk" 
+	"Václav" "Viktorín" "Vítek" "Vanek" "Vilém" "Vojtech" "Vratislav" "Vsebor" "Závis" "Zdík" 
+	"Zdirad" "Zikmund" }
+monarch_names = {
+	"Smil #0" = 24
+	"Jesek #2" = 48
+	"Eufemie #0" = -13
+	"Cenek #0" = 12
+	"Helena #0" = -25
+	"Vladislav #0" = 12
+	"Eliska #0" = -25
+	"Richeza #0" = -13
+	"Heralt #0" = 24
+	"Vojslava #0" = -13
+	"Premysl #1" = 24
+	"Nezamysl #1" = 12
+	"Mnata #1" = 12
+	"Vojen #1" = 12
+	"Unislav #1" = 12
+	"Kresomysl #1" = 12
+	"Diepold #0" = 36
+	"Hostivit #0" = 24
+	"Neklan #1" = 24
+	"Hedvika #0" = -13
+	"Borivoj #0" = 24
+	"Strojmir #0" = 12
+	"Tobiás #1" = 24
+	"Hrabis #0" = 12
+	"Spytimir #0" = 12
+	"Sobieslav #1" = 12
+	"Milic #0" = 12
+	"Olga #0" = -86
+	"Prokop #1" = 12
+	"Konstancie #0" = -13
+	"Drslav #0" = 12
+	"Bozena #0" = -25
+	"Otakar #0" = 12
+	"Blazena #0" = -13
+	"Vilemína #0" = -13
+	"Ojír #0" = 12
+	"Anna #0" = -13
+	"Jirík #0" = 24
+	"Ctirad #0" = 12
+	"Bohuslava #0" = -25
+	"Ota #0" = 12
+	"Skonka #0" = -13
+	"Budivoj #0" = 12
+	"Hynek #0" = 24
+	"Perchta #0" = -13
+	"Pelhrim #1" = 12
+	"Domaslava #0" = -13
+	"Drahomíra #0" = -13
+	"Boleslav #0" = 12
+	"Zbynek #0" = 12
+	"Jitka #0" = -13
+	"Havel #0" = 12
+	"Dorota #1" = -13
+	"Mojmír #1" = 12
+	"Rostislav #0" = 24
+	"Castolov #0" = 12
+	"Vladimír #1" = 12
+	"Spytihnev #0" = 12
+	"Judita #0" = -13
+	"Markvart #1" = 24
+	"Dobromila #0" = -13
+	"Albrecht #0" = 12
+	"Barbora #0" = -13
+	"Albert #0" = 0
+	"Ales #0" = 0
+	"Arnost #0" = 0
+	"Bavor #0" = 0
+	"Bedrich #0" = 0
+	"Benes #0" = 0
+	"Bocek #0" = 0
+	"Bohuslav #0" = 0
+	"Bores #0" = 0
+	"Borijov #0" = 0
+	"Bretislav #0" = 0
+	"Chval #0" = 0
+	"Detrich #0" = 0
+	"Gerhard #0" = 0
+	"Hanus #0" = 0
+	"Herman #0" = 0
+	"Jan #0" = 0
+	"Jaromír #0" = 0
+	"Jaroslav #0" = 0
+	"Jindrich #0" = 0
+	"Karel #0" = 0
+	"Kojata #0" = 0
+	"Konrád #0" = 0
+	"Kuník #0" = 0
+	"Litold #0" = 0
+	"Matous #0" = 0
+	"Mikulás #0" = 0
+	"Oldrich #0" = 0
+	"Ondrej #0" = 0
+	"Petr #0" = 0
+	"Rajmund #0" = 0
+	"Sezima #0" = 0
+	"Slavibor #0" = 0
+	"Slavomír #0" = 0
+	"Strachkvas #0" = 0
+	"Svatobor #0" = 0
+	"Svatopluk #0" = 0
+	"Václav #0" = 0
+	"Viktorín #0" = 0
+	"Vítek #0" = 0
+	"Vanek #0" = 0
+	"Vilém #0" = 0
+	"Vojtech #0" = 0
+	"Vratislav #0" = 0
+	"Vsebor #0" = 0
+	"Závis #0" = 0
+	"Zdík #0" = 0
+	"Zdirad #0" = 0
+	"Zikmund #0" = 0
+}
+ship_names = {
+	"Svatý Vaclav"
+	"Svatá Ludmila"
+	"Svatý Jan Nepomucký"
+	"Svatý Mikulás"
+	"Svatý Jirí"
+	"Svatá Anezká"
+	"Nejsvetejsí Trojice"
+	"Král Karel"
+	"Král Boleslav"
+	"Král Premysl"
+	"Panna Maria Vitezná"
+	"Jan Hus"
+	"Jan Zizka"
+	"Prokop Holý"
+	"Kníze Bretislav"
+	"Premysl Orac"
+	Ctirad
+	Cechy
+	Morava
+	Libuse
+	Odvázný
+	Neporazitelný
+	Rychlý
+	Bystrý
+	Orel
+	Sokol
+	Slezsko
+	Sipka
+	Hvezda
+}
+

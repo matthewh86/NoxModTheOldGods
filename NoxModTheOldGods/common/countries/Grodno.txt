@@ -1,0 +1,182 @@
+# Grodno
+graphical_culture = easterngfx
+color = { 131 30 30 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Swietoslaw" "Lonkogveni" "Kerstigens" "Erasts" "Savna" "Kazimierz" "Leszek" "Aleksander" "Andrzej" "Bartosz" 
+	"Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boncza" "Borzyslaw" "Bozydar" "Borzywoj" "Budziwuj" "Czcibor" 
+	"Czyrzniech" "Dalimir" "Dobieslaw" "Dobrogost" "Dobromir" "Doman" "Domawuj" "Dytryk" "Eustachy" "Gaudenty" 
+	"Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" "Imram" "Izbor" "Józef" "Jacek" 
+	"Jaksa" "Jakub" "Jakusz" "Jan" "Janislaw" "Janko" "Janusz" "Jaroslaw" "Jerzy" "Karol" 
+	"Konrad" "Krystyn" "Krzeslaw" "Lambert" "Maciej" "Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" 
+	"Mieszko" "Mikolaj" "Milobrat" "Milosz" "Miroslaw" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" 
+	"Pawel" "Pelka" "Piotr" "Piskla" "Prendota" "Przemyslaw" "Przybor" "Sambor" "Sedziej" "Sedzimir" 
+	"Sieciech" "Siemomysl" "Siemowit" "Skarbimir" "Snowid" "Spytko" "Stanislaw" "Stefan" "Stoigniew" "Strasz" 
+	"Sulislaw" "Sulistryj" "Swietopelk" "Szczesny" "Tomasz" "Trojden" "Twardomir" "Usciech" "Waclaw" "Wanko" 
+	"Wawrzyniec" "Wielislaw" "Wieslaw" "Wincenty" "Wit" "Witosz" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" 
+	"Zbigniew" "Zbyszko" "Zegota" "Zelibrat" "Zygmunt" }
+monarch_names = {
+	"Swietoslaw #1" = 12
+	"Lonkogveni #1" = 0
+	"Kerstigens #1" = 0
+	"Erasts #1" = 0
+	"Savna #1" = -1
+	"Kazimierz #1" = 0
+	"Leszek #1" = 0
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Bartosz #0" = 0
+	"Bezprym #0" = 0
+	"Boguchwal #0" = 0
+	"Bogumil #0" = 0
+	"Boleslaw #0" = 0
+	"Boncza #0" = 0
+	"Borzyslaw #0" = 0
+	"Bozydar #0" = 0
+	"Borzywoj #0" = 0
+	"Budziwuj #0" = 0
+	"Czcibor #0" = 0
+	"Czyrzniech #0" = 0
+	"Dalimir #0" = 0
+	"Dobieslaw #0" = 0
+	"Dobrogost #0" = 0
+	"Dobromir #0" = 0
+	"Doman #0" = 0
+	"Domawuj #0" = 0
+	"Dytryk #0" = 0
+	"Eustachy #0" = 0
+	"Gaudenty #0" = 0
+	"Gierolt #0" = 0
+	"Gniewomir #0" = 0
+	"Gniewosz #0" = 0
+	"Gosciwuj #0" = 0
+	"Goszczon #0" = 0
+	"Henryk #0" = 0
+	"Imram #0" = 0
+	"Izbor #0" = 0
+	"Józef #0" = 0
+	"Jacek #0" = 0
+	"Jaksa #0" = 0
+	"Jakub #0" = 0
+	"Jakusz #0" = 0
+	"Jan #0" = 0
+	"Janislaw #0" = 0
+	"Janko #0" = 0
+	"Janusz #0" = 0
+	"Jaroslaw #0" = 0
+	"Jerzy #0" = 0
+	"Karol #0" = 0
+	"Konrad #0" = 0
+	"Krystyn #0" = 0
+	"Krzeslaw #0" = 0
+	"Lambert #0" = 0
+	"Maciej #0" = 0
+	"Macko #0" = 0
+	"Malowuj #0" = 0
+	"Marcin #0" = 0
+	"Maslaw #0" = 0
+	"Mateusz #0" = 0
+	"Mieszko #0" = 0
+	"Mikolaj #0" = 0
+	"Milobrat #0" = 0
+	"Milosz #0" = 0
+	"Miroslaw #0" = 0
+	"Msciwoj #0" = 0
+	"Mszczuj #0" = 0
+	"Nadbor #0" = 0
+	"Niezamysl #0" = 0
+	"Odon #0" = 0
+	"Pawel #0" = 0
+	"Pelka #0" = 0
+	"Piotr #0" = 0
+	"Piskla #0" = 0
+	"Prendota #0" = 0
+	"Przemyslaw #0" = 0
+	"Przybor #0" = 0
+	"Sambor #0" = 0
+	"Sedziej #0" = 0
+	"Sedzimir #0" = 0
+	"Sieciech #0" = 0
+	"Siemomysl #0" = 0
+	"Siemowit #0" = 0
+	"Skarbimir #0" = 0
+	"Snowid #0" = 0
+	"Spytko #0" = 0
+	"Stanislaw #0" = 0
+	"Stefan #0" = 0
+	"Stoigniew #0" = 0
+	"Strasz #0" = 0
+	"Sulislaw #0" = 0
+	"Sulistryj #0" = 0
+	"Swietopelk #0" = 0
+	"Szczesny #0" = 0
+	"Tomasz #0" = 0
+	"Trojden #0" = 0
+	"Twardomir #0" = 0
+	"Usciech #0" = 0
+	"Waclaw #0" = 0
+	"Wanko #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wielislaw #0" = 0
+	"Wieslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wit #0" = 0
+	"Witosz #0" = 0
+	"Wladyslaw #0" = 0
+	"Wojciech #0" = 0
+	"Wojuta #0" = 0
+	"Wszebor #0" = 0
+	"Zbigniew #0" = 0
+	"Zbyszko #0" = 0
+	"Zegota #0" = 0
+	"Zelibrat #0" = 0
+	"Zygmunt #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

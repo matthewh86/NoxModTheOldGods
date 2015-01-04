@@ -1,0 +1,183 @@
+# Latvia
+graphical_culture = easterngfx
+color = { 110 50 50 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Demas" "Steikint" "Klavess" "Erdzivil" "Imanta" "Kiten" "Kage" "Marite" "Dose" "Ruta" 
+	"Rusins" "Savna" "Naula" "Ieva" "Maija" "Kerstigens" "Kodere" "Darate" "Treniota" "Lonkogveni" 
+	"Rasa" "Liga" "Galene" "Litto" "Zigne" "Giemund" "Dardedze" "Dobre" "Pliksov" "Narvait" 
+	"Viba" "Imela" "Agita" "Gunda" "Baise" "Brita" "Visheiv" "Skornand" "Ausala" "Greze" 
+	"Valikaila" "Dzeguze" "Erasts" "Dovyat" "Borut" "Nalka" "Velmayka" "Ovtay" "Pakstyan" "Tyushtya" 
+	"Chichayka" "Budo" "Gauronas" "Golding" "Arelis" "Vaishvilkas" "Kazimierz" "Aishno" "Ako" "Ankad" 
+	"Balodis" "Bikshe" "Bulei" "Butovit" "Cirulis" "Dangeruthe" "Darbeslave" "Dausprungas" "Davins" "Dzintis" 
+	"Elmede" "Galeine" "Gastile" "Gedere" "Gerden" "Gibedats" "Golovke" "Gotene" "Gunvald" "Janis" 
+	"Jaunule" "Jedetus" "Juvage" "Kaire" "Karijotas" "Karnak" "Kaupo" "Kuliens" "Kurlemuse" "Lammekinus" 
+	"Likiik" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Pukiik" "Pukuveras" "Ringaudas" "Rushky" "Sabe" 
+	"Sargun" "Scurdo" "Shutr" "Shvarnas" "Sprudeik" "Stegut" "Sviendorog" "Talivaldis" "Tautvila" "Traidenis" 
+	"Vetseke" "Viesturs" "Vishikut" "Vishly" "Vykantas" "Yudki" }
+monarch_names = {
+	"Demas #0" = 25
+	"Steikint #0" = 37
+	"Klavess #0" = 12
+	"Erdzivil #0" = 25
+	"Imanta #0" = 25
+	"Kiten #0" = 25
+	"Kage #1" = 12
+	"Marite #0" = -13
+	"Dose #0" = -38
+	"Ruta #0" = -51
+	"Rusins #0" = 12
+	"Savna #0" = -38
+	"Naula #0" = -13
+	"Ieva #0" = -13
+	"Maija #0" = -26
+	"Kerstigens #0" = 25
+	"Kodere #0" = 37
+	"Darate #0" = -51
+	"Treniota #0" = 25
+	"Lonkogveni #0" = 37
+	"Rasa #0" = -13
+	"Liga #0" = -26
+	"Galene #0" = -64
+	"Litto #0" = 12
+	"Zigne #0" = -13
+	"Giemund #0" = 25
+	"Dardedze #0" = -13
+	"Dobre #0" = 25
+	"Pliksov #0" = 12
+	"Narvait #0" = 12
+	"Viba #0" = -13
+	"Imela #0" = -13
+	"Agita #0" = -13
+	"Gunda #0" = -13
+	"Baise #0" = 25
+	"Brita #0" = -13
+	"Visheiv #0" = 12
+	"Skornand #0" = 12
+	"Ausala #0" = -13
+	"Greze #0" = -26
+	"Valikaila #0" = 12
+	"Dzeguze #0" = -13
+	"Erasts #0" = 12
+	"Dovyat #0" = 12
+	"Borut #0" = 12
+	"Nalka #1" = 0
+	"Velmayka #1" = 0
+	"Ovtay #1" = 0
+	"Pakstyan #1" = 0
+	"Tyushtya #1" = 0
+	"Chichayka #1" = 0
+	"Budo #1" = 0
+	"Gauronas #1" = 0
+	"Golding #1" = 0
+	"Arelis #1" = 0
+	"Vaishvilkas #1" = 0
+	"Kazimierz #1" = 0
+	"Aishno #0" = 0
+	"Ako #0" = 0
+	"Ankad #0" = 0
+	"Balodis #0" = 0
+	"Bikshe #0" = 0
+	"Bulei #0" = 0
+	"Butovit #0" = 0
+	"Cirulis #0" = 0
+	"Dangeruthe #0" = 0
+	"Darbeslave #0" = 0
+	"Dausprungas #0" = 0
+	"Davins #0" = 0
+	"Dzintis #0" = 0
+	"Elmede #0" = 0
+	"Galeine #0" = 0
+	"Gastile #0" = 0
+	"Gedere #0" = 0
+	"Gerden #0" = 0
+	"Gibedats #0" = 0
+	"Golovke #0" = 0
+	"Gotene #0" = 0
+	"Gunvald #0" = 0
+	"Janis #0" = 0
+	"Jaunule #0" = 0
+	"Jedetus #0" = 0
+	"Juvage #0" = 0
+	"Kaire #0" = 0
+	"Karijotas #0" = 0
+	"Karnak #0" = 0
+	"Kaupo #0" = 0
+	"Kuliens #0" = 0
+	"Kurlemuse #0" = 0
+	"Lammekinus #0" = 0
+	"Likiik #0" = 0
+	"Manvydas #0" = 0
+	"Meinekinus #0" = 0
+	"Mendune #0" = 0
+	"Nameisis #0" = 0
+	"Pukiik #0" = 0
+	"Pukuveras #0" = 0
+	"Ringaudas #0" = 0
+	"Rushky #0" = 0
+	"Sabe #0" = 0
+	"Sargun #0" = 0
+	"Scurdo #0" = 0
+	"Shutr #0" = 0
+	"Shvarnas #0" = 0
+	"Sprudeik #0" = 0
+	"Stegut #0" = 0
+	"Sviendorog #0" = 0
+	"Talivaldis #0" = 0
+	"Tautvila #0" = 0
+	"Traidenis #0" = 0
+	"Vetseke #0" = 0
+	"Viesturs #0" = 0
+	"Vishikut #0" = 0
+	"Vishly #0" = 0
+	"Vykantas #0" = 0
+	"Yudki #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

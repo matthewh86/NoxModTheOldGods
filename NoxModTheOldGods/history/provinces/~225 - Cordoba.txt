@@ -1,8 +1,8 @@
 #225 - Córdoba
 
-owner = AIA		#Juan II of Castille
-controller = AIA
-add_core = AIA
+owner = AND		#Juan II of Castille
+controller = AND
+add_core = AND
 culture = andalucian
 religion = catholic
 hre = no

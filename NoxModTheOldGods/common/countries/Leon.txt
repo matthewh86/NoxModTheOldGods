@@ -1,0 +1,218 @@
+# León
+graphical_culture = westerngfx
+color = { 240 40 40 }
+historical_idea_groups = {	religious_ideas	offensive_ideas
+	quality_ideas
+	diplomatic_ideas
+	exploration_ideas
+	naval_ideas
+	innovative_ideas
+	economic_ideas
+}
+
+historical_units = {	western_medieval_infantry	western_medieval_knights	western_men_at_arms	spanish_tercio	austrian_tercio	austrian_grenzer	austrian_hussar	austrian_white_coat	austrian_jaeger	mixed_order_infantry	open_order_cavalry	napoleonic_square	napoleonic_lancers}
+
+leader_names = {
+	"Ermengarda" "Jimeno" "Blasco" "Juan" "Aldonza" "Richard" "Nuñadona" "Leonor" "Petronila" "Dueña" 
+	"Gundemaro" "Oswine" "Tiburge" "Teresa" "Jacques" "Nuño" "Lopa" "Mendo" "Dulce" "Sancha" 
+	"Gaudiosa" "Cristina" "Martín" "Isabel" "Copsige" "Blæja" "Luis" "Galindo" "Domingo" "Estefanía" 
+	"Cyneswith" "Diego" "Velasco" "Jaime" "Berenguela" "Gotina" "Mencía" "Ansur" "Fernando" "Ónega" 
+	"María" "Lothar" "Gontroda" "Usenda" "Benita" "Eylo" "Sol" "Cuthberht" "Arsenda" "Aurelio" 
+	"Leofflæd" "Andrés" "Guillermo" "Pedro" "Andregoto" "Æthelhild" "Flaín" "Wihtræd" "Cuthburg" "Guiomar" 
+	"Godo" "Thomas" "Adosinda" "Alfonso" "Fruela" "Vermudo" "Ramiro" "Ordoño" "Mauregato" "Hermenegildo" 
+	"Ermesinda" "Gatón" "Esteban" "Antonino" "Odoario" "Anderquina" "Eva" "Leodegunda" "Enrique" "Velasquita" 
+	"Egilona" "Savarico" "Patruina" "Vela" "Muña" "Mafalda" "García" "Jacobo" "Dalia" "Juliana" 
+	"Gutierre" "Pelayo" "Toda" "Nicor" "Urraca" "Violante" "Inés" "Muñadona" "Branca" "Varela" 
+	"Rosendo" "Alduara" "Lorenzo" "Fronilda" "Brígida" "Román" "Manrique" "Blanca" "Margarita" "Guina" 
+	"Aragonta" "Juana" "Rodrigo" "Eulalia" "Ponce" "Aznar" "Osorio" "Antonio" "Constanza" "Aurovita" 
+	"Eslonza" "Argilo" "Heregyth" "Facundo" "Mathilde" "Gonzalo" "Benoîte" "Bourgogne" "Favila" "Silo" 
+	"Godwine" "Wulfhere" "Alonso" "Álvar" "Álvaro" "Arias" "Artal" "Beltrán" "Benito" "Berenguel" 
+	"Bernardo" "Bosón" "Fadrique" "Felipe" "Fernán" "Gil" "Guillén" "Gustio" "Guzmán" "Juan-Alfonso" 
+	"Julián" "Lope" "Manuel" "Menendo" "Muño" "Oveco" "Piñolo" "Raimundo" "Ramón" "Salvador" 
+	"Sancho" "Sebastián" "Tello" "Teobaldo" }
+monarch_names = {
+	"Ermengarda #0" = -35
+	"Jimeno #0" = 52
+	"Blasco #2" = 87
+	"Juan #0" = 52
+	"Aldonza #0" = -53
+	"Richard #0" = 17
+	"Nuñadona #0" = -18
+	"Leonor #0" = -88
+	"Petronila #0" = -18
+	"Dueña #0" = -18
+	"Gundemaro #3" = 121
+	"Oswine #0" = 17
+	"Tiburge #0" = -53
+	"Teresa #0" = -35
+	"Jacques #0" = 17
+	"Nuño #0" = 34
+	"Lopa #0" = -35
+	"Mendo #1" = 69
+	"Dulce #0" = -88
+	"Sancha #0" = -53
+	"Gaudiosa #0" = -35
+	"Cristina #0" = -53
+	"Martín #0" = 34
+	"Isabel #0" = -35
+	"Copsige #0" = 17
+	"Blæja #0" = -18
+	"Luis #1" = 139
+	"Galindo #1" = 34
+	"Domingo #0" = 69
+	"Estefanía #0" = -53
+	"Cyneswith #0" = -18
+	"Diego #0" = 121
+	"Velasco #0" = 69
+	"Jaime #0" = 69
+	"Berenguela #0" = -18
+	"Gotina #0" = -88
+	"Mencía #0" = -53
+	"Ansur #0" = 52
+	"Fernando #0" = 17
+	"Ónega #0" = -35
+	"María #0" = -18
+	"Lothar #0" = 17
+	"Gontroda #0" = -18
+	"Usenda #1" = -53
+	"Benita #0" = -35
+	"Eylo #0" = -18
+	"Sol #0" = -18
+	"Cuthberht #0" = 17
+	"Arsenda #0" = -18
+	"Aurelio #3" = 69
+	"Leofflæd #0" = -18
+	"Andrés #0" = 17
+	"Guillermo #0" = 17
+	"Pedro #0" = 34
+	"Andregoto #0" = -53
+	"Æthelhild #0" = -18
+	"Flaín #0" = 17
+	"Wihtræd #0" = 17
+	"Cuthburg #0" = -18
+	"Guiomar #0" = -53
+	"Godo #0" = -53
+	"Thomas #0" = 17
+	"Adosinda #0" = -35
+	"Alfonso #4" = 139
+	"Fruela #1" = 69
+	"Vermudo #1" = 208
+	"Ramiro #1" = 17
+	"Ordoño #1" = 52
+	"Mauregato #1" = 34
+	"Hermenegildo #0" = 52
+	"Ermesinda #0" = -70
+	"Gatón #0" = 34
+	"Esteban #0" = 17
+	"Antonino #0" = 17
+	"Odoario #0" = 17
+	"Anderquina #0" = -53
+	"Eva #0" = -53
+	"Leodegunda #0" = -18
+	"Enrique #0" = 52
+	"Velasquita #0" = -18
+	"Egilona #0" = -35
+	"Savarico #0" = 34
+	"Patruina #0" = -18
+	"Vela #0" = 52
+	"Muña #0" = -53
+	"Mafalda #0" = -53
+	"García #0" = 52
+	"Jacobo #0" = 17
+	"Dalia #0" = -35
+	"Juliana #0" = -18
+	"Gutierre #0" = 17
+	"Pelayo #1" = 34
+	"Toda #0" = -35
+	"Nicor #0" = -18
+	"Urraca #0" = -18
+	"Violante #0" = -88
+	"Inés #0" = -35
+	"Muñadona #0" = -18
+	"Branca #0" = -35
+	"Varela #0" = -18
+	"Rosendo #0" = 17
+	"Alduara #0" = -35
+	"Lorenzo #0" = 34
+	"Fronilda #0" = -18
+	"Brígida #0" = -18
+	"Román #0" = 17
+	"Manrique #1" = 34
+	"Blanca #0" = -35
+	"Margarita #0" = -18
+	"Guina #0" = -35
+	"Aragonta #0" = -18
+	"Juana #0" = -18
+	"Rodrigo #0" = 17
+	"Eulalia #0" = -18
+	"Ponce #0" = 17
+	"Aznar #0" = 17
+	"Osorio #0" = 17
+	"Antonio #0" = 34
+	"Constanza #0" = -18
+	"Aurovita #0" = -18
+	"Eslonza #0" = -18
+	"Argilo #0" = -35
+	"Heregyth #0" = -18
+	"Facundo #0" = 17
+	"Mathilde #0" = -18
+	"Gonzalo #0" = 17
+	"Benoîte #0" = -18
+	"Bourgogne #0" = -18
+	"Favila #1" = 0
+	"Silo #1" = 0
+	"Godwine #1" = 0
+	"Wulfhere #1" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Arias #0" = 0
+	"Artal #0" = 0
+	"Beltrán #0" = 0
+	"Benito #0" = 0
+	"Berenguel #0" = 0
+	"Bernardo #0" = 0
+	"Bosón #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fernán #0" = 0
+	"Gil #0" = 0
+	"Guillén #0" = 0
+	"Gustio #0" = 0
+	"Guzmán #0" = 0
+	"Juan-Alfonso #0" = 0
+	"Julián #0" = 0
+	"Lope #0" = 0
+	"Manuel #0" = 0
+	"Menendo #0" = 0
+	"Muño #0" = 0
+	"Oveco #0" = 0
+	"Piñolo #0" = 0
+	"Raimundo #0" = 0
+	"Ramón #0" = 0
+	"Salvador #0" = 0
+	"Sancho #0" = 0
+	"Sebastián #0" = 0
+	"Tello #0" = 0
+	"Teobaldo #0" = 0
+}
+ship_names = {
+	Andalucía Argonauta Asturias Asunción Atrevido Azor
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+	Doncella Dragón 
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Espíritu Santo" Extremadura
+	Furor Galicia "Gran Grifón" Halcón Hércules Isabela Júpiter
+	"La Concepción" "La Magdalena" "La Manuela" León Ligera "Lobo Marino"
+	Marte Mercurio Neptuno Niña Orión
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plutón Pollux "Príncipe de Asturias"
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+	"San Andrés" "San Antonio" "San Bartolomé" "San Bernabé" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jerónimo"
+	"San José" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Bárbara" "Santa Beatriz"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa María"
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Santísima Trinidad" "Santo Domingo" Sirena
+	Terror Toledo Trinidad Tritón Unicornio
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Zúñiga
+}
+

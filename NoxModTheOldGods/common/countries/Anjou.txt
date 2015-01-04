@@ -1,0 +1,172 @@
+# Anjou
+graphical_culture = westerngfx
+color = { 90 90 195 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Adalbert" "Adam" "Adolf" "Albrecht" "Almerich" "Amadeus" "Andreas" "Anselm" "Arnold" "Arnulf" 
+	"Augustin" "Baldemar" "Baldewin" "Berengar" "Bernhard" "Berthold" "Bruno" "Burchard" "Caspar" "Christopher" 
+	"Diether" "Dietmar" "Dietpold" "Dietrich" "Dietwin" "Eberhard" "Eckhard" "Ehrenfried" "Eginolf" "Ekbert" 
+	"Emelrich" "Emich" "Engelbrecht" "Erich" "Ernst" "Ezzo" "Folkhard" "Folkmar" "Franz" "Friedrich" 
+	"Gebhard" "Georg" "Gerhard" "Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" 
+	"Günzel" "Hartmann" "Hartwig" "Heinrich" "Herbert" "Hermann" "Hesso" "Hugo" "Humbert" "Jakob" 
+	"Johann" "Karl" "Karloman" "Konrad" "Kuno" "Lambert" "Leopold" "Lothar" "Ludolf" "Ludwig" 
+	"Luitpold" "Lutbert" "Magnus" "Manfred" "Markward" "Martin" "Mathias" "Meinhard" "Michael" "Nikolaus" 
+	"Norbert" "Ordulf" "Otto" "Peter" "Philipp" "Poppo" "Rudger" "Reinhard" "Rudolf" "Ruprecht" 
+	"Siegfried" "Sieghard" "Siegmund" "Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udo" "Ulrich" 
+	"Viktor" "Waldemar" "Walram" "Walther" "Welf" "Wenzel" "Werner" "Widukind" "Wigerich" "Wilhelm" 
+	"Wolfgang" "Wolfram" }
+monarch_names = {
+	"Adalbert #0" = 0
+	"Adam #0" = 0
+	"Adolf #0" = 0
+	"Albrecht #0" = 0
+	"Almerich #0" = 0
+	"Amadeus #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Arnulf #0" = 0
+	"Augustin #0" = 0
+	"Baldemar #0" = 0
+	"Baldewin #0" = 0
+	"Berengar #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Bruno #0" = 0
+	"Burchard #0" = 0
+	"Caspar #0" = 0
+	"Christopher #0" = 0
+	"Diether #0" = 0
+	"Dietmar #0" = 0
+	"Dietpold #0" = 0
+	"Dietrich #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Eckhard #0" = 0
+	"Ehrenfried #0" = 0
+	"Eginolf #0" = 0
+	"Ekbert #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Engelbrecht #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ezzo #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Günzel #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Heinrich #0" = 0
+	"Herbert #0" = 0
+	"Hermann #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Jakob #0" = 0
+	"Johann #0" = 0
+	"Karl #0" = 0
+	"Karloman #0" = 0
+	"Konrad #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Leopold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Luitpold #0" = 0
+	"Lutbert #0" = 0
+	"Magnus #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Martin #0" = 0
+	"Mathias #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Ordulf #0" = 0
+	"Otto #0" = 0
+	"Peter #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Rudger #0" = 0
+	"Reinhard #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Simon #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Thomas #0" = 0
+	"Udo #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Widukind #0" = 0
+	"Wigerich #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

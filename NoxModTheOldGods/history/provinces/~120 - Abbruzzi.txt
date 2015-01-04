@@ -1,7 +1,7 @@
 #120 - Abbruzzi
 
-owner = SPL
-controller = SPL
+owner = ABR
+controller = ABR
 culture = umbrian 
 religion = catholic 
 hre = no 
@@ -11,7 +11,7 @@ manpower = 3
 fort1 = yes 
 capital = "L'Aquila" 
 citysize = 17000 
-add_core = SPL
+add_core = ABR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
