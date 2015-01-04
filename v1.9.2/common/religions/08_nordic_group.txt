@@ -1,0 +1,23 @@
+nordic_group = {
+	defender_of_faith = yes
+	finnish_pagan_reformed = {
+		icon = 17
+		color = { 0.8 0.7 0.7 }
+		country = {
+			land_morale = 0.1
+			land_forcelimit_modifier = 0.1
+		}
+		uses_piety = yes
+		heretic = { OLD_SUOMENUSKO }	
+	}
+	norse_pagan_reformed = {
+		icon = 18
+		color = { 0.6 0.5 0.5 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		uses_piety = yes
+		heretic = { OLD_NORSE }
+	}
+}

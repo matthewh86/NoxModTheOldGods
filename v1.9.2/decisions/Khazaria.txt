@@ -1,0 +1,106 @@
+country_decisions = {
+
+	khazaria_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = KHZ }
+			OR = {
+				tag = CRI
+				tag = NOG
+				tag = Z66
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			OR = {
+				AND = {
+					tag = CRI
+					AND = {
+						NOT = { exists = NOG }
+						NOT = { exists = Z66 }
+					}
+				}
+				AND = {
+					tag = NOG
+					AND = {
+						NOT = { exists = CRI }
+						NOT = { exists = Z66 }
+					}
+				}
+				AND = {
+					tag = Z66
+					AND = {
+						NOT = { exists = CRI }
+						NOT = { exists = NOG }
+					}
+				}
+			}
+			owns = 298		# Kursk
+			owns = 299		# Voronezh
+			owns = 467		# Boris
+			owns = 1971		# Tsaritsyn
+			owns = 303		# Saratov
+			owns = 469		# Ryn
+			owns = 465		# Nogay
+			owns = 291		# Kharkov
+			owns = 288		# Lower Don
+			owns = 466		# Sarai
+			owns = 464		# Astrakhan
+			owns = 283		# Zaporozhia
+			owns = 1974		# Yedishukl
+			owns = 284		# Crimea
+			owns = 285		# Kaffa
+			owns = 286		# Azov
+			owns = 287		# Kuban
+			owns = 468		# Manych
+			is_core = 298	# Kursk
+			is_core = 299	# Voronezh
+			is_core = 467	# Boris
+			is_core = 1971	# Tsaritsyn
+			is_core = 303	# Saratov
+			is_core = 469	# Ryn
+			is_core = 465	# Nogay
+			is_core = 291	# Kharkov
+			is_core = 288	# Lower Don
+			is_core = 466	# Sarai
+			is_core = 464	# Astrakhan
+			is_core = 283	# Zaporozhia
+			is_core = 1974	# Yedishukl
+			is_core = 284	# Crimea
+			is_core = 285	# Kaffa
+			is_core = 286	# Azov
+			is_core = 287	# Kuban
+			is_core = 468	# Manych
+		}
+		effect = {
+			change_tag = KHZ
+			set_capital = 464		# Astrakhan
+			add_prestige = 40
+			change_primary_culture = ashkenazi
+			add_accepted_culture = tartar
+			add_accepted_culture = alan
+			
+			464 = {
+				change_culture = ashkenazi 
+				change_religion = jewish
+				rename_capital = Atil
+				add_base_tax = 6
+				add_province_manpower = 5
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

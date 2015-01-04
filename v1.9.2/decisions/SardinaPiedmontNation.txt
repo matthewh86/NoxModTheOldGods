@@ -1,0 +1,167 @@
+country_decisions = {
+
+	sardinia_piedmont_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = SPI }
+			government = monarchy
+			OR = {
+				tag = SAV
+				tag = SAR
+				tag = Z33
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			OR = {
+				AND = {
+					tag = SAR
+					AND = {
+						NOT = { exists = SAV }
+						NOT = { exists = Z33 }
+					}
+				}
+				AND = {
+					tag = SAV
+					AND = {
+						NOT = { exists = SAR }
+						NOT = { exists = Z33 }
+					}
+				}
+				AND = {
+					tag = Z33
+					AND = {
+						NOT = { exists = SAR }
+						NOT = { exists = SAV }
+					}
+				}
+			}
+			owns = 102		# Nice
+			owns = 103		# Piedmont
+			owns = 127		# Sardinia
+			owns = 205		# Savoie
+			owns = 1875		# Cuneo
+			is_core = 102	# Nice
+			is_core = 103	# Piedmont
+			is_core = 127	# Sardinia
+			is_core = 205	# Savoie
+			is_core = 1875	# Cuneo			
+		}
+		effect = {
+			change_tag = SPI
+			set_capital = 103		# Piedmont
+			add_prestige = 10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	sardinia_piedmont_nation_inherit = {
+		major = yes
+		potential = {
+			NOT = { exists = SPI }
+			government = monarchy
+			OR = {
+				AND = {
+					tag = SAV
+					SAR = { ai = yes }
+					Z33 = { ai = yes }
+				}
+				AND = {
+					tag = SAR
+					SAV = { ai = yes }
+					Z33 = { ai = yes }
+				}
+				AND = {
+					tag = Z33
+					SAR = { ai = yes }
+					SAV = { ai = yes }
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			prestige = 75
+			dip = 3
+			adm = 3
+			OR = {
+				AND = {
+					tag = SAR
+					owns = 127			# Sardinia
+					is_core = 127		# Sardinia
+					senior_union_with = SAV
+					senior_union_with = Z33
+					SAV = {
+						owns = 103		# Piedmont
+						is_core = 103	# Piedmont
+					}
+				}
+				AND = {
+					tag = SAV
+					owns = 103			# Piedmont
+					is_core = 103		# Piedmont
+					senior_union_with = SAR
+					senior_union_with = Z33
+					SAR = {
+						owns = 127		# Sardinia
+						is_core = 127	# Sardinia
+					}
+				}
+				AND = {
+					tag = Z33
+					owns = 103			# Piedmont
+					is_core = 103		# Piedmont
+					senior_union_with = SAR
+					senior_union_with = SAV
+					SAR = {
+						owns = 127		# Sardinia
+						is_core = 127	# Sardinia
+					}
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					tag = SAV
+				}
+				inherit = SAR
+				inherit = Z33
+			}
+			if = {
+				limit = {
+					tag = SAR
+				}
+				inherit = SAV
+				inherit = Z33
+			}
+			if = {
+				limit = {
+					tag = Z33
+				}
+				inherit = SAR
+				inherit = SAV
+			}
+			change_tag = SPI
+			set_capital = 103	# Piedmont
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

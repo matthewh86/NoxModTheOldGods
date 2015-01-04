@@ -1,0 +1,24 @@
+jewish_group = {
+	defender_of_faith = yes
+	jewish = {
+		icon = 24
+		color = { 0 0.6 1.0 }
+		province = {
+			local_missionary_strength = -0.05
+		}
+		country = {
+			global_tax_modifier = 0.1
+			tolerance_heathens = 1
+		}
+		has_patriarchs = yes
+		heretic = { SAMARITAN KARAITE }
+	}
+	jewish_heresy = {
+		icon = 31
+		color = { 0.6 0.1 0.1 }
+		country = {
+			tolerance_own = 1
+			tolerance_heathens = -1
+		}
+	}
+}

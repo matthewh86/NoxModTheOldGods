@@ -1,0 +1,171 @@
+namespace = orthodox_flavor
+
+#The Non-Possessor Movement 
+country_event = {
+	id = orthodox_flavor.1
+	title = orthodox_flavor.1.t
+	desc = orthodox_flavor.1.d
+	picture = ORTHODOX_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			religion = orthodox
+			religion = orthodox_heresy
+			religion = zoroastrian
+			religion = zoroastrian_heresy
+			religion = jewish
+			religion = jewish_heresy
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = orthodox_flavor.1.a
+		add_patriarch_authority = 0.05
+	}
+	option = {
+		name = orthodox_flavor.1.b
+		add_patriarch_authority = -0.05
+	}
+}
+
+#A Great Synod
+country_event = {
+	id = orthodox_flavor.2
+	title = orthodox_flavor.2.t
+	desc = orthodox_flavor.2.d
+	picture = ORTHODOX_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			religion = orthodox
+			religion = orthodox_heresy
+			religion = zoroastrian
+			religion = zoroastrian_heresy
+			religion = jewish
+			religion = jewish_heresy
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = orthodox_flavor.2.a
+		add_patriarch_authority = 0.05
+	}
+	option = {
+		name = orthodox_flavor.2.b
+		add_patriarch_authority = -0.05
+	}
+}
+
+# Liturgical Reform
+country_event = {
+	id = orthodox_flavor.3
+	title = orthodox_flavor.3.t
+	desc = orthodox_flavor.3.d
+	picture = REFORM_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			religion = orthodox
+			religion = orthodox_heresy
+			religion = zoroastrian
+			religion = zoroastrian_heresy
+			religion = jewish
+			religion = jewish_heresy
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = orthodox_flavor.3.a
+		add_patriarch_authority = 0.05
+	}
+	option = {
+		name = orthodox_flavor.3.b
+		add_patriarch_authority = -0.05
+	}
+}
+
+# Reduce the Independence of the Church
+country_event = {
+	id = orthodox_flavor.4
+	title = orthodox_flavor.4.t
+	desc = orthodox_flavor.4.d
+	picture = ORTHODOX_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			religion = orthodox
+			religion = orthodox_heresy
+			religion = zoroastrian
+			religion = zoroastrian_heresy
+			religion = jewish
+			religion = jewish_heresy
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = orthodox_flavor.4.a
+		add_patriarch_authority = -0.05
+	}
+	option = {
+		name = orthodox_flavor.4.b
+		add_patriarch_authority = 0.05
+	}
+}
+
+# State appointed Lay Members? 
+country_event = {
+	id = orthodox_flavor.5
+	title = orthodox_flavor.5.t
+	desc = orthodox_flavor.5.d
+	picture = ORTHODOX_eventPicture
+	
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			religion = orthodox
+			religion = orthodox_heresy
+			religion = zoroastrian
+			religion = zoroastrian_heresy
+			religion = jewish
+			religion = jewish_heresy
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = orthodox_flavor.5.a
+		add_patriarch_authority = -0.05
+	}
+	option = {
+		name = orthodox_flavor.5.b
+		add_patriarch_authority = 0.05
+	}
+}

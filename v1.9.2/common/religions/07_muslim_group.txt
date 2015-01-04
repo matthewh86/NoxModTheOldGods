@@ -1,0 +1,82 @@
+muslim = {
+	defender_of_faith = yes
+	
+	sunni = {
+		color = { 0 0.6 0 }
+		icon = 5
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { BEKTASHI AHMADI ZIKRI YAZIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+
+	shiite = {
+		color = { 0.8 0.6 0 }
+		icon = 6
+		country = {
+			heir_chance = 1.0
+			land_morale = 0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { DRUZE HURUFI ZAIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	
+	ibadi = {
+		color = { 0.2 0.2 0.7 }
+		icon = 29
+		country = {
+			heir_chance = 1.0
+			naval_morale = 0.1
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { HARURI SUFRI NAJADAT AZRAQI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	
+	#maliki
+	sunni_heresy = {
+		icon = 28
+		color = { 0.6 0.8 0 }
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+
+	shiite_heresy = {
+		icon = 29
+		color = { 0.8 0.4 0 }
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country = {
+			heir_chance = 1.0
+			land_morale = 0.10
+		}
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	
+	crusade_name = JIHAD
+}

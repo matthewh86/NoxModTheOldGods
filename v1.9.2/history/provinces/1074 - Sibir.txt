@@ -1,0 +1,32 @@
+#1074 - Sibir
+
+owner = SIB
+controller = SIB
+culture = ostyaki
+religion = sunni
+capital = "Qashliq"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2900
+fort1 = yes
+add_core = SIB
+discovered_by = nomad_group
+revolt_risk = 15
+
+1468.1.1 = {	owner = SIB controller = SIB discovered_by = SIB citysize = 3150 revolt_risk = 0 } # Sibir Khanate formed from northern Uzbek lands
+1500.1.1 = { citysize = 3300 }
+1582.10.23 = {	discovered_by = RUS owner = RUS controller = RUS add_core = RUS citysize = 3411 } # Yermak Timofeevich
+1587.1.1 = { capital = "Tobolsk" religion = orthodox culture = russian }
+1593.1.1 = { citysize = 3990 }
+1600.1.1 = { citysize = 4027 }
+1606.1.1 = { revolt_risk = 3 } # Rebellions
+1608.1.1 = { revolt_risk = 5 }
+1610.1.1 = { revolt_risk = 2 }
+1616.1.1 = { revolt_risk = 6 }
+1620.1.1 = { revolt_risk = 0 remove_core = SIB }
+1650.1.1 = { citysize = 4698 }
+1700.1.1 = { citysize = 5068 }
+1750.1.1 = { citysize = 5600 }
+1800.1.1 = { citysize = 5940 }

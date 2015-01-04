@@ -1,0 +1,22 @@
+american_group = { 
+	aztec_reformed = {
+		icon = 15
+		color = { 0.95 0.95 0.3 }
+		country = {
+			land_morale = 0.1
+			global_revolt_risk = -1
+		}
+		
+		heretic = { OLD_AZTEC }
+	}
+	inca_reformed = {
+		icon = 16
+		color = { 0.9 0.95 1.0 }
+		country = {
+			global_tax_modifier = 0.10
+			tolerance_own = 1
+		}
+		
+		heretic = { OLD_INCA }
+	}
+}

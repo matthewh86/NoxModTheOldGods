@@ -1,0 +1,69 @@
+dharmic = {
+
+	hinduism = {
+		color = { 0 0.8 0.8 }
+		icon = 8
+		allowed_conversion = {
+			sikhism
+		}
+		country = {
+			tolerance_heretic = 1
+			tolerance_own = 1
+		}
+		
+		personal_deity = yes
+		
+		on_convert = {
+			change_religion = hinduism
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { BHAKTI }
+	}
+	
+	defender_of_faith = yes
+	jain = {
+		icon = 25
+		color = { 1.2 0.3 0.6 }
+		country = {
+			tolerance_heretic = 1
+			idea_cost = -0.10
+		}
+		
+		heretic = { TERAPANTHA }
+	}
+	
+	sikhism = {
+		color = { 0 0.6 0.6 }
+		icon = 26
+		allowed_conversion = {
+			hinduism
+		}
+		country = {
+			mil_tech_cost_modifier = -0.05
+			land_morale = 0.05
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		on_convert = {
+			change_religion = sikhism
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+
+		heretic = { MASANDIS }
+
+		date = 1499.01.01
+	}
+}
