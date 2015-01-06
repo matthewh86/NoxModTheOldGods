@@ -8,3 +8,4 @@ tags=
  "Religion"
  }
 picture="NoxModTheOldGods.jpg"
+supported_version="1.9"
