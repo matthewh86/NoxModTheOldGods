@@ -3,7 +3,7 @@
 owner = TEM
 controller = TEM 
 culture = hungarian
-religion = catholic
+religion = tengri
 capital = "Timisoara"
 trade_goods = wool
 hre = no

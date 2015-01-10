@@ -3,7 +3,7 @@
 owner = CMB
 controller = CMB
 culture = english
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 3
 trade_goods = wool

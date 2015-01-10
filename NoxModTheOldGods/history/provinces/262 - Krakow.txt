@@ -3,7 +3,7 @@
 owner = KRA
 controller = KRA
 culture = polish
-religion = catholic
+religion = rus_slavic
 capital = "Kraków"
 hre = no
 base_tax = 10

@@ -3,7 +3,7 @@
 owner = AIA
 controller = AIA
 culture = portugese
-religion = catholic
+religion = maliki
 capital = "Évora"
 trade_goods = fish
 hre = no

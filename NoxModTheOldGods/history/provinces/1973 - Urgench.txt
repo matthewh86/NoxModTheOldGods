@@ -3,7 +3,7 @@
 owner = KHI
 controller = KHI
 culture = uzbehk
-religion = sunni
+religion = zoroastrian
 capital = "Urgench"
 trade_goods = grain
 hre = no

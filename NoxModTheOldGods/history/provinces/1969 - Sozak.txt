@@ -3,7 +3,7 @@
 owner = KZH
 controller = KZH
 culture = khazak
-religion = sunni
+religion = zoroastrian
 capital = "Sozak"
 trade_goods = salt
 base_tax = 1

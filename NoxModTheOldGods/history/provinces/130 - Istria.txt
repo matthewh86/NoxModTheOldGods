@@ -3,7 +3,7 @@
 owner = SLV
 controller = SLV
 culture = croatian
-religion = catholic
+religion = balkan_slavic
 capital = "Trieste"
 trade_goods = wool
 hre = no

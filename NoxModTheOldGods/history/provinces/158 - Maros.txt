@@ -3,7 +3,7 @@
 owner = TRA
 controller = TRA 
 culture = hungarian
-religion = catholic
+religion = tengri
 capital = "Targu Mures"
 trade_goods = wool
 hre = no

@@ -1,16 +1,16 @@
 #230 - Algarve
 
-owner = AND
-controller = AND
+owner = AIA
+controller = AIA
 culture = portugese
-religion = catholic
+religion = maliki
 capital = "Faro"
 trade_goods = fish
 hre = no
 base_tax = 7
 manpower = 4
 citysize = 3500 
-add_core = AND
+add_core = AIA
 fort1 = yes
 discovered_by = western
 discovered_by = muslim

@@ -1,16 +1,16 @@
 # 2351 - Shekty
 
-owner = KZH
-controller = KZH
+owner = KHI
+controller = KHI
 culture = khazak
-religion = sunni
+religion = zoroastrian
 capital = "Shekty"
 trade_goods = wool
 hre = no
 base_tax = 1
 manpower = 1
 citysize = 1100
-add_core = KZH
+add_core = KHI
 discovered_by = KZH
 discovered_by = KAZ
 discovered_by = nomad_group

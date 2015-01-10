@@ -3,7 +3,7 @@
 owner = TFL
 controller = TFL
 culture = berber
-religion = sunni
+religion = maliki
 capital = "Taroudant"
 trade_goods = sugar
 hre = no

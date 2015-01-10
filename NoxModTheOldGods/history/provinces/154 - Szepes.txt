@@ -3,7 +3,7 @@
 owner = SLK
 controller = SLK
 culture = hungarian
-religion = catholic
+religion = tengri
 capital = "Érsekújvár"
 trade_goods = copper
 hre = no

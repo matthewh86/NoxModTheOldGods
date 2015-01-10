@@ -1,16 +1,16 @@
 # 2370 - Kungirot
 
-owner = KZH
-controller = KZH
+owner = KHI
+controller = KHI
 culture = nogaybak
-religion = sunni
+religion = zoroastrian
 capital = "Kungirot"
 trade_goods = wool
 hre = no
 base_tax = 1
 manpower = 1
 citysize = 1100
-add_core = KZH
+add_core = KHI
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

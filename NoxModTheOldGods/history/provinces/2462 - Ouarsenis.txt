@@ -3,7 +3,7 @@
 owner = ALG
 controller = ALG
 culture = berber
-religion = sunni
+religion = maliki
 capital = "Ouarsenis"
 trade_goods = grain
 hre = no

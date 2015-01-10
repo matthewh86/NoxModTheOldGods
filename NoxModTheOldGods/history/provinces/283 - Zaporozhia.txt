@@ -3,7 +3,7 @@
 owner = ZAZ
 controller = ZAZ
 culture = ruthenian
-religion = orthodox
+religion = tengri
 hre = no
 base_tax = 3
 trade_goods = wool

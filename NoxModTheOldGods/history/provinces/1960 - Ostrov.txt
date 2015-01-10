@@ -1,0 +1,31 @@
+#Ostrov
+
+owner = PSK
+controller = PSK
+culture = russian
+religion = rus_slavic
+hre = no
+base_tax = 2
+trade_goods = grain
+manpower = 2
+capital = "Ostrov"
+citysize = 2000
+fort1 = yes
+add_core = PSK
+discovered_by = western
+discovered_by = eastern
+
+1450.1.1  = { citysize = 2200 }
+1500.1.1  = { citysize = 2800 }
+#1501.9.7  = { controller = LIV } # briefly taken by Walter von Plettenberg
+#1501.9.14  = { controller = PSK } # Livonians leave
+1510.1.13 = {	owner = RUS controller = RUS add_core = RUS remove_core = PSK } # Pskov annexed by Russia
+1550.1.1  = { citysize = 3500 }
+1581.9.1  = { controller = PLC } # Ostrov conquered by Stefan Bathory
+1582.1.15  = { controller = RUS } # Peace of Jam-Zapolski
+1598.1.7  = { unrest = 8 } # "Time of troubles"
+1600.1.1  = { citysize = 4000 }
+1613.3.3  = { unrest = 0 } # Order returned, Romanov dynasty
+1700.1.1  = { citysize = 5000 }
+1750.1.1  = { citysize = 6000 }
+1800.1.1  = { citysize = 7000 }

@@ -3,7 +3,7 @@
 owner = SOS
 controller = SOS
 culture = berber
-religion = sunni
+religion = maliki
 capital = "Agadir"
 trade_goods = sugar
 hre = no

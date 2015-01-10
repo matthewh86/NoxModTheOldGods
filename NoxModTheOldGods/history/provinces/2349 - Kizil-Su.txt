@@ -3,7 +3,7 @@
 owner = KHI
 controller = KHI
 culture = turkmeni
-religion = sunni
+religion = zoroastrian
 capital = "Kizil-Su"
 trade_goods = fish
 hre = no

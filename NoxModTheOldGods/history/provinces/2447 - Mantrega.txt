@@ -2,7 +2,7 @@
 
 owner = ALN
 controller = ALN
-culture = circassian
+culture = alan
 religion = orthodox
 hre = no
 base_tax = 2

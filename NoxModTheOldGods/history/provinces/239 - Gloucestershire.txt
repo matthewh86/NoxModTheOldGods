@@ -3,7 +3,7 @@
 owner = GLS
 controller = GLS
 culture = english
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 6
 trade_goods = iron

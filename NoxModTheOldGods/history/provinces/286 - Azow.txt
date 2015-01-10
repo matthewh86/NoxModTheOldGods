@@ -3,7 +3,7 @@
 owner = AZV
 controller = AZV
 culture = crimean
-religion = sunni
+religion = jewish
 hre = no
 base_tax = 3 
 trade_goods = slaves

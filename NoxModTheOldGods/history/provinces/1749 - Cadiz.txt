@@ -1,10 +1,10 @@
 #1749 - Cadiz
 
-owner = AND		#Enrique III of Castille
-controller = AND
-add_core = AND
+owner = AIA		#Enrique III of Castille
+controller = AIA
+add_core = AIA
 culture = andalucian
-religion = catholic
+religion = maliki
 hre = no
 base_tax = 6
 trade_goods = naval_supplies

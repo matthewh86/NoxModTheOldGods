@@ -3,7 +3,7 @@
 owner = KBA
 controller = KBA
 culture = berber
-religion = sunni
+religion = maliki
 capital = "Bejaia"
 trade_goods = iron
 hre = no

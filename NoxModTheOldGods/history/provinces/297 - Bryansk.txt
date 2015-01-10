@@ -3,7 +3,7 @@
 owner = SMO
 controller = SMO
 culture = russian
-religion = orthodox 
+religion = rus_slavic 
 hre = no
 base_tax = 4
 trade_goods = grain

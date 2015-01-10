@@ -3,7 +3,7 @@
 owner = PLT 
 controller = PLT 
 culture = byelorussian
-religion = orthodox 
+religion = rus_slavic 
 hre = no
 base_tax = 4
 trade_goods = iron

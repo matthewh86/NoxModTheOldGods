@@ -3,7 +3,7 @@
 owner = CHR
 controller = CHR
 culture = crimean
-religion = sunni
+religion = tengri
 hre = no
 base_tax = 3
 trade_goods = iron 

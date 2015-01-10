@@ -1,7 +1,7 @@
 #1853 - Kozani
 
-owner = THS
-controller = THS
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Monastir"
@@ -11,6 +11,7 @@ base_tax = 6
 manpower = 2
 citysize = 26887
 fort1 = yes
+add_core = BYZ
 add_core = THS
 discovered_by = western
 discovered_by = eastern

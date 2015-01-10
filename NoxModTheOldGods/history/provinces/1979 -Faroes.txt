@@ -3,7 +3,7 @@
 owner = ICE
 controller = ICE 
 culture = icelandic
-religion = catholic
+religion = scandinavian_norse
 hre = no
 base_tax = 1
 trade_goods = fish

@@ -3,7 +3,7 @@
 owner = WAL
 controller = WAL
 culture = welsh
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 3
 trade_goods = fish

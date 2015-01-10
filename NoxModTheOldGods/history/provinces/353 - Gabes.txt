@@ -3,7 +3,7 @@
 owner = TRP
 controller = TRP 
 culture = tunisian
-religion = ibadi
+religion = maliki
 capital = "Djerba"
 trade_goods = grain
 hre = no

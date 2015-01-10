@@ -3,7 +3,7 @@
 owner = SIB
 controller = SIB
 culture = ostyaki
-religion = sunni
+religion = tengri
 capital = "Qashliq"
 trade_goods = fur
 hre = no

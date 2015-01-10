@@ -3,7 +3,7 @@
 owner = ALG
 controller = ALG  
 culture = algerian
-religion = sunni
+religion = maliki
 capital = "Al-Djazair"
 trade_goods = grain
 hre = no

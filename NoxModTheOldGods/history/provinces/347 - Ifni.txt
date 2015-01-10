@@ -3,7 +3,7 @@
 owner = SOS
 controller = SOS
 culture = moroccan
-religion = sunni
+religion = maliki
 capital = "Sidi Ifni"
 trade_goods = fish
 hre = no

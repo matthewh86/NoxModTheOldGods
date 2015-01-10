@@ -1,9 +1,9 @@
 #2209 - Ilam
 
-owner = TIM
-controller = TIM
+owner = PER
+controller = PER
 culture = persian
-religion = shiite
+religion = zoroastrian
 capital = "Ilam"
 trade_goods = grain
 hre = no

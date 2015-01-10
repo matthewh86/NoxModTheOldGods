@@ -3,7 +3,7 @@
 owner = ABD
 controller = ABD
 culture = scottish
-religion = catholic
+religion = scandinavian_norse
 hre = no
 base_tax = 4
 trade_goods = fish

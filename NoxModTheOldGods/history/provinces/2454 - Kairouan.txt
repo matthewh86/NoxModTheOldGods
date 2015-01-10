@@ -1,0 +1,45 @@
+# - El Kef
+
+owner = TUN
+controller = TUN  
+culture = tunisian
+religion = maliki
+capital = "El Kef"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 90100
+fort1 = yes
+add_core = TUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1534.8.16 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+} #Conquered by Barbarossa
+1535.6.11 = {
+	owner = TUN
+	controller = TUN
+	remove_core = ALG
+} #Spain reinstate Hafsids
+1574.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+} #End of the Hafsids, and of Spanish influence
+1593.1.1 = {
+	owner = TUN
+	controller = TUN
+	remove_core = ALG
+}#Tunisian Pashalik created
+1637.1.1 = {
+	fort2 = yes
+}
+1740.1.1 = {
+	fort3 = yes
+}

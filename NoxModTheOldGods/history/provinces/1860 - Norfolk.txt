@@ -3,7 +3,7 @@
 owner = ESX
 controller = ESX
 culture = english
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 3
 trade_goods = iron

@@ -1,0 +1,43 @@
+#715 - Urumqi
+
+owner = CHG
+controller = CHG
+add_core = CHG
+culture = uyghur
+religion = zoroastrian
+capital = "Urumqi"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 3
+fort1 = yes
+citysize = 5450
+discovered_by = chinese
+discovered_by = nomad_group
+
+1450.1.1 = { citysize = 6100 }
+1500.1.1 = { citysize = 6800 }
+1518.1.1 = {
+	owner = OIR
+	controller = OIR
+	add_core = OIR
+}
+1550.1.1 = { citysize = 7480 }
+1600.1.1 = { citysize = 9922 }
+1622.1.1 = { discovered_by = RUS }
+1623.1.1 = { remove_core = CHG }
+1635.1.1 = {
+	owner = ZUN
+	controller = ZUN
+	add_core = ZUN
+}
+1650.1.1 = { citysize = 11540 }
+1700.1.1 = { citysize = 13487 }
+1709.1.1 = { discovered_by = SPA }
+1750.1.1 = { citysize = 15700 }
+1755.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1800.1.1 = { citysize = 16897 }

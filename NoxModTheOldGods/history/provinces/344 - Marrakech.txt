@@ -1,0 +1,45 @@
+#344 - Marrakech
+
+owner = MOR
+controller = MOR  
+culture = moroccan
+religion = maliki
+capital = "Marrakech"
+trade_goods = sugar
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 9500
+fort1 = yes
+marketplace = yes
+add_core = MOR
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1 = { citysize = 10470 }
+1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
+1472.1.1 = { owner = SOS controller = SOS unrest = 0 } #Wattasids take control over Fez, nominal ruler over much of Morocco.
+1500.1.1 = { citysize = 12044 }
+1510.1.1 = {
+	owner = TFL
+	controller = TFL
+	add_core = TFL
+}
+1549.1.1 = {
+	owner = MOR
+	controller = MOR
+	remove_core = TFL
+}	#Fall of Fez
+1550.1.1 = { citysize = 13571 }
+1600.1.1 = { citysize = 15778 }
+1603.8.1 = { unrest = 5 } # The death of the Saadita Ahmad I al-Mansur
+1604.1.1 = { unrest = 0 }
+1650.1.1 = { citysize = 17020 }
+1668.9.7 = { unrest = 0 } #Alaouites reunifies the country
+1672.1.1 = { unrest = 4 } # Oppositions against Ismail, & the idea of a unified state
+1700.1.1 = { citysize = 18302 }
+1727.1.1 = { unrest = 0 }
+1750.1.1 = { citysize = 19647 }
+1800.1.1 = { citysize = 21660 }

@@ -3,7 +3,7 @@
 owner = AFG
 controller = AFG
 culture = khorasani
-religion = sunni
+religion = zunism
 capital = "Ferah"
 trade_goods = wool
 hre = no

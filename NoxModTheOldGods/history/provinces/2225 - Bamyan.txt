@@ -3,7 +3,7 @@
 owner = AFG
 controller = AFG
 culture = afghani
-religion = sunni
+religion = zunism
 capital = "Bamyam"
 trade_goods = dyes
 hre = no

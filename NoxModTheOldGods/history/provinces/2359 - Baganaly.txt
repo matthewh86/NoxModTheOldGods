@@ -3,7 +3,7 @@
 owner = KZH
 controller = KZH
 culture = khazak
-religion = sunni
+religion = zoroastrian
 capital = "Baganaly"
 trade_goods = grain
 hre = no

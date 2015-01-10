@@ -1,16 +1,16 @@
 # 2352 - Alty-Kuduk
 
-owner = KZH
-controller = KZH
+owner = KHI
+controller = KHI
 culture = khazak
-religion = sunni
+religion = zoroastrian
 capital = "Alty-Kuduk"
 trade_goods = fish
 hre = no
 base_tax = 3
 manpower = 3
 citysize = 1100
-add_core = KZH
+add_core = KHI
 discovered_by = KZH
 discovered_by = KAZ
 discovered_by = KAS

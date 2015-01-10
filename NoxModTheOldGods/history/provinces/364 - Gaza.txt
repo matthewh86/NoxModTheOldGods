@@ -3,7 +3,7 @@
 owner = ISR
 controller = ISR
 culture = israeli
-religion = sunni
+religion = jewish
 capital = "Gazzah"
 trade_goods = salt
 hre = no

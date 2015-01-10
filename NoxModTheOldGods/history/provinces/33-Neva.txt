@@ -1,10 +1,11 @@
 #Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
 
-owner = FIN
-controller = FIN
+owner = NOV
+controller = NOV
 add_core = FIN
+add_core = NOV
 culture = finnish
-religion = orthodox
+religion = suomenusko
 hre = no
 base_tax = 2
 trade_goods = fur

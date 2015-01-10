@@ -1,0 +1,16 @@
+#1142 - Dendi
+
+owner = SON
+controller = SON
+add_core = SON
+culture = maliki
+citysize = 7000
+manpower = 1
+religion = sunni
+capital = "Lulama"
+trade_goods = grain
+hre = no
+base_tax = 3
+discovered_by = sub_saharan
+
+

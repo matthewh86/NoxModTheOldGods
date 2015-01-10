@@ -3,7 +3,7 @@
 owner = FEZ
 controller = FEZ
 culture = berber
-religion = sunni
+religion = maliki
 capital = "Melilla"
 trade_goods = fish
 hre = no

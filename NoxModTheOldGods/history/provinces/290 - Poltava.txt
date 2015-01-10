@@ -3,7 +3,7 @@
 owner = CHR
 controller = CHR 
 culture = ruthenian
-religion = orthodox
+religion = tengri
 hre = no
 base_tax = 5
 trade_goods = grain

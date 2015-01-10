@@ -3,7 +3,7 @@
 owner = TRA
 controller = TRA 
 culture = hungarian
-religion = catholic
+religion = tengri
 capital = "Alba Iulia"
 trade_goods = salt # Famous salt mines
 hre = no

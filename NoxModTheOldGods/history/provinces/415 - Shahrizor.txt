@@ -3,7 +3,7 @@
 owner = BHT
 controller = BHT
 culture = kurdish
-religion = sunni
+religion = shiite
 capital = "Kirkuk"
 trade_goods = grain
 hre = no

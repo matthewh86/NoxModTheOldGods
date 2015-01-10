@@ -3,7 +3,7 @@
 owner = BYE
 controller = BYE
 culture = byelorussian
-religion = orthodox
+religion = rus_slavic
 hre = no
 base_tax = 1
 trade_goods = wool 

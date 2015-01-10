@@ -3,7 +3,7 @@
 owner = LEO		#Juan II of Castille
 controller = LEO
 add_core = LEO
-culture = castillian
+culture = leonese
 religion = catholic
 hre = no
 base_tax = 5

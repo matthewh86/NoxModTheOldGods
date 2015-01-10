@@ -3,7 +3,7 @@
 owner = MOR
 controller = MOR  
 culture = moroccan
-religion = sunni
+religion = maliki
 capital = "Cebta"
 trade_goods = fish
 hre = no

@@ -3,7 +3,7 @@
 owner = AST
 controller = AST  
 culture = astrakhani
-religion = sunni
+religion = jewish
 capital = "Cherny Yar"
 trade_goods = wool
 hre = no

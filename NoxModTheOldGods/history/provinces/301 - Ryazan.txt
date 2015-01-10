@@ -1,0 +1,36 @@
+#301 - Ryazan
+
+owner = RYA
+controller = RYA      
+culture = russian
+religion = rus_slavic
+hre = no
+base_tax = 6
+trade_goods = wool
+manpower = 5
+capital = "Pereyaslavl-Ryazansky"
+citysize = 3850
+fort1 = yes
+add_core = RYA
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group
+
+1450.1.1  = { citysize = 4250 discovered_by = SIB }
+1500.1.1  = { citysize = 5000 }
+1521.8.1  = {	owner = RUS controller = RUS add_core = RUS } # Ryazan annexed by Vasily III
+1550.1.1  = { citysize = 5750 fort2 = yes } 
+1598.1.7  = { unrest = 5 manpower = 6 } # "Time of troubles", peasantry brought into serfdom
+1600.1.1  = { citysize = 4800 }
+1613.3.3  = { unrest = 0 } # Order returned, Romanov dynasty
+1650.1.1  = { citysize = 4667 }
+1656.1.1  = { unrest = 4 } # Tatar revolt
+1657.1.1  = { unrest = 0 }
+1700.1.1  = { citysize = 5491 }
+1711.1.1  = { base_tax = 7 } # Governmental reforms and the absolutism
+1750.1.1  = { citysize = 6460 tax_assessor = yes }
+1767.1.1  = { base_tax = 8 } # Legislative reform
+1778.1.1  = { capital = "Ryazan" } # Ryazan governorate formed, city renamed
+1800.1.1  = { citysize = 7600 }

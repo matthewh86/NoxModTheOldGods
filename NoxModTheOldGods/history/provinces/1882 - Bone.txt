@@ -1,0 +1,33 @@
+#340 - Constantine
+
+owner = TUN
+controller = TUN 
+culture = berber
+religion = maliki
+capital = "Annaba"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 17000
+fort1 = yes
+add_core = TUN
+marketplace = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1 = { citysize = 19600 }
+1500.1.1 = { citysize = 20110 }
+1522.1.1 = {
+	owner = ALG
+	controller = ALG
+	add_core = ALG
+}
+1550.1.1 = { citysize = 22648 }
+1600.1.1 = { citysize = 24657 }
+1650.1.1 = { citysize = 26341 marketplace = yes }
+1700.1.1 = { citysize = 28514 }
+1750.1.1 = { citysize = 30177 tax_assessor = yes }
+1800.1.1 = { citysize = 33210 }

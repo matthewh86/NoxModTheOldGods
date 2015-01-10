@@ -3,7 +3,7 @@
 owner = KHO
 controller = KHO
 culture = khorasani
-religion = sunni
+religion = zoroastrian
 capital = "Zaranj"
 trade_goods = wool
 hre = no

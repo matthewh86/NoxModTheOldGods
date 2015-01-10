@@ -3,7 +3,7 @@
 owner = ISR
 controller = ISR
 culture = israeli
-religion = sunni
+religion = jewish
 capital = "Nablus"
 trade_goods = sugar
 hre = no

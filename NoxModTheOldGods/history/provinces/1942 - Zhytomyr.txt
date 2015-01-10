@@ -1,9 +1,9 @@
 #Zhytomyr
 
-owner = KIE
-controller = KIE     
+owner = VOL
+controller = VOL 
 culture = ruthenian
-religion = orthodox
+religion = rus_slavic
 hre = no
 base_tax = 3
 trade_goods = grain  
@@ -11,7 +11,7 @@ manpower = 2
 capital = "Zhytomyr"
 citysize = 2000
 fort1 = yes
-add_core = KIE
+add_core = VOL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

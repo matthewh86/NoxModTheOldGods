@@ -3,7 +3,7 @@
 owner = SOS
 controller = SOS
 culture = berber
-religion = sunni
+religion = maliki
 capital = "Mogador"
 trade_goods = grain
 hre = no

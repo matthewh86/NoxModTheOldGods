@@ -3,7 +3,7 @@
 owner = KOK
 controller = KOK
 culture = uzbehk
-religion = sunni
+religion = zoroastrian
 capital = "Khujand"
 trade_goods = silk
 hre = no

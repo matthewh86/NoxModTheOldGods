@@ -3,7 +3,7 @@
 owner = SIB
 controller = SIB
 culture = siberian
-religion = sunni
+religion = tengri
 capital = "Qizil Tura"
 trade_goods = fur
 hre = no

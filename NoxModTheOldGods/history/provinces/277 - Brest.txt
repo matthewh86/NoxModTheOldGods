@@ -1,9 +1,9 @@
 #Brest-Litovsk
 
-owner = BYE
-controller = BYE
+owner = VOL
+controller = VOL
 culture = byelorussian
-religion = orthodox
+religion = rus_slavic
 hre = no
 base_tax = 3
 trade_goods = wool
@@ -11,7 +11,7 @@ manpower = 4
 capital = "Brest-Litovsk"
 citysize = 5200 
 fort1 = yes  
-add_core = BYE
+add_core = VOL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

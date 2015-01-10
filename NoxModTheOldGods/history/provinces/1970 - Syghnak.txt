@@ -1,16 +1,16 @@
 #1970 - Syghnak
 
-owner = KZH
-controller = KZH
+owner = KHI
+controller = KHI
 culture = khazak
-religion = sunni
+religion = zoroastrian
 capital = "Syghnak"
 trade_goods = wool
 base_tax = 2
 manpower = 2
 hre = no
 citysize = 3210
-add_core = KZH
+add_core = KHI
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman

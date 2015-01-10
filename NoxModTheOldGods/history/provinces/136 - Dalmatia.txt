@@ -3,7 +3,7 @@
 owner = DLM
 controller = DLM
 culture = croatian
-religion = catholic
+religion = balkan_slavic
 capital = "Zadar"
 trade_goods = wool
 hre = no

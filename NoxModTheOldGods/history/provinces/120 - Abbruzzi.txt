@@ -3,7 +3,7 @@
 owner = SPL
 controller = SPL
 culture = umbrian 
-religion = catholic 
+religion = orthodox 
 hre = no 
 base_tax = 5 
 trade_goods = wine 

@@ -3,7 +3,7 @@
 owner = KHI
 controller = KHI
 culture = turkmeni
-religion = sunni
+religion = zoroastrian
 capital = "Gurganj"
 trade_goods = wool
 hre = no

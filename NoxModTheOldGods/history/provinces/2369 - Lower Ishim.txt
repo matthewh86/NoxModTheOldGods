@@ -3,7 +3,7 @@
 owner = KZH
 controller = KZH
 culture = khazak
-religion = sunni
+religion = zoroastrian
 capital = "Zhanibek"
 trade_goods = iron
 hre = no

@@ -3,7 +3,7 @@
 owner = MRC
 controller = MRC
 culture = english
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 7
 trade_goods = grain

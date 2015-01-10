@@ -1,7 +1,7 @@
 #1848 - Hamid
 
-owner = KAR
-controller = KAR
+owner = TUR
+controller = TUR
 culture = turkish
 religion = sunni
 capital = "Burdur"
@@ -12,6 +12,7 @@ manpower = 4
 citysize = 10330
 fort1 = yes
 add_core = KAR
+add_core = TUR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

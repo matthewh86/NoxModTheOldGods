@@ -3,7 +3,7 @@
 owner = ZEM
 controller = ZEM  
 culture = ruthenian
-religion = catholic
+religion = tengri
 capital = "Kassa"
 trade_goods = naval_supplies
 hre = no

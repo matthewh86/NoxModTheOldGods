@@ -1,7 +1,7 @@
 #326 - Ankara
 
-owner = GRM
-controller = GRM
+owner = TUR
+controller = TUR
 culture = turkish
 religion = sunni
 capital = "Ankara"
@@ -12,6 +12,7 @@ manpower = 3
 citysize = 8450
 fort1 = yes
 add_core = GRM
+add_core = TUR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

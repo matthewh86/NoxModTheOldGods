@@ -3,7 +3,7 @@
 owner = ALG
 controller = ALG
 culture = algerian
-religion = sunni
+religion = maliki
 capital = "Kasdir"
 trade_goods = wool
 hre = no

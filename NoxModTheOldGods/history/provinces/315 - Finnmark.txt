@@ -3,7 +3,7 @@
 owner = SAP
 controller = SAP
 culture = sapmi
-religion = catholic
+religion = suomenusko
 hre = no
 base_tax = 1
 manpower = 1

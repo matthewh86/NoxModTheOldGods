@@ -2,7 +2,7 @@
 
 capital = "Kien Kasjarkka"
 culture = sapmi
-religion = shamanism
+religion = suomenusko
 hre = no
 base_tax = 1
 trade_goods = unknown

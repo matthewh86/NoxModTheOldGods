@@ -2,8 +2,8 @@
 
 owner = ALN
 controller = ALN
-culture = crimean
-religion = sunni
+culture = alan
+religion = jewish
 hre = no
 base_tax = 2
 trade_goods = wool

@@ -1,0 +1,33 @@
+#595 - Perak
+
+owner = MLC
+controller = MLC
+culture = malayan
+religion = shafi
+capital = "Perak"
+trade_goods = copper
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 1100
+add_core = MLC
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1 = { citysize = 1900 }
+1500.1.1 = { citysize = 2486 }
+1516.1.1 = { discovered_by = POR } # Godinho de Eredia
+1528.1.1 = {
+		owner = PRK
+		controller = PRK
+		add_core = PRK
+}
+1550.1.1 = { citysize = 3680 }
+1600.1.1 = { citysize = 4322 }
+1650.1.1 = { citysize = 5000 }
+1700.1.1 = { citysize = 5554 }
+1750.1.1 = { citysize = 6270 }
+1800.1.1 = { citysize = 7990 }

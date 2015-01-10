@@ -3,7 +3,7 @@
 owner = RYA
 controller = RYA
 culture = qasim
-religion = sunni
+religion = rus_slavic
 hre = no
 base_tax = 4
 trade_goods = wool

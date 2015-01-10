@@ -1,7 +1,7 @@
 #1846 - Amasya
 
-owner = ERE
-controller = ERE
+owner = TUR
+controller = TUR
 culture = turkish
 religion = sunni
 capital = "Amasya"
@@ -12,6 +12,7 @@ manpower = 3
 citysize = 8450
 fort1 = yes
 add_core = ERE
+add_core = TUR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

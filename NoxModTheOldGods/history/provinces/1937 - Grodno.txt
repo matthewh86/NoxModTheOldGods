@@ -3,7 +3,7 @@
 owner = GRO
 controller = GRO
 culture = byelorussian
-religion = orthodox
+religion = romuva
 hre = no
 base_tax = 3
 trade_goods = wool

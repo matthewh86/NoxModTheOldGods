@@ -1,0 +1,45 @@
+#2391 - Thalang
+
+owner = LIG
+controller = LIG
+culture = malayan
+religion = shafi
+capital = "Thalang"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 7870
+add_core = LIG
+add_core = AYU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1405.1.1 = { discovered_by = MNG }
+1450.1.1 = { citysize = 8000 }
+1500.1.1 = { citysize = 8670 }
+1509.1.1 = { discovered_by = POR }
+1521.1.1 = { discovered_by = SPA }
+1550.1.1 = { citysize = 9055 }
+1570.1.1 = {
+		owner = AYU
+		controller = AYU
+}
+1600.1.1 = { citysize = 11000 }
+1650.1.1 = { citysize = 12340 }
+1700.1.1 = { citysize = 13830 }
+1750.1.1 = { citysize = 14000 }
+1767.4.1 = {
+		owner = LIG
+		controller = LIG
+}
+1769.1.1 = {
+		owner = AYU
+		controller = AYU
+		remove_core = LIG
+}
+1800.1.1 = { citysize = 15253 }
+1809.1.1 = { add_core = TAU }

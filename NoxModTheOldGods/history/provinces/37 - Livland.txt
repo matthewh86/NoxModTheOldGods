@@ -3,7 +3,7 @@
 owner = LTV
 controller = LTV
 culture = latvian
-religion = catholic
+religion = romuva
 capital = "Fellin"
 trade_goods = grain
 hre = no

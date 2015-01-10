@@ -3,7 +3,7 @@
 owner = SIB
 controller = SIB
 culture = ostyaki
-religion = shamanism
+religion = tengri
 capital = "Vah"
 trade_goods = fur
 hre = no

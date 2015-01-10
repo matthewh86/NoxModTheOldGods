@@ -3,7 +3,7 @@
 owner = IRQ
 controller = IRQ
 culture = al_iraqiya_arabic
-religion = sunni
+religion = shiite
 capital = "Basra"
 trade_goods = salt
 hre = no

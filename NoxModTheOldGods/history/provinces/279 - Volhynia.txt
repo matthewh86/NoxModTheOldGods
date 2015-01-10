@@ -3,7 +3,7 @@
 owner = VOL
 controller = VOL
 culture = ruthenian
-religion = orthodox
+religion = rus_slavic
 hre = no
 base_tax = 4
 trade_goods = grain   

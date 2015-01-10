@@ -3,7 +3,7 @@
 owner = CRN
 controller = CRN
 culture = welsh
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 4
 trade_goods = copper

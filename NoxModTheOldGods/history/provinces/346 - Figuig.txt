@@ -3,7 +3,7 @@
 owner = TFL
 controller = TFL  
 culture = moroccan
-religion = sunni
+religion = maliki
 capital = "Tafilalt"
 trade_goods = gold
 hre = no

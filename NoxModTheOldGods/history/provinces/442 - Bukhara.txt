@@ -3,7 +3,7 @@
 owner = BUK
 controller = BUK
 culture = uzbehk
-religion = sunni
+religion = zoroastrian
 capital = "Bukhara"
 trade_goods = salt
 hre = no

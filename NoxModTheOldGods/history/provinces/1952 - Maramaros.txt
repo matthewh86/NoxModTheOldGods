@@ -3,7 +3,7 @@
 owner = TRA
 controller = TRA  
 culture = ruthenian
-religion = orthodox
+religion = tengri
 capital = "Huszt"
 trade_goods = naval_supplies
 hre = no

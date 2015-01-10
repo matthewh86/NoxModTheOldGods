@@ -3,7 +3,7 @@
 owner = SOP
 controller = SOP
 culture = hungarian
-religion = catholic
+religion = tengri
 capital = "Kaposvár"
 trade_goods = grain
 hre = no

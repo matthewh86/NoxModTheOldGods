@@ -3,7 +3,7 @@
 owner = NOL
 controller = NOL
 culture = english
-religion = catholic
+religion = druidic
 hre = no
 base_tax = 6
 trade_goods = cloth
