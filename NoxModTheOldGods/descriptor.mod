@@ -1,4 +1,4 @@
-name="NoxMod - The Old Gods - 1.9"
+name="NoxMod - The Old Gods - 1.9.2"
 path="mod/noxmodtheoldgods_1.9.2"
 tags=
 {
@@ -8,3 +8,4 @@ tags=
  "Religion"
  }
 picture="NoxModTheOldGods.jpg"
+supported_version="1.9.2.0"

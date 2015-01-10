@@ -1,5 +1,5 @@
 name="NoxMod - The Old Gods - 1.9.2"
-path="mod/noxmodtheoldgods"
+path="mod/noxmodtheoldgods_1.9.2"
 tags=
 {
  "Alternative History"
@@ -8,4 +8,4 @@ tags=
  "Religion"
  }
 picture="NoxModTheOldGods.jpg"
-supported_version="1.9"
+supported_version="1.9.2.0"
