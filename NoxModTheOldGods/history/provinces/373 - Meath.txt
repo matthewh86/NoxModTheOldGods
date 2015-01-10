@@ -1,8 +1,8 @@
 #373 - Meath
 
-owner = LEI
-controller = LEI
-add_core = LEI
+owner = MEA
+controller = MEA
+add_core = MEA
 culture = irish
 religion = druidic
 hre = no
