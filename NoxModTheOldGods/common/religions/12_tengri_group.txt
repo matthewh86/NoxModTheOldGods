@@ -1,0 +1,19 @@
+tengri_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 469 # Ryn
+	
+	tengri = {
+		icon = 24
+		color = { 0.3 0.3 0.3 }
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			heir_chance = 0.5
+			stability_cost_modifier = -0.10
+		}
+		uses_piety = yes
+		heretic = { OLD_TENGRI }
+	}
+}

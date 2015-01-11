@@ -1,0 +1,16 @@
+romuva_group = { 
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 38 # Riga
+	
+	romuva = {
+		icon = 22
+		color = { 0.25 0.75 0.25 }
+		country = {
+			land_morale = 0.1
+			naval_forcelimit_modifier = 0.1
+		}
+		fervor = yes
+		heretic = { OLD_ROMUVA }
+	}
+}

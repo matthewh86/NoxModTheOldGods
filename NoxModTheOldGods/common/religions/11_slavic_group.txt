@@ -1,0 +1,26 @@
+slavic_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 278 # Pinsk
+	
+	rus_slavic = {
+		icon = 23
+		color = { 0.1 0.4 1.0 }
+		country = {
+			land_forcelimit_modifier = 0.1
+			defensiveness = 0.1
+		}
+		uses_piety = yes
+		heretic = { OLD_SLAVIC }
+	}
+	balkan_slavic = {
+		icon = 23
+		color = { 0.4 0.4 1.0 }
+		country = {
+			land_forcelimit_modifier = 0.1
+			defensiveness = 0.1
+		}
+		uses_piety = yes
+		heretic = { OLD_SLAVIC }
+	}
+}

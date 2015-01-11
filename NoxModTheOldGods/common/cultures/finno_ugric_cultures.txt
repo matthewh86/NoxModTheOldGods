@@ -27,4 +27,6 @@ finno_ugric = {
 	ostyaki = {
 		primary = SIB
 	}
+	jamt = {
+	}
 }
