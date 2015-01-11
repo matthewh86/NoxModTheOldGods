@@ -1,7 +1,7 @@
 #40 - Memel
 
-owner = TEU
-controller = TEU
+owner = PRU
+controller = PRU
 culture = prussian
 religion = romuva
 capital = "Memel"
@@ -11,7 +11,7 @@ base_tax = 3
 manpower = 4
 citysize = 4500
 fort1 = yes
-add_core = TEU
+add_core = PRU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

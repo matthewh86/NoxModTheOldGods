@@ -1,0 +1,13 @@
+araucanian = {
+	graphical_culture = northamericagfx
+	
+	mapuche = {
+		primary = MPC
+	}
+	patagonian = {
+	}
+	het = {
+	}
+	huarpe = {
+	}
+}

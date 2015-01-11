@@ -1,0 +1,30 @@
+latin = {
+	graphical_culture = westerngfx
+
+	lombard = {
+		primary = MLO
+	}
+	umbrian = {
+		primary = URB
+	}
+	sicilian = {
+		primary = SIC
+	}
+	maltese = {
+		primary = KNI
+		dynasty_names = {
+			"de la Valette" "de Villaret"
+		}
+	}
+	ostrogothic = {
+	}
+	roman = {
+		primary = ROM
+	}
+	
+	dynasty_names = { 
+		"de' Medici" "di Savoia" "d'Este" Farnese Visconti Sforza Gonzaga "d'Ivrea" Orsini 
+		Colonna Caetani Ruspoli Aldobrandini Borghese Odescalchi Serlupi Crescenzi Massimo Patrizi Naro Montoro 
+		Theodoli Senni Ricci Rocchi Datti Pietromarchi Tuccimei Mazzetti 
+	}
+}

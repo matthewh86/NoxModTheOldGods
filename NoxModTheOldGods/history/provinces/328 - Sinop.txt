@@ -2,7 +2,7 @@
 
 owner = TUR
 controller = TUR
-culture = greek
+culture = anatolian
 religion = sunni
 capital = "Sinop"
 trade_goods = naval_supplies

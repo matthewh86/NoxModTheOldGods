@@ -1,0 +1,22 @@
+gaelic	= {
+	graphical_culture = westerngfx
+
+	welsh = {
+		primary = WLS
+		dynasty_names = { 
+			Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr
+		}
+	}
+	breton = {
+		primary = BRI
+		dynasty_names = { 
+			Rohan Penteur Leon Roazhon Poutrecoet Naoned 
+		}
+	}
+	irish = {
+		primary = IRE
+		dynasty_names = { 
+			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
+		}
+	}
+}

@@ -1,0 +1,30 @@
+finno_ugric = {
+	graphical_culture = westerngfx
+
+	finnish = {
+		primary = FIN
+		dynasty_names = {
+			Bielke Horn Tott Fleming Paijkull Bonde Wrede Soop
+		}
+	}
+	estonian = {
+		primary = EST
+	}
+	sapmi = {
+		primary = SAP
+	}
+	ingrian = {
+	}
+	karelian = {
+		primary = KAR
+	}
+	uralic = {
+		primary = PRM
+	}
+	samoyed = {
+		primary = BJA
+	}
+	ostyaki = {
+		primary = SIB
+	}
+}

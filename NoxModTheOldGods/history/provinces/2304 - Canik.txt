@@ -2,7 +2,7 @@
 
 owner = TUR
 controller = TUR
-culture = turkish
+culture = anatolian
 religion = sunni
 capital = "Samsun"
 trade_goods = wine

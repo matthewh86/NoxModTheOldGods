@@ -1,0 +1,44 @@
+iberian	= {
+	graphical_culture = westerngfx
+
+	castillian = {
+		primary = CAS
+		dynasty_names = {
+			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+			Téllez-Girón "Manrique de Lara" Sandoval "de Ávalos"
+		}
+	}
+	catalan = {
+		primary = ARA
+		dynasty_names = {
+			"d'Aragó" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
+		}
+	}
+	galician = {
+		primary = GAL
+		dynasty_names = {
+			Osorio Andrade
+		}
+	}
+	andalucian = {
+		primary = GRA
+		dynasty_names = {
+			Nasrid Ummayad Zirid
+		}
+	}
+	portugese = {
+		primary = POR
+		dynasty_names = {
+			"de Aviz" "de Bragança" "de Crato" "d'Alburquerque" "de Portugal" "de Lencastre" "de Melo" 
+			"de Moura" "de Nápoles" "de Menezes"
+		}
+	}
+	basque = {
+		primary = NAV
+		dynasty_names = { "de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" }
+	}
+	leonese = {
+		primary = LEO
+	}
+	
+}

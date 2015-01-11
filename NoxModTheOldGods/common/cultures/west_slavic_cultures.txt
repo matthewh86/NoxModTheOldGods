@@ -1,0 +1,37 @@
+west_slavic = {
+	graphical_culture = westerngfx
+
+	czech = {
+		primary = BOH
+	}
+	polish = {
+		graphical_culture = easterngfx
+		primary = POL		
+	}
+	schlesian = {
+		primary = SIL
+	}
+	slovakian = {
+		graphical_culture = easterngfx
+		primary = SLK
+	}
+	slovenian = {
+		graphical_culture = easterngfx
+		primary = SLV
+	}
+	hungarian = {
+		graphical_culture = easterngfx
+		primary = HUN
+		dynasty_names = {
+			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
+			Erdody Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy Teleki 
+			Thököly Tisza Zrínyi
+		}
+	}	
+	
+	dynasty_names = {
+		Gryf Piast Jagiellon Wisniowiecki Sobieski Leszczynski 
+		Poniatowski Radziwill Zamoyski Potocki Lubomirski   
+		Premyslovci Podebrad  
+	}
+}

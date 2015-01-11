@@ -1,0 +1,13 @@
+carribean = {
+	graphical_culture = northamericagfx
+
+	arawak = {
+	}
+	maipurean = {
+	}
+	carib = {
+	}
+	guajiro = {	#Lokono
+		primary = ARW
+	}
+}

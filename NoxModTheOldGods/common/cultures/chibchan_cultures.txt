@@ -1,0 +1,11 @@
+chibchan = {
+	graphical_culture = southamericagfx
+	muisca = {
+		primary = MCA
+	}
+	cara = {
+		primary = QTO
+	}
+	miskito = {
+	}
+}

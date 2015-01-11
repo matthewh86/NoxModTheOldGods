@@ -1,0 +1,29 @@
+scandinavian = {
+	graphical_culture = westerngfx
+	
+	icelandic = {
+		primary = ICE
+		dynasty_names = { "Knytling" "Fjellner" "Gute" "Falk" "Hvíti" "Skál" "Oskyldr" "av Hordaland" "Adolphus" "af Othem" "af Spångsholmr" "af Steinvikholm" "af Hemse" "af Balga" "af Stahleck" "af Trelleborg" "af Brindas" "af Namur" "af Itzehoe" }
+	}
+	swedish = {
+		primary = SWE
+		dynasty_names = {
+			"Bonde" "Vasa" "Tre Rosor" "Oxenstierna" "Sparre" "Sture" "Tott" "Trolle" "Bielke" "Brahe"
+			"Horn" "Ribbing" "Skytte" "Banér" "Fleming" "Gyllenstierna" "de la Gardie" "Leijonhufvud" 
+			"Natt och Dag" "Grip" "Stenbock"
+		}
+	}
+	danish = {
+		primary = DAN
+		dynasty_names = { 
+			"Hvide" "Galen" "Due" "Saltensee" "Urup" "Neb" "Brahe" "Gøye" "Trolle" "Rantzau"
+			"Friis" "Gyllenstierna" "Bille" "Kaas"
+		}
+	}
+	norwegian = {
+		primary = NOR
+		dynasty_names = { 
+			"Hårfagreætta" "Bielke" "Bildt" "Galte" "Paus" "Smør" "Benkestok" "Kane" "Bonde"
+		}
+	}
+}

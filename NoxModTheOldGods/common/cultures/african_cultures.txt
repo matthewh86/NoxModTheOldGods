@@ -1,0 +1,185 @@
+mande = {
+	graphical_culture = africangfx
+	mali = {
+		primary = MAL
+		dynasty_names = {
+			Keita Sama
+		}
+	}
+	songhai = {
+		primary = SON
+		dynasty_names = {
+			Askia Sonni 
+		}
+	}
+	soninke = {
+		primary = ZAF
+		dynasty_names = {
+			Ghana Diarisso Kante
+		}
+	}
+	bambara = {
+		primary = SOF
+		dynasty_names = {
+			Coulibaly Diarra Massassi
+		}
+	}
+	bozo = {
+		primary = JNN
+		dynasty_names = {
+			Konboro Seku
+		}
+	}
+	dyola = {
+		primary = KNG
+		dynasty_names = {
+			Gorogo Wattara
+		}
+	}
+}
+
+sahelian = {
+	hausa = {
+		primary = HAU
+		dynasty_names = {
+			Azna "Yan Korau" Dadi Yaji
+		}
+	}
+	kanuri = {
+		primary = KBO
+		dynasty_names = {
+			Sayfawa Kanemi Zubayr
+		}
+	}
+	bilala = {
+		primary = YAO
+		dynasty_names = {
+			Mahamat Batoa "N'guidjim"
+		}
+	}
+	tuareg = {
+		primary = AIR
+		dynasty_names = {
+			Magsharen Stanbulewa
+		}
+	}		
+	senegambian = {
+		primary = JOL
+		dynasty_names = {
+			"N'Dyaye" "Penda" "Mba" "Tyukuli" "Sare"
+		}
+	}			
+	fulani = {
+		primary = FUL
+		dynasty_names = {
+			Fodio Denyanke Lih Wan Alfa 
+		}
+	}
+}
+
+west_african = {
+	yorumba = {
+		primary = OYO
+		dynasty_names = {
+			Alaafin Eweka
+		}
+	}
+	aka = {
+		primary = ASH
+		dynasty_names = {
+			Denkyirahene "Oyoko Abohyen" Kotokuhene Bonohene 
+		}
+	}
+	nupe = {
+		primary = NUP
+		dynasty_names = {
+			Etsu Ubah Solaja
+		}
+	}
+	fon = {
+		primary = DAH
+		dynasty_names = {
+			Ajahutonon Ahosu
+		}
+	}
+	mossi = {
+		primary = MSI
+		dynasty_names = {
+			"Tenga Niama" "Moogo" "Naaba"
+		}
+	}
+	dagomba = {
+		primary = DGB
+		dynasty_names = {
+			Naa Dagomba Mamprusi
+		}
+	}
+
+}	
+
+african = {	#Bantu
+	graphical_culture = africangfx
+
+	madagasque = {
+	}
+	bantu = {
+	}
+	swahili = {
+		primary = ZAN
+		dynasty_names = {
+			Nabahani al-Mawahib Zanzibari Mvita al-Malindi
+		}
+	}
+	kongolese = {
+		primary = KON
+		dynasty_names = { 
+			Lukeni Loanga
+		}
+	}
+	shona = {
+		primary = ZIM
+		dynasty_names = { 
+			Mwenemutapa Rozwi Mutopa
+		}
+	}
+}
+
+cushitic = {
+	graphical_culture = africangfx
+	
+	somali = {
+		primary = ADA
+		dynasty_names = {
+			Walashma Muzaffar Gareen Gobroon Karanle Jaladi Harti Darod Gerad
+		}
+	}
+	tigray = {
+		primary = MED
+		dynasty_names = {
+			Bahrid
+		}
+	}
+	sidamo = {
+		primary = KAF
+		dynasty_names = {
+			Ginocho
+		}
+	}
+	amhara = {
+		primary = ETH
+		dynasty_names = {
+			Solomonid Senar
+		}
+	}
+}
+
+sudanese = {
+	graphical_culture = africangfx
+	
+	nubian = {
+		primary = NUB
+		dynasty_names = {
+			Senar Solomid
+		}
+	}
+}

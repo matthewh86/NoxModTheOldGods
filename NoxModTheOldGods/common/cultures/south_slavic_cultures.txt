@@ -1,0 +1,24 @@
+south_slavic = {
+	graphical_culture = easterngfx
+
+	croatian = {
+		primary = CRO
+	}
+	serbian = {
+		primary = SER
+	}
+	bulgarian = {
+		primary = BUL
+	}
+	romanian = {
+		primary = WAL
+		dynasty_names = {
+			"Basarab" "Danesti" "Draculesti"
+		}
+	}
+	albanian = {
+		primary = ALB
+	}
+	
+	dynasty_names = { "Trpimirovic" "Svetoslavic" "Kosovic" "Kresimirovic" "Zrinski" "Domagojevic" "Hrvatinic" "Kotromanic" "Brankovic" "Lazarevic"}
+}

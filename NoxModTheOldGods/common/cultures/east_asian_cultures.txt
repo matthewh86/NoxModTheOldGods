@@ -1,0 +1,263 @@
+east_asian = {	#Chinese Group
+	graphical_culture = asiangfx
+
+	manchu = {
+		primary = MCH
+		dynasty_names = {
+			"Aisin Gioro" Wanyan "Yehe Nara" "Ula Nara" "Magiya Hala" Niohuru
+			Heseri Guwalgiya Tunggiya Hata Hoifa Yeren Udige
+		}
+	}
+	# Mandarin speakers, in game localization "Guanhua":
+	chihan = {	#Zhili
+		primary = YAN
+	}
+	cantonese = {
+		primary = YUE
+	}
+	jin = {
+		primary = JIN
+	}
+	wu = {
+		primary = WUU
+	}
+	chimin = {
+		primary = MIN
+	}
+	hakka = {
+		primary = HUA
+	}
+	gan = {
+		primary = NNG
+	}
+	xiang = {
+		primary = CHC
+	}
+	sichuanese = {
+		primary = SHU
+	}
+	jianghuai = {
+		primary = MNG
+	}
+	xibei = {
+		primary = CSH
+	}
+	hubei = {
+		primary = CXI
+	}
+	zhongyuan = {
+		primary = LNG
+	}
+	shandong_culture = {
+		primary = QIC
+	}
+	
+	dynasty_names = {
+		Zhu Wu Geng Shang Zheng Zhao Li Shi Liu Guo Yang Wang Qian Ma Meng Gao 
+		Chen Sun Sima Cao Xiao Qi Zu Zhou Huang Bai Qiu Tang Lu	Xu Chang 
+		Feng Deng Hua Gu Fei Fu Hu Mei Xue Liao Jin Ye He Lan Du Fang Mao Hao 
+		Kong Jiao Si Pan Zuo Ding Bao Yan Tan Han Luo Xie Yuan Qin Ruan	Niu Zeng
+		Dong Lin Shen Ouyang Su Yu Ren Chai Xia Mo Dai Jiang Yue Jia Xiong Cui
+	}
+}
+
+korean_g = {
+	graphical_culture = asiangfx
+	
+	korean = {
+		primary = KOR
+		dynasty_names = { 
+			Yi Wang Kim Shin Song Pak Chae Gang Jeong Jang Yun Han Hong Yu Ki
+		}
+	}
+}
+
+japanese_g = {
+	graphical_culture = asiangfx
+
+	japanese = {
+		primary = JAP
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+	}
+}
+
+mon_khmer = { 
+	graphical_culture = asiangfx
+
+	khmer = {
+		primary = KHM
+		dynasty_names = {
+			Angkor "Siem Reap" Oudong Battambang "Stung Treng" Kratie "Phnom Penh"
+		}
+	}
+	mon = {
+		primary = PEG
+		dynasty_names = {
+			Pegu Dagon Thaton Martaban
+		}		
+	}
+	vietnamese = {
+		primary = DAI
+		dynasty_names = {
+			"Lê" "Tran" "Hau Le" "Mac" "Tay Son" "Nguyen" "Trinh"
+		}
+	}
+
+}
+malay = { 
+	graphical_culture = asiangfx
+
+	polynesian = {
+	}
+	cham = {
+		primary = CHA
+		dynasty_names = { 
+			Vijaya Kauthara Panduranga Indrapura
+		}
+	}
+	malayan = {
+		primary = MLC
+		dynasty_names = { 
+			Melaka Johor Perak Kedah Pattani Pahang Kelantan Selangor Terengganu
+		}
+	}
+	sumatran = {
+		primary = ATJ
+		dynasty_names = {
+			Siak Aceh Pasai Pagarruyung Palembang Jambi
+		}
+	}
+	javanese = {
+		primary = MAJ
+		dynasty_names = {
+			Banten Demak Surabaya Cirebon Samprangan
+		}
+	}
+	filipino = {
+		primary = SUL
+		dynasty_names = {
+			Sulu Maguindanao Tondo Lanao Butuan Palawan Panay
+		}
+	}
+	bornean = {
+		primary = BEI
+		dynasty_names = {
+			Burnei Kutai Sibu Kuching
+		}
+	} 
+	madagascan = {
+	}
+	sulawesi = {
+		primary = MKS
+		dynasty_names = {
+			Palopo Makassar Manado Poso Palu
+		}
+	}
+	
+	dynasty_names = {
+		"Rajasanagara" "Saktirai" "P'an-Lo" "Cheng" "Gunungjati"
+	}
+}
+
+thai = { 
+	graphical_culture = asiangfx
+
+	central_thai = {
+		primary = AYU
+		dynasty_names = { 
+			Ayutthaya Sukhothai Thonburi Phitsanulok "Phra Bang" Ratchaburi Phetchaburi "U Thong" "Nakhon Pathom" Phimai "Sri Thep" "Nakhon Sawan" Lavapura
+		}		
+	}
+	lao = {
+		primary = LUA
+		dynasty_names = { 
+			"Luang Prabang" "Champassak" Vientiane Phuan Nan
+		}		
+	}
+	northern_thai = {
+		primary = LNA
+		dynasty_names = { 
+			"Chiang Mai" "Chiang Rai" "Chet Ton" Lampang Lamphun
+		}
+	}
+	shan = {
+		primary = SST
+		dynasty_names = { 
+			Bamaw Kale Ava Kengtung Yawnghwe "Mong Pawn" "Mong Mit" "Mong Kawng" Hsipaw Hsenwi "Mong Pai"
+		}
+	}
+	zhuang = {
+	}
+	
+	dynasty_names = {
+		"Mangrai" "Chaochetton" "Phra Ruang" "Champassak"
+	}
+}
+
+burman= { 
+	graphical_culture = asiangfx
+
+	burmese = {
+		primary = TAU
+		dynasty_names = {
+			Taungu Ava Pagan Prome "Myede Mong" Sagaing Kyaukse Pinya Myinsaing Konbaung
+		}
+	}
+	tibetan = {
+		primary = UTS
+	}
+	chin = {
+		primary = MLB
+	}
+	yi = {
+		primary = CYI
+		dynasty_names = {
+			"An" "She" "Liu" "Longzan" "Feng" "Pu"
+		}
+	}
+	bai = {
+		primary = CDL
+		dynasty_names = {
+			"Duan" "Gao" "Meng"
+		}
+	}
+	karen = {
+		
+	}
+	kachin = {
+	}
+	arakanese = {
+		primary = ARK
+		dynasty_names = {
+			Thandwe "Mrauk-U"
+		}
+	}
+}
+
+hmong–mien = {
+	graphical_culture = asiangfx
+	
+	miao = {
+		primary = CMI
+		dynasty_names = {
+			"Fang" "Hang" "Hue" "Khang" "Kong" "Soung" "Kue" "Lo" "Lor" "Li" "Moua" "Pha" "Tang" "Thao" "Chang" "Cheng" "Chu" "Vang" "Vue" "Xiong" "Yang"
+		}
+	}
+}
+
+pacific = {
+	graphical_culture = asiangfx
+
+	papuan = {
+	}
+	aboriginal = {
+	}
+	melanesian = {
+	}
+	moluccan = {
+		primary = TER
+	}
+}

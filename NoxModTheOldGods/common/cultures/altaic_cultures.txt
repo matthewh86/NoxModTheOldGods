@@ -1,0 +1,31 @@
+altaic = {
+	graphical_culture = muslimgfx
+
+	mongol = {
+		primary = KHA
+	}
+	chahar = {
+		primary = CHH
+	}
+	khalkha = {
+		primary = KLK
+	}
+	oirats = {
+		primary = ZUN
+	}
+	uzbehk = {
+		primary = SHY
+	}
+	uyghur = {
+		primary = KAS
+	}
+	khazak = {
+		primary = KZH
+	}
+	kirgiz = {
+		primary = CHG
+	}
+	dynasty_names = {
+		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+	}
+}

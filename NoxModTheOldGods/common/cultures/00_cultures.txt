@@ -1,0 +1,205 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+germanic = {
+}
+
+scandinavian = {
+}
+
+british	= {
+}
+
+gaelic	= {
+}
+	
+latin = {
+}
+	
+iberian	= {	
+}
+	
+french	= {
+}
+	
+finno_ugric = {
+}
+	
+south_slavic = {
+}
+	
+west_slavic = {	
+}
+
+magyar = {	
+}
+	
+east_slavic = {
+}
+
+baltic	= {
+}
+
+byzantine = {
+}
+
+caucasian = {
+}
+
+turko_semitic	= {
+}
+
+maghrebi = {
+}
+	
+iranian	= {
+}
+
+oghuz = {
+}
+
+altaic = {
+}
+	
+central_american = {
+}
+
+maya = {
+} 
+
+otomanguean = {
+}
+
+
+andean_group = {
+}
+
+je_tupi = {
+}
+
+je = {
+}
+
+maranon = {
+}
+
+chibchan = {
+}
+
+mataco = {
+}
+
+araucanian = {
+}
+
+carribean = {
+}
+
+eskaleut = {
+}
+
+central_algonquian = {
+}
+
+plains_algonquian = {
+}
+
+eastern_algonquian = {
+}
+
+iroquoian = {
+}
+
+siouan = {
+}
+
+caddoan = {
+}
+	
+
+muskogean = {
+}
+
+sonoran = {
+}
+
+na_dene = {
+}
+
+penutian = {
+}
+
+east_asian = {
+}
+
+korean_g = {
+}
+
+japanese_g = {
+}
+
+mon_khmer = { 
+}
+malay = { 
+}
+
+thai = { 
+}
+
+burman= { 
+}
+
+hmong–mien = {
+}
+
+pacific = {
+}
+
+eastern_aryan = {
+}
+
+hindusthani = {
+}
+
+western_aryan = {
+}
+
+dravidian = {
+}
+
+central_indic = {
+}
+
+mande = {
+}
+
+sahelian = {
+}
+
+west_african = {
+}	
+
+african = {
+}
+
+cushitic = {
+}
+
+sudanese = {
+}
+
+evenks = {
+}
+
+
+kamchatkan_g = {
+}
+
+tartar	= {
+}

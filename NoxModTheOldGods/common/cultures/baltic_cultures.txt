@@ -1,0 +1,21 @@
+baltic_slavic = {
+	graphical_culture = easterngfx
+	
+	lithuanian = {
+		primary = LIT
+	}
+	old_prussian = {
+		primary = KUR
+	}
+	latvian = {
+		primary = LTV
+	}
+	prussian = {
+		primary = PRS
+	}
+	
+	dynasty_names = { 
+		Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
+		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
+	}
+}

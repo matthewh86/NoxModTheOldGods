@@ -1,0 +1,55 @@
+#40 - Memel
+
+owner = TEU
+controller = TEU
+culture = prussian
+religion = romuva
+capital = "Memel"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 4500
+fort1 = yes
+add_core = TEU
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1   = { citysize = 4800 }
+1454.2.10  = { add_core = POL revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Thirteen years' war
+1466.10.19 = {	revolt = {}
+		controller = TEU
+		add_core = PRU
+		marketplace = yes
+		} # "Peace of Torun", became a Polish fief
+1500.1.1   = { citysize = 5657 }
+1525.2.10  = {	owner = PRU
+		controller = PRU
+		remove_core = TEU
+		remove_core = POL
+		religion = protestant
+	     } # Albert of Prussia
+1540.1.1   = { fort2 = yes } # Fortress established in Memel
+1550.1.1   = { citysize = 6656 }
+1593.1.1   = { shipyard = yes } # Commercial shipbuilding
+1600.1.1   = { citysize = 7830 }
+1618.8.28  = {	owner = BRA
+		controller = BRA
+		add_core = BRA
+		} # Prussia in a personal union with Brandenburg
+1627.1.1   = { fort3 = yes } # Fortifications around the city
+1650.1.1   = { citysize = 10212 }
+1667.1.1   = { tax_assessor = yes }
+1700.1.1   = { citysize = 8838 } # Great plague
+1701.1.18  = {	owner = PRU
+		controller = PRU
+		remove_core = BRA
+		manpower = 5
+		} # Kingdom of Prussia
+1723.1.1   = { fort3 = yes }
+1750.1.1   = { citysize = 11750 base_tax = 5  }
+1757.9.1   = { controller = RUS } # captured by Russia after Gross-Jägersdorf
+1762.1.5   = { controller = PRU } # Russians withdraw
+1800.1.1   = { citysize = 15000 }

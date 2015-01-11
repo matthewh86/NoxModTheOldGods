@@ -2,7 +2,7 @@
 
 owner = BYZ
 controller = BYZ
-culture = greek #Should not be Greek or Orthodox in 1444. Its status as a majority Greek city dates to at least after the 17th Century
+culture = anatolian #Should not be Greek or Orthodox in 1444. Its status as a majority Greek city dates to at least after the 17th Century
 religion = sunni
 capital = "Izmirni"
 trade_goods = salt #Major Ottoman Salt Work

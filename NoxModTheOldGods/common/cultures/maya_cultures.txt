@@ -1,0 +1,15 @@
+maya = {
+	graphical_culture = southamericagfx
+
+	yucatec = {
+		primary = XIU
+	}
+	putun = {
+		primary = ITZ
+	}
+	mayan = {
+		primary = MAY
+	} 
+	highland_mayan = {
+	}
+}

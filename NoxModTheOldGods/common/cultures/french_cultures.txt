@@ -1,0 +1,36 @@
+french	= {
+	graphical_culture = westerngfx
+
+	cosmopolitan_french = {
+		primary = FRA
+		dynasty_names = {
+			"de Valois" "de Bourbon" Bonaparte "de la Tour" "de Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" 
+		}
+	}
+	gascon = {
+		primary = GUY
+	}
+	normand = {
+		primary = NRM
+	}
+	aquitaine = {
+		primary = TOU
+	}
+	burgundian = {
+		primary = BUR
+	}
+	occitain = {
+		primary = PRO
+	}
+	wallonian = {
+		primary = HAI
+	}
+	
+	dynasty_names = {
+		"de Valois" "de Bourbon" "de la Tour" "de Anjou" 
+		"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+		"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" 
+	}
+}

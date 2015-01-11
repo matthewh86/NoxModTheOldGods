@@ -1,0 +1,16 @@
+andean = {
+	graphical_culture = southamericagfx
+	
+	inca = { #Quechua
+		primary = CSU
+	}
+	aimara = {
+		primary = CRA
+	}
+	diaguita = {
+		primary = CCQ
+	}
+	chimuan = {
+		primary = CHM
+	}
+}

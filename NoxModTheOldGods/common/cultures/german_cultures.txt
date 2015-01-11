@@ -1,0 +1,36 @@
+germanic = {
+	graphical_culture = westerngfx
+
+	hannoverian = {
+		primary = HAN
+	}
+	hessian = {
+		primary = HES
+	}
+	saxon = {
+		primary = SAX
+	}
+	rheinlaender = {
+		primary = SWI
+	}
+	bavarian = {
+		primary = BAV
+	}
+	austrian = {
+		primary = HAB
+	}
+	pommeranian = {
+		primary = POM
+	}
+	
+	dynasty_names = { 
+		"von Oldenburg" "von Mecklenburg" "von Hohenzollern" "von Habsburg"
+		"von Zweibrücken" "von Wittelsbach" "von Holstein" "von Hesse-Kassel" "von Holstein-Gottorp"
+		"von Pfalz-Neumarkt" "von Braunschweig-Lüneburg" "von Hannover" "von Wettin"
+	}
+	
+	german = {
+		primary = GER
+		dynasty_names = { "von Lengenfeld" "von Wickerode" "von Babenberg" "Wettin" "von Hohenstaufen" "Ydulfing" "Welf" "Udonen" "Etichonen" "Konradiner" "Babenberger" "Unruochinger" "von Innsbruck" "Habsburg" "Geroldonen" "Sieghardinger" "von Saint-Omer" "von Saint-Pol" "von Cloppenburg" "von Tecklenburg" "von Essen" "von Eppstein" "von Calw" "von Glurns" "von Zollern" "von Asperg" "von Henneberg" "von Meran" "von Este" "von Waging" "von Görz" "von Amboise" "von Tours" "von Sponheim" "von Goslar" "von Rain" "von Querfurt" "von Medina Siyâsa" "von Loon" "von Sonderburg" "von Kaiserslautern" "von Nürnberg" }
+	}
+}

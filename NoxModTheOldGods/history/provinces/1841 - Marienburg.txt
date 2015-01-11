@@ -1,7 +1,7 @@
 #Marienburg
 
-owner = TEU
-controller = TEU
+owner = PRU
+controller = PRU
 capital = "Marienburg"
 culture = prussian
 religion = romuva
@@ -12,7 +12,7 @@ manpower = 3
 citysize = 5000
 fort1 = yes
 fort2 = yes
-add_core = TEU
+add_core = PRU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

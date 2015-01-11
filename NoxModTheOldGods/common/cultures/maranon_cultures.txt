@@ -1,0 +1,9 @@
+maranon = {
+	graphical_culture = southamericagfx
+	jivaro = {
+	
+	}
+	chachapoyan = {
+		primary = CYA
+	}
+}

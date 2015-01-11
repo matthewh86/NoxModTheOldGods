@@ -1,0 +1,17 @@
+central_american = {
+	graphical_culture = southamericagfx
+
+	tecos = {
+	}
+	aztek = {
+		primary = AZT
+	}
+	purepecha = {
+		primary = TAR
+	}
+	totonac = {
+		primary = TOT
+	}
+	chichimecan = {
+	}
+}

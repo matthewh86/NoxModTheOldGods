@@ -1,0 +1,27 @@
+maghrebi_cultures = {
+	graphical_culture = muslimgfx
+	moroccan = {
+		primary = MOR
+		dynasty_names = {
+			"Marinid" "Saadi" "al-Shabani" "Alaouite"
+		}
+	}
+	tunisian = {
+		primary = TUN
+		dynasty_names = {
+			"Hafsid" "Karamanli" "Muradid" "Husainid" "Banu Muhammad"
+		}
+	}
+	algerian = {
+		primary = ALG
+		dynasty_names = {
+			"Beni Djellab" "Ouled Nail" "Ouled Sidi Cheikh" "Banu Rashid"
+		}
+	}
+	berber = {
+		primary = TLC
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid"
+		}
+	}
+}

@@ -1,0 +1,30 @@
+tartar	= {
+	graphical_culture = muslimgfx
+	astrakhani = {
+		primary = AST
+	}
+	bashkir = {
+		primary = BSH
+	}
+	crimean = {
+		primary = CRI
+	}
+	kazani = {
+		primary = KAZ
+	}
+	mishary = {
+		primary = GOL
+	}
+	nogaybak = {
+		primary = NOG
+	}
+	qasim = {
+		primary = QAS
+	}
+	siberian = {
+		primary = SIB
+	}
+	dynasty_names = {
+		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+	}
+}

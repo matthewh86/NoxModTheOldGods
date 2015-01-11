@@ -1,0 +1,26 @@
+byzantine = {
+	graphical_culture = easterngfx
+	greek = {
+		primary = GRE
+	}
+	anatolian = {
+		primary = TRE
+	}
+	crimean_greek = {
+	}
+	cypriot_greek = {
+		primary = CYP
+	}
+	goths = {
+		primary = FEO
+		dynasty_names = { 
+			"of Gothia"
+		}
+	}
+	macedonian = {
+		primary = MCD
+	}
+	dynasty_names = { 
+		Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
+	}
+}

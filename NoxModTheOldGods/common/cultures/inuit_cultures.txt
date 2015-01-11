@@ -1,0 +1,39 @@
+evenks = {
+	graphical_culture = inuitgfx
+
+	yakut = {
+	}
+	yukagyr = {
+		primary = HOD
+		dynasty_names = {
+			Uygulaan
+		}
+	}
+	buryat = {
+		primary = BRT
+		dynasty_names = {
+			Badarhan "Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+		}
+	}
+	tungus = {
+	}
+	dynasty_names = {
+		Badarhan  Khorints Tabangut Sartul Daur Khorchin Bulagat Ekhirit Khongodor
+	}
+}
+
+
+kamchatkan_g = {
+	graphical_culture = inuitgfx
+	
+	ainu = {
+		primary = ANU
+	}
+	kamchatkan = {
+		primary = KMC
+	}
+	
+	dynasty_names = {
+		Shibushari Hae Betsu Shiraoi Kurasi Kakizaki Ponyanpe Shirokani Otona Ekashi Saru Usu
+	}
+}

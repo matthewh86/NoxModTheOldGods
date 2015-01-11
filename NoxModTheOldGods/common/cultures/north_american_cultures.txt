@@ -1,0 +1,165 @@
+central_algonquian = {
+	graphical_culture = northamericagfx
+	
+	shawnee = {
+		primary = SHA
+	}
+	illini = {
+		primary = ILL
+	}
+	anishinabe = {
+		primary = OJI
+	}
+	cree = {
+		primary = WCR
+	}
+	mesquakie = {
+	}
+}
+
+plains_algonquian = {
+	graphical_culture = northamericagfx
+
+	cheyenne = {
+		primary = CHY
+	}
+	blackfoot = {
+	}
+	arapaho = {
+		primary = ARP
+	}
+}
+
+eastern_algonquian = {
+	graphical_culture = northamericagfx
+	
+	delaware = {
+		primary = LEN
+	}
+	abenaki = {
+		primary = ABE
+	}
+	mikmaq = {
+		primary = MIK
+	}
+	mahican = {
+	}
+	powhatan = {
+		primary = POW
+	}
+	pequot = {
+		primary = PEQ
+	}
+}
+
+iroquoian = {
+	graphical_culture = northamericagfx
+	
+	iroquois = {
+		primary = IRQ
+	}
+	cherokee = {
+		primary = CHE
+	}
+	huron = {
+		primary = HUR
+	}
+	susquehannock = {
+		primary = SUS
+	}
+}
+
+siouan = {
+	graphical_culture = northamericagfx
+	
+	dakota = {
+		primary = SIO
+	}
+	nakota = {
+		primary = ASI
+	}
+	chiwere = {
+		primary = FOX
+	}
+	osage = {
+		primary = OSA
+	}
+	catawba = {
+	}
+}
+
+caddoan = {
+	graphical_culture = northamericagfx
+
+	wichita = {
+		primary = WIC
+	}
+	caddo = {
+		primary = CAD
+	}
+	pawnee = {
+		primary = PAW
+	}
+}
+	
+
+muskogean = {
+	graphical_culture = northamericagfx
+	
+	creek = {
+		primary = CRE
+	}
+	choctaw = {
+		primary = CHO
+	}
+	chickasaw = {
+		primary = CHI
+	}
+}
+
+sonoran = {
+	graphical_culture = northamericagfx
+	
+	pueblo = {
+		primary = PUE
+	}
+	piman = {
+		primary = PIM
+	}
+	shoshone = {
+		primary = SHO
+	}
+	kiowa = {
+		primary = KIO
+	}
+}
+
+na_dene = {
+	graphical_culture = northamericagfx
+
+	apache = {
+		primary = APA
+	}
+	navajo = {
+		primary = NAH
+	}
+	chipewyan = {
+	}
+	haida = {
+		primary = HDA
+	}
+	athabascan = {
+	}
+}
+
+penutian = {
+	graphical_culture = northamericagfx
+	salish = {
+		primary = SAL
+	}
+	chinook = {
+		primary = CNK
+	}
+	yokuts = {
+	}
+}

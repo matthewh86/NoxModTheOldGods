@@ -2,7 +2,7 @@
 
 owner = FEO
 controller = FEO  
-culture = greek
+culture = crimean_greek
 religion = orthodox
 hre = no
 base_tax = 5

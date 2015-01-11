@@ -1,0 +1,165 @@
+eastern_aryan = {
+	graphical_culture = indiangfx
+
+	assamese = {
+		primary = ASS
+		dynasty_names = {
+			"Khen" "Ahom" "Nagas" "Chutiyas" "Raikat" "Koch"
+		}
+	}
+	bengali = {
+		primary = BNG
+		dynasty_names = {
+			"Ilyas Shahi" "Ganesha" "Hussein Shahi"  "Najafi" "Afshari" "Nasiri" "Karrani"
+		}
+	}
+	bihari = {
+		primary = TRT
+		dynasty_names = {
+			"Sugauna" "Sharqi" "Suri" "Oinwara"
+		}
+	}
+	nepali = {
+		primary = NPL
+		dynasty_names = {
+			"Malla" "Ghorka"
+		}
+	}
+	oriya = {
+		primary = ORI
+		dynasty_names = {
+			"Chindaka Naga" "Gajapati" "Eastern Ganga" "Bhoi" "Chagi" "Pusapati" "Bhanja"
+			"Chindaka-Naga" "Rathore" "Singha" "Gangavanshi" "Chauhan" "Kadamba" "Keshari"
+			"Silavamsi" "Gangabasi" "Sankara" "Parmar"
+		}
+	}
+	sinhala = {
+		primary = CEY
+		dynasty_names = {
+			"Kotteid" "Konnapu Bandara" "Gampolan" "Savulu"
+		}
+	}
+	
+}
+
+hindusthani = {
+	graphical_culture = indiangfx
+
+	avadhi = {
+		primary = ODH
+		dynasty_names = {
+			"ud Daula" "Awadhi" "Chand" "Bundela" "Malikzada" "Tomara" "Raghuvansi" "Parmari"
+		}
+	}
+	kanauji = {
+		primary = DLH
+		dynasty_names = {
+			"Tughluq" "Lodi" "Khilji"
+		}
+	}
+	panjabi = {
+		primary = PUN
+		dynasty_names = {
+			"Kohkkar" "Gakhkhar" "Phulkian" "Bhullara" "Dhaliwala" "Sandhawalia" "Ahluwalia" "Langa" "Mirrani" "Abbasi"
+		}
+	}
+	kashmiri = {
+		primary = KSH
+		dynasty_names = {
+			"Shah Miri" "Sayyidi" "Mirrani"
+		}
+	}
+	
+}
+
+western_aryan = {
+	graphical_culture = indiangfx
+
+	gujarati = {
+		primary = GUJ
+		dynasty_names = {
+			"Muzaffarid" "Ahmad Shahi" "Vadher" "Babi" "Rawal" "Jadeja" "Gohil" "Jethwa"
+		}
+	}
+	marathi = {
+		primary = MAR
+		dynasty_names = {
+			"Bhonsle" "Gaikwar" "Bhat" "Sindhia" "Koli"
+		}
+	}
+	sindhi = {
+		primary = SND
+		dynasty_names = {
+			"Samma" "Kalhora" "Soomra"
+		}
+	}
+	rajput = {
+		primary = MER
+		dynasty_names = {
+			"Sisodiya" "Faruqi" "Rastraudha" "Solanki" "Khan Zada" "Kachwaha"
+
+			"Satnami" "Rathore" "Hada" "Chauhan" "Holkar" "Qadirid" "Shaja'atid"
+			"Khalji" "Tomara" "Jadeja" "Khirwara" "Nauhwara" "Sinsiniwar" "Balhara"
+			"Panwara"
+		}
+
+	}
+	malvi = {
+		primary = MLW
+		dynasty_names = {
+			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
+		}
+	}
+}
+
+dravidian = {
+	graphical_culture = indiangfx
+
+	kannada = {
+		primary = MYS
+		dynasty_names = {
+			"Wodeyar" "Sangama" "Saluva" "Tuluva" "Alupa" "Keladi" "Ummattur" "Chowta"
+		}
+	}
+	malayalam = {
+		primary = VND
+		dynasty_names = {
+			"Kolathiri" "Saamoothiri" "Perumal" "Perumpadappu" "Kulasekhara" "Cheraman"
+		}
+	}
+	tamil = {
+		primary = MAD
+		dynasty_names = {
+			"Saadatullahid" "Anwarudid" "Pandya" "Thondaiman" "Thanjavuri" "Sethupathy" "Saluva"
+		}
+	}
+	telegu = {
+		primary = GOC
+		dynasty_names = {
+			"Aravidu" "Talpura" "Velama" "Saluva" "Tuluva" "Sangama" "Pemmasani" "Tupakula"
+		}
+	}
+	
+}
+
+central_indic = {
+	graphical_culture = indiangfx
+
+	gondi = {
+		primary = GDW
+		dynasty_names = {
+			"Chanda" "Raj Gondi" "Kherli" "Deogadhi" "Ballar Sahi" "Haihaya" "Gadhi"
+		}
+	}
+	garjati = {
+		primary = GRJ
+		dynasty_names = {
+			"Nagavamsi" "Sankara" "Bhuyavamsha" "Gangabansi" "Bhanja" "Karan" "Keshari" "Suryavanshi" "Baghal"
+		}
+	}
+	jharkhandi = {
+		primary = NGP
+		dynasty_names = { "Porohat" "Nagavamsi" "Raksel" "Munda" "Ho" "Bhuiyan" }
+	}
+	
+}

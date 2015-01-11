@@ -1,0 +1,17 @@
+east_slavic = {
+	graphical_culture = easterngfx
+	russian = {
+		primary = MOS
+	}
+	byelorussian = {
+		primary = PLT
+	}
+	ruthenian = {
+		primary = KIE
+	}
+	
+	dynasty_names = {
+		Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Khilkov Gorchakov
+		Belosselsky Chelyadnin Potyomkin
+	}
+}

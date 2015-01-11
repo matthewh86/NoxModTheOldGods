@@ -1,0 +1,23 @@
+dutch_group = {
+	graphical_culture = westerngfx
+
+	dutch = {
+		primary = NED
+	}
+	flemish = {
+		primary = FLA
+	}
+	frisian = { 
+		primary = FRI
+	}
+	hollander = {
+		primary = HOL
+	}
+	
+	dynasty_names = { 
+			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" 
+			"van Haspinga" "van Limburg" "van Lotharingen" 
+			"van Leuven" "van Brabant" "van Egmont"
+	}
+	
+}

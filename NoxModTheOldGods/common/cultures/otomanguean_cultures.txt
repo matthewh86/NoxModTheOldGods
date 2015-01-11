@@ -1,0 +1,12 @@
+otomanguean = {
+	graphical_culture = southamericagfx
+	zapotek = {
+		primary = ZAP
+	}
+	mixtec = {
+		primary = MIX
+	}
+	tlapanec = {
+		primary = TLA
+	}
+}

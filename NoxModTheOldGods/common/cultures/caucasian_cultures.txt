@@ -1,0 +1,21 @@
+caucasian_cultures = {
+	graphical_culture = easterngfx
+	georgian = {
+		primary = GEO
+		dynasty_names = { 
+			Bagrationi Mukhrani
+		}
+	}
+	circassian = {
+		primary = CIR
+	}
+	dagestani = {
+		primary = GAZ
+	}
+	armenian = {
+		primary = ARM
+		dynasty_names = { 
+			Bagratuni Rubenid Pahlavuni
+		}
+	}
+}

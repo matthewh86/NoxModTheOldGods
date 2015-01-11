@@ -1,0 +1,10 @@
+je_tupi = { #Tupi
+	graphical_culture = northamericagfx
+	
+	tupinamba = {
+		primary = TPQ
+	}
+	guarani = {
+		primary = GUA
+	}
+}

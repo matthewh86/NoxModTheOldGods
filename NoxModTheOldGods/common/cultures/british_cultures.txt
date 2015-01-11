@@ -1,0 +1,20 @@
+british = {
+	graphical_culture = westerngfx
+
+	anglo-saxon = {
+		primary = ENG
+	}
+	english = {
+		primary = ENG
+		dynasty_names = { 
+			Plantagenet Lancaster York Tudor Dudley Mowbray Beaufort Neville Percy Howard Seymour Holland 
+			Talbot Stanley Courtenay "de la Pole" "de Vere" Stafford Grey Mortimer "le Despenser" "de Camoys"
+		}		
+	}
+	american = {
+		primary = USA
+		dynasty_names = { 
+			Washington Adams Jefferson Jackson Johnson
+		}
+	}
+}

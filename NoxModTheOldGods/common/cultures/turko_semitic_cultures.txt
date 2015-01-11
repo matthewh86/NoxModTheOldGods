@@ -1,0 +1,32 @@
+turko_semitic = {
+	graphical_culture = muslimgfx
+	al_misr_arabic = {
+		primary = MAM
+		dynasty_names = {
+			"Burji" "Alawiyya" "Bahri"
+		}
+	}
+	al_suryah_arabic = {
+		primary = SYR
+		dynasty_names = {
+			"Mirdasid" "Maanid" "al-Shihab"
+		}
+	}
+	al_iraqiya_arabic = {
+		primary = IRQ
+		dynasty_names = {
+			"Saadun" "Jalili" "Hasanid" "Sabah"
+		}
+	}
+	bedouin_arabic = {
+		primary = NAJ
+		dynasty_names = {
+			"Saud" "Rasulid" "Tahiride" "Jabrid" "al-Qasimi" "Qasimid"
+			"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
+		}
+	}
+	levantine_arabic = {
+		primary = SYR
+		dynasty_names = { "Yazidid" "Nuraddin" "Majid" "Faisalid" "Erchmiadzin" }
+	}
+}

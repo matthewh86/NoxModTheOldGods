@@ -1,0 +1,27 @@
+iranian	= {
+	graphical_culture = muslimgfx
+	persian = {
+		primary = PER
+	}
+	khorasani = {
+		primary = KHO
+	}
+	baluchi = {
+		primary = BAL
+		dynasty_names = { Rind Lashari Kambarani Mirwari }
+	}
+	afghani= {
+		primary = AFG
+	}
+	kurdish = {
+		primary = ARD
+		dynasty_names = { "Hazaraspid" "Marwanid" "Soran" "Hasanawayhid" }
+	}
+	mazandarani = {
+		primary = TAB
+		dynasty_names = { "Afrasiyab" "Alid" "Bavand" }
+	}
+	dynasty_names = {
+		Durrani Ghilzai Zand Qajar Afsharid Safavid
+	}
+}
