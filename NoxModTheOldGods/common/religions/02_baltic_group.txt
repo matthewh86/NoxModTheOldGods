@@ -1,17 +1,20 @@
 baltic_group = { 
 	defender_of_faith = yes
-	baltic_pagan_reformed = {
-		icon = 19
+	can_form_personal_unions = yes
+	center_of_religion = 38 # Riga
+	
+	romuva = {
+		icon = 22
 		color = { 0.25 0.75 0.25 }
 		country = {
 			land_morale = 0.1
 			naval_forcelimit_modifier = 0.1
 		}
-		uses_piety = yes
+		fervor = yes
 		heretic = { OLD_ROMUVA }
 	}
-	slavic_pagan_reformed = {
-		icon = 20
+	rus_slavic = {
+		icon = 23
 		color = { 0.1 0.4 1.0 }
 		country = {
 			land_forcelimit_modifier = 0.1
@@ -20,9 +23,19 @@ baltic_group = {
 		uses_piety = yes
 		heretic = { OLD_SLAVIC }
 	}
-	tengri_pagan_reformed = {
-		icon = 21
-		color = { 0.8 0.8 0.8 }
+	balkan_slavic = {
+		icon = 23
+		color = { 0.4 0.4 1.0 }
+		country = {
+			land_forcelimit_modifier = 0.1
+			defensiveness = 0.1
+		}
+		uses_piety = yes
+		heretic = { OLD_SLAVIC }
+	}
+	tengri = {
+		icon = 24
+		color = { 0.3 0.3 0.3 }
 		province = {
 			local_missionary_strength = -0.01
 		}

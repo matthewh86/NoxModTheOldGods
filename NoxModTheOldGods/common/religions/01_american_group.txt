@@ -1,6 +1,6 @@
 american_group = { 
 	aztec_reformed = {
-		icon = 15
+		icon = 18
 		color = { 0.95 0.95 0.3 }
 		country = {
 			land_morale = 0.1
@@ -10,7 +10,7 @@ american_group = {
 		heretic = { OLD_AZTEC }
 	}
 	inca_reformed = {
-		icon = 16
+		icon = 19
 		color = { 0.9 0.95 1.0 }
 		country = {
 			global_tax_modifier = 0.10

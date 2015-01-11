@@ -1,20 +1,10 @@
 pagan = {
-	west_african_pagan_reformed = {
-		color = { 91 49 13 }
-		icon = 14
-		country = {
-			tolerance_own = 1
-			tolerance_heretic = -1
-		}
-		
-		heretic = { OLD_WEST_AFRICAN }
-	}
 	animism = {
-		color = { 0.5 0.3 0.3 }
+		color = { 0.5 0.0 0.0 }
 		icon = 11
 		country = {
 			tolerance_own = 1
-			global_revolt_risk = -1
+			global_unrest = -1
 		}
 		province = {
 			local_missionary_strength = 0.02
@@ -26,11 +16,11 @@ pagan = {
 	}
 	
 	shamanism = {
-		color = { 0.3 0.3 0.5 }
+		color = { 0.5 0.3 0.3 }
 		icon = 12
 		country = {
 			tolerance_own = 1
-			global_revolt_risk = -1
+			global_unrest = -1
 		}
 		province = {
 			local_missionary_strength = 0.02
@@ -42,11 +32,11 @@ pagan = {
 	}
 	
 	totemism = {
-		color = { 0.3 0.5 0.3 }
+		color = { 0.5 0.45 0.45 }
 		icon = 13
 		country = {
 			tolerance_own = 1
-			global_revolt_risk = -1
+			global_unrest = -1
 		}
 		province = {
 			local_missionary_strength = 0.02
@@ -56,17 +46,6 @@ pagan = {
 		
 		annex = yes		
 	}
-}
-
-hellenic_pagan = {
-	hellenic_pagan = {
-		icon = 23
-		color = { 0.6 0.1 0.1 }
-		country = {
-			tolerance_own = 1
-			tolerance_heretic = -1
-		}
-		
-		heretic = { GOAT_SKULL }	
-	}
+	
+	crusade_name = CRUSADE
 }

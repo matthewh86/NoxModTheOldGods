@@ -1,9 +1,8 @@
-# If you add religions, and use those tags, do not change them without changing everywhere they are used.
-
-# Uses all 'modifiers' possible thats exported as a Modifier.
-
 christian = {
 	defender_of_faith = yes
+	can_form_personal_unions = yes
+	
+	center_of_religion = 118 # Rome
 	
 	catholic = {
 		color = { 0.8 0.8 0 }
@@ -16,6 +15,8 @@ christian = {
 			tolerance_own = 1
 			tolerance_heretic = -1
 		}
+		
+		hre_religion = yes
 		
 		on_convert = {
 			change_religion = catholic
@@ -34,14 +35,173 @@ christian = {
 		
 		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD SOCINIAN }
 		
-		papacy = yes	# Can play with papacy stuff...
+		papacy = {
+			papal_tag = PAP
+			election_cost = 5
+			seat_of_papacy = 118 # rome
+			
+			levy_church_tax = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					add_years_of_income = 0.25
+				}
+				ai_will_do = {
+					factor = 1
+				}				
+			}			
+			bless_monarch = {
+				cost = 40
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { prestige = 100 }
+				}
+				effect = {
+					add_prestige = 10
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}
+			indulgence_for_sins = {
+				cost = 60
+				potential = {
+					government = monarchy
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { legitimacy = 100 }
+				}
+				effect = {
+					add_legitimacy = 10
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}	
+			local_saint = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { stability = 3 }
+				}
+				effect = {
+					add_stability = 1
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 2
+						NOT = { stability = 0 }
+					}
+				}
+			}
+			forgiveness_for_usury = {
+				cost = 25
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { has_country_modifier = usury_forgiven }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "usury_forgiven"
+						duration = 9125
+					}
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = { num_of_loans = 1 }
+					}
+				}
+			}			
+			proclaim_holy_war = {
+				cost = 40
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					is_at_war = yes
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					add_yearly_manpower = 0.25
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						manpower_percentage = 0.5
+					}
+				}
+			}	
+			send_papal_legate = {
+				cost = 30
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					random_list = {
+						25 = { create_advisor = inquisitor }
+						25 = { create_advisor = theologian }
+						25 = { create_advisor = statesman }
+						25 = { create_advisor = diplomat }
+					}
+				}
+				ai_will_do = {
+					factor = 0
+				}
+			}	
+			sanction_commercial_monopoly = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					add_mercantilism = 0.01
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = { has_idea_group = trade_ideas }
+					}
+				}
+			}			
+		}
 	}
 
 	protestant = {
 		color = { 0 0 0.7 }
 		icon = 2
+
 		allowed_conversion = {
 			reformed
+			catholic
+		}
+		allowed_center_conversion = {
 			catholic
 		}
 		country = {
@@ -49,6 +209,21 @@ christian = {
 			idea_cost = -0.1
 		}
 		
+		hre_heretic_religion = yes
+		
+		will_get_center = {
+			any_owned_province = {
+				OR = {
+					religion = protestant
+					religion = catholic
+					religion = reformed
+				}
+				not = { province_id = 118 }
+				is_in_capital_area = yes
+				is_reformation_center = no
+			}
+		}
+
 		on_convert = {
 			change_religion = protestant
 			add_prestige = -100
@@ -59,7 +234,26 @@ christian = {
 			remove_country_modifier = the_declaration_of_indulgence
 			remove_country_modifier = de_heretico_comburendo
 			remove_country_modifier = the_conventicle_act
-			
+	
+			if = {
+				limit = {
+					has_country_flag = reformation_money
+				}
+				random_owned_province = {
+					limit = {
+						OR = {
+							religion = protestant
+							religion = catholic
+							religion = reformed
+						}
+						is_in_capital_area = yes
+						is_reformation_center = no
+						not = { province_id = 118 }
+					}
+					change_religion = protestant
+					add_reform_center = protestant
+				}
+			}	
 			if = {
 				limit = {
 					NOT = { has_country_flag = reformation_money }
@@ -67,15 +261,24 @@ christian = {
 				add_years_of_income = 1.0
 				random_owned_province = {
 					limit = {
-						religion = catholic
+						OR = {
+							religion = protestant
+							religion = catholic
+							religion = reformed
+						}
+						is_in_capital_area = yes
+						is_reformation_center = no
+						not = { province_id = 118 }
 					}
 					change_religion = protestant
+					add_reform_center = protestant
 				}
 			}
+			
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
-			}
+			}			
 			set_country_flag = reformation_money
 			every_known_country = {
 				limit = {
@@ -103,9 +306,25 @@ christian = {
 			protestant
 			catholic
 		}
+		allowed_center_conversion = {
+			catholic
+		}
 		country = {
 			tolerance_heretic = 2
 			advisor_pool = 1
+		}
+
+		will_get_center = {
+			any_owned_province = {
+				OR = {
+					religion = protestant
+					religion = catholic
+					religion = reformed
+				}
+				not = { province_id = 118 }
+				is_in_capital_area = yes
+				is_reformation_center = no
+			}
 		}
 		
 		on_convert = {
@@ -121,20 +340,47 @@ christian = {
 			
 			if = {
 				limit = {
+					has_country_flag = reformation_money
+				}
+				random_owned_province = {
+					limit = {
+						OR = {
+							religion = protestant
+							religion = catholic
+							religion = reformed
+						}
+						not = { province_id = 118 }
+						is_in_capital_area = yes
+						is_reformation_center = no
+					}
+					change_religion = reformed
+					add_reform_center = reformed
+				}
+			}	
+			if = {
+				limit = {
 					NOT = { has_country_flag = reformation_money }
 				}
 				add_years_of_income = 1.0
 				random_owned_province = {
 					limit = {
-						religion = catholic
+						OR = {
+							religion = protestant
+							religion = catholic
+							religion = reformed
+						}
+						is_in_capital_area = yes
+						is_reformation_center = no
+						not = { province_id = 118 }
 					}
 					change_religion = reformed
+					add_reform_center = reformed
 				}
 			}
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
-			}
+			}			
 			set_country_flag = "reformation_money"
 			every_known_country = {
 				limit = {
@@ -187,41 +433,7 @@ christian = {
 		
 		heretic = { ZAMIKAELITES STEPHANITES EUSTATHIANS }
 		
-		has_patriarchs = yes		# Uses patriarch authority
 		misguided_heretic = yes		# Other christians hate them less (?)
-	}
-	
-	catholic_heresy = {
-		icon = 26
-		color = { 0.8 0.8 0 }
-		allowed_conversion = {
-			reformed
-			protestant
-		}
-		country = {
-			tolerance_own = 1
-			tolerance_heretic = -1
-		}
-		
-		on_convert = {
-			change_religion = catholic_heresy
-			add_stability = -3
-		}
-	}
-	
-	orthodox_heresy = {
-		icon = 27
-		color = { 0.6 0.6 0.7 }
-		country = {
-			stability_cost_modifier = -0.1
-			tolerance_own = 1
-		}
-		province = {
-			local_missionary_strength = -0.01
-		}
-		
-		has_patriarchs = yes		# Uses patriarch authority
-		misguided_heretic = yes		#other christians hate them less
 	}
 	
 	crusade_name = CRUSADE

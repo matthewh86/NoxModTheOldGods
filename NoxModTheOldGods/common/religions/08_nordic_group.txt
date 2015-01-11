@@ -1,23 +1,35 @@
 nordic_group = {
 	defender_of_faith = yes
-	finnish_pagan_reformed = {
-		icon = 17
+	can_form_personal_unions = yes
+	center_of_religion = 12
+	
+	suomenusko = {
+		icon = 20
 		color = { 0.8 0.7 0.7 }
 		country = {
 			land_morale = 0.1
 			land_forcelimit_modifier = 0.1
 		}
-		uses_piety = yes
-		heretic = { OLD_SUOMENUSKO }	
+		heretic = { OLD_SUOMENUSKO JUMISM }	
 	}
-	norse_pagan_reformed = {
-		icon = 18
-		color = { 0.6 0.5 0.5 }
+	scandinavian_norse = {
+		icon = 21
+		color = { 0.5 0.7 0.5 }
 		country = {
 			land_forcelimit_modifier = 0.10
 			naval_forcelimit_modifier = 0.10
 		}
-		uses_piety = yes
-		heretic = { OLD_NORSE }
+		personal_deity = yes
+		heretic = { OLD_NORSE ODINSRAFN }
+	}
+	germanic_norse = {
+		icon = 21
+		color = { 0.7 0.5 0.5 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		personal_deity = yes
+		heretic = { OLD_NORSE WOTANSRABE }
 	}
 }

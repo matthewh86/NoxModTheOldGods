@@ -1,7 +1,10 @@
 jewish_group = {
 	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 379 # Jerusalem
+	
 	jewish = {
-		icon = 24
+		icon = 27
 		color = { 0 0.6 1.0 }
 		province = {
 			local_missionary_strength = -0.05
@@ -12,13 +15,5 @@ jewish_group = {
 		}
 		has_patriarchs = yes
 		heretic = { SAMARITAN KARAITE }
-	}
-	jewish_heresy = {
-		icon = 31
-		color = { 0.6 0.1 0.1 }
-		country = {
-			tolerance_own = 1
-			tolerance_heathens = -1
-		}
 	}
 }

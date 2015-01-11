@@ -12,7 +12,7 @@ eastern = {
 	}
 
 	confucianism = {
-		color = { 0.8 0.8 0.8 }
+		color = { 0.8 0 0.9 }
 		icon = 9
 		country = {
 			tolerance_heretic = 2

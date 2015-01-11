@@ -1,5 +1,5 @@
-name="NoxMod - The Old Gods - 1.9.2"
-path="mod/noxmodtheoldgods_1.9.2"
+name="NoxMod - The Old Gods - 1.9.2.0"
+path="mod/noxmodtheoldgods"
 tags=
 {
  "Alternative History"
