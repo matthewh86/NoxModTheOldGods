@@ -2,7 +2,7 @@
 
 owner = LTI
 controller = LTI
-culture = umbrian 
+culture = roman 
 religion = catholic 
 hre = no
 base_tax = 12

@@ -1,7 +1,7 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = AIS
-controller = AIS
+owner = CMY
+controller = CMY
 capital = "Arras"
 citysize = 35500
 culture = wallonian
@@ -10,7 +10,7 @@ hre = no
 base_tax = 6
 trade_goods = cloth
 manpower = 3
-add_core = AIS
+add_core = CMY
 marketplace = yes
 fort1 = yes
 discovered_by = eastern

@@ -8,7 +8,7 @@ country_decisions = {
 			OR = {
 				tag = SAV
 				tag = SAR
-				tag = Z33
+				tag = PIE
 			}
 			is_colonial_nation = no
 			OR = {
@@ -28,18 +28,18 @@ country_decisions = {
 					tag = SAR
 					AND = {
 						NOT = { exists = SAV }
-						NOT = { exists = Z33 }
+						NOT = { exists = PIE }
 					}
 				}
 				AND = {
 					tag = SAV
 					AND = {
 						NOT = { exists = SAR }
-						NOT = { exists = Z33 }
+						NOT = { exists = PIE }
 					}
 				}
 				AND = {
-					tag = Z33
+					tag = PIE
 					AND = {
 						NOT = { exists = SAR }
 						NOT = { exists = SAV }
@@ -76,15 +76,15 @@ country_decisions = {
 				AND = {
 					tag = SAV
 					SAR = { ai = yes }
-					Z33 = { ai = yes }
+					PIE = { ai = yes }
 				}
 				AND = {
 					tag = SAR
 					SAV = { ai = yes }
-					Z33 = { ai = yes }
+					PIE = { ai = yes }
 				}
 				AND = {
-					tag = Z33
+					tag = PIE
 					SAR = { ai = yes }
 					SAV = { ai = yes }
 				}
@@ -103,7 +103,7 @@ country_decisions = {
 					owns = 127			# Sardinia
 					is_core = 127		# Sardinia
 					senior_union_with = SAV
-					senior_union_with = Z33
+					senior_union_with = PIE
 					SAV = {
 						owns = 103		# Piedmont
 						is_core = 103	# Piedmont
@@ -114,14 +114,14 @@ country_decisions = {
 					owns = 103			# Piedmont
 					is_core = 103		# Piedmont
 					senior_union_with = SAR
-					senior_union_with = Z33
+					senior_union_with = PIE
 					SAR = {
 						owns = 127		# Sardinia
 						is_core = 127	# Sardinia
 					}
 				}
 				AND = {
-					tag = Z33
+					tag = PIE
 					owns = 103			# Piedmont
 					is_core = 103		# Piedmont
 					senior_union_with = SAR
@@ -139,18 +139,18 @@ country_decisions = {
 					tag = SAV
 				}
 				inherit = SAR
-				inherit = Z33
+				inherit = PIE
 			}
 			if = {
 				limit = {
 					tag = SAR
 				}
 				inherit = SAV
-				inherit = Z33
+				inherit = PIE
 			}
 			if = {
 				limit = {
-					tag = Z33
+					tag = PIE
 				}
 				inherit = SAR
 				inherit = SAV

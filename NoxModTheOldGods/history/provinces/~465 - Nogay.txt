@@ -3,7 +3,7 @@
 owner = NOG
 controller = NOG
 culture = nogaybak
-religion = tengri
+religion = jewish
 capital = "Saraychik"
 trade_goods = salt
 hre = no

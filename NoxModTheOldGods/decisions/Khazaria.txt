@@ -6,8 +6,8 @@ country_decisions = {
 			NOT = { exists = KHZ }
 			OR = {
 				tag = CRI
-				tag = NOG
-				tag = Z66
+				tag = AST
+				tag = ALN
 			}
 			is_colonial_nation = no
 			OR = {
@@ -26,22 +26,22 @@ country_decisions = {
 				AND = {
 					tag = CRI
 					AND = {
-						NOT = { exists = NOG }
-						NOT = { exists = Z66 }
+						NOT = { exists = AST }
+						NOT = { exists = ALN }
 					}
 				}
 				AND = {
-					tag = NOG
+					tag = AST
 					AND = {
 						NOT = { exists = CRI }
-						NOT = { exists = Z66 }
+						NOT = { exists = ALN }
 					}
 				}
 				AND = {
-					tag = Z66
+					tag = ALN
 					AND = {
 						NOT = { exists = CRI }
-						NOT = { exists = NOG }
+						NOT = { exists = AST }
 					}
 				}
 			}

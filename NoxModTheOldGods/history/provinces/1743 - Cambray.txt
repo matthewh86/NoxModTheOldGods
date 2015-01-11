@@ -1,7 +1,7 @@
 # 1743 Cambray
 
-owner = AIS
-controller = AIS
+owner = CMY
+controller = CMY
 capital = "Cambray"
 citysize = 15500
 culture = wallonian
@@ -10,7 +10,7 @@ hre = yes
 base_tax = 5
 trade_goods = grain
 manpower = 2
-add_core = AIS
+add_core = CMY
 marketplace = yes
 fort1 = yes
 discovered_by = eastern

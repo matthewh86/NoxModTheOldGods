@@ -2,7 +2,7 @@
 
 owner = CYP
 controller = CYP
-culture = cypriot
+culture = cypriot_greek
 religion = orthodox
 capital = "Nicosia"
 trade_goods = wine

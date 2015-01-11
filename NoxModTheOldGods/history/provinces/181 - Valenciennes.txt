@@ -1,7 +1,7 @@
 # 181 Rethel
 
-owner = AIS
-controller = AIS
+owner = CMY
+controller = CMY
 capital = "Rethel"
 citysize = 13000
 culture = wallonian
@@ -10,7 +10,7 @@ hre = no
 base_tax = 6
 trade_goods = cloth
 manpower = 2
-add_core = AIS
+add_core = CMY
 fort1 = yes
 discovered_by = eastern
 discovered_by = western

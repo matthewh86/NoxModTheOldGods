@@ -1,7 +1,7 @@
 #120 - Abbruzzi
 
-owner = SPL
-controller = SPL
+owner = LAQ
+controller = LAQ
 culture = umbrian 
 religion = orthodox 
 hre = no 
@@ -11,7 +11,7 @@ manpower = 3
 fort1 = yes 
 capital = "L'Aquila" 
 citysize = 17000 
-add_core = SPL
+add_core = LAQ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

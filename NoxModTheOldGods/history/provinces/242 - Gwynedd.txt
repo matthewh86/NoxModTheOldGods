@@ -1,7 +1,7 @@
 #242 - Gwynedd
 
-owner = WAL
-controller = WAL
+owner = WLS
+controller = WLS
 culture = welsh
 religion = druidic
 hre = no
