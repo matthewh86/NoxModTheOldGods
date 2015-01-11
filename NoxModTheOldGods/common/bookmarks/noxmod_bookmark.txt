@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "bookmark_noxmod_1444"
+	desc = "bookmark_noxmod_1444_DESC"
+	date = 1444.11.11
+	
+	country = BYZ
+	country = TUR
+	country = PER
+	
+	easy_country = BYZ
+	easy_country = TUR
+	easy_country = PER
+}
