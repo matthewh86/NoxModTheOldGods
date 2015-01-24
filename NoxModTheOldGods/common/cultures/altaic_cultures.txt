@@ -26,6 +26,6 @@ altaic = {
 		primary = CHG
 	}
 	dynasty_names = {
-		"Chagatay" "EdigÃ¼id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 	}
 }

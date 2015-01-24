@@ -237,7 +237,7 @@ burman= {
 	}
 }
 
-hmongâ€“mien = {
+hmong-mien = {
 	graphical_culture = asiangfx
 	
 	miao = {

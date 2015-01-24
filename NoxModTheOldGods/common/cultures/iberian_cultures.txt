@@ -4,14 +4,14 @@ iberian	= {
 	castillian = {
 		primary = CAS
 		dynasty_names = {
-			"de TrastÃ¡mara" "de GuzmÃ¡n" "Ãlvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
-			TÃ©llez-GirÃ³n "Manrique de Lara" Sandoval "de Ãvalos"
+			"de Trastámara" "de Guzmán" "Ãlvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+			Téllez-Girón "Manrique de Lara" Sandoval "de Ãvalos"
 		}
 	}
 	catalan = {
 		primary = ARA
 		dynasty_names = {
-			"d'AragÃ³" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
+			"d'Aragó" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
 		}
 	}
 	galician = {
@@ -30,7 +30,7 @@ iberian	= {
 		primary = POR
 		dynasty_names = {
 			"de Aviz" "de BraganÃ§a" "de Crato" "d'Alburquerque" "de Portugal" "de Lencastre" "de Melo" 
-			"de Moura" "de NÃ¡poles" "de Menezes"
+			"de Moura" "de Nápoles" "de Menezes"
 		}
 	}
 	basque = {

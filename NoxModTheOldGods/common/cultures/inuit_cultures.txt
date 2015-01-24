@@ -12,7 +12,7 @@ evenks = {
 	buryat = {
 		primary = BRT
 		dynasty_names = {
-			Badarhan "Chagatay" "EdigÃ¼id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+			Badarhan "Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 		}
 	}
 	tungus = {
