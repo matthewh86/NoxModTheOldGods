@@ -1,4 +1,4 @@
-﻿#1831 - Travunia
+#1831 - Travunia
 
 owner = BOS		# Part of the Bosnian kingdom
 controller = BOS

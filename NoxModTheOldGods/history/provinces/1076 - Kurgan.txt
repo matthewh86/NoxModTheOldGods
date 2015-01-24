@@ -1,4 +1,4 @@
-﻿#1076 - Kurgan
+#1076 - Kurgan
 
 owner = SIB
 controller = SIB

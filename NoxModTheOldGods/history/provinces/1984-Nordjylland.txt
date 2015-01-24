@@ -1,4 +1,4 @@
-﻿#Nordjylland
+#Nordjylland
 
 owner = DAN
 controller = DAN

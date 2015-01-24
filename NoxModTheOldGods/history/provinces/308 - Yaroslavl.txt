@@ -1,4 +1,4 @@
-﻿#308 - Yaroslavl
+#308 - Yaroslavl
 
 owner = YAR
 controller = YAR

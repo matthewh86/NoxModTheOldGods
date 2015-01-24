@@ -1,4 +1,4 @@
-﻿#206 - Galicia
+#206 - Galicia
 
 owner = GAL		#Juan II of Castille
 controller = GAL

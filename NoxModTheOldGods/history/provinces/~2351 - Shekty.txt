@@ -1,4 +1,4 @@
-﻿# 2351 - Shekty
+# 2351 - Shekty
 
 owner = KZH
 controller = KZH

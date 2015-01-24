@@ -1,4 +1,4 @@
-﻿#637 - Jesselton
+#637 - Jesselton
 
 owner = BEI
 controller = BEI

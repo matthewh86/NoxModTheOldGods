@@ -1,4 +1,4 @@
-﻿#1864 - Somogy
+#1864 - Somogy
 
 owner = SOP
 controller = SOP

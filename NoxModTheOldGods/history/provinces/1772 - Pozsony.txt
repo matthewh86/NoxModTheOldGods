@@ -1,4 +1,4 @@
-﻿#1772 - Pozsony
+#1772 - Pozsony
 
 owner = SLK
 controller = SLK  

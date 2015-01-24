@@ -1,4 +1,4 @@
-﻿#Ösel and Dagö, incl. Sonnenburg and Arensburg.
+#Ösel and Dagö, incl. Sonnenburg and Arensburg.
 
 owner = GOT
 controller = GOT

@@ -1,4 +1,4 @@
-﻿#2411 - Mansur
+#2411 - Mansur
 
 owner = CHR
 controller = CHR

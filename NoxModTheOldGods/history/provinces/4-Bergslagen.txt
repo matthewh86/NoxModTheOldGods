@@ -1,4 +1,4 @@
-﻿#Bergslagen, contains Falun, Västerås etc.
+#Bergslagen, contains Falun, Västerås etc.
 
 add_core = SWE
 owner = SWE

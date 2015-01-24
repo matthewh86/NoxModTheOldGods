@@ -1,4 +1,4 @@
-﻿#246 - Northumberland
+#246 - Northumberland
 
 owner = NOL
 controller = NOL

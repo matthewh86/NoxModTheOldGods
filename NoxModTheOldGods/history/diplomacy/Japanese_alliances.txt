@@ -1,4 +1,4 @@
-﻿# Japanese vassal
+# Japanese vassal
 vassal = {
 	first = JAP
 	second = RYU

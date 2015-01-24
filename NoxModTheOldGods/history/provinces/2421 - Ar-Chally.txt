@@ -1,4 +1,4 @@
-﻿#2421 - Ar-Chally
+#2421 - Ar-Chally
 
 owner = KAZ
 controller = KAZ

@@ -1,4 +1,4 @@
-﻿# 2364 - Talas
+# 2364 - Talas
 
 owner = KAS
 controller = KAS

@@ -1,4 +1,4 @@
-﻿#Sönderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
+#Sönderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
 
 add_core = SHL
 owner = SHL

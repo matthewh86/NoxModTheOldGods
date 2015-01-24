@@ -1,4 +1,4 @@
-﻿otomanguean = {
+otomanguean = {
 	graphical_culture = southamericagfx
 	zapotek = {
 		primary = ZAP

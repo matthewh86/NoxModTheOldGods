@@ -1,4 +1,4 @@
-﻿#1973 - Urgench
+#1973 - Urgench
 
 owner = KHI
 controller = KHI

@@ -1,4 +1,4 @@
-﻿# 91 Hainaut - Principal cities: Mons & Tournai
+# 91 Hainaut - Principal cities: Mons & Tournai
 
 owner = HAI
 controller = HAI

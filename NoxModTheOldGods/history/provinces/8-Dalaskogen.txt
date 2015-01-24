@@ -1,4 +1,4 @@
-﻿#Dalaskogen, northwesten part of Dalarna, including Mora and entire Siljan area.
+#Dalaskogen, northwesten part of Dalarna, including Mora and entire Siljan area.
 
 add_core = SWE
 owner = SWE

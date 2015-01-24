@@ -1,4 +1,4 @@
-﻿#1747 - Caceres
+#1747 - Caceres
 
 owner = TOL		#Enrique III of Castille
 controller = TOL

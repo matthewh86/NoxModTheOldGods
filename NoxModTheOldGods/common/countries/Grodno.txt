@@ -1,4 +1,4 @@
-﻿# Grodno
+# Grodno
 graphical_culture = easterngfx
 color = { 131 30 30 }
 historical_idea_groups = {

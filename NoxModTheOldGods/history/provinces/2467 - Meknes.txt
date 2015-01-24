@@ -1,4 +1,4 @@
-﻿# - Meknes
+# - Meknes
 
 owner = MOR
 controller = MOR

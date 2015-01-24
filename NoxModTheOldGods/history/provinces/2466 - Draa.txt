@@ -1,4 +1,4 @@
-﻿# - Draa
+# - Draa
 
 owner = TFL
 controller = TFL

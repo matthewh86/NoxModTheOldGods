@@ -1,4 +1,4 @@
-﻿# Iceland
+# Iceland
 graphical_culture = westerngfx
 color = { 100 100 200 }
 historical_idea_groups = {

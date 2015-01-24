@@ -1,4 +1,4 @@
-﻿#352 - Gafsa
+#352 - Gafsa
 
 owner = GHD
 controller = GHD  

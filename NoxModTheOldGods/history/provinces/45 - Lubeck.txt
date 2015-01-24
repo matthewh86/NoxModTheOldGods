@@ -1,4 +1,4 @@
-﻿#45 - Lübeck
+#45 - Lübeck
 
 owner = HSA
 controller = HSA

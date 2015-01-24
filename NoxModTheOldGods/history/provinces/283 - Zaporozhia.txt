@@ -1,4 +1,4 @@
-﻿#283 - Zaporozhia
+#283 - Zaporozhia
 
 owner = ZAZ
 controller = ZAZ

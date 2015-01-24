@@ -1,4 +1,4 @@
-﻿# 2366 - Utva
+# 2366 - Utva
 
 owner = BSH
 controller = BSH

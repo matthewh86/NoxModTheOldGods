@@ -1,4 +1,4 @@
-﻿# Lothian
+# Lothian
 graphical_culture = westerngfx
 color = { 220 180 20 }
 historical_idea_groups = {

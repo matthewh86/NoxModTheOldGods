@@ -1,4 +1,4 @@
-﻿#Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
+#Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
 
 add_core = DAN
 owner = DAN

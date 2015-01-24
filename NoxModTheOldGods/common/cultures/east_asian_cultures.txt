@@ -1,4 +1,4 @@
-﻿east_asian = {	#Chinese Group
+east_asian = {	#Chinese Group
 	graphical_culture = asiangfx
 
 	manchu = {

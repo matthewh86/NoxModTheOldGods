@@ -1,4 +1,4 @@
-﻿#Gotland- Visby etc
+#Gotland- Visby etc
 
 owner = GOT
 controller = GOT

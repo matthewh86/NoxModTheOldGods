@@ -1,4 +1,4 @@
-﻿government = tribal_democracy
+government = tribal_democracy
 #aristocracy_plutocracy = -1
 #centralization_decentralization = 3
 #innovative_narrowminded = 2

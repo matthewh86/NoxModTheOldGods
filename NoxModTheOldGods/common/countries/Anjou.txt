@@ -1,4 +1,4 @@
-﻿# Anjou
+# Anjou
 graphical_culture = westerngfx
 color = { 90 90 195 }
 historical_idea_groups = {

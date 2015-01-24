@@ -1,4 +1,4 @@
-﻿# 1744 Antwerp - Principal cities: Antwerp
+# 1744 Antwerp - Principal cities: Antwerp
 
 owner = FLA
 controller = FLA

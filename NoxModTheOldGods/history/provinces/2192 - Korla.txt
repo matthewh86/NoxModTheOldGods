@@ -1,4 +1,4 @@
-﻿# 2192 - Korla
+# 2192 - Korla
 
 owner = KAS
 controller = KAS

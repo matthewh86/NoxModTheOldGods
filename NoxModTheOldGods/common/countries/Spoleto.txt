@@ -1,4 +1,4 @@
-﻿# Spoleto
+# Spoleto
 graphical_culture = westerngfx
 color = { 217 182 153 }
 historical_idea_groups = {

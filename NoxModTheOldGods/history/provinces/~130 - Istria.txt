@@ -1,4 +1,4 @@
-﻿#130 - Istria
+#130 - Istria
 
 owner = SLV
 controller = SLV

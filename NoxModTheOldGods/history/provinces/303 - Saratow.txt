@@ -1,4 +1,4 @@
-﻿#303 - Saratow
+#303 - Saratow
 
 owner = GOL
 controller = GOL       

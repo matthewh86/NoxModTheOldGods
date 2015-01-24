@@ -1,4 +1,4 @@
-﻿ABD = countries/Aberdeenshire.txt
+ABD = countries/Aberdeenshire.txt
 ADR = countries/Adrianople.txt
 AIA = countries/Andalusia.txt
 ALN = countries/Alania.txt

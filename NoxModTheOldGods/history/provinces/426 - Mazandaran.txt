@@ -1,4 +1,4 @@
-﻿#426 - Mazandaran
+#426 - Mazandaran
 
 owner = TAB
 controller = TAB

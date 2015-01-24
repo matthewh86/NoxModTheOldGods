@@ -1,4 +1,4 @@
-﻿#163 - Crete
+#163 - Crete
 
 owner = CRT
 controller = CRT

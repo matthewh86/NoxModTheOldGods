@@ -1,4 +1,4 @@
-﻿#Åland
+#Åland
 
 owner = GOT
 controller = GOT

@@ -1,4 +1,4 @@
-﻿#315 - Finnmark
+#315 - Finnmark
 
 owner = SAP
 controller = SAP

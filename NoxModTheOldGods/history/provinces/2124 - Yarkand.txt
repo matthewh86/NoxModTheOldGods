@@ -1,4 +1,4 @@
-﻿# 2124 - Yarkand
+# 2124 - Yarkand
 
 owner = KAS
 controller = KAS

@@ -1,4 +1,4 @@
-﻿# 186 Champagne - Principal cities: Reims
+# 186 Champagne - Principal cities: Reims
 
 owner = CHP
 controller = CHP

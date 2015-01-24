@@ -1,4 +1,4 @@
-﻿#1767 - Veroce
+#1767 - Veroce
 
 owner = CRO
 controller = CRO

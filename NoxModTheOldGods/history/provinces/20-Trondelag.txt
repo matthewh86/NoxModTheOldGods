@@ -1,4 +1,4 @@
-﻿#Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
+#Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
 
 owner = NOR
 controller = NOR

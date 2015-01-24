@@ -1,4 +1,4 @@
-﻿#1778 - Kasimov
+#1778 - Kasimov
 
 owner = RYA
 controller = RYA

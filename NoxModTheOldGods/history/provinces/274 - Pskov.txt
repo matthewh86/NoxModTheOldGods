@@ -1,4 +1,4 @@
-﻿#274 - Pskov
+#274 - Pskov
 
 owner = PSK
 controller = PSK

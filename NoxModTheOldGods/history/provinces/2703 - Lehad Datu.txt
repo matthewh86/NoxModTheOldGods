@@ -1,4 +1,4 @@
-﻿#2703 - Lehad Datu
+#2703 - Lehad Datu
 
 owner = BEI
 controller = BEI

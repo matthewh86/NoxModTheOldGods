@@ -1,4 +1,4 @@
-﻿#257 - Mazovia
+#257 - Mazovia
 
 owner = MAZ
 controller = MAZ

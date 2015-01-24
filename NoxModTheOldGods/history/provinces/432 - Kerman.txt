@@ -1,4 +1,4 @@
-﻿#432 - Kerman
+#432 - Kerman
 
 owner = PER
 controller = PER

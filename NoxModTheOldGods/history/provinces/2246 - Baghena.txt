@@ -1,4 +1,4 @@
-﻿# No previous file for Baghena
+# No previous file for Baghena
 
 owner = ZAF
 controller = ZAF

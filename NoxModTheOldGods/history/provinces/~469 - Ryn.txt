@@ -1,4 +1,4 @@
-﻿#469 - Ryn
+#469 - Ryn
 
 owner = NOG
 controller = NOG

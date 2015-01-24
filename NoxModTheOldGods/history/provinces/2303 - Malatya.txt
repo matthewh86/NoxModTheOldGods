@@ -1,4 +1,4 @@
-﻿#2303 - Malatya
+#2303 - Malatya
 
 owner = DUL
 controller = DUL

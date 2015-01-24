@@ -1,4 +1,4 @@
-﻿#Ladoga
+#Ladoga
 
 owner = NOV
 controller = NOV

@@ -1,4 +1,4 @@
-﻿#1232 - Suakin
+#1232 - Suakin
 
 owner = NUB
 controller = NUB

@@ -1,4 +1,4 @@
-﻿#2684 - Nias
+#2684 - Nias
 
 culture = sumatran
 religion = shafi

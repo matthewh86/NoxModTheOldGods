@@ -1,4 +1,4 @@
-﻿# Meath
+# Meath
 
 graphical_culture = westerngfx
 

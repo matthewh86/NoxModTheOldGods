@@ -1,4 +1,4 @@
-﻿#2298 - Tekke
+#2298 - Tekke
 
 owner = TUR
 controller = TUR

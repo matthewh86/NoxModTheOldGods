@@ -1,4 +1,4 @@
-﻿#148 - Macedonia
+#148 - Macedonia
 
 owner = MCD
 controller = MCD

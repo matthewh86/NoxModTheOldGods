@@ -1,4 +1,4 @@
-﻿#249 - Ayrshire
+#249 - Ayrshire
 
 owner = LOT
 controller = LOT

@@ -1,4 +1,4 @@
-﻿#276 - Minsk
+#276 - Minsk
 
 owner = PLT
 controller = PLT   

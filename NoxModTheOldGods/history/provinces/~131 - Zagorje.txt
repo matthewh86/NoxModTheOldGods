@@ -1,4 +1,4 @@
-﻿#131 - Zagorje
+#131 - Zagorje
 
 owner = CRO
 controller = CRO

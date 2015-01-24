@@ -1,4 +1,4 @@
-﻿#1157 - Borno
+#1157 - Borno
 
 owner = KBO
 controller = KBO

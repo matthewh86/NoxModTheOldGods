@@ -1,4 +1,4 @@
-﻿iberian	= {
+iberian	= {
 	graphical_culture = westerngfx
 
 	castillian = {

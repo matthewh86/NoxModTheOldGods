@@ -1,4 +1,4 @@
-﻿# 1743 Cambray
+# 1743 Cambray
 
 owner = ART
 controller = ART

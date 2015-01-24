@@ -1,4 +1,4 @@
-﻿#402 - Mahra
+#402 - Mahra
 
 owner = ADE
 controller = ADE

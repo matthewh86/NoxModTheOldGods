@@ -1,4 +1,4 @@
-﻿# Maine
+# Maine
 graphical_culture = westerngfx
 color = { 70 70 195 }
 historical_idea_groups = {

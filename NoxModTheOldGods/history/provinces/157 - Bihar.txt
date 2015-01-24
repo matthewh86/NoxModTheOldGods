@@ -1,4 +1,4 @@
-﻿#157 - Bihar
+#157 - Bihar
 
 owner = HUN
 controller = HUN 

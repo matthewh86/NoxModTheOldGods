@@ -1,4 +1,4 @@
-﻿#1857 - Lauenburg
+#1857 - Lauenburg
 
 owner = LAU
 controller = LAU

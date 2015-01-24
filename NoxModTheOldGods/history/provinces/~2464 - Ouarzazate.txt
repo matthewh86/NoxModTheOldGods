@@ -1,4 +1,4 @@
-﻿# - Ouarzazate
+# - Ouarzazate
 
 owner = TFL
 controller = TFL

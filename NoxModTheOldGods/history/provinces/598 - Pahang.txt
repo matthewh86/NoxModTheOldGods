@@ -1,4 +1,4 @@
-﻿#598 - Pahang
+#598 - Pahang
 
 owner = MLC
 controller = MLC

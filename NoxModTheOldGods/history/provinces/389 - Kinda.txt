@@ -1,4 +1,4 @@
-﻿#389 - Hadramut
+#389 - Hadramut
 
 owner = ADE
 controller = ADE

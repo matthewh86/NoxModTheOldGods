@@ -1,4 +1,4 @@
-﻿# Byelorussia
+# Byelorussia
 graphical_culture = easterngfx
 color = { 180 0 30 }
 historical_idea_groups = {

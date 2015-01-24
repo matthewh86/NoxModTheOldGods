@@ -1,4 +1,4 @@
-﻿#1745 - Cantabria
+#1745 - Cantabria
 
 owner = LEO		#Enrique III of Castille
 controller = LEO

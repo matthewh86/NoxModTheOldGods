@@ -1,4 +1,4 @@
-﻿#1827 - Raska
+#1827 - Raska
 
 owner = SER
 controller = SER

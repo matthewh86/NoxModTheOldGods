@@ -1,4 +1,4 @@
-﻿#Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
+#Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
 
 owner = SAP
 controller = SAP

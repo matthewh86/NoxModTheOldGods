@@ -1,4 +1,4 @@
-﻿# Essex
+# Essex
 graphical_culture = westerngfx
 color = { 160 10 10 }
 historical_idea_groups = {

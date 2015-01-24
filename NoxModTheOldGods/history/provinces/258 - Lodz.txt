@@ -1,4 +1,4 @@
-﻿#258 - Lodz
+#258 - Lodz
 
 owner = POL
 controller = POL

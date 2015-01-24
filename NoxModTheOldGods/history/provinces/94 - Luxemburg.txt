@@ -1,4 +1,4 @@
-﻿# 94 Luxembourg - Principal cities: Luxembourg
+# 94 Luxembourg - Principal cities: Luxembourg
 
 owner = LUX
 controller = LUX 

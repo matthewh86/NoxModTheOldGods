@@ -1,4 +1,4 @@
-﻿maya = {
+maya = {
 	graphical_culture = southamericagfx
 
 	yucatec = {

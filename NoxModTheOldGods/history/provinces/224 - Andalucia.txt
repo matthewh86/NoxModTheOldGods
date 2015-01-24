@@ -1,4 +1,4 @@
-﻿#224 - Andalucía
+#224 - Andalucía
 
 owner = AIA		#Juan II of Castille
 controller = AIA

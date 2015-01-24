@@ -1,4 +1,4 @@
-﻿finno_ugric = {
+finno_ugric = {
 	graphical_culture = westerngfx
 
 	finnish = {

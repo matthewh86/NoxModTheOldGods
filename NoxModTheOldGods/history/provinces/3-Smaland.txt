@@ -1,4 +1,4 @@
-﻿#Småland, also contains Öland.  Kalmar, Jönköping etc..
+#Småland, also contains Öland.  Kalmar, Jönköping etc..
 
 add_core = SWE
 owner = SWE

@@ -1,4 +1,4 @@
-﻿#575 - Eastern Makran
+#575 - Eastern Makran
 
 owner = BAL
 controller = BAL

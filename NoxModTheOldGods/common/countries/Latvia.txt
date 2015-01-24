@@ -1,4 +1,4 @@
-﻿# Latvia
+# Latvia
 graphical_culture = easterngfx
 color = { 110 50 50 }
 historical_idea_groups = {

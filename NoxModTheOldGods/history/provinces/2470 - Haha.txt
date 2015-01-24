@@ -1,4 +1,4 @@
-﻿#2470 - Haha
+#2470 - Haha
 
 owner = SOS
 controller = SOS

@@ -1,4 +1,4 @@
-﻿# Lancaster
+# Lancaster
 graphical_culture = westerngfx
 color = { 242 26 26 }
 historical_idea_groups = {

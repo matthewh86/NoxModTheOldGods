@@ -1,4 +1,4 @@
-﻿#2234 - Rafsanjan
+#2234 - Rafsanjan
 
 owner = PER
 controller = PER

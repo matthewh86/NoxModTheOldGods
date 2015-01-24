@@ -1,4 +1,4 @@
-﻿mande = {
+mande = {
 	graphical_culture = africangfx
 	mali = {
 		primary = MAL

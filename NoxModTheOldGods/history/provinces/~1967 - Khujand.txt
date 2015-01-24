@@ -1,4 +1,4 @@
-﻿#1967 - Khujand
+#1967 - Khujand
 
 owner = KOK
 controller = KOK

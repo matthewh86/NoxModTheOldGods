@@ -1,4 +1,4 @@
-﻿#282 - Yedisan
+#282 - Yedisan
 
 owner = MOL
 controller = MOL

@@ -1,4 +1,4 @@
-﻿#351 - Biskra
+#351 - Biskra
 
 owner = TGT
 controller = TGT 

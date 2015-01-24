@@ -1,4 +1,4 @@
-﻿#414 - Hamadan
+#414 - Hamadan
 
 owner = PER
 controller = PER

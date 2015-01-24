@@ -1,4 +1,4 @@
-﻿#254 - Poznan
+#254 - Poznan
 
 owner = POL
 controller = POL

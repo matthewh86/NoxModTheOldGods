@@ -1,4 +1,4 @@
-﻿british = {
+british = {
 	graphical_culture = westerngfx
 
 	anglo-saxon = {

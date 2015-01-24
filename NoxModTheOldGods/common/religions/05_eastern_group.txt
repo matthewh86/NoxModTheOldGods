@@ -1,4 +1,4 @@
-﻿eastern = {
+eastern = {
 
 	buddhism = {
 		color = { 0.8 0.3 0 }

@@ -1,4 +1,4 @@
-﻿#2202 - Melikates
+#2202 - Melikates
 
 owner = SRV
 controller = SRV

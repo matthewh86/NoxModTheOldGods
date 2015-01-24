@@ -1,4 +1,4 @@
-﻿#264 - Breslau
+#264 - Breslau
 
 owner = SIL
 controller = SIL

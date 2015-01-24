@@ -1,4 +1,4 @@
-﻿#Västergötland, contains Göteborg, Skara, Skövde etc.
+#Västergötland, contains Göteborg, Skara, Skövde etc.
 
 add_core = SWE
 owner = SWE

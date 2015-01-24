@@ -1,4 +1,4 @@
-﻿#2417 - Kuma
+#2417 - Kuma
 
 owner = AST
 controller = AST

@@ -1,4 +1,4 @@
-﻿#2674 - Peureulak
+#2674 - Peureulak
 
 owner = PSA
 controller = PSA

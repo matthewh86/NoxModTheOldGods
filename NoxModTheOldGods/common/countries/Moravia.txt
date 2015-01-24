@@ -1,4 +1,4 @@
-﻿# Moravia
+# Moravia
 graphical_culture = easterngfx
 color = { 157 101 35 }
 historical_idea_groups = {

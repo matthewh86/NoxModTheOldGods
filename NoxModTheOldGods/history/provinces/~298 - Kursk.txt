@@ -1,4 +1,4 @@
-﻿#298 - Kursk
+#298 - Kursk
 
 owner = CHR
 controller = CHR 

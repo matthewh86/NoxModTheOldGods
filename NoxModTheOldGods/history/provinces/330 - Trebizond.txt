@@ -1,4 +1,4 @@
-﻿#330 - Trebizond
+#330 - Trebizond
 
 owner = TRE
 controller = TRE

@@ -1,4 +1,4 @@
-﻿#312 - Beloozero
+#312 - Beloozero
 
 owner = YAR
 controller = YAR

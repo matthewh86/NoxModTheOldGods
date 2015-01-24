@@ -1,4 +1,4 @@
-﻿#712 - Uighuristan
+#712 - Uighuristan
 
 owner = KAS
 controller = KAS

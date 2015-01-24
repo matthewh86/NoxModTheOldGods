@@ -1,4 +1,4 @@
-﻿#311 - Kholm
+#311 - Kholm
 
 owner = NOV
 controller = NOV

@@ -1,4 +1,4 @@
-﻿#427 - Qumis
+#427 - Qumis
 
 owner = KHO
 controller = KHO

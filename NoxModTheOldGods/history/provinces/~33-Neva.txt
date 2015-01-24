@@ -1,4 +1,4 @@
-﻿#Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
+#Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
 
 owner = FIN
 controller = FIN

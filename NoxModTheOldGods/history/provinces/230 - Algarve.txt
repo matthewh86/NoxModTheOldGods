@@ -1,4 +1,4 @@
-﻿#230 - Algarve
+#230 - Algarve
 
 owner = AIA
 controller = AIA

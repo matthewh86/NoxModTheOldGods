@@ -1,4 +1,4 @@
-﻿#2208 - Terek
+#2208 - Terek
 
 owner = GAZ
 controller = GAZ

@@ -1,4 +1,4 @@
-﻿#146 - Athens
+#146 - Athens
 
 owner = BYZ
 controller = BYZ

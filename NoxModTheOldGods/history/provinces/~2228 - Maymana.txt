@@ -1,4 +1,4 @@
-﻿#2228 - Maymana
+#2228 - Maymana
 
 owner = AFG
 controller = AFG

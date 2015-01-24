@@ -1,4 +1,4 @@
-﻿#259 - Sandomierz
+#259 - Sandomierz
 
 owner = POL
 controller = POL

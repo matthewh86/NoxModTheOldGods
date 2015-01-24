@@ -1,4 +1,4 @@
-﻿#114 - Romagna
+#114 - Romagna
 
 owner = LTI		#Bologna was independent until 1506, but the rest of Romagna was mainly under Papal control.
 controller = LTI

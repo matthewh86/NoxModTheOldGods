@@ -1,4 +1,4 @@
-﻿#2235 - Sabzevar
+#2235 - Sabzevar
 
 owner = KHO
 controller = KHO

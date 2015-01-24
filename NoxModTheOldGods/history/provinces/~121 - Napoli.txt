@@ -1,4 +1,4 @@
-﻿#121 - Napoli
+#121 - Napoli
 
 owner = NPI
 controller = NPI

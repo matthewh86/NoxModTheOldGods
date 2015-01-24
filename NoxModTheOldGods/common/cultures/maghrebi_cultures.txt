@@ -1,4 +1,4 @@
-﻿maghrebi_cultures = {
+maghrebi_cultures = {
 	graphical_culture = muslimgfx
 	moroccan = {
 		primary = MOR

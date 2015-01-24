@@ -1,4 +1,4 @@
-﻿turko_semitic = {
+turko_semitic = {
 	graphical_culture = muslimgfx
 	al_misr_arabic = {
 		primary = MAM

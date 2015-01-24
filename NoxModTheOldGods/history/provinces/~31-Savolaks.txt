@@ -1,4 +1,4 @@
-﻿#Savolaks, incl. Nyslott(Olofsborg).
+#Savolaks, incl. Nyslott(Olofsborg).
 
 owner = FIN
 controller = FIN

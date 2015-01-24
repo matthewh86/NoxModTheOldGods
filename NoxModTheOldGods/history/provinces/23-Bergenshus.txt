@@ -1,4 +1,4 @@
-﻿#Bergenshus, incl. Bergen, 
+#Bergenshus, incl. Bergen, 
 
 owner = NOR
 controller = NOR

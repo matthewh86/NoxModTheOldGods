@@ -1,4 +1,4 @@
-﻿# 2349 - Kizil-Su
+# 2349 - Kizil-Su
 
 owner = KHI
 controller = KHI

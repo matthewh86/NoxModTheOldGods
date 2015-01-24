@@ -1,4 +1,4 @@
-﻿#433 - Yadz
+#433 - Yadz
 
 owner = PER
 controller = PER

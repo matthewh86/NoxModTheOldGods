@@ -1,4 +1,4 @@
-﻿#Tavastland, incl. Tavastehus.
+#Tavastland, incl. Tavastehus.
 
 owner = FIN
 controller = FIN

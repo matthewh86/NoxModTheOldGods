@@ -1,4 +1,4 @@
-﻿#43 - Danzig
+#43 - Danzig
 
 owner = DNZ
 controller = DNZ

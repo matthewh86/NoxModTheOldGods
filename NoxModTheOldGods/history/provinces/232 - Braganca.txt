@@ -1,4 +1,4 @@
-﻿#232 - Bragança
+#232 - Bragança
 
 owner = GAL
 controller = GAL

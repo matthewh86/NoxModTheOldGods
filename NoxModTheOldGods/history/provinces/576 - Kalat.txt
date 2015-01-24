@@ -1,4 +1,4 @@
-﻿#576 - Kalat
+#576 - Kalat
 
 owner = BAL
 controller = BAL

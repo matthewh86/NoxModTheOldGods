@@ -1,4 +1,4 @@
-﻿#2309 - Sinjar
+#2309 - Sinjar
 
 owner = IRQ
 controller = IRQ

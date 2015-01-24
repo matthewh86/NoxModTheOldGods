@@ -1,4 +1,4 @@
-﻿#309 - Olonets
+#309 - Olonets
 
 owner = BJA
 controller = BJA   

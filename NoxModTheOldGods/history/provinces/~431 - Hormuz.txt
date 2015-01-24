@@ -1,4 +1,4 @@
-﻿#431 - Hormoz
+#431 - Hormoz
 
 owner = PER
 controller = PER

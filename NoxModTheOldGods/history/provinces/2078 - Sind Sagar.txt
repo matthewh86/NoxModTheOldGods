@@ -1,4 +1,4 @@
-﻿#2078 - Sind Sagar
+#2078 - Sind Sagar
 
 owner = MUL
 controller = MUL

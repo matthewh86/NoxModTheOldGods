@@ -1,4 +1,4 @@
-﻿# No previous file for Zarmaganda
+# No previous file for Zarmaganda
 
 owner = SON
 controller = SON

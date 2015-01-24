@@ -1,4 +1,4 @@
-﻿#2205 - Nakhchivan
+#2205 - Nakhchivan
 
 owner = ARM
 controller = ARM

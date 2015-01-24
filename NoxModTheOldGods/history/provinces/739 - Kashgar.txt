@@ -1,4 +1,4 @@
-﻿#739 - Kashgar
+#739 - Kashgar
 
 owner = KAS
 controller = KAS

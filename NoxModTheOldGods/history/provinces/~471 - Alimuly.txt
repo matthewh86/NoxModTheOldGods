@@ -1,4 +1,4 @@
-﻿#471 - Alimuly
+#471 - Alimuly
 
 owner = KZH
 controller = KZH

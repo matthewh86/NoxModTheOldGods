@@ -1,4 +1,4 @@
-﻿#265 - Moravia
+#265 - Moravia
 
 owner = MRV
 controller = MRV

@@ -1,4 +1,4 @@
-﻿#2429 - Agan
+#2429 - Agan
 
 owner = SIB
 controller = SIB

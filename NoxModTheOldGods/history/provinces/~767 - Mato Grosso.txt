@@ -1,4 +1,4 @@
-﻿# - Wystruc
+# - Wystruc
 
 owner = TEU
 controller = TEU

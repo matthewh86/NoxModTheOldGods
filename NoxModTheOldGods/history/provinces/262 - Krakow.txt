@@ -1,4 +1,4 @@
-﻿#262 - Krakow
+#262 - Krakow
 
 owner = KRA
 controller = KRA

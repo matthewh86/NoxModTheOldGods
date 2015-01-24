@@ -1,4 +1,4 @@
-﻿#334 - Tangiers
+#334 - Tangiers
 
 owner = MOR
 controller = MOR  

@@ -1,4 +1,4 @@
-﻿#1133 - Gao
+#1133 - Gao
 
 owner = SON
 controller = SON

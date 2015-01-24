@@ -1,4 +1,4 @@
-﻿#368 - Madeira
+#368 - Madeira
 
 capital = "Madeira"
 trade_goods = unknown

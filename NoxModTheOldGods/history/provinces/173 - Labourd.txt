@@ -1,4 +1,4 @@
-﻿# 173 Labourd - Principal cities: Bayonne (can't change file name)
+# 173 Labourd - Principal cities: Bayonne (can't change file name)
 
 owner = NAV
 controller = NAV

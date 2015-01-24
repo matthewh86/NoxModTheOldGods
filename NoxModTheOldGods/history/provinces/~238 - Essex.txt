@@ -1,4 +1,4 @@
-﻿#238 - Essex
+#238 - Essex
 
 owner = ESX
 controller = ESX

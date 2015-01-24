@@ -1,4 +1,4 @@
-﻿#Wenden & Polish Livonia
+#Wenden & Polish Livonia
 
 owner = LTV
 controller = LTV

@@ -1,4 +1,4 @@
-﻿#102 - Nice
+#102 - Nice
 
 owner = PIE
 controller = PIE

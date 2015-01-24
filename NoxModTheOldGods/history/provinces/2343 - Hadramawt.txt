@@ -1,4 +1,4 @@
-﻿#2343 - Hadramawt
+#2343 - Hadramawt
 
 owner = ADE
 controller = ADE

@@ -1,4 +1,4 @@
-﻿#142 - Corfu
+#142 - Corfu
 
 owner = BYZ
 controller = BYZ

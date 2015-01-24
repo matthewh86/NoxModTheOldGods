@@ -1,4 +1,4 @@
-﻿tartar	= {
+tartar	= {
 	graphical_culture = muslimgfx
 	astrakhani = {
 		primary = AST

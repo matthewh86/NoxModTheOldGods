@@ -1,4 +1,4 @@
-﻿#594 - Pattani
+#594 - Pattani
 
 owner = PAT
 controller = PAT

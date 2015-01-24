@@ -1,4 +1,4 @@
-﻿# 191 Nevers - Principal cities: Nevers
+# 191 Nevers - Principal cities: Nevers
 
 owner = NEV
 controller = NEV 

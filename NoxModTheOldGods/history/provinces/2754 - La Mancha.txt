@@ -1,4 +1,4 @@
-﻿#2754 - La Mancha
+#2754 - La Mancha
 
 owner = TOL		#Juan II of Castille
 controller = TOL

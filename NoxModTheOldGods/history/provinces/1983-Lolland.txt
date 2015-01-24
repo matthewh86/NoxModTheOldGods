@@ -1,4 +1,4 @@
-﻿#Lolland-Falster
+#Lolland-Falster
 
 add_core = DAN
 owner = DAN

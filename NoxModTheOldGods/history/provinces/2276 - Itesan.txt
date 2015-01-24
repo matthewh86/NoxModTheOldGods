@@ -1,4 +1,4 @@
-﻿# No previous file for Itesan
+# No previous file for Itesan
 
 owner = AIR
 controller = AIR

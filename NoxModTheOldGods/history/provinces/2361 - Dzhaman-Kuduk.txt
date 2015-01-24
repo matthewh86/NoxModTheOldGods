@@ -1,4 +1,4 @@
-﻿# 2361 - Dzhaman-Kuduk
+# 2361 - Dzhaman-Kuduk
 
 owner = SHY
 controller = SHY

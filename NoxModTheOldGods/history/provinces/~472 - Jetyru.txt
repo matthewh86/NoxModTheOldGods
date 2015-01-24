@@ -1,4 +1,4 @@
-﻿#472 - Zhetyru
+#472 - Zhetyru
 
 owner = CMN
 controller = CMN

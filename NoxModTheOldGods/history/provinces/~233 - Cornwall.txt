@@ -1,4 +1,4 @@
-﻿#233 - Cornwall
+#233 - Cornwall
 
 owner = CRN
 controller = CRN

@@ -1,4 +1,4 @@
-﻿#Jämtland+Härjedalen
+#Jämtland+Härjedalen
 
 owner = NOR
 controller = NOR

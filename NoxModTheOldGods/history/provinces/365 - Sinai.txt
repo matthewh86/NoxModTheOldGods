@@ -1,4 +1,4 @@
-﻿#365 - Sinai
+#365 - Sinai
 
 owner = HED
 controller = HED

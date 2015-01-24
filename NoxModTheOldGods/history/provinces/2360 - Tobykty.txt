@@ -1,4 +1,4 @@
-﻿# 2360 - Tobykty
+# 2360 - Tobykty
 
 owner = SHY
 controller = SHY

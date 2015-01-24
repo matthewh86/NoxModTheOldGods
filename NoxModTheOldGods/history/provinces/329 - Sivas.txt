@@ -1,4 +1,4 @@
-﻿#329 - Sivas
+#329 - Sivas
 
 owner = TUR
 controller = TUR

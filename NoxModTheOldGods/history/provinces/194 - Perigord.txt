@@ -1,4 +1,4 @@
-﻿# 194 Périgord - Principal cities: Bergerac
+# 194 Périgord - Principal cities: Bergerac
 
 owner = TOU
 controller = TOU

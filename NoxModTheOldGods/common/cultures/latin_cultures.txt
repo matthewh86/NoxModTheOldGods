@@ -1,4 +1,4 @@
-﻿latin = {
+latin = {
 	graphical_culture = westerngfx
 
 	lombard = {

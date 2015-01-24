@@ -1,4 +1,4 @@
-﻿#405 - Al Jawf
+#405 - Al Jawf
 
 owner = SYR
 controller = SYR

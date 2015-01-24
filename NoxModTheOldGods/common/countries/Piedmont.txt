@@ -1,4 +1,4 @@
-﻿# Piedmont
+# Piedmont
 graphical_culture = westerngfx
 color = { 191 158 158 }
 historical_idea_groups = {

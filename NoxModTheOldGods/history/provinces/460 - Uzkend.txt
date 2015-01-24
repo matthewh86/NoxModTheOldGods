@@ -1,4 +1,4 @@
-﻿#460 - Uzkend
+#460 - Uzkend
 
 owner = KAS
 controller = KAS

@@ -1,4 +1,4 @@
-﻿#1081 - Simbirsk
+#1081 - Simbirsk
 
 owner = KAZ
 controller = KAZ

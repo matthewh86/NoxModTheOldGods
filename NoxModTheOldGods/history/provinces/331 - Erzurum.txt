@@ -1,4 +1,4 @@
-﻿#331 - Erserum
+#331 - Erserum
 
 owner = AKK
 controller = AKK

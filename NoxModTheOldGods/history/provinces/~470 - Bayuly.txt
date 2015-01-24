@@ -1,4 +1,4 @@
-﻿#470 - Bayuly
+#470 - Bayuly
 
 owner = CMN
 controller = CMN

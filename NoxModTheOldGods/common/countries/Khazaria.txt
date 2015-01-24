@@ -1,4 +1,4 @@
-﻿# Khazaria
+# Khazaria
 graphical_culture = easterngfx
 color = { 60 80 220 }
 

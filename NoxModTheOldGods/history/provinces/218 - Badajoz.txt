@@ -1,4 +1,4 @@
-﻿#218 - Badajoz
+#218 - Badajoz
 
 owner = TOL		#Juan II of Castille
 controller = TOL

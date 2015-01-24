@@ -1,4 +1,4 @@
-﻿#255 - Kalisz
+#255 - Kalisz
 
 owner = POL
 controller = POL

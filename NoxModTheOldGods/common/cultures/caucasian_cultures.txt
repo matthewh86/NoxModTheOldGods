@@ -1,4 +1,4 @@
-﻿caucasian_cultures = {
+caucasian_cultures = {
 	graphical_culture = easterngfx
 	georgian = {
 		primary = GEO

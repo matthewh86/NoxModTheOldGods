@@ -1,4 +1,4 @@
-﻿#149 - Edirne
+#149 - Edirne
 
 owner = ADR
 controller = ADR

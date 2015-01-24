@@ -1,4 +1,4 @@
-﻿#Halland, contains Halmstad, Varberg.
+#Halland, contains Halmstad, Varberg.
 
 owner = DAN
 controller = DAN

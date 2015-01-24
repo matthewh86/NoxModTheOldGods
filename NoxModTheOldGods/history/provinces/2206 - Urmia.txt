@@ -1,4 +1,4 @@
-﻿#2035 - Urmia
+#2035 - Urmia
 
 owner = QAR
 controller = QAR

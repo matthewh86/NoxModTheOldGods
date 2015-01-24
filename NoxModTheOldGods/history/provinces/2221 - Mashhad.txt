@@ -1,4 +1,4 @@
-﻿#2221 - Mashhad
+#2221 - Mashhad
 
 owner = KHO
 controller = KHO

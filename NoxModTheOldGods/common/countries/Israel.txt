@@ -1,4 +1,4 @@
-﻿# Israel
+# Israel
 graphical_culture = easterngfx
 color = { 20 138 255 }
 

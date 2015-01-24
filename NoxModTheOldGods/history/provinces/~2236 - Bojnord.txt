@@ -1,4 +1,4 @@
-﻿#2236 - Bojnord
+#2236 - Bojnord
 
 owner = KHO
 controller = KHO

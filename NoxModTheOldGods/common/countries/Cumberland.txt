@@ -1,4 +1,4 @@
-﻿# Cumberland
+# Cumberland
 graphical_culture = westerngfx
 color = { 0 114 207 }
 historical_idea_groups = {

@@ -1,4 +1,4 @@
-﻿#367 - The Azores
+#367 - The Azores
 
 capital = "The Azores"
 trade_goods = unknown

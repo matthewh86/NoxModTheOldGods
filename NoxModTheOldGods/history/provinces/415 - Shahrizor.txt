@@ -1,4 +1,4 @@
-﻿#415 - Sharazor
+#415 - Sharazor
 
 owner = BHT
 controller = BHT

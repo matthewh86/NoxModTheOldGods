@@ -1,4 +1,4 @@
-﻿je_tupi = { #Tupi
+je_tupi = { #Tupi
 	graphical_culture = northamericagfx
 	
 	tupinamba = {

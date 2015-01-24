@@ -1,4 +1,4 @@
-﻿bookmark =
+bookmark =
 {
 	name = "bookmark_noxmod_1444"
 	desc = "bookmark_noxmod_1444_DESC"

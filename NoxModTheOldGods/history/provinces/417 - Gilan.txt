@@ -1,4 +1,4 @@
-﻿#417 - Gilan
+#417 - Gilan
 
 owner = TAB
 controller = TAB

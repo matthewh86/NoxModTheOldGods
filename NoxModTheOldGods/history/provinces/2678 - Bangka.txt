@@ -1,4 +1,4 @@
-﻿#2678 - Bangka
+#2678 - Bangka
 
 culture = sumatran
 religion = shafi

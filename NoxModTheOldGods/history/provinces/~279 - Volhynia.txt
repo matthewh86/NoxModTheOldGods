@@ -1,4 +1,4 @@
-﻿#279 - Volhynia
+#279 - Volhynia
 
 owner = VOL
 controller = VOL

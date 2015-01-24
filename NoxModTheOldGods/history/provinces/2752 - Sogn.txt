@@ -1,4 +1,4 @@
-﻿#Sogn, Nordre Bergenhus
+#Sogn, Nordre Bergenhus
 
 owner = NOR
 controller = NOR

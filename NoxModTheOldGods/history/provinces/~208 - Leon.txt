@@ -1,4 +1,4 @@
-﻿#208 - León
+#208 - León
 
 owner = LEO		#Juan II of Castille
 controller = LEO

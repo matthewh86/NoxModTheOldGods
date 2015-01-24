@@ -1,4 +1,4 @@
-﻿# No previous file for Azawagh
+# No previous file for Azawagh
 
 owner = SON
 controller = SON

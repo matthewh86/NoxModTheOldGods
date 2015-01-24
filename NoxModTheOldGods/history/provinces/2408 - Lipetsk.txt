@@ -1,4 +1,4 @@
-﻿#2408 - Lipetsk
+#2408 - Lipetsk
 
 owner = GOL
 controller = GOL

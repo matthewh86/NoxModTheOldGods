@@ -1,4 +1,4 @@
-﻿#316 - Izmit
+#316 - Izmit
 
 owner = BYZ
 controller = BYZ

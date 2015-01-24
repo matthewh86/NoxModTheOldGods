@@ -1,4 +1,4 @@
-﻿#319 - Mentese
+#319 - Mentese
 
 owner = TUR
 controller = TUR

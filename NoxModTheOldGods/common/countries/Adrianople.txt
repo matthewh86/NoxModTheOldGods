@@ -1,4 +1,4 @@
-﻿# Adrianople
+# Adrianople
 graphical_culture = easterngfx
 color = { 190 29 134 }
 historical_idea_groups = {

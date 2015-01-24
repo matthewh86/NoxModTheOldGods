@@ -1,4 +1,4 @@
-﻿# 2123 - Qakilik
+# 2123 - Qakilik
 
 owner = CHG
 controller = CHG

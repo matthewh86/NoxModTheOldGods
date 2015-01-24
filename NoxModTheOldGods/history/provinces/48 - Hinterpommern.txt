@@ -1,4 +1,4 @@
-﻿#48 - Hinterpommern
+#48 - Hinterpommern
 
 owner = POM
 controller = POM

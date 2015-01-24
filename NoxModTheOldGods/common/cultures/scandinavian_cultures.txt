@@ -1,4 +1,4 @@
-﻿scandinavian = {
+scandinavian = {
 	graphical_culture = westerngfx
 	
 	icelandic = {

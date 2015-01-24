@@ -1,4 +1,4 @@
-﻿# Girona
+# Girona
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-﻿#243 - Lincoln
+#243 - Lincoln
 
 owner = YRK
 controller = YRK

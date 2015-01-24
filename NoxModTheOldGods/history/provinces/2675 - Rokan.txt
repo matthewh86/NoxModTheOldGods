@@ -1,4 +1,4 @@
-﻿#2675 - Rokan
+#2675 - Rokan
 
 owner = PSA
 controller = PSA

@@ -1,4 +1,4 @@
-﻿# 89 Picardie - Principal cities: Amiens
+# 89 Picardie - Principal cities: Amiens
 
 owner = FLA
 controller = FLA 

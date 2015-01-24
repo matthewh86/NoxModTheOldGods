@@ -1,4 +1,4 @@
-﻿#355 - Sirt
+#355 - Sirt
 
 owner = FZA
 controller = FZA

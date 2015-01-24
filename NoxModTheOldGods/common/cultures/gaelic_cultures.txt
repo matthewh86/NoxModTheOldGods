@@ -1,4 +1,4 @@
-﻿gaelic	= {
+gaelic	= {
 	graphical_culture = westerngfx
 
 	welsh = {

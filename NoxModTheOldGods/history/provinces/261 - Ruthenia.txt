@@ -1,4 +1,4 @@
-﻿#261 - Ruthenia
+#261 - Ruthenia
 
 owner = VOL
 controller = VOL

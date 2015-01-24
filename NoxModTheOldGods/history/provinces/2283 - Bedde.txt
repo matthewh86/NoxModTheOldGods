@@ -1,4 +1,4 @@
-﻿# No previous file for Bedde
+# No previous file for Bedde
 
 
 owner = KBO

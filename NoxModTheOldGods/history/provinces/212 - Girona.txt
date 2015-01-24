@@ -1,4 +1,4 @@
-﻿#212 - Girona
+#212 - Girona
 
 owner = GIR		#Alfons V of Aragon
 controller = GIR

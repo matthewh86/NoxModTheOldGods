@@ -1,4 +1,4 @@
-﻿government = noble_republic
+government = noble_republic
 #aristocracy_plutocracy = -3
 #centralization_decentralization = 2
 #innovative_narrowminded = 1

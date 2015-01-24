@@ -1,4 +1,4 @@
-﻿#2311 - Samawah
+#2311 - Samawah
 
 owner = IRQ
 controller = IRQ

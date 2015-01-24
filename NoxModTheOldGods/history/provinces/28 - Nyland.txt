@@ -1,4 +1,4 @@
-﻿#Nyland, incl. Raseborg, Borgå, Helsingfors.
+#Nyland, incl. Raseborg, Borgå, Helsingfors.
 
 owner = FIN
 controller = FIN

@@ -1,4 +1,4 @@
-﻿#1978 - Shetlands
+#1978 - Shetlands
 
 owner = ICE
 controller = ICE

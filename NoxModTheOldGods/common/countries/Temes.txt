@@ -1,4 +1,4 @@
-﻿# Temes
+# Temes
 
 graphical_culture = easterngfx
 

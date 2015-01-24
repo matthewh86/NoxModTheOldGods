@@ -1,4 +1,4 @@
-﻿# Alania
+# Alania
 graphical_culture = muslimgfx
 color = { 155 110 48 }
 

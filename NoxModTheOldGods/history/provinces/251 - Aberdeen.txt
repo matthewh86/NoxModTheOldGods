@@ -1,4 +1,4 @@
-﻿#251 - Aberdeen
+#251 - Aberdeen
 
 owner = ABD
 controller = ABD

@@ -1,4 +1,4 @@
-﻿#Semigallia, center at Mitau
+#Semigallia, center at Mitau
 
 owner = KUR
 controller = KUR

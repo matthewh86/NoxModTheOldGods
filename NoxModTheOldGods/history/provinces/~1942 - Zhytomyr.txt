@@ -1,4 +1,4 @@
-﻿#Zhytomyr
+#Zhytomyr
 
 owner = KIE
 controller = KIE     

@@ -1,4 +1,4 @@
-﻿#153 - Pest
+#153 - Pest
 
 owner = HUN
 controller = HUN 

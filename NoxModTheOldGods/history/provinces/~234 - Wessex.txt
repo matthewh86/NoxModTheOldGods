@@ -1,4 +1,4 @@
-﻿#234 - Wessex
+#234 - Wessex
 
 owner = SSX
 controller = SSX

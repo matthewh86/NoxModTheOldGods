@@ -1,4 +1,4 @@
-﻿# 2119 - Chuguchak
+# 2119 - Chuguchak
 
 owner = OIR
 controller = OIR

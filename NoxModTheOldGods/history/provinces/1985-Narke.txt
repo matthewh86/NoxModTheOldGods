@@ -1,4 +1,4 @@
-﻿#Närke
+#Närke
 
 add_core = SWE
 owner = SWE

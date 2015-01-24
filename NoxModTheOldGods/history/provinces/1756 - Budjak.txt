@@ -1,4 +1,4 @@
-﻿#1756 - Budjak
+#1756 - Budjak
 
 owner = MOL
 controller = MOL

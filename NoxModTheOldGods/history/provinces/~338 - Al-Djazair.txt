@@ -1,4 +1,4 @@
-﻿#338 - Al-Djazair
+#338 - Al-Djazair
 
 owner = ALG
 controller = ALG  

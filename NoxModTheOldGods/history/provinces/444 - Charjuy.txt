@@ -1,4 +1,4 @@
-﻿#444 - Charjuy
+#444 - Charjuy
 
 owner = KHI
 controller = KHI

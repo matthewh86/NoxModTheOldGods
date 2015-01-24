@@ -1,4 +1,4 @@
-﻿#154 - Szepes
+#154 - Szepes
 
 owner = SLK
 controller = SLK

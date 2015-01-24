@@ -1,4 +1,4 @@
-﻿#132 - Steiermark
+#132 - Steiermark
 
 owner = STY
 controller = STY

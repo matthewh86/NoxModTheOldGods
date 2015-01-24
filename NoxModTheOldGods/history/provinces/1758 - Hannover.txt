@@ -1,4 +1,4 @@
-﻿#1758 - Hannover
+#1758 - Hannover
 
 owner = BRU
 controller = BRU

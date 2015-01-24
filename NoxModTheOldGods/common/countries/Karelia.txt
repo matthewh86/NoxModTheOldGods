@@ -1,4 +1,4 @@
-﻿# Bjarmia
+# Bjarmia
 graphical_culture = easterngfx
 color = { 95 50 20 }
 historical_idea_groups = {

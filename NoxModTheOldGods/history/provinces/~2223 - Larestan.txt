@@ -1,4 +1,4 @@
-﻿#2223 - Larestan
+#2223 - Larestan
 
 owner = PER
 controller = PER

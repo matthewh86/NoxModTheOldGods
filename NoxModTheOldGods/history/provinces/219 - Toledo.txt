@@ -1,4 +1,4 @@
-﻿#219 - Toledo
+#219 - Toledo
 
 owner = TOL		#Juan II of Castille
 controller = TOL

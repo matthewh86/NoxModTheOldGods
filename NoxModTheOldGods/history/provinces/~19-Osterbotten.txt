@@ -1,4 +1,4 @@
-﻿#Österbotten, down to Vasa.
+#Österbotten, down to Vasa.
 
 owner = FIN
 controller = FIN

@@ -1,4 +1,4 @@
-﻿# No previous file for Kawar
+# No previous file for Kawar
 
 owner = AIR
 controller = AIR

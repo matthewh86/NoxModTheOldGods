@@ -1,4 +1,4 @@
-﻿#1933 - Bari
+#1933 - Bari
 
 owner = NAP
 controller = NAP

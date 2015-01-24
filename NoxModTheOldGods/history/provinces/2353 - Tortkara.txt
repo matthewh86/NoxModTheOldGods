@@ -1,4 +1,4 @@
-﻿# 2353 - Tortkara
+# 2353 - Tortkara
 
 owner = KZH
 controller = KZH

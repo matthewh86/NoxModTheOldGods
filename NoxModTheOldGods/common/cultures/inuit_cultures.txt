@@ -1,4 +1,4 @@
-﻿evenks = {
+evenks = {
 	graphical_culture = inuitgfx
 
 	yakut = {

@@ -1,4 +1,4 @@
-﻿#1110 - Agadir
+#1110 - Agadir
 
 owner = SOS
 controller = SOS

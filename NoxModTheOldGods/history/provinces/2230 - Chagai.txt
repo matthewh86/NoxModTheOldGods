@@ -1,4 +1,4 @@
-﻿#2230 - Chagai
+#2230 - Chagai
 
 owner = BAL
 controller = BAL

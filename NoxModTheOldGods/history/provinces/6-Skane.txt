@@ -1,4 +1,4 @@
-﻿#Skåne
+#Skåne
 
 add_core = DAN
 add_core = SWE

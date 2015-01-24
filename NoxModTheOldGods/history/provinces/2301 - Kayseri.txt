@@ -1,4 +1,4 @@
-﻿#2301 - Kayseri
+#2301 - Kayseri
 
 owner = KAR
 controller = KAR

@@ -1,4 +1,4 @@
-﻿# Lombardy
+# Lombardy
 graphical_culture = westerngfx
 color = { 170 255 170 }
 historical_idea_groups = {

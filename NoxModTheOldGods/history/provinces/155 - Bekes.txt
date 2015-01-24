@@ -1,4 +1,4 @@
-﻿#155 - Békés
+#155 - Békés
 
 owner = HUN
 controller = HUN

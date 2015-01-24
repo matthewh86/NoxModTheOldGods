@@ -1,4 +1,4 @@
-﻿# Gloucestershire
+# Gloucestershire
 graphical_culture = westerngfx
 color = { 105 192 113 }
 historical_idea_groups = {

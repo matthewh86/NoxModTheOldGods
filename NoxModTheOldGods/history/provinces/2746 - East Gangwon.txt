@@ -1,4 +1,4 @@
-﻿#2746 - Vidin
+#2746 - Vidin
 
 owner = BUL
 controller = BUL

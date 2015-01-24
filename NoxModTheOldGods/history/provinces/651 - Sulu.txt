@@ -1,4 +1,4 @@
-﻿#651 - Sulu
+#651 - Sulu
 
 culture = filipino
 religion = shafi

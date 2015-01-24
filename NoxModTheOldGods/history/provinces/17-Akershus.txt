@@ -1,4 +1,4 @@
-﻿#Akershus, incl. Oslo (Christiania), Sarpsborg, Tönsberg
+#Akershus, incl. Oslo (Christiania), Sarpsborg, Tönsberg
  
 owner = NOR
 controller = NOR

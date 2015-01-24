@@ -1,4 +1,4 @@
-﻿#324 - Karaman
+#324 - Karaman
 
 owner = KAR
 controller = KAR

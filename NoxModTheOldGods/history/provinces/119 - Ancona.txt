@@ -1,4 +1,4 @@
-﻿#119 - Ancona
+#119 - Ancona
 
 owner = URB
 controller = URB

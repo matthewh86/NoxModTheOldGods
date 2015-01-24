@@ -1,4 +1,4 @@
-﻿#2214 - Golestan
+#2214 - Golestan
 
 owner = TAB
 controller = TAB

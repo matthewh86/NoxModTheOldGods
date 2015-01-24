@@ -1,4 +1,4 @@
-﻿#139 - Hum
+#139 - Hum
 
 owner = BOS		# Part of the Bosnian kingdom
 controller = BOS

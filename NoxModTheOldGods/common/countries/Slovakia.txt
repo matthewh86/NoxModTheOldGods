@@ -1,4 +1,4 @@
-﻿# Slovakia
+# Slovakia
 graphical_culture = easterngfx
 color = { 10 80 160 }
 historical_idea_groups = {

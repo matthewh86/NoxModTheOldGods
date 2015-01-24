@@ -1,4 +1,4 @@
-﻿#388 - Aden
+#388 - Aden
 
 owner = ADE
 controller = ADE

@@ -1,4 +1,4 @@
-﻿#313 - Archangelsk
+#313 - Archangelsk
 
 owner = BJA 
 controller = BJA   

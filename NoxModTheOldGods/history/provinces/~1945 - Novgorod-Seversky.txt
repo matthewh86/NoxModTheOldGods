@@ -1,4 +1,4 @@
-﻿#Novgorod-Seversky
+#Novgorod-Seversky
 
 owner = CHR
 controller = CHR    

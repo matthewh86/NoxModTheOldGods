@@ -1,4 +1,4 @@
-﻿#156 - Temes
+#156 - Temes
 
 owner = TEM
 controller = TEM 

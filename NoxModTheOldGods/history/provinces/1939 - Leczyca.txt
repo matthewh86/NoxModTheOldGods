@@ -1,4 +1,4 @@
-﻿#Leczyca
+#Leczyca
 
 owner = POL
 controller = POL

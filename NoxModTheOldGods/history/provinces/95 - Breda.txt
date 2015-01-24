@@ -1,4 +1,4 @@
-﻿# 95 Breda - Principal cities: 's Hertogenbosch & Breda
+# 95 Breda - Principal cities: 's Hertogenbosch & Breda
 
 owner = BRB
 controller = BRB 

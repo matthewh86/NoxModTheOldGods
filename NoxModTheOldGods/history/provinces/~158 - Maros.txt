@@ -1,4 +1,4 @@
-﻿#158 - Maros
+#158 - Maros
 
 owner = TRA
 controller = TRA 

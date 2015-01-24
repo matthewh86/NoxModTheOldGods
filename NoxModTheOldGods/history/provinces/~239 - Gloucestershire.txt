@@ -1,4 +1,4 @@
-﻿#239 - Gloucestershire
+#239 - Gloucestershire
 
 owner = GLS
 controller = GLS

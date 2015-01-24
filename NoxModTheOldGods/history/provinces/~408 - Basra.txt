@@ -1,4 +1,4 @@
-﻿#408 - Basra
+#408 - Basra
 
 owner = IRQ
 controller = IRQ

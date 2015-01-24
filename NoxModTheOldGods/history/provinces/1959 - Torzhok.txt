@@ -1,4 +1,4 @@
-﻿#Torzhok
+#Torzhok
 
 owner = NOV
 controller = NOV

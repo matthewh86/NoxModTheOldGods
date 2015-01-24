@@ -1,4 +1,4 @@
-﻿#636 - Brunei
+#636 - Brunei
 
 owner = BEI
 controller = BEI

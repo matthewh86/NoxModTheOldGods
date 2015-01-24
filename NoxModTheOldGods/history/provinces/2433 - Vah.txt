@@ -1,4 +1,4 @@
-﻿#2433 - Kemerovo
+#2433 - Kemerovo
 
 owner = SIB
 controller = SIB

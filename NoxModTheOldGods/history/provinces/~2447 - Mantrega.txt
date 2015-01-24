@@ -1,4 +1,4 @@
-﻿#2447 - Mantrega
+#2447 - Mantrega
 
 owner = ALN
 controller = ALN

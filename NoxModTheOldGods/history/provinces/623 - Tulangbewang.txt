@@ -1,4 +1,4 @@
-﻿#623 - Tulangbewang
+#623 - Tulangbewang
 
 culture = sumatran
 religion = shafi

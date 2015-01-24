@@ -1,4 +1,4 @@
-﻿# Baranya
+# Baranya
 graphical_culture = easterngfx
 color = { 155 25 65 }
 historical_idea_groups = {

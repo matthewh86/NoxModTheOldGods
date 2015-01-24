@@ -1,4 +1,4 @@
-﻿#108 - Verona
+#108 - Verona
 
 owner = VER
 controller = VER

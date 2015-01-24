@@ -1,4 +1,4 @@
-﻿# Narbonne - Principal cities: Narbonne
+# Narbonne - Principal cities: Narbonne
 
 owner = AMG
 controller = AMG

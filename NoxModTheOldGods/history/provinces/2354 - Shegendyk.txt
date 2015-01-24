@@ -1,4 +1,4 @@
-﻿# 2354 - Shegendyk
+# 2354 - Shegendyk
 
 owner = SHY
 controller = SHY

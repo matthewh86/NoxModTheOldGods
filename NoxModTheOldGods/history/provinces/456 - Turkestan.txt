@@ -1,4 +1,4 @@
-﻿#456 - Turkestan
+#456 - Turkestan
 
 owner = KZH
 controller = KZH

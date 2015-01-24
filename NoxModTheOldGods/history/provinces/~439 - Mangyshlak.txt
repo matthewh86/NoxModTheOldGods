@@ -1,4 +1,4 @@
-﻿#439 - Mangyshlak
+#439 - Mangyshlak
 
 owner = TRK
 controller = TRK

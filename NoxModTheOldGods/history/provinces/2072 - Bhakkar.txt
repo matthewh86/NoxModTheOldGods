@@ -1,4 +1,4 @@
-﻿#2072 - Bhakkar
+#2072 - Bhakkar
 
 owner = SND
 controller = SND

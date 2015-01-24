@@ -1,4 +1,4 @@
-﻿# Mercia
+# Mercia
 graphical_culture = westerngfx
 color = { 0 110 200 }
 historical_idea_groups = {

@@ -1,4 +1,4 @@
-﻿#2420 - Agyidel
+#2420 - Agyidel
 
 owner = BSH
 controller = BSH

@@ -1,4 +1,4 @@
-﻿#2227 - Kunduz
+#2227 - Kunduz
 
 owner = AFG
 controller = AFG

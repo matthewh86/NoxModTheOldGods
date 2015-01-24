@@ -1,4 +1,4 @@
-﻿#2344 - Al Jawf
+#2344 - Al Jawf
 
 owner = ADE
 controller = ADE

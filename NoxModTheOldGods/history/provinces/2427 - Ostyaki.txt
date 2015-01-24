@@ -1,4 +1,4 @@
-﻿#2427 - Ostyaki
+#2427 - Ostyaki
 
 owner = SIB
 controller = SIB

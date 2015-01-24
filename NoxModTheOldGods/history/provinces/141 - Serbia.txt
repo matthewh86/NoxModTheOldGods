@@ -1,4 +1,4 @@
-﻿#141 - Serbia
+#141 - Serbia
 
 owner = SER
 controller = SER

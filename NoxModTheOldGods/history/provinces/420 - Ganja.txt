@@ -1,4 +1,4 @@
-﻿#420 - Qarabagh
+#420 - Qarabagh
 
 owner = SRV
 controller = SRV

@@ -1,4 +1,4 @@
-﻿#269 - Podlasia
+#269 - Podlasia
 
 owner = MAZ
 controller = MAZ

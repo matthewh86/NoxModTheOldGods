@@ -1,4 +1,4 @@
-﻿#2086 - Cholistan
+#2086 - Cholistan
 
 owner = MUL
 controller = MUL

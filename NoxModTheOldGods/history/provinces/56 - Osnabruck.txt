@@ -1,4 +1,4 @@
-﻿#56 - Osnabrück
+#56 - Osnabrück
 
 owner = MUN
 controller = MUN

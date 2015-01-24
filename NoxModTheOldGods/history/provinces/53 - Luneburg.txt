@@ -1,4 +1,4 @@
-﻿#53 - Lüneburg
+#53 - Lüneburg
 
 owner = LUN
 controller = LUN

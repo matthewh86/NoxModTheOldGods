@@ -1,4 +1,4 @@
-﻿#162 - Zemplén
+#162 - Zemplén
 
 owner = ZEM
 controller = ZEM  

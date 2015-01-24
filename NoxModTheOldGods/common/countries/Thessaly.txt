@@ -1,4 +1,4 @@
-﻿# Thessalonika
+# Thessalonika
 graphical_culture = easterngfx
 color = { 150 150 190 }
 historical_idea_groups = {

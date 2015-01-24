@@ -1,4 +1,4 @@
-﻿#2673 - Pasai
+#2673 - Pasai
 
 owner = PSA
 controller = PSA

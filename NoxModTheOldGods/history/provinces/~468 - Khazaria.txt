@@ -1,4 +1,4 @@
-﻿#468 - Khazaria
+#468 - Khazaria
 
 owner = AST
 controller = AST  

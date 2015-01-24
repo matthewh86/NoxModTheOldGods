@@ -1,4 +1,4 @@
-﻿#East Karelia
+#East Karelia
 
 owner = FIN
 controller = FIN 

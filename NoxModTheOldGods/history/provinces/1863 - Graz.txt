@@ -1,4 +1,4 @@
-﻿#1863 - Graz
+#1863 - Graz
 
 owner = STY
 controller = STY

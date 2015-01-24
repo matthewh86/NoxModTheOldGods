@@ -1,4 +1,4 @@
-﻿# 197 Roussillon - Principal cities: Perpignan
+# 197 Roussillon - Principal cities: Perpignan
 
 owner = ROU
 controller = ROU

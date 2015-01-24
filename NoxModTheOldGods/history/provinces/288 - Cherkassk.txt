@@ -1,4 +1,4 @@
-﻿#288 - Cherkassk
+#288 - Cherkassk
 
 owner = GOL
 controller = GOL

@@ -1,4 +1,4 @@
-﻿#2225 - Bamyan
+#2225 - Bamyan
 
 owner = AFG
 controller = AFG

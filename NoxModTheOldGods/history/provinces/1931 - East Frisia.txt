@@ -1,4 +1,4 @@
-﻿#1931 - East Frisia
+#1931 - East Frisia
 
 owner = EFR
 controller = EFR

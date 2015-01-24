@@ -1,4 +1,4 @@
-﻿#2300 - Bozok
+#2300 - Bozok
 
 owner = ERE
 controller = ERE

@@ -1,4 +1,4 @@
-﻿#2212 - Zanjan
+#2212 - Zanjan
 
 owner = SRV
 controller = SRV

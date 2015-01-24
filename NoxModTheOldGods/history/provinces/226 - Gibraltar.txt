@@ -1,4 +1,4 @@
-﻿#226 - Gibraltar
+#226 - Gibraltar
 
 owner = GRA		# Mustapha Sa'd King of Granada
 controller = GRA

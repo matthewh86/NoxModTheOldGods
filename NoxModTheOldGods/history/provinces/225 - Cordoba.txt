@@ -1,4 +1,4 @@
-﻿#225 - Córdoba
+#225 - Córdoba
 
 owner = AIA		#Juan II of Castille
 controller = AIA

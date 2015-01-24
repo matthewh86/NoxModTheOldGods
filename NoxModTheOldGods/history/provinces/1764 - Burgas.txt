@@ -1,4 +1,4 @@
-﻿#1764 - Burgas
+#1764 - Burgas
 
 owner = BUL
 controller = BUL

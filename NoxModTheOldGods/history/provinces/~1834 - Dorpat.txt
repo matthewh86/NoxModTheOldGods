@@ -1,4 +1,4 @@
-﻿#Dorpat
+#Dorpat
 
 owner = LTV
 controller = LTV

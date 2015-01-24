@@ -1,4 +1,4 @@
-﻿# Dalmatia
+# Dalmatia
 graphical_culture = easterngfx
 color = { 100 160 100 }
 historical_idea_groups = {

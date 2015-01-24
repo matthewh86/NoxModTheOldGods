@@ -1,4 +1,4 @@
-﻿#Kargopol
+#Kargopol
 
 owner = BJA
 controller = BJA   

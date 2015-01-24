@@ -1,4 +1,4 @@
-﻿# - Zuwarah
+# - Zuwarah
 
 owner = TRP
 controller = TRP  

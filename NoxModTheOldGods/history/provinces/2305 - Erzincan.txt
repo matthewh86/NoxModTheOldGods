@@ -1,4 +1,4 @@
-﻿#2305 - Erzincan
+#2305 - Erzincan
 
 owner = AKK
 controller = AKK

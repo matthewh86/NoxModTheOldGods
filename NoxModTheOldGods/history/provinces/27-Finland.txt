@@ -1,4 +1,4 @@
-﻿#Finland, incl. Åbo.
+#Finland, incl. Åbo.
 
 owner = FIN
 controller = FIN

@@ -1,4 +1,4 @@
-﻿#387 - Mocha
+#387 - Mocha
 
 owner = ADE
 controller = ADE

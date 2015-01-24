@@ -1,4 +1,4 @@
-﻿#413 - Lorestan
+#413 - Lorestan
 
 owner = PER
 controller = PER

@@ -1,4 +1,4 @@
-﻿#347 - Ifni
+#347 - Ifni
 
 owner = SOS
 controller = SOS

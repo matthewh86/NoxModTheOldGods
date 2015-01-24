@@ -1,4 +1,4 @@
-﻿#2681 - Pagarruyung
+#2681 - Pagarruyung
 
 owner = PGR
 controller = PGR

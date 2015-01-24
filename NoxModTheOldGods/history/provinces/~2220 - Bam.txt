@@ -1,4 +1,4 @@
-﻿#2220 - Bam
+#2220 - Bam
 
 owner = PER
 controller = PER

@@ -1,4 +1,4 @@
-﻿#367 - The Azores
+#367 - The Azores
 
 trade_goods = unknown
 hre = no

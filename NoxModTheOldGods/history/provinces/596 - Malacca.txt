@@ -1,4 +1,4 @@
-﻿#596 - Malacca
+#596 - Malacca
 
 owner = MLC
 controller = MLC

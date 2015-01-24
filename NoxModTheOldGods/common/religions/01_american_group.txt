@@ -1,4 +1,4 @@
-﻿american_group = { 
+american_group = { 
 	aztec_reformed = {
 		icon = 18
 		color = { 0.95 0.95 0.3 }

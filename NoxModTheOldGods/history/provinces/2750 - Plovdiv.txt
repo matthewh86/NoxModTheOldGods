@@ -1,4 +1,4 @@
-﻿#2750 - Plovdiv / Upper Thrace
+#2750 - Plovdiv / Upper Thrace
 
 owner = BUL
 controller = BUL

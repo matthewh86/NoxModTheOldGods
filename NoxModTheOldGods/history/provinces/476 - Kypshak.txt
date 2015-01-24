@@ -1,4 +1,4 @@
-﻿#476 - Kypshak
+#476 - Kypshak
 
 owner = SHY
 controller = SHY

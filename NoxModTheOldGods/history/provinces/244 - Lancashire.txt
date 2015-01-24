@@ -1,4 +1,4 @@
-﻿#244 - Lancashire
+#244 - Lancashire
 
 owner = LCS
 controller = LCS

@@ -1,4 +1,4 @@
-﻿#151 - Thrace
+#151 - Thrace
 
 owner = BYZ
 controller = BYZ

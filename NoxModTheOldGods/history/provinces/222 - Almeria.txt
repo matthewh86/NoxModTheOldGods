@@ -1,4 +1,4 @@
-﻿#222 - Almería
+#222 - Almería
 
 owner = GRA		#Mustapha Sa'd King of Granada
 controller = GRA

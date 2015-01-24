@@ -1,4 +1,4 @@
-﻿government = merchant_republic
+government = merchant_republic
 #aristocracy_plutocracy = -1
 #centralization_decentralization = 3
 #innovative_narrowminded = 2

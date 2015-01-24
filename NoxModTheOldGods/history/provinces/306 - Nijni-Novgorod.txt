@@ -1,4 +1,4 @@
-﻿#306 - Nijni-Novgorod
+#306 - Nijni-Novgorod
 
 owner = NZH
 controller = NZH

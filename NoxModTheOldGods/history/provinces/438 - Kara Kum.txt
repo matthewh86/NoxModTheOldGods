@@ -1,4 +1,4 @@
-﻿#438 - Kara Kum
+#438 - Kara Kum
 
 owner = KHI
 controller = KHI

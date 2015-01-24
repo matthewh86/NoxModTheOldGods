@@ -1,4 +1,4 @@
-﻿#1750 - Alàcant
+#1750 - Alàcant
 
 owner = GRA		#Martí I of Aragon
 controller = GRA

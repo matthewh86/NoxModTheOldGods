@@ -1,4 +1,4 @@
-﻿#277 - Grodno
+#277 - Grodno
 
 owner = PLC
 controller = PLC   

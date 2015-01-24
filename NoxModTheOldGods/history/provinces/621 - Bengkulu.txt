@@ -1,4 +1,4 @@
-﻿#621 - Bengkulu
+#621 - Bengkulu
 
 culture = sumatran
 religion = shafi

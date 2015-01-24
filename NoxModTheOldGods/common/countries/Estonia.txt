@@ -1,4 +1,4 @@
-﻿# Estonia
+# Estonia
 graphical_culture = easterngfx
 color = { 150 75 75 }
 historical_idea_groups = {

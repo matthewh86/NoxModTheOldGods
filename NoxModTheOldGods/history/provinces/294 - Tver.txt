@@ -1,4 +1,4 @@
-﻿#294 - Tver
+#294 - Tver
 
 owner = TVE
 controller = TVE   

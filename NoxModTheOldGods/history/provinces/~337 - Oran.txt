@@ -1,4 +1,4 @@
-﻿#337 - Oran
+#337 - Oran
 
 owner = ALG
 controller = ALG

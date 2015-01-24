@@ -1,4 +1,4 @@
-﻿#260 - Lublin
+#260 - Lublin
 
 owner = POL
 controller = POL

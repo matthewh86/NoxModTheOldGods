@@ -1,4 +1,4 @@
-﻿#478 - Argyn
+#478 - Argyn
 
 owner = SHY
 controller = SHY

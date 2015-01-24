@@ -1,4 +1,4 @@
-﻿#Lapland, the far north wastelands.
+#Lapland, the far north wastelands.
 
 capital = "Kien Kasjarkka"
 culture = sapmi

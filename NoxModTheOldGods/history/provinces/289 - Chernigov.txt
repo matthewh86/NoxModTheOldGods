@@ -1,4 +1,4 @@
-﻿#289 - Chernigov
+#289 - Chernigov
 
 owner = CHR
 controller = CHR    

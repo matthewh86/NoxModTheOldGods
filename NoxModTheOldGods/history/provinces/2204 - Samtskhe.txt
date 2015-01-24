@@ -1,4 +1,4 @@
-﻿#2204 - Samtskhe
+#2204 - Samtskhe
 
 owner = ARM
 controller = ARM

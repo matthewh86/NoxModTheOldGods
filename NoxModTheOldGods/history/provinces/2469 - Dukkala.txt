@@ -1,4 +1,4 @@
-﻿# - Abda
+# - Abda
 
 owner = MOR
 controller = MOR

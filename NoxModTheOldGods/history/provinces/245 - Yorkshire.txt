@@ -1,4 +1,4 @@
-﻿#245 - Yorkshire
+#245 - Yorkshire
 
 owner = YRK
 controller = YRK

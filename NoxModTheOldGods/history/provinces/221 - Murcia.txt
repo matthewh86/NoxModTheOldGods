@@ -1,4 +1,4 @@
-﻿#221 - Murcia
+#221 - Murcia
 
 owner = GRA		# Juan II of Castille
 controller = GRA

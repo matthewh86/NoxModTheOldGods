@@ -1,4 +1,4 @@
-﻿#Oplandene, incl. Hamar, Lillehammer
+#Oplandene, incl. Hamar, Lillehammer
 
 owner = NOR
 controller = NOR

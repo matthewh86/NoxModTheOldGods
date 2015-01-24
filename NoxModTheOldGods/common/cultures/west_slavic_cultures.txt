@@ -1,4 +1,4 @@
-﻿west_slavic = {
+west_slavic = {
 	graphical_culture = westerngfx
 
 	czech = {

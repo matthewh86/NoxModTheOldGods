@@ -1,4 +1,4 @@
-﻿# York
+# York
 graphical_culture = westerngfx
 color = { 240 240 240 }
 historical_idea_groups = {

@@ -1,4 +1,4 @@
-﻿#2088 - Umarkot
+#2088 - Umarkot
 
 owner = SND
 controller = SND

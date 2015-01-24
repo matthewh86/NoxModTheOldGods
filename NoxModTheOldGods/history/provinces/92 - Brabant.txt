@@ -1,4 +1,4 @@
-﻿# 92 Brabant - Principal cities: Brussel & Mechelen
+# 92 Brabant - Principal cities: Brussel & Mechelen
 
 owner = BRB
 controller = BRB 

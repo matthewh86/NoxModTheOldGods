@@ -1,4 +1,4 @@
-﻿#152 - Belovár
+#152 - Belovár
 
 owner = CRO
 controller = CRO

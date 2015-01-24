@@ -1,4 +1,4 @@
-﻿#147 - Salonica
+#147 - Salonica
 
 owner = BYZ
 controller = BYZ

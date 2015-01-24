@@ -1,4 +1,4 @@
-﻿germanic = {
+germanic = {
 	graphical_culture = westerngfx
 
 	hannoverian = {

@@ -1,4 +1,4 @@
-﻿# 2749 - Tikhvin
+# 2749 - Tikhvin
 
 owner = NOV
 controller = NOV

@@ -1,4 +1,4 @@
-﻿# Latium
+# Latium
 graphical_culture = westerngfx
 color = { 200 200 240 }
 historical_idea_groups = {

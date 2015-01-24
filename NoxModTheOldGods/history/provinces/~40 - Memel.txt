@@ -1,4 +1,4 @@
-﻿#40 - Memel
+#40 - Memel
 
 owner = TEU
 controller = TEU

@@ -1,4 +1,4 @@
-﻿#252 - Highlands
+#252 - Highlands
 
 owner = ABD
 controller = ABD

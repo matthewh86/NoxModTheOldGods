@@ -1,4 +1,4 @@
-﻿# Niederlausitz
+# Niederlausitz
 graphical_culture = easterngfx
 color = { 185 27 17 }
 historical_idea_groups = {

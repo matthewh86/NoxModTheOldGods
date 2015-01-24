@@ -1,4 +1,4 @@
-﻿#236 - London
+#236 - London
 
 owner = MSX
 controller = MSX

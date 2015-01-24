@@ -1,4 +1,4 @@
-﻿#323 - Konya
+#323 - Konya
 
 owner = KAR
 controller = KAR

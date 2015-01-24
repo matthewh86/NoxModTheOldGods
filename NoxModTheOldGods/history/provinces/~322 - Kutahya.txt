@@ -1,4 +1,4 @@
-﻿#322 - Küthaya
+#322 - Küthaya
 
 owner = GRM
 controller = GRM

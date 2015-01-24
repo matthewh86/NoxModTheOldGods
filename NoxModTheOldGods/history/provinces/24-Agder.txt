@@ -1,4 +1,4 @@
-﻿#Agder, incl. Stavanger, Kristiansand
+#Agder, incl. Stavanger, Kristiansand
 
 owner = NOR
 controller = NOR

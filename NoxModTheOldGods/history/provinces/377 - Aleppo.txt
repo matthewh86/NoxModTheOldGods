@@ -1,4 +1,4 @@
-﻿#377 - Aleppo
+#377 - Aleppo
 
 owner = SYR
 controller = SYR

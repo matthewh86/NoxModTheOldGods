@@ -1,4 +1,4 @@
-﻿# 1865 - Ghent
+# 1865 - Ghent
 
 owner = FLA
 controller = FLA

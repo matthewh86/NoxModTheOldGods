@@ -1,4 +1,4 @@
-﻿#1966 - Chelyaba
+#1966 - Chelyaba
 
 owner = BSH
 controller = BSH

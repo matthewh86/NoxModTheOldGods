@@ -1,4 +1,4 @@
-﻿#284 - Crimea
+#284 - Crimea
 
 owner = CRI
 controller = CRI

@@ -1,4 +1,4 @@
-﻿# 2118 - Urzhar
+# 2118 - Urzhar
 
 owner = OIR
 controller = OIR

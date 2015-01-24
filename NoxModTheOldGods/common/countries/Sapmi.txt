@@ -1,4 +1,4 @@
-﻿# sapmi
+# sapmi
 graphical_culture = westerngfx
 color = { 80 150 80 }
 historical_idea_groups = {

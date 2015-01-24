@@ -1,4 +1,4 @@
-﻿#437 - Atak
+#437 - Atak
 
 owner = KHI
 controller = KHI

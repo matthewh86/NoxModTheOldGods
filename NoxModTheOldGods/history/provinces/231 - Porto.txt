@@ -1,4 +1,4 @@
-﻿#231 - Porto
+#231 - Porto
 
 owner = GAL
 controller = GAL

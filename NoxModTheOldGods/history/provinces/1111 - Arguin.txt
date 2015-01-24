@@ -1,4 +1,4 @@
-﻿#1111 - Arguin
+#1111 - Arguin
 
 culture = tuareg
 religion = maliki

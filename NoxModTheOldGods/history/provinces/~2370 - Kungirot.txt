@@ -1,4 +1,4 @@
-﻿# 2370 - Kungirot
+# 2370 - Kungirot
 
 owner = KZH
 controller = KZH

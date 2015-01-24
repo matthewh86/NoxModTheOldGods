@@ -1,4 +1,4 @@
-﻿#Bohuslän, contains Marstrand, Uddevalla, Strömstad.
+#Bohuslän, contains Marstrand, Uddevalla, Strömstad.
 
 owner = NOR
 controller = NOR

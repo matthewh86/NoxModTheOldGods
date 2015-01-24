@@ -1,4 +1,4 @@
-﻿#210 - Navarra
+#210 - Navarra
 
 owner = NAV		#Juan I de Navarra
 controller = NAV

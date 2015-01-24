@@ -1,4 +1,4 @@
-﻿#2441 - Iglino
+#2441 - Iglino
 
 owner = SIB
 controller = SIB

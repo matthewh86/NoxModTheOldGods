@@ -1,4 +1,4 @@
-﻿#2218 - Sarvestan
+#2218 - Sarvestan
 
 owner = PER
 controller = PER

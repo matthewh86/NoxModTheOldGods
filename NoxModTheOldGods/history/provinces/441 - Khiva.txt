@@ -1,4 +1,4 @@
-﻿#441 - Khiva
+#441 - Khiva
 
 owner = KHI
 controller = KHI

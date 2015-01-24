@@ -1,4 +1,4 @@
-﻿#506 - Multan
+#506 - Multan
 
 owner = MUL
 controller = MUL

@@ -1,4 +1,4 @@
-﻿#164 - Naxos
+#164 - Naxos
 
 owner = BYZ
 controller = BYZ

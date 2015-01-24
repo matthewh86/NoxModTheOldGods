@@ -1,4 +1,4 @@
-﻿#345 - Safi
+#345 - Safi
 
 owner = MOR
 controller = MOR

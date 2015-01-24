@@ -1,4 +1,4 @@
-﻿# - Ouarsenis
+# - Ouarsenis
 
 owner = ALG
 controller = ALG

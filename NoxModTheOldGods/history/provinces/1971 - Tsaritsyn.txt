@@ -1,4 +1,4 @@
-﻿#1971 - Tsaritsyn
+#1971 - Tsaritsyn
 
 owner = GOL
 controller = GOL       

@@ -1,4 +1,4 @@
-﻿#1247 - Corsica
+#1247 - Corsica
 
 owner = COR
 controller = COR

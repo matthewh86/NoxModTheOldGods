@@ -1,4 +1,4 @@
-﻿#272 Lithuania
+#272 Lithuania
 
 owner = LIT
 controller = LIT

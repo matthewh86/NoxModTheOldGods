@@ -1,4 +1,4 @@
-﻿#2211 - Ardalan
+#2211 - Ardalan
 
 owner = ARD
 controller = ARD

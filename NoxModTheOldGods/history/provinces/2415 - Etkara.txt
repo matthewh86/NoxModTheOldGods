@@ -1,4 +1,4 @@
-﻿#2415 - Etkara
+#2415 - Etkara
 
 owner = GOL
 controller = GOL

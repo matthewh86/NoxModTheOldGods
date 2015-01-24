@@ -1,4 +1,4 @@
-﻿#2306 - Mush
+#2306 - Mush
 
 owner = BHT
 controller = BHT

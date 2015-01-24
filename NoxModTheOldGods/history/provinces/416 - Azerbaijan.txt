@@ -1,4 +1,4 @@
-﻿#416 - Azerbaijan
+#416 - Azerbaijan
 
 owner = SRV
 controller = SRV

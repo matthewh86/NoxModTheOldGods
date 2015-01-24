@@ -1,4 +1,4 @@
-﻿government = theocratic_government
+government = theocratic_government
 #aristocracy_plutocracy = -3
 #centralization_decentralization = 4
 #innovative_narrowminded = 1

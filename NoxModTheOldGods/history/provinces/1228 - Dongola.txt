@@ -1,4 +1,4 @@
-﻿#1228 - Dongola
+#1228 - Dongola
 
 culture = nubian 
 religion = animism

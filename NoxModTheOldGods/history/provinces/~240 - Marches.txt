@@ -1,4 +1,4 @@
-﻿#240 - Marches
+#240 - Marches
 
 owner = LCS
 controller = LCS

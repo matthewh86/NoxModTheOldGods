@@ -1,4 +1,4 @@
-﻿# Amalfi
+# Amalfi
 graphical_culture = westerngfx
 color = { 140 200 230 }
 

@@ -1,4 +1,4 @@
-﻿#136 - Dalmatia
+#136 - Dalmatia
 
 owner = RAG
 controller = RAG

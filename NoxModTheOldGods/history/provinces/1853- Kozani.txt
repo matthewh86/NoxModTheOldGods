@@ -1,4 +1,4 @@
-﻿#1853 - Kozani
+#1853 - Kozani
 
 owner = BYZ
 controller = BYZ

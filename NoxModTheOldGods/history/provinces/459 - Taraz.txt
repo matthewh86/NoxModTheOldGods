@@ -1,4 +1,4 @@
-﻿#459 - Taraz
+#459 - Taraz
 
 owner = KAS
 controller = KAS

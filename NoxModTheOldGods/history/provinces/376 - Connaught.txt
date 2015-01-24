@@ -1,4 +1,4 @@
-﻿#376 - Connaught
+#376 - Connaught
 
 owner = CNN
 controller = CNN

@@ -1,4 +1,4 @@
-﻿chibchan = {
+chibchan = {
 	graphical_culture = southamericagfx
 	muisca = {
 		primary = MCA

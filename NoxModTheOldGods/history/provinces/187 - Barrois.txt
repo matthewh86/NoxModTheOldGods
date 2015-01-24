@@ -1,4 +1,4 @@
-﻿# 187 Barrois - Principal cities: Verdun
+# 187 Barrois - Principal cities: Verdun
 
 owner = BAR
 controller = BAR

@@ -1,4 +1,4 @@
-﻿#2449 - Jufra
+#2449 - Jufra
 
 owner = FZA
 controller = FZA  

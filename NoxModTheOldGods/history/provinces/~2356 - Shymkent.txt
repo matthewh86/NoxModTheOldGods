@@ -1,4 +1,4 @@
-﻿# 2356 - Shymkent
+# 2356 - Shymkent
 
 owner = KOK
 controller = KOK

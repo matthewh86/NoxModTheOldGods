@@ -1,4 +1,4 @@
-﻿#424 - Ardabil
+#424 - Ardabil
 
 owner = SRV
 controller = SRV

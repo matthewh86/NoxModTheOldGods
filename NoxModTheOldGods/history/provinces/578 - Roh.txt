@@ -1,4 +1,4 @@
-﻿#578 - Roh
+#578 - Roh
 
 owner = AFG
 controller = AFG

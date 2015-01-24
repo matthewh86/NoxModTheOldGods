@@ -1,4 +1,4 @@
-﻿#295 - Moskva
+#295 - Moskva
 
 owner = MOS 
 controller = MOS 

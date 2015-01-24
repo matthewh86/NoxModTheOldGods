@@ -1,4 +1,4 @@
-﻿#Blekinge
+#Blekinge
 
 add_core = DAN
 add_core = SWE

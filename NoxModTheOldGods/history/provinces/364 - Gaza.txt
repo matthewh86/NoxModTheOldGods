@@ -1,4 +1,4 @@
-﻿#364 - Gaza
+#364 - Gaza
 
 owner = ISR
 controller = ISR

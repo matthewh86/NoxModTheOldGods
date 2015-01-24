@@ -1,4 +1,4 @@
-﻿# No previous file for Yao
+# No previous file for Yao
 
 owner = YAO
 controller = YAO

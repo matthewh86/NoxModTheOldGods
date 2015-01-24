@@ -1,4 +1,4 @@
-﻿#2418 - Ukek
+#2418 - Ukek
 
 owner = GOL
 controller = GOL

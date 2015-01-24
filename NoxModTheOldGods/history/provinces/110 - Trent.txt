@@ -1,4 +1,4 @@
-﻿#110 - Trent
+#110 - Trent
 
 owner = TIR
 controller = TIR

@@ -1,4 +1,4 @@
-﻿# Azov
+# Azov
 
 graphical_culture = muslimgfx
 

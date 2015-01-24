@@ -1,4 +1,4 @@
-﻿#2392 - Selangor
+#2392 - Selangor
 
 owner = MLC
 controller = MLC

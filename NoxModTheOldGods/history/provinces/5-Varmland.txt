@@ -1,4 +1,4 @@
-﻿#Värmland+Dal
+#Värmland+Dal
 
 add_core = SWE
 owner = SWE

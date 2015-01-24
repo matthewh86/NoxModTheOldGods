@@ -1,4 +1,4 @@
-﻿#270 Troki
+#270 Troki
 
 owner = LIT
 controller = LIT

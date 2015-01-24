@@ -1,4 +1,4 @@
-﻿# 2362 - Gurganj
+# 2362 - Gurganj
 
 owner = KHI
 controller = KHI

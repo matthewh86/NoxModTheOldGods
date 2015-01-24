@@ -1,4 +1,4 @@
-﻿#1826 - Lika
+#1826 - Lika
 
 owner = CRO
 controller = CRO

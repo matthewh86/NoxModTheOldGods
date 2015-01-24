@@ -1,4 +1,4 @@
-﻿#2315 - Suez
+#2315 - Suez
 
 owner = MAM
 controller = MAM

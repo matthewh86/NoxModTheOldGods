@@ -1,4 +1,4 @@
-﻿#2215 - Qazvin
+#2215 - Qazvin
 
 owner = PER
 controller = PER

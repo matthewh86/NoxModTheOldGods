@@ -1,4 +1,4 @@
-﻿#2217 - Yasuj
+#2217 - Yasuj
 
 owner = PER
 controller = PER

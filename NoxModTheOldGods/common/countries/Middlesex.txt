@@ -1,4 +1,4 @@
-﻿# Middlesex
+# Middlesex
 graphical_culture = westerngfx
 color = { 255 120 0 }
 historical_idea_groups = {

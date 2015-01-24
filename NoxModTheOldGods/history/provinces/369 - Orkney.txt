@@ -1,4 +1,4 @@
-﻿#369 - Orkney
+#369 - Orkney
 
 owner = ABD
 controller = ABD

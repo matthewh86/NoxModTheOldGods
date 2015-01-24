@@ -1,4 +1,4 @@
-﻿#103 - Piedmont
+#103 - Piedmont
 
 owner = PIE
 controller = PIE

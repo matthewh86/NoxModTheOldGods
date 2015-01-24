@@ -1,4 +1,4 @@
-﻿#275 - Polotsk
+#275 - Polotsk
 
 owner = PLT 
 controller = PLT 

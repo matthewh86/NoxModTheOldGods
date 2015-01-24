@@ -1,4 +1,4 @@
-﻿#2296 - Biga
+#2296 - Biga
 
 owner = BYZ
 controller = BYZ

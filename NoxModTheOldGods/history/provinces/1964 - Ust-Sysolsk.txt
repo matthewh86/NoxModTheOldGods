@@ -1,4 +1,4 @@
-﻿#Ust-Sysolsk
+#Ust-Sysolsk
 
 owner = PRM
 controller = PRM

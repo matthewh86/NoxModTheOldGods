@@ -1,4 +1,4 @@
-﻿#209 - Vizcaya
+#209 - Vizcaya
 
 owner = NAV		#Juan II de Castilla
 controller = NAV

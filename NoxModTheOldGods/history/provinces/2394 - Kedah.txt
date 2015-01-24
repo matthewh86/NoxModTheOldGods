@@ -1,4 +1,4 @@
-﻿#2394 - Kedah
+#2394 - Kedah
 
 owner = KED
 controller = KED

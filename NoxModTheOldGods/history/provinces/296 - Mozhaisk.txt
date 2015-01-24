@@ -1,4 +1,4 @@
-﻿#296 - Mozhaisk
+#296 - Mozhaisk
 
 owner = MOS
 controller = MOS     

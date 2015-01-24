@@ -1,4 +1,4 @@
-﻿# León
+# León
 graphical_culture = westerngfx
 color = { 240 40 40 }
 historical_idea_groups = {

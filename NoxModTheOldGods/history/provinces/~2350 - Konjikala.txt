@@ -1,4 +1,4 @@
-﻿# 2350 - Konjikala
+# 2350 - Konjikala
 
 owner = KHI
 controller = KHI

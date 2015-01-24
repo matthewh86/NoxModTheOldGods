@@ -1,4 +1,4 @@
-﻿# 2367 - Lower Yik
+# 2367 - Lower Yik
 
 owner = CMN
 controller = CMN

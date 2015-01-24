@@ -1,4 +1,4 @@
-﻿#41 - Ostpreussen
+#41 - Ostpreussen
 
 owner = PRU
 controller = PRU

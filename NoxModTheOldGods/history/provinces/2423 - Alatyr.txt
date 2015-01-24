@@ -1,4 +1,4 @@
-﻿#2423 - Alatyr
+#2423 - Alatyr
 
 owner = NZH
 controller = NZH

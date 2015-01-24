@@ -1,4 +1,4 @@
-﻿#1748 - La Mancha
+#1748 - La Mancha
 
 owner = GRA		#Enrique III of Castille
 controller = GRA

@@ -1,4 +1,4 @@
-﻿#140 - Core of Bosnian kingdom, Soli+Usora+Vrhbosna
+#140 - Core of Bosnian kingdom, Soli+Usora+Vrhbosna
 
 owner = BOS # Part of the Bosnian kingdom
 controller = BOS

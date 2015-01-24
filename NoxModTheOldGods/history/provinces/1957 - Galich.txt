@@ -1,4 +1,4 @@
-﻿#Galich
+#Galich
 
 owner = NZH
 controller = NZH

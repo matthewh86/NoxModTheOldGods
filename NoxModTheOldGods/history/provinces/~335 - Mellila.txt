@@ -1,4 +1,4 @@
-﻿#335 - Melilla
+#335 - Melilla
 
 owner = FEZ
 controller = FEZ

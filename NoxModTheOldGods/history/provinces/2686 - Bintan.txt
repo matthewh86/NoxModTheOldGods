@@ -1,4 +1,4 @@
-﻿#2686 - Bintan
+#2686 - Bintan
 
 owner = MLC
 controller = MLC

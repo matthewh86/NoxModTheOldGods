@@ -1,4 +1,4 @@
-﻿# 2121 - Kuqa
+# 2121 - Kuqa
 
 owner = KAS
 controller = KAS

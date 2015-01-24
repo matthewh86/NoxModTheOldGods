@@ -1,4 +1,4 @@
-﻿#2393 - Terengganu
+#2393 - Terengganu
 
 owner = MLC
 controller = MLC

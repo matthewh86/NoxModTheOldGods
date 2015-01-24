@@ -1,4 +1,4 @@
-﻿#2414 - Azaraba
+#2414 - Azaraba
 
 owner = ALN
 controller = ALN

@@ -1,4 +1,4 @@
-﻿# 129 - Krain
+# 129 - Krain
 owner = SLV
 controller = SLV
 add_core = SLV

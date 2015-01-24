@@ -1,4 +1,4 @@
-﻿#2226 - Jalalabad
+#2226 - Jalalabad
 
 owner = AFG
 controller = AFG

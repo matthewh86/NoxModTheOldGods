@@ -1,4 +1,4 @@
-﻿mataco = {	#Matacoan
+mataco = {	#Matacoan
 	graphical_culture = northamericagfx
 	
 	chacoan = {

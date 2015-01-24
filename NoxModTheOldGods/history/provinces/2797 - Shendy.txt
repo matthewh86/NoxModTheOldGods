@@ -1,4 +1,4 @@
-﻿#2797 - Shendy
+#2797 - Shendy
 
 owner = ALO
 controller = ALO

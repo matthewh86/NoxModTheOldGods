@@ -1,4 +1,4 @@
-﻿#2213 - Markazi
+#2213 - Markazi
 
 owner = PER
 controller = PER

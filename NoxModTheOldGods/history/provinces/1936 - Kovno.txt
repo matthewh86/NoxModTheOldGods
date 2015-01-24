@@ -1,4 +1,4 @@
-﻿#Kovno
+#Kovno
 
 owner = LIT
 controller = LIT

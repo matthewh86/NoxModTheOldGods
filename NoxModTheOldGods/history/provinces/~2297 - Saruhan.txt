@@ -1,4 +1,4 @@
-﻿#2297 - Saruhan
+#2297 - Saruhan
 
 owner = SRU
 controller = SRU

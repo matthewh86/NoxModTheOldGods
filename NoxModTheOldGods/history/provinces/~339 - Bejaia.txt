@@ -1,4 +1,4 @@
-﻿#339 - Bejaia
+#339 - Bejaia
 
 owner = KBA
 controller = KBA

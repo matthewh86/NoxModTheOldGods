@@ -1,4 +1,4 @@
-﻿oghuz = {
+oghuz = {
 	graphical_culture = muslimgfx
 
 	turkish = {

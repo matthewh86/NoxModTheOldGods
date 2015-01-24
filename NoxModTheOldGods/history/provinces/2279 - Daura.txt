@@ -1,4 +1,4 @@
-﻿# No previous file for Daura
+# No previous file for Daura
 
 owner = KTS
 controller = KTS

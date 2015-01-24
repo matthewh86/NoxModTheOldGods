@@ -1,4 +1,4 @@
-﻿# - Titteri
+# - Titteri
 
 owner = ALG
 controller = ALG

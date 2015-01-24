@@ -1,4 +1,4 @@
-﻿#1746 - Burgos
+#1746 - Burgos
 
 owner = LEO		#Juan II of Castille
 controller = LEO

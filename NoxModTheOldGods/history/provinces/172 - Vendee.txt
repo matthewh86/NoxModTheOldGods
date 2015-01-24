@@ -1,4 +1,4 @@
-﻿# 172 Vendée - Principal cities: Nantes
+# 172 Vendée - Principal cities: Nantes
 
 owner = BRI
 controller = BRI

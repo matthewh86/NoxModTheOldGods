@@ -1,4 +1,4 @@
-﻿#640 - Pontianak
+#640 - Pontianak
 
 culture = bornean
 religion = shafi

@@ -1,4 +1,4 @@
-﻿#54 - Stade
+#54 - Stade
 
 owner = BRE
 controller = BRE

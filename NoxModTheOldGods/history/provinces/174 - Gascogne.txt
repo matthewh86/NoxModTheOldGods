@@ -1,4 +1,4 @@
-﻿# 174 Gascogne - Principal cities: Bordeaux
+# 174 Gascogne - Principal cities: Bordeaux
 
 owner = GUY
 controller = GUY

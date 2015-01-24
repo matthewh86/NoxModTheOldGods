@@ -1,4 +1,4 @@
-﻿#2416 - Majar
+#2416 - Majar
 
 owner = AST
 controller = AST

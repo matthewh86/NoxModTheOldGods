@@ -1,4 +1,4 @@
-﻿#326 - Ankara
+#326 - Ankara
 
 owner = TUR
 controller = TUR

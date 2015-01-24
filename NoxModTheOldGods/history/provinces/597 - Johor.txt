@@ -1,4 +1,4 @@
-﻿#597 - Johor
+#597 - Johor
 
 owner = MLC
 controller = MLC

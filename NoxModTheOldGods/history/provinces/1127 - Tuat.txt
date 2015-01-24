@@ -1,4 +1,4 @@
-﻿#1127 - Tuat
+#1127 - Tuat
 
 culture = tuareg
 capital = "Tawat"

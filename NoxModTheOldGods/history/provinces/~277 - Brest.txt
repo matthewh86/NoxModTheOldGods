@@ -1,4 +1,4 @@
-﻿#Brest-Litovsk
+#Brest-Litovsk
 
 owner = PLC
 controller = PLC   

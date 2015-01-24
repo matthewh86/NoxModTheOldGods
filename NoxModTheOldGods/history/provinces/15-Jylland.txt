@@ -1,4 +1,4 @@
-﻿#Jylland, incl. Aarhus, Aalborg, Viborg and Kolding
+#Jylland, incl. Aarhus, Aalborg, Viborg and Kolding
 
 owner = DAN
 controller = DAN

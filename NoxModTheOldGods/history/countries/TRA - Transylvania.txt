@@ -1,4 +1,4 @@
-﻿government = feudal_monarchy
+government = feudal_monarchy
 #aristocracy_plutocracy = -3
 #centralization_decentralization = 1
 #innovative_narrowminded = 1

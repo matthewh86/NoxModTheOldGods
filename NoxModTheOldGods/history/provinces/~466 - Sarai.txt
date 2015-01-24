@@ -1,4 +1,4 @@
-﻿#466 - Sarai
+#466 - Sarai
 
 owner = AST
 controller = AST

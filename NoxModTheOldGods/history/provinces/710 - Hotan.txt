@@ -1,4 +1,4 @@
-﻿#710 - Hotan
+#710 - Hotan
 
 owner = KAS
 controller = KAS

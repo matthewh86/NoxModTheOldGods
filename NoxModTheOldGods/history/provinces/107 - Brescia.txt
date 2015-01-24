@@ -1,4 +1,4 @@
-﻿#107 - Brescia
+#107 - Brescia
 
 owner = LMB		# From 1426
 controller = LMB

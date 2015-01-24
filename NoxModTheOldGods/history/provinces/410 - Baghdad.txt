@@ -1,4 +1,4 @@
-﻿#410 - Iraq-i-Arab
+#410 - Iraq-i-Arab
 
 owner = IRQ
 controller = IRQ

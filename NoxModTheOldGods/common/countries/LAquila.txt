@@ -1,4 +1,4 @@
-﻿# LAquila
+# LAquila
 graphical_culture = westerngfx
 color = { 140 60 230 }
 

@@ -1,4 +1,4 @@
-﻿#242 - Gwynedd
+#242 - Gwynedd
 
 owner = WLS
 controller = WLS

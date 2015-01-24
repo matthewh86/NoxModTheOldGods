@@ -1,4 +1,4 @@
-﻿# Slovenia
+# Slovenia
 
 graphical_culture = easterngfx
 

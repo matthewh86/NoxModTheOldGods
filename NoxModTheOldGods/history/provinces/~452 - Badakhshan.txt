@@ -1,4 +1,4 @@
-﻿#452 - Badakhshan
+#452 - Badakhshan
 
 owner = AFG
 controller = AFG

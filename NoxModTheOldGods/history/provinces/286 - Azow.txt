@@ -1,4 +1,4 @@
-﻿#286 - Azow
+#286 - Azow
 
 owner = AZV
 controller = AZV

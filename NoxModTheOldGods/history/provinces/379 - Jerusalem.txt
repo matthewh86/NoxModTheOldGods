@@ -1,4 +1,4 @@
-﻿#379 - Judea
+#379 - Judea
 
 owner = ISR
 controller = ISR

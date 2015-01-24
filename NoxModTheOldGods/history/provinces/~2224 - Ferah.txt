@@ -1,4 +1,4 @@
-﻿#2224 - Ferah
+#2224 - Ferah
 
 owner = AFG
 controller = AFG

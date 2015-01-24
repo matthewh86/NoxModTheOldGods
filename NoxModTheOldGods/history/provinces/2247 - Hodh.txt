@@ -1,4 +1,4 @@
-﻿# 2247 - Hodh
+# 2247 - Hodh
 
 owner = TMB
 controller = TMB # under Tuareg rule to 1468

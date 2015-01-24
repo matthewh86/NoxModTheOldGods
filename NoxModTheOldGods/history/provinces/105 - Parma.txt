@@ -1,4 +1,4 @@
-﻿#105 - Parma
+#105 - Parma
 
 owner = PAR
 controller = PAR

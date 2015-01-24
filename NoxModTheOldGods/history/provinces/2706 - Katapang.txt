@@ -1,4 +1,4 @@
-﻿#2706 - Katapang
+#2706 - Katapang
 
 culture = bornean
 religion = shafi

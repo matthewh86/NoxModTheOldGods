@@ -1,4 +1,4 @@
-﻿#247 - Cumbria
+#247 - Cumbria
 
 owner = CMB
 controller = CMB

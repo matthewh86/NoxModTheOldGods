@@ -1,4 +1,4 @@
-﻿# Thrace
+# Thrace
 graphical_culture = easterngfx
 color = { 80 80 150 }
 historical_idea_groups = {
