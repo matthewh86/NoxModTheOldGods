@@ -1,0 +1,35 @@
+﻿government = feudal_monarchy
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = 1
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 1
+#quality_quantity = 1
+#serfdom_freesubjects = 1
+primary_culture = scottish
+religion = druidic
+technology_group = western
+#capital = 12 #Sjaelland
+
+1444.1.1 = {
+	monarch = {
+		name = "Norman"
+		dynasty = "Shillaw"
+		birth_date = 1416.2.26
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1444.1.1 = {
+	monarch = {
+		name = "Andrew"
+		dynasty = "Shillaw"
+		birth_date = 1426.2.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
