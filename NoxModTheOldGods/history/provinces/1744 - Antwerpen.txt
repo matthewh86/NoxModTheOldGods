@@ -1,4 +1,4 @@
-# 1744 Antwerp - Principal cities: Antwerp
+ï»¿# 1744 Antwerp - Principal cities: Antwerp
 
 owner = FLA
 controller = FLA
@@ -55,7 +55,7 @@ discovered_by = ottoman
 1570.1.1   = { unrest = 17 constable = yes } # The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
 1572.1.1   = { religion = reformed }
 1577.2.12  = { unrest = 11 } # 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
-1577.10.28 = { revolt = { type = heretic_rebels size = 2 } controller = REB } # A Calvinist coup d'état hits Ghent and expands through Flanders
+1577.10.28 = { revolt = { type = heretic_rebels size = 2 } controller = REB } # A Calvinist coup d'Ã©tat hits Ghent and expands through Flanders
 1579.1.23  = { revolt = {} controller = NED add_core = NED unrest = 0 } # Union of Utrecht - Flanders joins
 1585.1.1   = { regimental_camp = yes } # Staging point for most armies
 1585.8.27  = { controller = SPA unrest = 5 religion = catholic } # Alessandro Farnese captures Antwerp after a 14-month long siege
@@ -64,7 +64,7 @@ discovered_by = ottoman
 1600.7.2   = { controller = NED } # Maurice of Nassau beats the Spanish at Nieuwpoort, but has to retreat soon after
 1604.1.1   = { controller = SPA } # Spinola retakes Ostend and most of Flanders
 #1630.1.1   = { customs_house = yes }
-1648.1.30  = { remove_core = NED unrest = 0 } # Peace of Münster/Westphalia
+1648.1.30  = { remove_core = NED unrest = 0 } # Peace of MÃ¼nster/Westphalia
 1650.1.1   = { citysize = 150000 } # Blockade of the port of Antwerp lifted
 1665.9.17  = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 1672.5.1   = { controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War

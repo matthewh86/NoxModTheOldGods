@@ -1,4 +1,4 @@
-# 1769 - G�rz
+﻿# 1769 - Görz
 owner = SLV
 controller = SLV
 add_core = SLV

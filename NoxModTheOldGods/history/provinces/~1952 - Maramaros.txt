@@ -1,4 +1,4 @@
-#1952 - M·ramaros
+Ôªø#1952 - M√°ramaros
 
 owner = TRA
 controller = TRA  
@@ -24,7 +24,7 @@ discovered_by = ottoman
 1526.8.30 = {	owner = TRA
 		controller = TRA
 		fort2 = yes
-   	    } # Battle of Moh·cs, the end of the independent Kingdom of Hungary
+   	    } # Battle of Moh√°cs, the end of the independent Kingdom of Hungary
 1550.1.1  = { citysize = 3114 }
 1551.7.19 = {	owner = HAB
 		controller = HAB

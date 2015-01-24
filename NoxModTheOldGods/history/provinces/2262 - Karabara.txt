@@ -1,4 +1,4 @@
-# No previous file for Karabara
+﻿# No previous file for Karabara
 
 owner = SON
 controller = SON

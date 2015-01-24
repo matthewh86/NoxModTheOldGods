@@ -1,4 +1,4 @@
-#473 - Samara
+﻿#473 - Samara
 
 owner = KAZ
 controller = KAZ

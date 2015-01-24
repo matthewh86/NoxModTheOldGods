@@ -1,4 +1,4 @@
-#231 - Porto
+﻿#231 - Porto
 
 owner = GAL
 controller = GAL
@@ -31,7 +31,7 @@ marketplace = yes
 1580.8.25 = { controller = SPA }
 1580.8.26 = { controller = POR }
 1600.1.1  = { citysize = 24000 } #customs_house = yes
-1640.1.1  = { unrest = 8 } # Revolt headed by John of Bragan�a
+1640.1.1  = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 } # Portugal regained it's independence & colonial possessions
 1650.1.1  = { citysize = 29000 courthouse = yes }
 1750.1.1  = { citysize = 21000 }

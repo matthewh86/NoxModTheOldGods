@@ -1,4 +1,4 @@
-central_american = {
+﻿central_american = {
 	graphical_culture = southamericagfx
 
 	tecos = {

@@ -1,4 +1,4 @@
-# 92 Brabant - Principal cities: Brussel & Mechelen
+ï»¿# 92 Brabant - Principal cities: Brussel & Mechelen
 
 owner = BRB
 controller = BRB 
@@ -42,14 +42,14 @@ discovered_by = ottoman
 1569.1.1 = { unrest = 9 } # The Duke of Alba reforms the taxation system ('tiende penning')
 1570.1.1 = { unrest = 12 constable = yes } # The Duke of Alba reforms the penal procedure, 'Blood Council' (Bloedraad) established
 1572.6.5 = { unrest = 0 revolt = { type = nationalist_rebels size = 1 } controller = REB } # Louis of Nassau captures Mechelen
-1572.8.15 = { revolt = {} controller = SPA unrest = 12 } # Don Felipé lays waste to Mechelen
+1572.8.15 = { revolt = {} controller = SPA unrest = 12 } # Don FelipÃ© lays waste to Mechelen
 1577.2.12 = { unrest = 10 } # 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
 1577.9.23 = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # William of Orange enters Brussels triumphating
 1579.1.23 = { revolt = {} controller = NED }
 1585.5.4 = { unrest = 5 } # Alessandro Farnese captures Mechelen & Brussels in quick succession
 1600.1.1 = { fort3 = yes citysize = 61000 }
 1630.1.1 = { workshop = yes }
-1648.1.30 = { controller = SPA unrest = 0 } # Peace of Münster/Westphalia
+1648.1.30 = { controller = SPA unrest = 0 } # Peace of MÃ¼nster/Westphalia
 1650.1.1 = { citysize = 89000 } #customs_house = yes
 1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 1672.5.10 = { controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
@@ -63,7 +63,7 @@ discovered_by = ottoman
 1719.2.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Under the guidance of guildmaster Anneesens, Brussels revolts against the Austrian taxation policy
 1719.9.19 = { revolt = {} controller = HAB } # Revolt suppressed, Anneesens executed
 1725.1.1 = { tax_assessor = yes }
-1746.10.11 = { controller = FRA } # Maréchal Saxe launches a succesful offensive
+1746.10.11 = { controller = FRA } # MarÃ©chal Saxe launches a succesful offensive
 1748.10.18 = { controller = HAB } # Peace of Aachen
 1750.1.1 = { regimental_camp = yes citysize = 78000 }
 1789.1.1 = { unrest = 15 } # 'Brabantse Omwenteling' at hand

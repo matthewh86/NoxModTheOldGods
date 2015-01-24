@@ -1,10 +1,10 @@
-#56 - Osnabrück
+ï»¿#56 - OsnabrÃ¼ck
 
 owner = MUN
 controller = MUN
 culture = hannoverian
 religion = germanic_norse
-capital = "Osnabrück"
+capital = "OsnabrÃ¼ck"
 trade_goods = salt
 hre = yes
 base_tax = 4

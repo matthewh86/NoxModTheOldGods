@@ -1,4 +1,4 @@
-andean = {
+﻿andean = {
 	graphical_culture = southamericagfx
 	
 	inca = { #Quechua

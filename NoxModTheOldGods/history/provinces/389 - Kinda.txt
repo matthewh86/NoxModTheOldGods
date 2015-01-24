@@ -1,4 +1,4 @@
-#389 - Hadramut
+ï»¿#389 - Hadramut
 
 owner = ADE
 controller = ADE
@@ -29,7 +29,7 @@ fort1 = yes
 
 1450.1.1 = { citysize = 3500}
 1480.1.1 = { discovered_by = TUR }
-1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
+1488.1.1 = { discovered_by = POR } # PÃªro da CovilhÃ£
 1500.1.1 = { citysize = 5877 }
 1538.1.1 = {	owner = TUR
 		controller = TUR

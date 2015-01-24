@@ -1,11 +1,11 @@
-#53 - Lüneburg
+ï»¿#53 - LÃ¼neburg
 
 owner = LUN
 controller = LUN
 add_core = LUN
 culture = hannoverian
 religion = germanic_norse
-capital = "Lüneburg"
+capital = "LÃ¼neburg"
 trade_goods = salt
 hre = yes
 base_tax = 5
@@ -27,7 +27,7 @@ discovered_by = ottoman
 	owner = BRU
 	controller = BRU
 	add_core = BRU
-} # Braunschweig-Wolfenbüttel remains independent upon formation of the Electorate of Hannover
+} # Braunschweig-WolfenbÃ¼ttel remains independent upon formation of the Electorate of Hannover
 1700.1.1 = { courthouse = yes }
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 1807.7.9 = {

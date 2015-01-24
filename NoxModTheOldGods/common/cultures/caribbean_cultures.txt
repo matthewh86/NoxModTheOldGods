@@ -1,4 +1,4 @@
-carribean = {
+﻿carribean = {
 	graphical_culture = northamericagfx
 
 	arawak = {

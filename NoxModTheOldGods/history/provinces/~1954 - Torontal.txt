@@ -1,4 +1,4 @@
-#1954 - Toront�l
+﻿#1954 - Torontál
 
 owner = TEM
 controller = TEM 

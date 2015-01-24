@@ -1,4 +1,4 @@
-# - Djado
+﻿# - Djado
 
 culture = tuareg
 religion = maliki

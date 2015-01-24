@@ -1,17 +1,17 @@
-iberian	= {
+﻿iberian	= {
 	graphical_culture = westerngfx
 
 	castillian = {
 		primary = CAS
 		dynasty_names = {
-			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
-			Téllez-Girón "Manrique de Lara" Sandoval "de Ávalos"
+			"de TrastÃ¡mara" "de GuzmÃ¡n" "Ãlvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+			TÃ©llez-GirÃ³n "Manrique de Lara" Sandoval "de Ãvalos"
 		}
 	}
 	catalan = {
 		primary = ARA
 		dynasty_names = {
-			"d'Aragó" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
+			"d'AragÃ³" "de Borja" "de Luna" "d'Urgell" "Folc de Cardona"
 		}
 	}
 	galician = {
@@ -29,13 +29,13 @@ iberian	= {
 	portugese = {
 		primary = POR
 		dynasty_names = {
-			"de Aviz" "de Bragança" "de Crato" "d'Alburquerque" "de Portugal" "de Lencastre" "de Melo" 
-			"de Moura" "de Nápoles" "de Menezes"
+			"de Aviz" "de BraganÃ§a" "de Crato" "d'Alburquerque" "de Portugal" "de Lencastre" "de Melo" 
+			"de Moura" "de NÃ¡poles" "de Menezes"
 		}
 	}
 	basque = {
 		primary = NAV
-		dynasty_names = { "de Navarra" "de Beaumont" "de Lerín" "de Monteagudo" }
+		dynasty_names = { "de Navarra" "de Beaumont" "de LerÃ­n" "de Monteagudo" }
 	}
 	leonese = {
 		primary = LEO

@@ -1,4 +1,4 @@
-baltic_slavic = {
+﻿baltic_slavic = {
 	graphical_culture = easterngfx
 	
 	lithuanian = {

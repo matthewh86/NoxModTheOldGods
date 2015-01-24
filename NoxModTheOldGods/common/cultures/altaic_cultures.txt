@@ -1,4 +1,4 @@
-altaic = {
+﻿altaic = {
 	graphical_culture = muslimgfx
 
 	mongol = {
@@ -26,6 +26,6 @@ altaic = {
 		primary = CHG
 	}
 	dynasty_names = {
-		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+		"Chagatay" "EdigÃ¼id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 	}
 }

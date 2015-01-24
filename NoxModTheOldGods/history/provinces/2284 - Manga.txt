@@ -1,4 +1,4 @@
-# No previous file for Manga
+﻿# No previous file for Manga
 
 owner = KBO
 controller = KBO

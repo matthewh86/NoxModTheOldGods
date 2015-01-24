@@ -1,4 +1,4 @@
-#Halland, contains Halmstad, Varberg.
+ï»¿#Halland, contains Halmstad, Varberg.
 
 owner = DAN
 controller = DAN
@@ -30,8 +30,8 @@ discovered_by = ottoman
 1590.1.1   = { fort3 = yes }
 1590.1.1   = { constable = yes } # Base for spying against Sweden
 1600.1.1   = { citysize = 1721 }
-1645.8.13  = { owner = SWE } # The Peace of Brömsebro
-1645.8.13  = { courthouse = yes } # minor court belonging to Göta Hovrätt
+1645.8.13  = { owner = SWE } # The Peace of BrÃ¶msebro
+1645.8.13  = { courthouse = yes } # minor court belonging to GÃ¶ta HovrÃ¤tt
 1645.8.13  = { tax_assessor = yes } # Controls large parts of exports to the West
 1650.1.1   = { citysize = 1932 }
 1660.1.1   = { fort4 = yes }

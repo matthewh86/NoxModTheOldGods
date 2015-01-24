@@ -1,4 +1,4 @@
-#Småland, also contains Öland.  Kalmar, Jönköping etc..
+ï»¿#SmÃ¥land, also contains Ã–land.  Kalmar, JÃ¶nkÃ¶ping etc..
 
 add_core = SWE
 owner = SWE
@@ -40,11 +40,11 @@ add_local_autonomy = 25
 1599.5.12  = { controller = SWE } # Duke Karl get it back
 1610.1.1   = { citysize = 2980 } # Estimated
 1611.8.3   = { controller = DAN } # The War of Kalmar-Captured by Christian IV
-1613.1.20  = { controller = SWE }# The Peace of Knäred
-1623.1.1   = { regimental_camp = yes } # Kalmar/Jönköping/Kronoberg/Skaraborgs infanteriregementen
-1623.1.1   = { manpower = 4 } # Småland did a huge contribution in number of regiments
+1613.1.20  = { controller = SWE }# The Peace of KnÃ¤red
+1623.1.1   = { regimental_camp = yes } # Kalmar/JÃ¶nkÃ¶ping/Kronoberg/Skaraborgs infanteriregementen
+1623.1.1   = { manpower = 4 } # SmÃ¥land did a huge contribution in number of regiments
 1630.1.1   = { fort4 = yes }
-1634.1.1   = { courthouse = yes } # Göta Hovrätt in Jönköping
+1634.1.1   = { courthouse = yes } # GÃ¶ta HovrÃ¤tt in JÃ¶nkÃ¶ping
 1650.1.1   = { citysize = 4000 } # Estimated
 1654.1.1   = { tax_assessor = yes } # Result of "The Great Reduction"
 1730.1.1   = { constable = yes } # Due to the support of manufactories

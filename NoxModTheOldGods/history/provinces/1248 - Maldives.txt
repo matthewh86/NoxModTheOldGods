@@ -1,8 +1,8 @@
-#1248 - Maldives
+﻿#1248 - Maldives
 
 culture = malayalam
 religion = shafi
-capital = "Mal�"
+capital = "Malé"
 trade_goods = fish
 hre = no
 base_tax = 2

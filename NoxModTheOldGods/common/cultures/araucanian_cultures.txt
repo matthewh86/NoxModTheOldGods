@@ -1,4 +1,4 @@
-araucanian = {
+﻿araucanian = {
 	graphical_culture = northamericagfx
 	
 	mapuche = {

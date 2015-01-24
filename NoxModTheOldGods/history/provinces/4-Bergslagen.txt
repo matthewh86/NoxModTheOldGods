@@ -1,4 +1,4 @@
-#Bergslagen, contains Falun, V‰sterÂs etc.
+Ôªø#Bergslagen, contains Falun, V√§ster√•s etc.
 
 add_core = SWE
 owner = SWE
@@ -10,9 +10,9 @@ base_tax = 2
 trade_goods = iron
 manpower = 2
 fort1 = yes
-capital = "V‰sterÂs"
+capital = "V√§ster√•s"
 citysize = 1200 #estimate
-temple = yes #"Domkyrkan i V‰sterÂs"
+temple = yes #"Domkyrkan i V√§ster√•s"
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -21,7 +21,7 @@ discovered_by = ottoman
 
 
 1434.6.1  = { revolt = { type = anti_tax_rebels size = 2 name = "Engelbrekt" } controller = REB } # Engelbrekt rebellion
-1436.4.27  = { revolt = {} controller = SWE } # Engelbrekt was murdered by MÂns Bengtsson Natt och Dag
+1436.4.27  = { revolt = {} controller = SWE } # Engelbrekt was murdered by M√•ns Bengtsson Natt och Dag
 1436.4.28  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde elected leader
 1438.3.1   = { revolt = {} controller = SWE } # Unclear date
 1438.10.1  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde, unclear date
@@ -35,15 +35,15 @@ discovered_by = ottoman
 # 1520.3.6  = { owner = DAN controller = DAN } # The Council accept Christian II as King
 # 1521.5.20 = { owner = SWE controller = SWE } # Liberated by Gustav Eriksson Wasa
 1527.6.1  = { religion = protestant}
-1544.1.1  = { fort2 = yes } # V‰sterÂs Castle
+1544.1.1  = { fort2 = yes } # V√§ster√•s Castle
 1560.1.1  = { marketplace = yes } # Controller of trade route from the Swedish Mine Region
 1570.1.1  = { citysize = 1948 }
 1601.1.1  = { weapons = yes } # Several weapon factories in this region
 1610.1.1  = { citysize = 2580 }
 1617.1.1  = { base_tax = 4 } # Iron is king!
-1625.1.1  = { regimental_camp = yes } # V‰stmanlandsregemente
+1625.1.1  = { regimental_camp = yes } # V√§stmanlandsregemente
 1625.1.1  = { fort3 = yes } 
-1635.1.1  = { courthouse = yes } # Minor court belonging to Svea Hovr‰tt
+1635.1.1  = { courthouse = yes } # Minor court belonging to Svea Hovr√§tt
 1650.1.1  = { citysize = 3344 }
 1670.1.1  = { tax_assessor = yes } # Due to the "Staplepolicy act"
 1685.1.1  = { fort4 = yes } 

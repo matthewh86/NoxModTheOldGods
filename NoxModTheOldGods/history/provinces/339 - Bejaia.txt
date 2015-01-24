@@ -1,4 +1,4 @@
-#339 - Bejaia
+﻿#339 - Bejaia
 
 owner = KBA
 controller = KBA
@@ -22,7 +22,7 @@ discovered_by = ottoman
 1510.1.1 = {
 	owner = KBA
 	controller = KBA
-	capital = "Kal�a"
+	capital = "Kalâa"
 }
 1550.1.1 = { citysize = 9675 }
 1600.1.1 = {

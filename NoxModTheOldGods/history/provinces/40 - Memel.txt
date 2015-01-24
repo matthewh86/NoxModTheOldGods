@@ -1,4 +1,4 @@
-#40 - Memel
+﻿#40 - Memel
 
 owner = PRU
 controller = PRU
@@ -50,6 +50,6 @@ discovered_by = ottoman
 		} # Kingdom of Prussia
 1723.1.1   = { fort3 = yes }
 1750.1.1   = { citysize = 11750 base_tax = 5  }
-1757.9.1   = { controller = RUS } # captured by Russia after Gross-J�gersdorf
+1757.9.1   = { controller = RUS } # captured by Russia after Gross-Jägersdorf
 1762.1.5   = { controller = PRU } # Russians withdraw
 1800.1.1   = { citysize = 15000 }

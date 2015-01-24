@@ -1,4 +1,4 @@
-#162 - ZemplÈn
+Ôªø#162 - Zempl√©n
 
 owner = ZEM
 controller = ZEM  
@@ -25,7 +25,7 @@ discovered_by = ottoman
 		controller = HAB
 		add_core = HAB
 		fort2 = yes
-   	    } # Battle of Moh·cs, the end of the independent Kingdom of Hungary, Hungary came under military rule
+   	    } # Battle of Moh√°cs, the end of the independent Kingdom of Hungary, Hungary came under military rule
 1545.1.1  = { religion = protestant } # Synod of Erdod
 1550.1.1  = { citysize = 6228 }
 1570.1.1   = {remove_core = TRA	} #Treaty of Speyer

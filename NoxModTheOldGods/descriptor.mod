@@ -1,4 +1,4 @@
-name="NoxMod - The Old Gods - 1.9.2.0"
+﻿name="NoxMod - The Old Gods - 1.9.2.0"
 path="mod/noxmodtheoldgods"
 tags=
 {

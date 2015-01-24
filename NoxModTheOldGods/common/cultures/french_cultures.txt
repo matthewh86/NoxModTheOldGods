@@ -1,4 +1,4 @@
-french	= {
+﻿french	= {
 	graphical_culture = westerngfx
 
 	cosmopolitan_french = {

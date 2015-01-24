@@ -1,4 +1,4 @@
-#Sogn, Nordre Bergenhus
+﻿#Sogn, Nordre Bergenhus
 
 owner = NOR
 controller = NOR
@@ -21,7 +21,7 @@ discovered_by = eastern
 1531.11.5 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # The Return of Christian II
 1532.7.15 = { revolt = {} controller = NOR } # The Capture of Christian II
 1536.1.1  = { religion = protestant} # Unknown date
-1536.1.1  = { owner = DAN controller = DAN add_core = DAN } # 'Handf�stningen'(Unknown date)
+1536.1.1  = { owner = DAN controller = DAN add_core = DAN } # 'Handfästningen'(Unknown date)
 1550.1.1  = { citysize = 1580 }
 1600.1.1  = { citysize = 2400 }
 1650.1.1  = { citysize = 4380 }

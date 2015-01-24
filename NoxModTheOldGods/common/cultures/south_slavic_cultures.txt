@@ -1,4 +1,4 @@
-south_slavic = {
+﻿south_slavic = {
 	graphical_culture = easterngfx
 
 	croatian = {

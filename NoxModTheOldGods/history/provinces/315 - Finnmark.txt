@@ -1,4 +1,4 @@
-#315 - Finnmark
+ï»¿#315 - Finnmark
 
 owner = SAP
 controller = SAP
@@ -8,7 +8,7 @@ hre = no
 base_tax = 1
 manpower = 1
 trade_goods = fish
-capital = "Vardø"
+capital = "VardÃ¸"
 citysize = 500
 fort1 = yes
 add_core = SAP
@@ -16,7 +16,7 @@ discovered_by = eastern
 discovered_by = western
 
 1450.1.1  = { citysize = 600 culture = norwegian }
-1500.1.1  = { fort2 = yes citysize = 770 } # Østervågen
+1500.1.1  = { fort2 = yes citysize = 770 } # Ã˜stervÃ¥gen
 1536.1.1  = { religion = protestant owner = DAN controller = DAN add_core = DAN }
 1550.1.1  = { citysize = 890 }
 1600.1.1  = { citysize = 910 }

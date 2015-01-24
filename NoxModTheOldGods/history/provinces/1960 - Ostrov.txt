@@ -1,4 +1,4 @@
-#Ostrov
+﻿#Ostrov
 
 owner = PSK
 controller = PSK

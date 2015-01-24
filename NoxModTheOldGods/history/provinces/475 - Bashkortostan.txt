@@ -1,4 +1,4 @@
-#475 - Bashkortostan
+﻿#475 - Bashkortostan
 
 owner = KAZ
 controller = KAZ

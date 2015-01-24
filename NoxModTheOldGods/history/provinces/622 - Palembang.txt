@@ -1,4 +1,4 @@
-#622 - Palembang
+﻿#622 - Palembang
 
 culture = sumatran
 religion = shafi

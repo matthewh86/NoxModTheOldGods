@@ -1,4 +1,4 @@
-#290 - Poltava
+﻿#290 - Poltava
 
 owner = CHR
 controller = CHR 

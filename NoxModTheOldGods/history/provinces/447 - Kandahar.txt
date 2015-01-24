@@ -1,4 +1,4 @@
-#447 - Kandahar
+﻿#447 - Kandahar
 
 owner = AFG
 controller = AFG

@@ -1,4 +1,4 @@
-#206 - Galicia
+ï»¿#206 - Galicia
 
 owner = GAL		#Juan II of Castille
 controller = GAL
@@ -19,8 +19,8 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1450.1.1   = { citysize = 5000 }
-1467.1.1   = { unrest = 4 } # Second war of the "irmandiños"
-1470.1.1   = { unrest = 0 } # End of the Second war of the "irmandiños"
+1467.1.1   = { unrest = 4 } # Second war of the "irmandiÃ±os"
+1470.1.1   = { unrest = 0 } # End of the Second war of the "irmandiÃ±os"
 1475.6.2   = { controller = POR }
 1476.3.2   = { controller = CAS }
 1479.1.1   = { remove_core = GAL }

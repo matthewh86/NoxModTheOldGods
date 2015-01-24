@@ -1,4 +1,4 @@
-# 2352 - Alty-Kuduk
+﻿# 2352 - Alty-Kuduk
 
 owner = KHI
 controller = KHI

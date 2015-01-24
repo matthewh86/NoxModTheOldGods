@@ -1,4 +1,4 @@
-# 87 Calais - Principal cities: Calais
+﻿# 87 Calais - Principal cities: Calais
 
 owner = FLA
 controller = FLA 
@@ -27,7 +27,7 @@ marketplace = yes # 'The Brightest Jewel in the English Crown'
 1500.1.1   = { citysize = 18000 }
 1550.1.1   = { citysize = 17000 }
 1558.1.7   = { controller = FRA } # France captures the weakened Calais
-1559.4.3   = { owner = FRA remove_core = ENG } # Peace of Cateau-Cambr�sis, France annexes Calais from England
+1559.4.3   = { owner = FRA remove_core = ENG } # Peace of Cateau-Cambrésis, France annexes Calais from England
 1560.1.1   = { fort2 = yes } # Very late, English neglected Calais' forts the last few decades
 1588.12.1  = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
 1594.1.1   = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism

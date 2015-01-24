@@ -1,4 +1,4 @@
-#118 - Roma
+﻿#118 - Roma
 
 owner = LTM
 controller = LTM
@@ -38,7 +38,7 @@ discovered_by = ottoman
 1750.1.1   = { citysize = 156000 add_core = ITA } 
 1800.1.1   = { citysize = 163000 } 
 1809.4.10  = { controller = FRA } # Occupied by French troops
-1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Sch�nbrunn
+1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Schönbrunn
 1814.4.11  = {	owner = PAP
 		controller = PAP
 		remove_core = FRA

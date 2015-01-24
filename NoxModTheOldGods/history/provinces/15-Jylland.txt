@@ -1,4 +1,4 @@
-#Jylland, incl. Aarhus, Aalborg, Viborg and Kolding
+﻿#Jylland, incl. Aarhus, Aalborg, Viborg and Kolding
 
 owner = DAN
 controller = DAN
@@ -29,4 +29,4 @@ discovered_by = ottoman
 	controller = DAN
 }
 1644.1.25 = { controller = SWE } # Torstenssons War- Captured by Lennart Torstensson
-1645.8.13 = { controller = DAN } # The Peace of Br�msebro
+1645.8.13 = { controller = DAN } # The Peace of Brömsebro

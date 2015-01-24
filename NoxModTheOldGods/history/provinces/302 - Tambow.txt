@@ -1,4 +1,4 @@
-#302 - Tambow
+﻿#302 - Tambow
 
 owner = GOL
 controller = GOL

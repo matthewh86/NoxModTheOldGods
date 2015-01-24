@@ -1,4 +1,4 @@
-#1970 - Syghnak
+﻿#1970 - Syghnak
 
 owner = KZH
 controller = KZH

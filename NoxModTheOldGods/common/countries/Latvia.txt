@@ -1,33 +1,58 @@
-# Latvia
+﻿# Latvia
 graphical_culture = easterngfx
 color = { 110 50 50 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	diplomatic_ideas
-	spy_ideas
-	economic_ideas
-	administrative_ideas
-	quantity_ideas
+historical_idea_groups = {
+
+	trade_ideas
+
+	defensive_ideas
+
+	offensive_ideas
+
+	diplomatic_ideas
+
+	spy_ideas
+
+	economic_ideas
+
+	administrative_ideas
+
+	quantity_ideas
+
 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	russian_lancer
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
+historical_units = {
+
+	bardiche_infantry
+
+	eastern_knights
+
+	slavic_stradioti
+
+	eastern_militia
+
+	hungarian_hussar
+
+	polish_musketeer
+
+	polish_hussar
+
+	polish_tercio
+
+	polish_winged_hussar
+
+	russian_lancer
+
+	russian_cuirassier
+
+	eastern_skirmisher
+
+	eastern_uhlan
+
+	eastern_carabinier
+
+	russian_mass
+
 }
 
 
@@ -164,20 +189,35 @@ monarch_names = {
 	"Vykantas #0" = 0
 	"Yudki #0" = 0
 }
-ship_names = {
-	Alytus
-	Birzai
-	Druskininkai
-	Gardinas
-	Jonava
-	Kaunas Kretinga Kreva
-	Lazdijai
-	Naugardukas
-	Palanga
-	Raseiniai
-	Siauliai Sventoji
-	Taurage Telsiai Trakai
-	Utena
-	Vilkmerge
+ship_names = {
+
+	Alytus
+
+	Birzai
+
+	Druskininkai
+
+	Gardinas
+
+	Jonava
+
+	Kaunas Kretinga Kreva
+
+	Lazdijai
+
+	Naugardukas
+
+	Palanga
+
+	Raseiniai
+
+	Siauliai Sventoji
+
+	Taurage Telsiai Trakai
+
+	Utena
+
+	Vilkmerge
+
 }
 

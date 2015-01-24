@@ -1,4 +1,4 @@
-#Novgorod-Seversky
+﻿#Novgorod-Seversky
 
 owner = CHR
 controller = CHR    
@@ -41,7 +41,7 @@ discovered_by = nomad_group
 1654.1.1   = { revolt = {} controller = PLC remove_core = ZAZ }
 1654.1.18  = { owner = RUS controller = RUS add_core = RUS } # Treaty of Pereyaslav
 1667.2.9  = { remove_core = PLC } # Treaty of Andrusovo
-1680.1.1   = { regimental_camp = yes } # Ivan Mazeppa�s baroque army building.
+1680.1.1   = { regimental_camp = yes } # Ivan Mazeppa’s baroque army building.
 1700.1.1   = { citysize = 12861 }
 1750.1.1   = { citysize = 15130 }
 1794.3.24  = { unrest = 5 } # Kosciuszko uprising, minimize the Russian influence

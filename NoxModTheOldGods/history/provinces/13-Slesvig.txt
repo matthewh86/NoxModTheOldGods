@@ -1,4 +1,4 @@
-#Sönderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
+ï»¿#SÃ¶nderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
 
 add_core = SHL
 owner = SHL
@@ -31,7 +31,7 @@ discovered_by = ottoman
 	controller = DAN
 }
 1644.1.12  = { controller = SWE } #Torstenssons War-Captured by Lennart Torstensson
-1645.8.13  = { controller = DAN } #The Peace of Brömsebro
+1645.8.13  = { controller = DAN } #The Peace of BrÃ¶msebro
 1650.1.1 = { citysize = 5980 }
 1657.10.23 = { controller = SWE } #Karl X Gustavs First Danish War-Captured by Wrangel
 1658.2.26  = { owner = SHL controller = SHL } #The Peace of Roskilde

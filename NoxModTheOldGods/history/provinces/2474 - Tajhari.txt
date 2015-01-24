@@ -1,4 +1,4 @@
-# - Tajhari (Idehan Murzuq)
+﻿# - Tajhari (Idehan Murzuq)
 
 culture = tuareg
 religion = maliki

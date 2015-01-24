@@ -1,10 +1,10 @@
-#54 - Stade
+﻿#54 - Stade
 
 owner = BRE
 controller = BRE
 culture = hannoverian
 religion = germanic_norse
-capital = "Bremerv�rde"
+capital = "Bremervörde"
 trade_goods = fish
 hre = yes
 base_tax = 6

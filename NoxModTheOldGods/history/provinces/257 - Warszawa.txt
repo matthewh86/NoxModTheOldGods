@@ -1,4 +1,4 @@
-#257 - Mazovia
+﻿#257 - Mazovia
 
 owner = MAZ
 controller = MAZ
@@ -44,7 +44,7 @@ discovered_by = ottoman
 1733.1.1   = { revolt = { type = revolutionary_rebels size = 3 } controller = REB } # The war of Polish succession
 1735.1.1   = { revolt = {} controller = PLC fort3 = yes }
 1750.1.1   = { citysize = 23000 } # Several waves of rural & Dutch settlers
-1756.1.1   = { fine_arts_academy = yes } # Kolegium Pijar�w founded
+1756.1.1   = { fine_arts_academy = yes } # Kolegium Pijarów founded
 1768.2.28  = { unrest = 8 } # Uprisings against the Polish king & Russia
 1772.8.18  = { unrest = 0 } # Uprisings suppressed by Russian troops
 1794.3.24  = { unrest = 5 } # Kosciuszko uprising

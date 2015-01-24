@@ -1,4 +1,4 @@
-#226 - Gibraltar
+﻿#226 - Gibraltar
 
 owner = GRA		# Mustapha Sa'd King of Granada
 controller = GRA
@@ -29,7 +29,7 @@ discovered_by = eastern
 	    } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1550.1.1  = { citysize = 3890 marketplace = yes }
 1600.1.1  = { citysize = 4300 }
-1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andaluc�a, which is speedily and uneventfully performed
+1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, which is speedily and uneventfully performed
 1650.1.1  = { citysize = 4780 }
 1700.1.1  = { citysize = 5580 }
 1704.8.3  = { controller = ENG } # England occupies Gibraltar

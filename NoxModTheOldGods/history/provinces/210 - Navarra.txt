@@ -1,4 +1,4 @@
-#210 - Navarra
+﻿#210 - Navarra
 
 owner = NAV		#Juan I de Navarra
 controller = NAV
@@ -29,7 +29,7 @@ discovered_by = ottoman
 		remove_core = CAS
 	     } # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
 1521.5.1   = { controller = FRA } # Exploiting the turmoil provoked by the revolt of the Comunidades, France attacks the unprotected Navarrese border.
-1521.6.30  = { controller = SPA } # French troops are defeated at the battle of Quir�s
+1521.6.30  = { controller = SPA } # French troops are defeated at the battle of Quirós
 1550.1.1   = { citysize = 5130 }
 1600.1.1   = { citysize = 7200 fort2 = yes }
 1650.1.1   = { citysize = 8570 marketplace = yes }

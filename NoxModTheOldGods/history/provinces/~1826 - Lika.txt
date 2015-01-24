@@ -1,4 +1,4 @@
-#1826 - Lika
+﻿#1826 - Lika
 
 owner = CRO
 controller = CRO
@@ -22,7 +22,7 @@ discovered_by = ottoman
 1526.8.30  = {	owner = TUR
 		controller = TUR
 		add_core = TUR
-             } # Battle of Moh�cs, west area under Habsburg rule while a large part is occupied by the Ottomans.
+             } # Battle of Mohács, west area under Habsburg rule while a large part is occupied by the Ottomans.
 1550.1.1   = { citysize = 4170 }
 1560.1.1   = { marketplace = yes }
 1573.1.20  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Peasant uprising against Habsburg rule & the feudal system

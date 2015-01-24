@@ -1,4 +1,4 @@
-#Oplandene, incl. Hamar, Lillehammer
+﻿#Oplandene, incl. Hamar, Lillehammer
 
 owner = NOR
 controller = NOR
@@ -25,7 +25,7 @@ discovered_by = ottoman
 		controller = DAN
 		add_core = DAN
 	    	religion = protestant
-	    } # 'Handf�stningen'(Unknown date)
+	    } # 'Handfästningen'(Unknown date)
 1550.1.1  = { citysize = 1570 marketplace = yes }
 1600.1.1  = { citysize = 1880 }
 1630.1.1  = { trade_goods = copper } # Approximate date

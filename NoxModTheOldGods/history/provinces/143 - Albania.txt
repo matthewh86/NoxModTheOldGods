@@ -1,4 +1,4 @@
-#143 - Albania
+﻿#143 - Albania
 
 owner = ALB
 controller = ALB

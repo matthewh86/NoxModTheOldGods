@@ -1,4 +1,4 @@
-# 100 Friesland - Principal cities: Groningen & Leeuwarden
+﻿# 100 Friesland - Principal cities: Groningen & Leeuwarden
 
 owner = FRI
 controller = FRI

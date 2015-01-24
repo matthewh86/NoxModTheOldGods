@@ -1,4 +1,4 @@
-#1772 - Pozsony
+﻿#1772 - Pozsony
 
 owner = SLK
 controller = SLK  
@@ -25,7 +25,7 @@ discovered_by = ottoman
 1526.8.30 = {	owner = HAB
 		controller = HAB
 		add_core = HAB
-		} # Battle of Moh�cs, the end of the independent Kingdom of Hungary
+		} # Battle of Mohács, the end of the independent Kingdom of Hungary
 1532.1.1  = { fort2 = yes }
 1545.1.1  = { religion = protestant } # Synod of Erdod
 1550.1.1  = { citysize = 14000 }

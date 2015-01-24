@@ -1,10 +1,10 @@
-#262 - Krakow
+﻿#262 - Krakow
 
 owner = KRA
 controller = KRA
 culture = polish
 religion = rus_slavic
-capital = "Krak�w"
+capital = "Kraków"
 hre = no
 base_tax = 10
 trade_goods = salt

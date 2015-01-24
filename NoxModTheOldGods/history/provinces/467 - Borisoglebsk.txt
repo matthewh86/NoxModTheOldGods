@@ -1,4 +1,4 @@
-#467 - Borisoglebsk
+﻿#467 - Borisoglebsk
 
 owner = GOL
 controller = GOL

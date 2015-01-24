@@ -1,4 +1,4 @@
-# Chinese alliance
+﻿# Chinese alliance
 alliance = {
 	first = CSH
 	second = CXI

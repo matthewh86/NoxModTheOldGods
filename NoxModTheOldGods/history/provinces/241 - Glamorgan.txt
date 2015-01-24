@@ -1,4 +1,4 @@
-#241 - Glamorgan
+﻿#241 - Glamorgan
 
 owner = WLS
 controller = WLS

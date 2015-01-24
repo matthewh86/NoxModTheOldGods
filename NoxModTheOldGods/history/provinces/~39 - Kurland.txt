@@ -1,4 +1,4 @@
-#Kurland, center at Goldingen
+﻿#Kurland, center at Goldingen
 
 owner = KUR
 controller = KUR

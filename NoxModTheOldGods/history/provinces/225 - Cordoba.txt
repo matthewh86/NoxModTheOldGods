@@ -1,4 +1,4 @@
-#225 - Córdoba
+ï»¿#225 - CÃ³rdoba
 
 owner = AIA		#Juan II of Castille
 controller = AIA
@@ -10,7 +10,7 @@ base_tax = 5
 trade_goods = wool
 manpower = 2
 fort1 = yes
-capital = "Córdoba" 
+capital = "CÃ³rdoba" 
 citysize = 4000
 discovered_by = western
 discovered_by = muslim
@@ -25,7 +25,7 @@ discovered_by = eastern
 	     } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1550.1.1   = { citysize = 17470 }
 1600.1.1   = { citysize = 28000 } # Estimation
-1610.1.12  = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, unlike Valencia, this was performed uneventfully.
+1610.1.12  = { culture = castillian } # Decree for the expulsion of the morisques in AndalucÃ­a, unlike Valencia, this was performed uneventfully.
 1650.1.1   = { citysize = 18700 } # Epidemic
 1700.1.1   = { citysize = 25325 }
 1713.4.11  = { remove_core = CAS }

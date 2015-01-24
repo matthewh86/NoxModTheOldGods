@@ -1,6 +1,6 @@
-#1750 - Al‡cant
+Ôªø#1750 - Al√†cant
 
-owner = GRA		#MartÌ I of Aragon
+owner = GRA		#Mart√≠ I of Aragon
 controller = GRA
 add_core = GRA
 culture = catalan
@@ -10,9 +10,9 @@ base_tax = 7
 trade_goods = wine
 manpower = 3 
 fort1 = yes
-capital = "Al‡cant" 
+capital = "Al√†cant" 
 citysize = 8000
-marketplace = yes # ValËncia was the center of peninsular trade with the Mediterranean, surpassing Barcelona
+marketplace = yes # Val√®ncia was the center of peninsular trade with the Mediterranean, surpassing Barcelona
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

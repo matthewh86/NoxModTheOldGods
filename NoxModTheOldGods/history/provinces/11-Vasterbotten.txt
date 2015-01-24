@@ -1,4 +1,4 @@
-#Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
+ï»¿#VÃ¤sterbotten-Ã…ngermanland, from Sundsvall/HÃ¤rnÃ¶sand over UmeÃ¥ to TorneÃ¥
 
 owner = SWE
 controller = SWE
@@ -9,7 +9,7 @@ hre = no
 base_tax = 1
 trade_goods = fur
 manpower = 1
-capital = "Umeå"
+capital = "UmeÃ¥"
 citysize = 1050 # Estimated
 discovered_by = eastern
 discovered_by = western
@@ -19,7 +19,7 @@ discovered_by = western
 1527.6.1  = { religion = protestant}
 1550.1.1  = { citysize = 1550 } # Estimated
 1600.1.1  = { citysize = 1910 } # Estimated
-1623.1.1  = { regimental_camp = yes } # Västerbottens regemente
+1623.1.1  = { regimental_camp = yes } # VÃ¤sterbottens regemente
 1623.1.1  = { fort1 = yes }
 1650.1.1  = { citysize = 2365 }
 1650.1.1  = { trade_goods = naval_supplies } # Estimated Date

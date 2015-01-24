@@ -1,4 +1,4 @@
-#1979 - Färöarna
+ï»¿#1979 - FÃ¤rÃ¶arna
 
 owner = ICE
 controller = ICE 

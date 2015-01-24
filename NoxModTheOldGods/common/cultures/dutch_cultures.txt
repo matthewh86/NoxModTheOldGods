@@ -1,4 +1,4 @@
-dutch_group = {
+﻿dutch_group = {
 	graphical_culture = westerngfx
 
 	dutch = {

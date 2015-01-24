@@ -1,4 +1,4 @@
-#1082 - Kazan
+﻿#1082 - Kazan
 
 owner = KAZ
 controller = KAZ

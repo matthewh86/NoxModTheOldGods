@@ -1,4 +1,4 @@
-#208 - León
+ï»¿#208 - LeÃ³n
 
 owner = LEO		#Juan II of Castille
 controller = LEO
@@ -10,7 +10,7 @@ base_tax = 5
 trade_goods = grain
 manpower = 2
 fort1 = yes
-capital = "León"
+capital = "LeÃ³n"
 citysize = 5500
 temple = yes # Burgos temple
 discovered_by = eastern
@@ -24,7 +24,7 @@ discovered_by = ottoman
 1470.1.1   = { unrest = 3 } #Isabel marries with Fernando of Aragon, breaking the Pacts of Guisando. King Enrique choses his daughter Juana ("La Beltraneja") as new heiress and a succession War erupts.
 1475.6.2   = { controller = POR }
 1476.3.2   = { controller = CAS }
-1479.9.4   = { unrest = 0 } #Peace of Alcaçovas, between Queen Isabel and King Alfonso of Portugal who had entered the war supporting her wife Juana
+1479.9.4   = { unrest = 0 } #Peace of AlcaÃ§ovas, between Queen Isabel and King Alfonso of Portugal who had entered the war supporting her wife Juana
 1500.1.1   = { citysize = 8700 }
 1516.1.23  = {	controller = SPA
 		owner = SPA

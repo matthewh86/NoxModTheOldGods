@@ -1,4 +1,4 @@
-#366 - The Canarias
+﻿#366 - The Canarias
 
 capital = "The Canarias"
 trade_goods = unknown

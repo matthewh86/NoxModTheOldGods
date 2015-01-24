@@ -1,4 +1,4 @@
-#1858 - Stettin
+﻿#1858 - Stettin
 
 owner = POM
 controller = POM

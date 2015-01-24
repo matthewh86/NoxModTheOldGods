@@ -1,10 +1,10 @@
-#154 - Szepes
+ï»¿#154 - Szepes
 
 owner = SLK
 controller = SLK
 culture = hungarian
 religion = catholic
-capital = "Érsekújvár"
+capital = "Ã‰rsekÃºjvÃ¡r"
 trade_goods = copper
 hre = no
 base_tax = 8

@@ -1,4 +1,4 @@
-#H‰lsingland-G‰strikland-Medelpad, from G‰vle to N‰s
+Ôªø#H√§lsingland-G√§strikland-Medelpad, from G√§vle to N√§s
 
 add_core = SWE
 owner = SWE
@@ -10,7 +10,7 @@ base_tax = 2
 trade_goods = fish
 manpower = 2
 fort1 = yes
-capital = "G‰vle"
+capital = "G√§vle"
 is_city = yes
 marketplace = yes # controller of trade in Norrland
 discovered_by = eastern
@@ -20,8 +20,8 @@ discovered_by = western
 # 1521.4.30 = { owner = SWE controller = SWE } #The population joins the uprising
 1527.6.1  = { religion = protestant}
 1560.1.1  = { fort2 = yes } #
-1634.1.1  = { regimental_camp = yes } #H‰lsinge regemente
-1635.1.1  = { courthouse = yes } #minor court belonging to Svea Hovr‰tt
+1634.1.1  = { regimental_camp = yes } #H√§lsinge regemente
+1635.1.1  = { courthouse = yes } #minor court belonging to Svea Hovr√§tt
 1640.1.1  = { fort3 = yes } #
 1670.1.1  = { tax_assessor = yes } #Due to the "Staplepolicy act"
 1730.1.1  = { constable = yes } #Due to the support of manufactories

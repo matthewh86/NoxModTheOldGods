@@ -1,8 +1,8 @@
-#41 - Ostpreussen
+﻿#41 - Ostpreussen
 
 owner = TEU
 controller = TEU
-capital = "K�nigsberg"
+capital = "Königsberg"
 culture = prussian
 religion = romuva
 trade_goods = naval_supplies

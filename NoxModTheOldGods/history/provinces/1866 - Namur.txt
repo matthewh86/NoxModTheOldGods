@@ -1,4 +1,4 @@
-# 1866 -- Namur
+ï»¿# 1866 -- Namur
 
 owner = HAI
 controller = HAI
@@ -33,16 +33,16 @@ discovered_by = ottoman
 1569.1.1   = { unrest = 10 } # The Duke of Alba reforms the taxation system ('tiende penning')
 1570.1.1   = { unrest = 13 constable = yes } # The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
 1572.5.24  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Louis of Nassau captures Mons
-1572.8.1   = { revolt = {} controller = SPA } # Don Felipé takes back Mons
+1572.8.1   = { revolt = {} controller = SPA } # Don FelipÃ© takes back Mons
 1577.2.12  = { unrest = 5 } # 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
 1579.1.6   = { unrest = 0 } # Union of Arras established
 1600.1.1   = { citysize = 31000 }
 1630.1.1   = { workshop = yes } # Start of switch to industry
 1635.5.1   = { controller = FRA } # French troops capture parts of the Southern Lowlands
-1648.1.30  = { controller = SPA } # Peace of Münster/Westphalia
+1648.1.30  = { controller = SPA } # Peace of MÃ¼nster/Westphalia
 1650.1.1   = { fort3 = yes citysize = 35000 }
 1665.9.17  = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
-1667.9.25  = { controller = FRA } # Maréchal captures alot of cities in the region for Louis XIV
+1667.9.25  = { controller = FRA } # MarÃ©chal captures alot of cities in the region for Louis XIV
 1668.5.2   = { controller = SPA } # Peace of Aachen
 1672.5.5   = { controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
 1678.9.19  = { controller = SPA } # Peace of Nijmegen (France-Spain)
@@ -55,7 +55,7 @@ discovered_by = ottoman
 #1730.1.1   = { customs_house = yes }
 1744.4.1   = { controller = FRA } # France captures Hainaut in the Austrian War of Succession
 1744.7.1   = { controller = HAB } # France withdraws
-1746.10.11 = { controller = FRA } # Maréchal Saxe launches a succesful offensive
+1746.10.11 = { controller = FRA } # MarÃ©chal Saxe launches a succesful offensive
 1748.10.18 = { controller = HAB } # Peace of Aachen
 1750.1.1   = { tax_assessor = yes citysize = 40500 }
 1780.1.1   = { regimental_camp = yes }

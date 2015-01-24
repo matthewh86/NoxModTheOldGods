@@ -1,33 +1,58 @@
-# Estonia
+Ôªø# Estonia
 graphical_culture = easterngfx
 color = { 150 75 75 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	spy_ideas
-	religious_ideas
+historical_idea_groups = {
+
+	trade_ideas
+
+	defensive_ideas
+
+	offensive_ideas
+
+	economic_ideas
+
+	diplomatic_ideas
+
+	plutocracy_ideas
+
+	spy_ideas
+
+	religious_ideas
+
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	western_men_at_arms
+
+	swiss_landsknechten
+
+	dutch_maurician
+
+	swedish_gallop
+
+	swedish_gustavian
+
+	swedish_caroline
+
+	swedish_arme_blanche
+
+	prussian_frederickian
+
+	prussian_uhlan
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
 }
 
 
@@ -105,20 +130,35 @@ monarch_names = {
 	"Virdyan #0" = 0
 	"Viryay #0" = 0
 }
-ship_names = {
-	Agricola Aura
-	BorgÂ "Birger Jarl"
-	Helsingfors Hakkapeliitta
-	Ilmarinen
-	Kullervo Karelen Kymi
-	Lemmink‰inen Lapland
-	Nyland
-	Oulu
-	"Per Brahe"
-	Sampo "St. Henrik" Savolax
-	Tavastehus Tavastland
-	V‰in‰mˆinen Vasa Viborg Vanda Vuoksi
-	≈bo
-	÷sterbotten
+ship_names = {
+
+	Agricola Aura
+
+	Borg√• "Birger Jarl"
+
+	Helsingfors Hakkapeliitta
+
+	Ilmarinen
+
+	Kullervo Karelen Kymi
+
+	Lemmink√§inen Lapland
+
+	Nyland
+
+	Oulu
+
+	"Per Brahe"
+
+	Sampo "St. Henrik" Savolax
+
+	Tavastehus Tavastland
+
+	V√§in√§m√∂inen Vasa Viborg Vanda Vuoksi
+
+	√Öbo
+
+	√ñsterbotten
+
 }
 

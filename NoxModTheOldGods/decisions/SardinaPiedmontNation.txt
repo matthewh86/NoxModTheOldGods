@@ -1,4 +1,4 @@
-country_decisions = {
+﻿country_decisions = {
 
 	sardinia_piedmont_nation = {
 		major = yes

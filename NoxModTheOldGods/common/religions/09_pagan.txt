@@ -1,4 +1,4 @@
-pagan = {
+﻿pagan = {
 	animism = {
 		color = { 0.5 0.0 0.0 }
 		icon = 11

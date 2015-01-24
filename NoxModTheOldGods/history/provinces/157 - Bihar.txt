@@ -1,4 +1,4 @@
-#157 - Bihar
+﻿#157 - Bihar
 
 owner = HUN
 controller = HUN 
@@ -30,7 +30,7 @@ discovered_by = ottoman
 	owner = TRA
 	controller = TRA
 	add_core = HAB
-} # Battle of Moh�cs, the end of the independent Kingdom of Hungary
+} # Battle of Mohács, the end of the independent Kingdom of Hungary
 1540.1.1 = { religion = reformed }
 1550.1.1 = { citysize = 2000 marketplace = yes }
 1551.7.19 = {

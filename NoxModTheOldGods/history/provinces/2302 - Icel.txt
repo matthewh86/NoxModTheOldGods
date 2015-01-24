@@ -1,4 +1,4 @@
-#2302 - I�el
+﻿#2302 - Içel
 
 owner = KAR
 controller = KAR

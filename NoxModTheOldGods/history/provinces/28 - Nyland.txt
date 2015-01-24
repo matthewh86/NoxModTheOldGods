@@ -1,4 +1,4 @@
-#Nyland, incl. Raseborg, Borgå, Helsingfors.
+ï»¿#Nyland, incl. Raseborg, BorgÃ¥, Helsingfors.
 
 owner = FIN
 controller = FIN
@@ -10,7 +10,7 @@ base_tax = 2
 trade_goods = naval_supplies
 manpower = 2
 fort1 = yes # Raseborg
-capital = "Borgå"
+capital = "BorgÃ¥"
 citysize = 1020 # Estimated
 discovered_by = western
 discovered_by = eastern
@@ -30,7 +30,7 @@ discovered_by = eastern
 1713.5.30 = { controller = RUS } # The Great Nordic War-Captured by Apraksin
 1721.8.30 = { controller = SWE } # The Peace of Nystad
 1742.8.24 = { controller = RUS } # The War of the Hats-Captured by Russians
-1743.8.7  = { controller = SWE } # The Peace of Åbo
+1743.8.7  = { controller = SWE } # The Peace of Ã…bo
 1750.1.1  = { citysize = 2840 } 
 1800.1.1  = { citysize = 3100 }
 1808.5.3  = { controller = RUS } # Sveaborg surrenders

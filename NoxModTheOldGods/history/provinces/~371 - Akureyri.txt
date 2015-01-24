@@ -1,4 +1,4 @@
-#371 - Akureyri
+﻿#371 - Akureyri
 
 owner = ICE
 controller = ICE

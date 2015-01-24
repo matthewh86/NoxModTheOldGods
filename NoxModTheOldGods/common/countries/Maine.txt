@@ -1,32 +1,56 @@
-# Maine
+ï»¿# Maine
 graphical_culture = westerngfx
 color = { 70 70 195 }
-historical_idea_groups = {
-	trade_ideas
-	religious_ideas
-	economic_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
+historical_idea_groups = {
+
+	trade_ideas
+
+	religious_ideas
+
+	economic_ideas
+
+	diplomatic_ideas
+
+	innovativeness_ideas
+
+	defensive_ideas
+
+	offensive_ideas
+
+	spy_ideas
+
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	western_men_at_arms
+
+	swiss_landsknechten
+
+	dutch_maurician
+
+	austrian_tercio
+
+	austrian_grenzer
+
+	austrian_hussar
+
+	austrian_white_coat
+
+	austrian_jaeger
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
 }
 
 
@@ -38,7 +62,7 @@ leader_names = {
 	"Diether" "Dietmar" "Dietpold" "Dietrich" "Dietwin" "Eberhard" "Eckhard" "Ehrenfried" "Eginolf" "Ekbert" 
 	"Emelrich" "Emich" "Engelbrecht" "Erich" "Ernst" "Ezzo" "Folkhard" "Folkmar" "Franz" "Friedrich" 
 	"Gebhard" "Georg" "Gerhard" "Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" 
-	"Günzel" "Hartmann" "Hartwig" "Heinrich" "Herbert" "Hermann" "Hesso" "Hugo" "Humbert" "Jakob" 
+	"GÃ¼nzel" "Hartmann" "Hartwig" "Heinrich" "Herbert" "Hermann" "Hesso" "Hugo" "Humbert" "Jakob" 
 	"Johann" "Karl" "Karloman" "Konrad" "Kuno" "Lambert" "Leopold" "Lothar" "Ludolf" "Ludwig" 
 	"Luitpold" "Lutbert" "Magnus" "Manfred" "Markward" "Martin" "Mathias" "Meinhard" "Michael" "Nikolaus" 
 	"Norbert" "Ordulf" "Otto" "Peter" "Philipp" "Poppo" "Rudger" "Reinhard" "Rudolf" "Ruprecht" 
@@ -96,7 +120,7 @@ monarch_names = {
 	"Gottschalk #0" = 0
 	"Gotzelo #0" = 0
 	"Guntram #0" = 0
-	"Günzel #0" = 0
+	"GÃ¼nzel #0" = 0
 	"Hartmann #0" = 0
 	"Hartwig #0" = 0
 	"Heinrich #0" = 0
@@ -159,14 +183,23 @@ monarch_names = {
 	"Wolfgang #0" = 0
 	"Wolfram #0" = 0
 }
-ship_names = {
-	Ariadne Habicht Adler Albatross Amazone
-	Arcona Basilisk Beowulf Biene Wespe Wolf
-	Nautilus Natter Otter Pelikan Pfeil Meteor
-	Möwe Mücke Luchs König Kaiser Eber Drache
-	Falke Frauenlob Freya Fuchs Gazelle Geier
-	Greif Condor Cormoran Comet Wacht Tiger
-	Seeadler Jaguar Hyäne Blitz Bremse Brummer
-	Bussard Vulkan
+ship_names = {
+
+	Ariadne Habicht Adler Albatross Amazone
+
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+
+	MÃ¶we MÃ¼cke Luchs KÃ¶nig Kaiser Eber Drache
+
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+
+	Greif Condor Cormoran Comet Wacht Tiger
+
+	Seeadler Jaguar HyÃ¤ne Blitz Bremse Brummer
+
+	Bussard Vulkan
+
 }
 

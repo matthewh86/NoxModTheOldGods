@@ -1,4 +1,4 @@
-#418 - Diyarbakir
+﻿#418 - Diyarbakir
 
 owner = AKK
 controller = AKK

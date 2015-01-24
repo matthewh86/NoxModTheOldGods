@@ -1,4 +1,4 @@
-# 310 - Novgorod
+﻿# 310 - Novgorod
 
 owner = NOV
 controller = NOV

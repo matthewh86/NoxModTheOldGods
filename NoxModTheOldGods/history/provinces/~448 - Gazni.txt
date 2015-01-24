@@ -1,4 +1,4 @@
-#448 - Gazni
+﻿#448 - Gazni
 
 owner = AFG
 controller = AFG

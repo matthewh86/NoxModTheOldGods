@@ -1,34 +1,60 @@
-# Bjarmia
+ï»¿# Bjarmia
 graphical_culture = easterngfx
 color = { 95 50 20 }
-historical_idea_groups = {
-	religious_ideas
-	trade_ideas
-	defensive_ideas
-	administrative_ideas
-	offensive_ideas
-	spy_ideas
-	quantity_ideas
-	economic_ideas
+historical_idea_groups = {
+
+	religious_ideas
+
+	trade_ideas
+
+	defensive_ideas
+
+	administrative_ideas
+
+	offensive_ideas
+
+	spy_ideas
+
+	quantity_ideas
+
+	economic_ideas
+
 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
+historical_units = {
+
+	bardiche_infantry
+
+	eastern_knights
+
+	slavic_stradioti
+
+	eastern_militia
+
+	muscovite_musketeer
+
+	muscovite_caracolle
+
+	muscovite_soldaty
+
+	muscovite_cossack
+
+	russian_petrine
+
+	russian_lancer
+
+	russian_green_coat
+
+	russian_cuirassier
+
+	eastern_skirmisher
+
+	eastern_uhlan
+
+	eastern_carabinier
+
+	russian_mass
+
 }
 
 
@@ -37,10 +63,10 @@ leader_names = {
 
 	"Yurak" "Toyaksha" "Kezhevat" "Ilme" "Yadne" "Andyamo" "Arvo" "Sinyava" "Rayda" "Pudak" 
 	"Nyalku" "Tolik" "Dobrinya" "Vokan" "Tetyava" "Mazava" "Auli" "Kat" "Putyayka" "Khatyako" 
-	"Noumea" "Anava" "Vergava" "Aymort" "Käpy" "Liyava" "Num" "Ruzava" "Tada" "Chindyayka" 
+	"Noumea" "Anava" "Vergava" "Aymort" "KÃ¤py" "Liyava" "Num" "Ruzava" "Tada" "Chindyayka" 
 	"Tikshayka" "Zyryan" "Yar" "Nabtiko" "Vechkas" "Kezhay" "Chindyapa" "Somatu" "Kako" "Jurva" 
-	"Sarak" "Yapti" "Samatu" "Mandak" "Yavlad" "Senda" "Atpälha" "Wayngachi" "Tatva" "Syeju" 
-	"Panay" "Xëryuchi" "Salinder" "Sirtya" "Ngeva" "Kontäw" "Galya" "Laptsui" "Alik" "Kujku" 
+	"Sarak" "Yapti" "Samatu" "Mandak" "Yavlad" "Senda" "AtpÃ¤lha" "Wayngachi" "Tatva" "Syeju" 
+	"Panay" "XÃ«ryuchi" "Salinder" "Sirtya" "Ngeva" "KontÃ¤w" "Galya" "Laptsui" "Alik" "Kujku" 
 	"Kolik" "Vesei" "Kharuchi" "Odeg" "Syudbya" "Kichay" "Kanyava" "Virtyava" "Asrava" "Hasaba" 
 	"Meltsayka" "Arnaz" "Arti" "Artis" "Azeg" "Biur" "Biyar" "Burmort" "Chichayka" "Chuga" 
 	"Dergun" "Deryab" "Dokya" "Dondy" "Gazheg" "Hulyen" "Inzhay" "Irter" "Lyneg" "Lysko" 
@@ -75,7 +101,7 @@ monarch_names = {
 	"Anava #0" = -16
 	"Vergava #0" = -16
 	"Aymort #0" = 62
-	"Käpy #0" = -16
+	"KÃ¤py #0" = -16
 	"Liyava #0" = -16
 	"Num #0" = 31
 	"Ruzava #0" = -32
@@ -97,16 +123,16 @@ monarch_names = {
 	"Mandak #1" = 62
 	"Yavlad #0" = 46
 	"Senda #0" = -47
-	"Atpälha #0" = -63
+	"AtpÃ¤lha #0" = -63
 	"Wayngachi #0" = 15
 	"Tatva #1" = 15
 	"Syeju #0" = -63
 	"Panay #0" = 46
-	"Xëryuchi #0" = 15
+	"XÃ«ryuchi #0" = 15
 	"Salinder #0" = 31
 	"Sirtya #0" = 31
 	"Ngeva #0" = -78
-	"Kontäw #0" = -63
+	"KontÃ¤w #0" = -63
 	"Galya #0" = -32
 	"Laptsui #0" = -16
 	"Alik #0" = 31
@@ -197,10 +223,15 @@ monarch_names = {
 	"Zhebeg #0" = 0
 	"Zhuneg #0" = 0
 }
-ship_names = {
-	Cherdyn Pelym Kudym-Osha Shudeg
-	Voleg Rateg Koleg Uzheg
-	Baseg Yus Pokcha Vychegda Sysola
-	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+ship_names = {
+
+	Cherdyn Pelym Kudym-Osha Shudeg
+
+	Voleg Rateg Koleg Uzheg
+
+	Baseg Yus Pokcha Vychegda Sysola
+
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+
 }
 

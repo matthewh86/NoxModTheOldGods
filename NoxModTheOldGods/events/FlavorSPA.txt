@@ -1,4 +1,4 @@
-########################################
+Ôªø########################################
 # Major Flavor Events                  #
 ########################################
 
@@ -155,7 +155,7 @@ country_event = {
 			}
 			define_advisor = {
 				type = theologian 
-				name = "Tom·s de Torquemada"
+				name = "Tom√°s de Torquemada"
 				location = 215 # Castilla La Vieja 
 				skill = 3
 			}
@@ -306,7 +306,7 @@ country_event = {
 		ai_chance = { factor = 90 }
 		add_years_of_income = -0.25
 		define_explorer = {
-			name = "CristÛbal ColÛn"
+			name = "Crist√≥bal Col√≥n"
 			fire = 2
 			shock = 2
 			manuever = 6
@@ -887,7 +887,7 @@ country_event = {
 	}
 }
 
-# Casa de ContrataciÛn
+# Casa de Contrataci√≥n
 country_event = {
 	id = flavor_spa.1003
 	title = "flavor_spa.EVTNAME1003"
@@ -2545,7 +2545,7 @@ country_event = {
 	}
 }
 
-# JosÈ Monino
+# Jos√© Monino
 country_event = {
 	id = flavor_spa.3094
 	title = "flavor_spa.EVTNAME3094"
@@ -2578,7 +2578,7 @@ country_event = {
 		add_adm_power = 25
 		define_advisor = {
 			type = statesman
-			name = "JosÈ Monino"
+			name = "Jos√© Monino"
 			skill = 3
 		}
 	}
@@ -2728,7 +2728,7 @@ country_event = {
 	}
 }
 
-# Tom·s Luis de Victoria
+# Tom√°s Luis de Victoria
 country_event = {
 	id = flavor_spa.1101
 	title = "flavor_spa.EVTNAME1101"
@@ -2829,7 +2829,7 @@ country_event = {
 		set_country_flag = SPA_had_event_3557
 	}
 	
-	option = {		# Support ¡lvaro de Luna
+	option = {		# Support √Ålvaro de Luna
 		name = "flavor_spa.EVTOPTA3557"
 		ai_chance = { factor = 90 }
 		set_country_flag = civil_war_in_castile
@@ -2837,7 +2837,7 @@ country_event = {
 		add_adm_power = 25
 		define_advisor = {
 			type = statesman
-			name = "¡lvaro de Luna"
+			name = "√Ålvaro de Luna"
 			location = 217
 			skill = 2
 		}		

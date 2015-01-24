@@ -1,4 +1,4 @@
-# 94 Luxembourg - Principal cities: Luxembourg
+﻿# 94 Luxembourg - Principal cities: Luxembourg
 
 owner = LUX
 controller = LUX 
@@ -33,7 +33,7 @@ discovered_by = ottoman
 1600.1.1   = { courthouse = yes citysize = 22500 }
 1620.1.1   = { marketplace = yes }
 1650.1.1   = { citysize = 26000 fort3 = yes }
-1659.7.1   = { controller = FRA } # Mar�chal Turenne takes control of Luxembourg
+1659.7.1   = { controller = FRA } # Maréchal Turenne takes control of Luxembourg
 1659.10.28 = { controller = SPA } # Peace of the Pyrennees
 1665.9.17  = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 1670.1.1   = { fort4 = yes }

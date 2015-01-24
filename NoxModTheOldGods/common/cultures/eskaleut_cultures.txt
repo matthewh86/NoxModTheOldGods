@@ -1,4 +1,4 @@
-eskaleut = {
+﻿eskaleut = {
 	graphical_culture = northamericagfx
 
 	aleutian = {

@@ -1,4 +1,4 @@
-maranon = {
+﻿maranon = {
 	graphical_culture = southamericagfx
 	jivaro = {
 	

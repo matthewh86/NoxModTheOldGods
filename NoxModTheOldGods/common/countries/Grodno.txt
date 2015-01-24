@@ -1,33 +1,58 @@
-# Grodno
+ï»¿# Grodno
 graphical_culture = easterngfx
 color = { 131 30 30 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	diplomatic_ideas
-	spy_ideas
-	economic_ideas
-	administrative_ideas
-	quantity_ideas
+historical_idea_groups = {
+
+	trade_ideas
+
+	defensive_ideas
+
+	offensive_ideas
+
+	diplomatic_ideas
+
+	spy_ideas
+
+	economic_ideas
+
+	administrative_ideas
+
+	quantity_ideas
+
 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	russian_lancer
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
+historical_units = {
+
+	bardiche_infantry
+
+	eastern_knights
+
+	slavic_stradioti
+
+	eastern_militia
+
+	hungarian_hussar
+
+	polish_musketeer
+
+	polish_hussar
+
+	polish_tercio
+
+	polish_winged_hussar
+
+	russian_lancer
+
+	russian_cuirassier
+
+	eastern_skirmisher
+
+	eastern_uhlan
+
+	eastern_carabinier
+
+	russian_mass
+
 }
 
 
@@ -37,7 +62,7 @@ leader_names = {
 	"Swietoslaw" "Lonkogveni" "Kerstigens" "Erasts" "Savna" "Kazimierz" "Leszek" "Aleksander" "Andrzej" "Bartosz" 
 	"Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boncza" "Borzyslaw" "Bozydar" "Borzywoj" "Budziwuj" "Czcibor" 
 	"Czyrzniech" "Dalimir" "Dobieslaw" "Dobrogost" "Dobromir" "Doman" "Domawuj" "Dytryk" "Eustachy" "Gaudenty" 
-	"Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" "Imram" "Izbor" "Józef" "Jacek" 
+	"Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" "Imram" "Izbor" "JÃ³zef" "Jacek" 
 	"Jaksa" "Jakub" "Jakusz" "Jan" "Janislaw" "Janko" "Janusz" "Jaroslaw" "Jerzy" "Karol" 
 	"Konrad" "Krystyn" "Krzeslaw" "Lambert" "Maciej" "Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" 
 	"Mieszko" "Mikolaj" "Milobrat" "Milosz" "Miroslaw" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" 
@@ -85,7 +110,7 @@ monarch_names = {
 	"Henryk #0" = 0
 	"Imram #0" = 0
 	"Izbor #0" = 0
-	"Józef #0" = 0
+	"JÃ³zef #0" = 0
 	"Jacek #0" = 0
 	"Jaksa #0" = 0
 	"Jakub #0" = 0
@@ -163,20 +188,35 @@ monarch_names = {
 	"Zelibrat #0" = 0
 	"Zygmunt #0" = 0
 }
-ship_names = {
-	Alytus
-	Birzai
-	Druskininkai
-	Gardinas
-	Jonava
-	Kaunas Kretinga Kreva
-	Lazdijai
-	Naugardukas
-	Palanga
-	Raseiniai
-	Siauliai Sventoji
-	Taurage Telsiai Trakai
-	Utena
-	Vilkmerge
+ship_names = {
+
+	Alytus
+
+	Birzai
+
+	Druskininkai
+
+	Gardinas
+
+	Jonava
+
+	Kaunas Kretinga Kreva
+
+	Lazdijai
+
+	Naugardukas
+
+	Palanga
+
+	Raseiniai
+
+	Siauliai Sventoji
+
+	Taurage Telsiai Trakai
+
+	Utena
+
+	Vilkmerge
+
 }
 

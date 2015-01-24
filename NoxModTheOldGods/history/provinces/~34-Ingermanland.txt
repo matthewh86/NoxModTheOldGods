@@ -1,4 +1,4 @@
-#Ingermanland, incl. Ivangorod, Jama, and Kopore.
+﻿#Ingermanland, incl. Ivangorod, Jama, and Kopore.
 
 owner = FIN
 controller = FIN

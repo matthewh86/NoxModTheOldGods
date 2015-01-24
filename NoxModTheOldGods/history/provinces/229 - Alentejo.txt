@@ -1,10 +1,10 @@
-#229 - Alentejo
+ï»¿#229 - Alentejo
 
 owner = AIA
 controller = AIA
 culture = portugese
 religion = maliki
-capital = "Évora"
+capital = "Ã‰vora"
 trade_goods = fish
 hre = no
 base_tax = 4
@@ -20,7 +20,7 @@ discovered_by = eastern
 1450.1.1  = { citysize = 9370 }
 1500.1.1  = { citysize = 12500 }
 1600.1.1  = { citysize = 17000 }
-1640.1.1  = { unrest = 8 } # Revolt headed by John of Bragança
+1640.1.1  = { unrest = 8 } # Revolt headed by John of BraganÃ§a
 1640.12.1 = { unrest = 0 }
 1650.1.1  = { citysize = 18200 marketplace = yes }
 1700.1.1  = { citysize = 20500 }

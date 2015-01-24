@@ -1,17 +1,42 @@
-# sapmi
+Ôªø# sapmi
 graphical_culture = westerngfx
 color = { 80 150 80 }
-historical_idea_groups = {	trade_ideas	defensive_ideas	offensive_ideas	economic_ideas	diplomatic_ideas	aristocracy_ideas	spy_ideas	religious_ideas}
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
 
-historical_units = {	western_medieval_infantry	western_medieval_knights	western_men_at_arms	swiss_landsknechten	dutch_maurician	swedish_gallop	swedish_gustavian	swedish_caroline	swedish_arme_blanche	prussian_frederickian	prussian_uhlan	mixed_order_infantry	open_order_cavalry	napoleonic_square	napoleonic_lancers}
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
 
 leader_names = {
-	"¡bel" "¡bo" "¡brr·n" "¡do" "¡dolfe" "¡g·" "¡ggi" "Ahkebeaivi" "Ahkejuoksa" "Ahkemiella" "¡ibmu" "¡iges·rri" "¡igin" "¡illon" "¡ivvit" "¡ksel" "¡lbe" "Albearta" "¡le" "¡les" "¡lfa" "Algebeaivi" "¡llan" "¡mm·" "¡mmol" "¡mmon" "¡mmot" "¡nd·" "¡ndaras" "¡ndde" "¡nddij·" "¡nde" "¡nderij·" "¡nnj·" "¡no" "¡not" "Ansealbma" "Anselbme" "¡nte" "¡nton" "¡ntte" "¡pmot" "¡ppo" "¡pp·" "¡pparan" "¡ron" "¡rrajuoksa" "¡rtne" "¡rtor" "¡rvet" "¡sko" "¡slat" "¡sllak" "¡sllat" "¡tt·n" "¡vgos" "¡vvu" "B·nccu" "B·ncu" "B·nnos" "B·vllos" "B·vlos" "B·vva" "B·vval" "B·vv·l" "B·û·" "D·idu" "Beahkk·" "Beaivi" "Beaivvet" "Beanta" "Beartu" "Bedar" "Bede" "Beg·" "Behkk·" "Behtter" "Benj·me" "Benne" "Bide" "Biede" "Bieht·r" "Biejan" "Biejaö" "Bienn·" "Biera" "Bieraö" "Bierdna" "Bierra" "Bierr·n" "Bierrelaö" "Bierril" "Bierûa" "Bierû·" "Biette" "Bihto" "Bij·ö" "Bilzi" "Birger" "Birki" "C·ij·" "Coavv·" "Cuivi" "Curtnaö" "D·nel" "D·rbmu" "D·vgon" "D·vved" "D·vvet" "Deahpp·n" "Dearsu" "Def·" "Diij·" "Doaivu" "Doaivvot" "Doff·" "Domm·" "Dorste" "Duomis" "Duomm·" "Duo?gi" "Dure" "Dutt·" "Duvk·" "Duvre" "Eaddji" "Ealj·" "Edo" "Egel" "Eidn·r" "Eidno" "Ein·r" "Eiven" "Elejas" "Eles" "Elias" "Eljes" "Emel" "Eret" "Erke" "Ertno" "Es·jas" "Feles" "Filpa" "Fretterat" "Fretteret" "G·be" "G·hpp·" "G·iju" "G·ivvaö" "G·ktu" "G·ll·" "G·llagas" "G·ppe" "G·rral" "G·vgu" "Gealbu" "Gearral" "Geaûotmiella" "Guhtur" "Guivi" "Gunn·r" "Gusto" "Gustu" "H·nas" "H·nno" "H·nsa" "H·ral" "H·rri" "Heaibmu" "Heaika" "Heammu" "Heandarak" "Heandarat" "Hegon" "Heige" "Heigen" "Heij·" "Hend·" "Henddo" "Heneö" "Hennet" "Hentto" "Herko" "Holger" "Hugo" "Idga" "Iigg·" "Iisku" "Iiss·t" "Ilbmar" "Imb·" "Indu" "Irj·n" "Iskko" "Isku" "Iss·k" "Iss·t" "Ivv·r" "J·g·t" "J·go" "J·hken" "J·hko" "J·hkot" "J·lbm·r" "J·rre" "J·rri" "Jeansa" "Joavnna" "Joel" "Joh·" "Joh·n" "Johanas" "Joh·nas" "Jomp·" "Jon·" "Jon·s" "Jo?gu" "Jons·" "Joret" "Jorge" "Jorgen" "Jos·p" "Jos·t" "Jovnna" "Jovnn·s" "Jovssek" "Jovssep" "Jovsset" "Jovssut" "Jovv·" "Juffe" "Juh·n" "Juho" "Juhu" "Juhv·n" "Juhvo" "Julejus" "Jull·" "Ju?gi" "Ju?kil" "Junne" "Junte" "Juoksa" "Jus·t" "Juss·" "Jusse" "Jussenaö" "Juvv·" "Juvven" "K·ll·" "K·lle" "K·rral" "Klemm·" "L·gon" "L·j·r" "L·r·" "L·ras" "L·rsa" "L·sse" "L·vo" "L·vra" "L·vrrahaö" "L·vrras" "L·vrrohaö" "Leaifa" "Leamm·" "Leammu" "Ledjo" "Lejo" "Lemek" "Lemet" "Lemm·" "M·de" "M·den" "M·des" "M·htte" "M·htto" "M·idnu" "M·rkkos" "M·rte" "M·rten" "M·vdnos" "M·vnos" "M·vra" "M·vrres" "Mellet" "Mielat" "Mig·l" "Mig·ö" "Migil" "Migos" "Migoö" "Migot" "Mihka" "Mihkil" "Mihkkal" "Mihkkel" "Mihkkil" "Mihkku" "Mikkal" "Mikko" "Mikkol" "Mikku" "Milot" "Mohkku" "Mokci" "Morte" "Morten" "Mortu" "Mures" "N·hkol" "N·innas" "Nanit" "Nib·" "Nig·" "Nigo" "Nihkke" "Nihkko" "Nihkol·vo" "Nihkul" "Niikke" "Niikko" "Niil·" "Niill·" "Niill·n" "N" "cont". "Niillas" "Nil·" "Nil·n" "Nilke" "Nill·" "Nilpa" "Nilsa" "Nilse" "Njulgu" "Nuhtte" "Nunn·" "Nuvtte" "Oav·n" "Oge" "Oij·" "Ol·" "Olen" "Olet" "Olle" "Ommot" "Orddot" "Osk·r" "Osku" "Otto" "Ovla" "Ovl·" "Ovlin" "Ovll·" "Peivas" "Piera" "Poalla" "R·ffo" "R·idner" "R·lfa" "R·nso" "R·smmos" "R·smos" "R·ssa" "R·stoö" "R·sttoö" "R·vdn·r" "R·vle" "Reaidnu" "Rede" "Riggu" "Riibma" "Riigu" "Rij·" "Rikkar" "Robe" "Robearta" "Rolfa" "Ruben" "Ruigi" "Sabbe" "S·hk·r" "S·l·" "S·lbmo" "S·lmmo" "S·lmo" "S·mmol" "S·pp·" "S·rra" "S·rrajuoksa" "S·vlos" "Sierge" "Siiggur" "Siiv·r" "Silvu" "Simit" "Simm·" "Simmon" "Sivdda" "Skarild" "Speaidna" "Sveidn" "Tobejas" "Uddi" "Udjjus" "Uhkku" "Ulmm·" "Urb·n" "Uvll·" "V·lde" "Vallj·ö" "V·llju" "V·lter" "Veaidnu" "Veaiku" "Vide" "Viggu" "Viktor" "Vilhealbma" "Ville" "Volbmar" "Vulle" "Vuoitu" "Vuol·t" "Vuoll·"
+	"√Åbel" "√Åbo" "√Åbrr√°n" "√Ådo" "√Ådolfe" "√Åg√°" "√Åggi" "Ahkebeaivi" "Ahkejuoksa" "Ahkemiella" "√Åibmu" "√Åiges√°rri" "√Åigin" "√Åillon" "√Åivvit" "√Åksel" "√Ålbe" "Albearta" "√Åle" "√Åles" "√Ålfa" "Algebeaivi" "√Ållan" "√Åmm√°" "√Åmmol" "√Åmmon" "√Åmmot" "√Ånd√°" "√Åndaras" "√Åndde" "√Ånddij√°" "√Ånde" "√Ånderij√°" "√Ånnj√°" "√Åno" "√Ånot" "Ansealbma" "Anselbme" "√Ånte" "√Ånton" "√Åntte" "√Åpmot" "√Åppo" "√Åpp√°" "√Åpparan" "√Åron" "√Årrajuoksa" "√Årtne" "√Årtor" "√Årvet" "√Åsko" "√Åslat" "√Åsllak" "√Åsllat" "√Ått√°n" "√Åvgos" "√Åvvu" "B√°nccu" "B√°ncu" "B√°nnos" "B√°vllos" "B√°vlos" "B√°vva" "B√°vval" "B√°vv√°l" "B√°≈æ√°" "D√°idu" "Beahkk√°" "Beaivi" "Beaivvet" "Beanta" "Beartu" "Bedar" "Bede" "Beg√°" "Behkk√°" "Behtter" "Benj√°me" "Benne" "Bide" "Biede" "Bieht√°r" "Biejan" "Bieja≈°" "Bienn√°" "Biera" "Biera≈°" "Bierdna" "Bierra" "Bierr√°n" "Bierrela≈°" "Bierril" "Bier≈æa" "Bier≈æ√°" "Biette" "Bihto" "Bij√°≈°" "Bilzi" "Birger" "Birki" "C√°ij√°" "Coavv√°" "Cuivi" "Curtna≈°" "D√°nel" "D√°rbmu" "D√°vgon" "D√°vved" "D√°vvet" "Deahpp√°n" "Dearsu" "Def√°" "Diij√°" "Doaivu" "Doaivvot" "Doff√°" "Domm√°" "Dorste" "Duomis" "Duomm√°" "Duo?gi" "Dure" "Dutt√°" "Duvk√°" "Duvre" "Eaddji" "Ealj√°" "Edo" "Egel" "Eidn√°r" "Eidno" "Ein√°r" "Eiven" "Elejas" "Eles" "Elias" "Eljes" "Emel" "Eret" "Erke" "Ertno" "Es√°jas" "Feles" "Filpa" "Fretterat" "Fretteret" "G√°be" "G√°hpp√°" "G√°iju" "G√°ivva≈°" "G√°ktu" "G√°ll√°" "G√°llagas" "G√°ppe" "G√°rral" "G√°vgu" "Gealbu" "Gearral" "Gea≈æotmiella" "Guhtur" "Guivi" "Gunn√°r" "Gusto" "Gustu" "H√°nas" "H√°nno" "H√°nsa" "H√°ral" "H√°rri" "Heaibmu" "Heaika" "Heammu" "Heandarak" "Heandarat" "Hegon" "Heige" "Heigen" "Heij√°" "Hend√°" "Henddo" "Hene≈°" "Hennet" "Hentto" "Herko" "Holger" "Hugo" "Idga" "Iigg√°" "Iisku" "Iiss√°t" "Ilbmar" "Imb√°" "Indu" "Irj√°n" "Iskko" "Isku" "Iss√°k" "Iss√°t" "Ivv√°r" "J√°g√°t" "J√°go" "J√°hken" "J√°hko" "J√°hkot" "J√°lbm√°r" "J√°rre" "J√°rri" "Jeansa" "Joavnna" "Joel" "Joh√°" "Joh√°n" "Johanas" "Joh√°nas" "Jomp√°" "Jon√°" "Jon√°s" "Jo?gu" "Jons√°" "Joret" "Jorge" "Jorgen" "Jos√°p" "Jos√°t" "Jovnna" "Jovnn√°s" "Jovssek" "Jovssep" "Jovsset" "Jovssut" "Jovv√°" "Juffe" "Juh√°n" "Juho" "Juhu" "Juhv√°n" "Juhvo" "Julejus" "Jull√°" "Ju?gi" "Ju?kil" "Junne" "Junte" "Juoksa" "Jus√°t" "Juss√°" "Jusse" "Jussena≈°" "Juvv√°" "Juvven" "K√°ll√°" "K√°lle" "K√°rral" "Klemm√°" "L√°gon" "L√°j√°r" "L√°r√°" "L√°ras" "L√°rsa" "L√°sse" "L√°vo" "L√°vra" "L√°vrraha≈°" "L√°vrras" "L√°vrroha≈°" "Leaifa" "Leamm√°" "Leammu" "Ledjo" "Lejo" "Lemek" "Lemet" "Lemm√°" "M√°de" "M√°den" "M√°des" "M√°htte" "M√°htto" "M√°idnu" "M√°rkkos" "M√°rte" "M√°rten" "M√°vdnos" "M√°vnos" "M√°vra" "M√°vrres" "Mellet" "Mielat" "Mig√°l" "Mig√°≈°" "Migil" "Migos" "Migo≈°" "Migot" "Mihka" "Mihkil" "Mihkkal" "Mihkkel" "Mihkkil" "Mihkku" "Mikkal" "Mikko" "Mikkol" "Mikku" "Milot" "Mohkku" "Mokci" "Morte" "Morten" "Mortu" "Mures" "N√°hkol" "N√°innas" "Nanit" "Nib√°" "Nig√°" "Nigo" "Nihkke" "Nihkko" "Nihkol√°vo" "Nihkul" "Niikke" "Niikko" "Niil√°" "Niill√°" "Niill√°n" "N" "cont". "Niillas" "Nil√°" "Nil√°n" "Nilke" "Nill√°" "Nilpa" "Nilsa" "Nilse" "Njulgu" "Nuhtte" "Nunn√°" "Nuvtte" "Oav√°n" "Oge" "Oij√°" "Ol√°" "Olen" "Olet" "Olle" "Ommot" "Orddot" "Osk√°r" "Osku" "Otto" "Ovla" "Ovl√°" "Ovlin" "Ovll√°" "Peivas" "Piera" "Poalla" "R√°ffo" "R√°idner" "R√°lfa" "R√°nso" "R√°smmos" "R√°smos" "R√°ssa" "R√°sto≈°" "R√°stto≈°" "R√°vdn√°r" "R√°vle" "Reaidnu" "Rede" "Riggu" "Riibma" "Riigu" "Rij√°" "Rikkar" "Robe" "Robearta" "Rolfa" "Ruben" "Ruigi" "Sabbe" "S√°hk√°r" "S√°l√°" "S√°lbmo" "S√°lmmo" "S√°lmo" "S√°mmol" "S√°pp√°" "S√°rra" "S√°rrajuoksa" "S√°vlos" "Sierge" "Siiggur" "Siiv√°r" "Silvu" "Simit" "Simm√°" "Simmon" "Sivdda" "Skarild" "Speaidna" "Sveidn" "Tobejas" "Uddi" "Udjjus" "Uhkku" "Ulmm√°" "Urb√°n" "Uvll√°" "V√°lde" "Vallj√°≈°" "V√°llju" "V√°lter" "Veaidnu" "Veaiku" "Vide" "Viggu" "Viktor" "Vilhealbma" "Ville" "Volbmar" "Vulle" "Vuoitu" "Vuol√°t" "Vuoll√°"
 }
 monarch_names = {
-	"¡illun #0" = 0
-	"¡ilu #0" = 0
-	"¡ra #0" = 0
+	"√Åillun #0" = 0
+	"√Åilu #0" = 0
+	"√Åra #0" = 0
 	"Bigge #0" = 0
 	"Jonne #0" = 0
 	"Larsa #0" = 0
@@ -22,137 +47,137 @@ monarch_names = {
 	"Selen #0" = 0
 	"Sive #0" = 0
 	"Unni #0" = 0
-	"¡bel #0" = 5
-	"¡bo #0" = 5
-	"¡brr·n #0" = 5
-	"¡do #0" = 5
-	"¡dolfe #0" = 5
-	"¡g· #0" = 5
-	"¡ggi #0" = 5
+	"√Åbel #0" = 5
+	"√Åbo #0" = 5
+	"√Åbrr√°n #0" = 5
+	"√Ådo #0" = 5
+	"√Ådolfe #0" = 5
+	"√Åg√° #0" = 5
+	"√Åggi #0" = 5
 	"Ahkebeaivi #0" = 5
 	"Ahkejuoksa #0" = 5
 	"Ahkemiella #0" = 5
-	"¡ibmu #0" = 5
-	"¡iges·rri #0" = 5
-	"¡igin #0" = 5
-	"¡ivvit #0" = 5
-	"¡ksel #0" = 5
-	"¡lbe #0" = 5
+	"√Åibmu #0" = 5
+	"√Åiges√°rri #0" = 5
+	"√Åigin #0" = 5
+	"√Åivvit #0" = 5
+	"√Åksel #0" = 5
+	"√Ålbe #0" = 5
 	"Albearta #0" = 5
-	"¡le #0" = 5
-	"¡les #0" = 5
-	"¡lfa #0" = 5
+	"√Åle #0" = 5
+	"√Åles #0" = 5
+	"√Ålfa #0" = 5
 	"Algebeaivi #0" = 5
-	"¡llan #0" = 5
-	"¡mm· #0" = 5
-	"¡mmol #0" = 5
-	"¡mmon #0" = 5
-	"¡mmot #0" = 5
-	"¡nd· #0" = 5
-	"¡ndaras #0" = 5
-	"¡ndde #0" = 5
-	"¡nddij· #0" = 5
-	"¡nde #0" = 5
-	"¡nderij· #0" = 5
-	"¡nnj· #0" = 5
-	"¡no #0" = 5
-	"¡not #0" = 5
+	"√Ållan #0" = 5
+	"√Åmm√° #0" = 5
+	"√Åmmol #0" = 5
+	"√Åmmon #0" = 5
+	"√Åmmot #0" = 5
+	"√Ånd√° #0" = 5
+	"√Åndaras #0" = 5
+	"√Åndde #0" = 5
+	"√Ånddij√° #0" = 5
+	"√Ånde #0" = 5
+	"√Ånderij√° #0" = 5
+	"√Ånnj√° #0" = 5
+	"√Åno #0" = 5
+	"√Ånot #0" = 5
 	"Ansealbma #0" = 5
 	"Anselbme #0" = 5
-	"¡nte #0" = 5
-	"¡nton #0" = 5
-	"¡ntte #0" = 5
-	"¡pmot #0" = 5
-	"¡ppo #0" = 5
-	"¡pp· #0" = 5
-	"¡pparan #0" = 5
-	"¡ron #0" = 5
-	"¡rrajuoksa #0" = 5
-	"¡rtne #0" = 5
-	"¡rtor #0" = 5
-	"¡rvet #0" = 5
-	"¡sko #0" = 5
-	"¡slat #0" = 5
-	"¡sllak #0" = 5
-	"¡sllat #0" = 5
-	"¡tt·n #0" = 5
-	"¡vgos #0" = 5
-	"¡vvu #0" = 5
-	"B·nccu #0" = 5
-	"B·ncu #0" = 5
-	"B·nnos #0" = 5
-	"B·vllos #0" = 5
-	"B·vlos #0" = 5
-	"B·vva #0" = 5
-	"B·vval #0" = 5
-	"B·vv·l #0" = 5
-	"B·û· #0" = 5
-	"D·idu #0" = 5
-	"Beahkk· #0" = 5
+	"√Ånte #0" = 5
+	"√Ånton #0" = 5
+	"√Åntte #0" = 5
+	"√Åpmot #0" = 5
+	"√Åppo #0" = 5
+	"√Åpp√° #0" = 5
+	"√Åpparan #0" = 5
+	"√Åron #0" = 5
+	"√Årrajuoksa #0" = 5
+	"√Årtne #0" = 5
+	"√Årtor #0" = 5
+	"√Årvet #0" = 5
+	"√Åsko #0" = 5
+	"√Åslat #0" = 5
+	"√Åsllak #0" = 5
+	"√Åsllat #0" = 5
+	"√Ått√°n #0" = 5
+	"√Åvgos #0" = 5
+	"√Åvvu #0" = 5
+	"B√°nccu #0" = 5
+	"B√°ncu #0" = 5
+	"B√°nnos #0" = 5
+	"B√°vllos #0" = 5
+	"B√°vlos #0" = 5
+	"B√°vva #0" = 5
+	"B√°vval #0" = 5
+	"B√°vv√°l #0" = 5
+	"B√°≈æ√° #0" = 5
+	"D√°idu #0" = 5
+	"Beahkk√° #0" = 5
 	"Beaivi #0" = 5
 	"Beaivvet #0" = 5
 	"Beanta #0" = 5
 	"Beartu #0" = 5
 	"Bedar #0" = 5
 	"Bede #0" = 5
-	"Beg· #0" = 5
-	"Behkk· #0" = 5
+	"Beg√° #0" = 5
+	"Behkk√° #0" = 5
 	"Behtter #0" = 5
-	"Benj·me #0" = 5
+	"Benj√°me #0" = 5
 	"Benne #0" = 5
 	"Bide #0" = 5
 	"Biede #0" = 5
-	"Bieht·r #0" = 5
+	"Bieht√°r #0" = 5
 	"Biejan #0" = 5
-	"Biejaö #0" = 5
-	"Bienn· #0" = 5
+	"Bieja≈° #0" = 5
+	"Bienn√° #0" = 5
 	"Biera #0" = 5
-	"Bieraö #0" = 5
+	"Biera≈° #0" = 5
 	"Bierdna #0" = 5
 	"Bierra #0" = 5
-	"Bierr·n #0" = 5
-	"Bierrelaö #0" = 5
+	"Bierr√°n #0" = 5
+	"Bierrela≈° #0" = 5
 	"Bierril #0" = 5
-	"Bierûa #0" = 5
-	"Bierû· #0" = 5
+	"Bier≈æa #0" = 5
+	"Bier≈æ√° #0" = 5
 	"Biette #0" = 5
 	"Bihto #0" = 5
-	"Bij·ö #0" = 5
+	"Bij√°≈° #0" = 5
 	"Bilzi #0" = 5
 	"Birger #0" = 5
 	"Birki #0" = 5
-	"C·ij· #0" = 5
-	"Coavv· #0" = 5
+	"C√°ij√° #0" = 5
+	"Coavv√° #0" = 5
 	"Cuivi #0" = 5
-	"Curtnaö #0" = 5
-	"D·nel #0" = 5
-	"D·rbmu #0" = 5
-	"D·vgon #0" = 5
-	"D·vved #0" = 5
-	"D·vvet #0" = 5
-	"Deahpp·n #0" = 5
+	"Curtna≈° #0" = 5
+	"D√°nel #0" = 5
+	"D√°rbmu #0" = 5
+	"D√°vgon #0" = 5
+	"D√°vved #0" = 5
+	"D√°vvet #0" = 5
+	"Deahpp√°n #0" = 5
 	"Dearsu #0" = 5
-	"Def· #0" = 5
-	"Diij· #0" = 5
+	"Def√° #0" = 5
+	"Diij√° #0" = 5
 	"Doaivu #0" = 5
 	"Doaivvot #0" = 5
-	"Doff· #0" = 5
-	"Domm· #0" = 5
+	"Doff√° #0" = 5
+	"Domm√° #0" = 5
 	"Dorste #0" = 5
 	"Duomis #0" = 5
-	"Duomm· #0" = 5
+	"Duomm√° #0" = 5
 	"Duo?gi #0" = 5
 	"Dure #0" = 5
-	"Dutt· #0" = 5
-	"Duvk· #0" = 5
+	"Dutt√° #0" = 5
+	"Duvk√° #0" = 5
 	"Duvre #0" = 5
 	"Eaddji #0" = 5
-	"Ealj· #0" = 5
+	"Ealj√° #0" = 5
 	"Edo #0" = 5
 	"Egel #0" = 5
-	"Eidn·r #0" = 5
+	"Eidn√°r #0" = 5
 	"Eidno #0" = 5
-	"Ein·r #0" = 5
+	"Ein√°r #0" = 5
 	"Eiven #0" = 5
 	"Elejas #0" = 5
 	"Eles #0" = 5
@@ -162,34 +187,34 @@ monarch_names = {
 	"Eret #0" = 5
 	"Erke #0" = 5
 	"Ertno #0" = 5
-	"Es·jas #0" = 5
+	"Es√°jas #0" = 5
 	"Feles #0" = 5
 	"Filpa #0" = 5
 	"Fretterat #0" = 5
 	"Fretteret #0" = 5
-	"G·be #0" = 5
-	"G·hpp· #0" = 5
-	"G·iju #0" = 5
-	"G·ivvaö #0" = 5
-	"G·ktu #0" = 5
-	"G·ll· #0" = 5
-	"G·llagas #0" = 5
-	"G·ppe #0" = 5
-	"G·rral #0" = 5
-	"G·vgu #0" = 5
+	"G√°be #0" = 5
+	"G√°hpp√° #0" = 5
+	"G√°iju #0" = 5
+	"G√°ivva≈° #0" = 5
+	"G√°ktu #0" = 5
+	"G√°ll√° #0" = 5
+	"G√°llagas #0" = 5
+	"G√°ppe #0" = 5
+	"G√°rral #0" = 5
+	"G√°vgu #0" = 5
 	"Gealbu #0" = 5
 	"Gearral #0" = 5
-	"Geaûotmiella #0" = 5
+	"Gea≈æotmiella #0" = 5
 	"Guhtur #0" = 5
 	"Guivi #0" = 5
-	"Gunn·r #0" = 5
+	"Gunn√°r #0" = 5
 	"Gusto #0" = 5
 	"Gustu #0" = 5
-	"H·nas #0" = 5
-	"H·nno #0" = 5
-	"H·nsa #0" = 5
-	"H·ral #0" = 5
-	"H·rri #0" = 5
+	"H√°nas #0" = 5
+	"H√°nno #0" = 5
+	"H√°nsa #0" = 5
+	"H√°ral #0" = 5
+	"H√°rri #0" = 5
 	"Heaibmu #0" = 5
 	"Heaika #0" = 5
 	"Heammu #0" = 5
@@ -198,122 +223,122 @@ monarch_names = {
 	"Hegon #0" = 5
 	"Heige #0" = 5
 	"Heigen #0" = 5
-	"Heij· #0" = 5
-	"Hend· #0" = 5
+	"Heij√° #0" = 5
+	"Hend√° #0" = 5
 	"Henddo #0" = 5
-	"Heneö #0" = 5
+	"Hene≈° #0" = 5
 	"Hennet #0" = 5
 	"Hentto #0" = 5
 	"Herko #0" = 5
 	"Holger #0" = 5
 	"Hugo #0" = 5
 	"Idga #0" = 5
-	"Iigg· #0" = 5
+	"Iigg√° #0" = 5
 	"Iisku #0" = 5
-	"Iiss·t #0" = 5
+	"Iiss√°t #0" = 5
 	"Ilbmar #0" = 5
-	"Imb· #0" = 5
+	"Imb√° #0" = 5
 	"Indu #0" = 5
-	"Irj·n #0" = 5
+	"Irj√°n #0" = 5
 	"Iskko #0" = 5
 	"Isku #0" = 5
-	"Iss·k #0" = 5
-	"Iss·t #0" = 5
-	"Ivv·r #0" = 5
-	"J·g·t #0" = 5
-	"J·go #0" = 5
-	"J·hken #0" = 5
-	"J·hko #0" = 5
-	"J·hkot #0" = 5
-	"J·lbm·r #0" = 5
-	"J·rre #0" = 5
-	"J·rri #0" = 5
+	"Iss√°k #0" = 5
+	"Iss√°t #0" = 5
+	"Ivv√°r #0" = 5
+	"J√°g√°t #0" = 5
+	"J√°go #0" = 5
+	"J√°hken #0" = 5
+	"J√°hko #0" = 5
+	"J√°hkot #0" = 5
+	"J√°lbm√°r #0" = 5
+	"J√°rre #0" = 5
+	"J√°rri #0" = 5
 	"Jeansa #0" = 5
 	"Joavnna #0" = 5
 	"Joel #0" = 5
-	"Joh· #0" = 5
-	"Joh·n #0" = 5
+	"Joh√° #0" = 5
+	"Joh√°n #0" = 5
 	"Johanas #0" = 5
-	"Joh·nas #0" = 5
-	"Jomp· #0" = 5
-	"Jon· #0" = 5
-	"Jon·s #0" = 5
+	"Joh√°nas #0" = 5
+	"Jomp√° #0" = 5
+	"Jon√° #0" = 5
+	"Jon√°s #0" = 5
 	"Jo?gu #0" = 5
-	"Jons· #0" = 5
+	"Jons√° #0" = 5
 	"Joret #0" = 5
 	"Jorge #0" = 5
 	"Jorgen #0" = 5
-	"Jos·p #0" = 5
-	"Jos·t #0" = 5
+	"Jos√°p #0" = 5
+	"Jos√°t #0" = 5
 	"Jovnna #0" = 5
-	"Jovnn·s #0" = 5
+	"Jovnn√°s #0" = 5
 	"Jovssek #0" = 5
 	"Jovssep #0" = 5
 	"Jovsset #0" = 5
 	"Jovssut #0" = 5
-	"Jovv· #0" = 5
+	"Jovv√° #0" = 5
 	"Juffe #0" = 5
-	"Juh·n #0" = 5
+	"Juh√°n #0" = 5
 	"Juho #0" = 5
 	"Juhu #0" = 5
-	"Juhv·n #0" = 5
+	"Juhv√°n #0" = 5
 	"Juhvo #0" = 5
 	"Julejus #0" = 5
-	"Jull· #0" = 5
+	"Jull√° #0" = 5
 	"Ju?gi #0" = 5
 	"Ju?kil #0" = 5
 	"Junne #0" = 5
 	"Junte #0" = 5
 	"Juoksa #0" = 5
-	"Jus·t #0" = 5
-	"Juss· #0" = 5
+	"Jus√°t #0" = 5
+	"Juss√° #0" = 5
 	"Jusse #0" = 5
-	"Jussenaö #0" = 5
-	"Juvv· #0" = 5
+	"Jussena≈° #0" = 5
+	"Juvv√° #0" = 5
 	"Juvven #0" = 5
-	"K·ll· #0" = 5
-	"K·lle #0" = 5
-	"K·rral #0" = 5
-	"Klemm· #0" = 5
-	"L·gon #0" = 5
-	"L·j·r #0" = 5
-	"L·r· #0" = 5
-	"L·ras #0" = 5
-	"L·rsa #0" = 5
-	"L·sse #0" = 5
-	"L·vo #0" = 5
-	"L·vra #0" = 5
-	"L·vrrahaö #0" = 5
-	"L·vrras #0" = 5
-	"L·vrrohaö #0" = 5
+	"K√°ll√° #0" = 5
+	"K√°lle #0" = 5
+	"K√°rral #0" = 5
+	"Klemm√° #0" = 5
+	"L√°gon #0" = 5
+	"L√°j√°r #0" = 5
+	"L√°r√° #0" = 5
+	"L√°ras #0" = 5
+	"L√°rsa #0" = 5
+	"L√°sse #0" = 5
+	"L√°vo #0" = 5
+	"L√°vra #0" = 5
+	"L√°vrraha≈° #0" = 5
+	"L√°vrras #0" = 5
+	"L√°vrroha≈° #0" = 5
 	"Leaifa #0" = 5
-	"Leamm· #0" = 5
+	"Leamm√° #0" = 5
 	"Leammu #0" = 5
 	"Ledjo #0" = 5
 	"Lejo #0" = 5
 	"Lemek #0" = 5
 	"Lemet #0" = 5
-	"Lemm· #0" = 5
-	"M·de #0" = 5
-	"M·den #0" = 5
-	"M·des #0" = 5
-	"M·htte #0" = 5
-	"M·htto #0" = 5
-	"M·idnu #0" = 5
-	"M·rkkos #0" = 5
-	"M·rte #0" = 5
-	"M·rten #0" = 5
-	"M·vdnos #0" = 5
-	"M·vnos #0" = 5
-	"M·vra #0" = 5
-	"M·vrres #0" = 5
+	"Lemm√° #0" = 5
+	"M√°de #0" = 5
+	"M√°den #0" = 5
+	"M√°des #0" = 5
+	"M√°htte #0" = 5
+	"M√°htto #0" = 5
+	"M√°idnu #0" = 5
+	"M√°rkkos #0" = 5
+	"M√°rte #0" = 5
+	"M√°rten #0" = 5
+	"M√°vdnos #0" = 5
+	"M√°vnos #0" = 5
+	"M√°vra #0" = 5
+	"M√°vrres #0" = 5
 	"Mellet #0" = 5
 	"Mielat #0" = 5
-	"Mig·l #0" = 5
-	"Mig·ö #0" = 5
+	"Mig√°l #0" = 5
+	"Mig√°≈° #0" = 5
 	"Migil #0" = 5
 	"Migos #0" = 5
-	"Migoö #0" = 5
+	"Migo≈° #0" = 5
 	"Migot #0" = 5
 	"Mihka #0" = 5
 	"Mihkil #0" = 5
@@ -332,69 +357,69 @@ monarch_names = {
 	"Morten #0" = 5
 	"Mortu #0" = 5
 	"Mures #0" = 5
-	"N·hkol #0" = 5
-	"N·innas #0" = 5
+	"N√°hkol #0" = 5
+	"N√°innas #0" = 5
 	"Nanit #0" = 5
-	"Nib· #0" = 5
-	"Nig· #0" = 5
+	"Nib√° #0" = 5
+	"Nig√° #0" = 5
 	"Nigo #0" = 5
 	"Nihkke #0" = 5
 	"Nihkko #0" = 5
-	"Nihkol·vo #0" = 5
+	"Nihkol√°vo #0" = 5
 	"Nihkul #0" = 5
 	"Niikke #0" = 5
 	"Niikko #0" = 5
-	"Niil· #0" = 5
-	"Niill· #0" = 5
-	"Niill·n #0" = 5
+	"Niil√° #0" = 5
+	"Niill√° #0" = 5
+	"Niill√°n #0" = 5
 	"Niillas #0" = 5
-	"Nil· #0" = 5
-	"Nil·n #0" = 5
+	"Nil√° #0" = 5
+	"Nil√°n #0" = 5
 	"Nilke #0" = 5
-	"Nill· #0" = 5
+	"Nill√° #0" = 5
 	"Nilpa #0" = 5
 	"Nilsa #0" = 5
 	"Nilse #0" = 5
 	"Njulgu #0" = 5
 	"Nuhtte #0" = 5
-	"Nunn· #0" = 5
+	"Nunn√° #0" = 5
 	"Nuvtte #0" = 5
-	"Oav·n #0" = 5
+	"Oav√°n #0" = 5
 	"Oge #0" = 5
-	"Oij· #0" = 5
-	"Ol· #0" = 5
+	"Oij√° #0" = 5
+	"Ol√° #0" = 5
 	"Olen #0" = 5
 	"Olet #0" = 5
 	"Olle #0" = 5
 	"Ommot #0" = 5
 	"Orddot #0" = 5
-	"Osk·r #0" = 5
+	"Osk√°r #0" = 5
 	"Osku #0" = 5
 	"Otto #0" = 5
 	"Ovla #0" = 5
-	"Ovl· #0" = 5
+	"Ovl√° #0" = 5
 	"Ovlin #0" = 5
-	"Ovll· #0" = 5
+	"Ovll√° #0" = 5
 	"Peivas #0" = 5
 	"Piera #0" = 5
 	"Poalla #0" = 5
-	"R·ffo #0" = 5
-	"R·idner #0" = 5
-	"R·lfa #0" = 5
-	"R·nso #0" = 5
-	"R·smmos #0" = 5
-	"R·smos #0" = 5
-	"R·ssa #0" = 5
-	"R·stoö #0" = 5
-	"R·sttoö #0" = 5
-	"R·vdn·r #0" = 5
-	"R·vle #0" = 5
+	"R√°ffo #0" = 5
+	"R√°idner #0" = 5
+	"R√°lfa #0" = 5
+	"R√°nso #0" = 5
+	"R√°smmos #0" = 5
+	"R√°smos #0" = 5
+	"R√°ssa #0" = 5
+	"R√°sto≈° #0" = 5
+	"R√°stto≈° #0" = 5
+	"R√°vdn√°r #0" = 5
+	"R√°vle #0" = 5
 	"Reaidnu #0" = 5
 	"Rede #0" = 5
 	"Riggu #0" = 5
 	"Riibma #0" = 5
 	"Riigu #0" = 5
-	"Rij· #0" = 5
+	"Rij√° #0" = 5
 	"Rikkar #0" = 5
 	"Robe #0" = 5
 	"Robearta #0" = 5
@@ -402,22 +427,22 @@ monarch_names = {
 	"Ruben #0" = 5
 	"Ruigi #0" = 5
 	"Sabbe #0" = 5
-	"S·hk·r #0" = 5
-	"S·l· #0" = 5
-	"S·lbmo #0" = 5
-	"S·lmmo #0" = 5
-	"S·lmo #0" = 5
-	"S·mmol #0" = 5
-	"S·pp· #0" = 5
-	"S·rra #0" = 5
-	"S·rrajuoksa #0" = 5
-	"S·vlos #0" = 5
+	"S√°hk√°r #0" = 5
+	"S√°l√° #0" = 5
+	"S√°lbmo #0" = 5
+	"S√°lmmo #0" = 5
+	"S√°lmo #0" = 5
+	"S√°mmol #0" = 5
+	"S√°pp√° #0" = 5
+	"S√°rra #0" = 5
+	"S√°rrajuoksa #0" = 5
+	"S√°vlos #0" = 5
 	"Sierge #0" = 5
 	"Siiggur #0" = 5
-	"Siiv·r #0" = 5
+	"Siiv√°r #0" = 5
 	"Silvu #0" = 5
 	"Simit #0" = 5
-	"Simm· #0" = 5
+	"Simm√° #0" = 5
 	"Simmon #0" = 5
 	"Sivdda #0" = 5
 	"Skarild #0" = 5
@@ -427,13 +452,13 @@ monarch_names = {
 	"Uddi #0" = 5
 	"Udjjus #0" = 5
 	"Uhkku #0" = 5
-	"Ulmm· #0" = 5
-	"Urb·n #0" = 5
-	"Uvll· #0" = 5
-	"V·lde #0" = 5
-	"Vallj·ö #0" = 5
-	"V·llju #0" = 5
-	"V·lter #0" = 5
+	"Ulmm√° #0" = 5
+	"Urb√°n #0" = 5
+	"Uvll√° #0" = 5
+	"V√°lde #0" = 5
+	"Vallj√°≈° #0" = 5
+	"V√°llju #0" = 5
+	"V√°lter #0" = 5
 	"Veaidnu #0" = 5
 	"Veaiku #0" = 5
 	"Vide #0" = 5
@@ -444,271 +469,273 @@ monarch_names = {
 	"Volbmar #0" = 5
 	"Vulle #0" = 5
 	"Vuoitu #0" = 5
-	"Vuol·t #0" = 5
-	"Vuoll· #0" = 5
+	"Vuol√°t #0" = 5
+	"Vuoll√° #0" = 5
 }
-ship_names = {	¡d·
-	Ag·t
-	¡idn·
-	¡idnu
-	¡ila
+ship_names = {
+	√Åd√°
+	Ag√°t
+	√Åidn√°
+	√Åidnu
+	√Åila
 	Aile
-	¡ile
-	¡illun
-	¡ilon
-	¡ilu
-	¡ir·
-	¡ire
-	¡lbma
-	¡lehtta
-	¡lehtt·
-	¡let
-	¡lgen
-	Aliinn·
-	Aliiss·
-	¡llet
-	¡lv·
-	Am·nd·
-	¡net
-	¡nn·
-	¡nne
-	¡ssa
-	¡ss·
-	¡sta
-	¡st·
-	¡vdnos
-	¡vr·
-	B·vl·
+	√Åile
+	√Åillun
+	√Åilon
+	√Åilu
+	√Åir√°
+	√Åire
+	√Ålbma
+	√Ålehtta
+	√Ålehtt√°
+	√Ålet
+	√Ålgen
+	Aliinn√°
+	Aliiss√°
+	√Ållet
+	√Ålv√°
+	Am√°nd√°
+	√Ånet
+	√Ånn√°
+	√Ånne
+	√Åssa
+	√Åss√°
+	√Åsta
+	√Åst√°
+	√Åvdnos
+	√Åvr√°
+	B√°vl√°
 	Bente
-	Biell·
-	Bierg·
+	Biell√°
+	Bierg√°
 	Bigga
-	Bigg·
+	Bigg√°
 	Bigge
-	Biij·
-	Bikk·
+	Biij√°
+	Bikk√°
 	Biret
 	Birgget
-	Birr·
-	Birt·
-	Buohtt·
+	Birr√°
+	Birt√°
+	Buohtt√°
 	Cuvje
-	D·rj·
-	D·vdna
+	D√°rj√°
+	D√°vdna
 	Delle
 	Diinna
-	Diinn·
+	Diinn√°
 	Duiri
-	Dul·
-	Duoj·
-	Duov·
+	Dul√°
+	Duoj√°
+	Duov√°
 	Edel
-	Eij·
-	Eir·
+	Eij√°
+	Eir√°
 	Eivor
-	Elbm·
+	Elbm√°
 	Elen
-	Eliiss·
-	Ell·
+	Eliiss√°
+	Ell√°
 	Elle
 	Ello
-	Els·
-	Elss·
+	Els√°
+	Elss√°
 	Elve
-	Emm·
-	Emmoö
-	Erv·
+	Emm√°
+	Emmo≈°
+	Erv√°
 	Ester
-	Ev·
-	Flor·
-	G·ddj·
-	G·hte
-	G·hteriinn·
-	G·re
-	G·ren
-	Geal·
-	Geard·
+	Ev√°
+	Flor√°
+	G√°ddj√°
+	G√°hte
+	G√°hteriinn√°
+	G√°re
+	G√°ren
+	Geal√°
+	Geard√°
 	Gearte
-	Gideö
-	Gier·
+	Gide≈°
+	Gier√°
 	Girste
 	Giste
-	Goll·
-	Gunn·
+	Goll√°
+	Gunn√°
 	Gunvor
 	Gutnel
-	H·nna
-	H·nn·
+	H√°nna
+	H√°nn√°
 	Heide
 	Heidi
 	Helbme
-	Heleainn·
-	Helen·
-	Helg·
-	Nj·veö
+	Heleainn√°
+	Helen√°
+	Helg√°
+	Nj√°ve≈°
 	Helve
-	Henn·
-	Hilbm·
-	Hild·
-	Hilk·
-	Hill·
-	Ibb·
-	Iid·
-	Iidd·
-	Iinn·
-	Ikk·
-	I?g·
+	Henn√°
+	Hilbm√°
+	Hild√°
+	Hilk√°
+	Hill√°
+	Ibb√°
+	Iid√°
+	Iidd√°
+	Iinn√°
+	Ikk√°
+	I?g√°
 	I?ger
 	I?gir
 	I??er
-	Irbm·
-	Is·
-	Janiht·
-	Janiinn·
-	Jask·
-	Joh·nn·
+	Irbm√°
+	Is√°
+	Janiht√°
+	Janiinn√°
+	Jask√°
+	Joh√°nn√°
 	Judet
-	Juh·nn·
-	Julj·
-	Juoks·hkk·
-	K·htariinn·
-	K·re
-	K·ren
-	Kariinn·
-	Karoliinn·
+	Juh√°nn√°
+	Julj√°
+	Juoks√°hkk√°
+	K√°htariinn√°
+	K√°re
+	K√°ren
+	Kariinn√°
+	Karoliinn√°
 	Kearte
 	Kirste
-	Kristiinn·
-	L·idn·
-	L·il·
-	L·vr·
-	Leainn·
+	Kristiinn√°
+	L√°idn√°
+	L√°il√°
+	L√°vr√°
+	Leainn√°
 	Leandu
-	Leinn·
-	Lej·
-	Len·
+	Leinn√°
+	Lej√°
+	Len√°
 	Lieddi
-	Liis·
-	Liiss·
-	Lilj·
-	Lind·
+	Liis√°
+	Liiss√°
+	Lilj√°
+	Lind√°
 	Linne
 	Livli
 	Lohcca
-	Lohtt·
-	Lott·
-	Luviiss·
-	M·ddj·
-	M·ddji
-	M·gg·
-	Magred·
-	M·gred·
-	M·idna
-	M·ij·
-	M·ijj·
-	M·il·
-	M·ire
-	M·kke
-	M·re
-	M·ren
-	M·ret
-	M·rge
-	M·rgget
-	M·rgreht·
-	M·rgreitt·
-	M·rgu
-	Mari·nn·
-	Mari·nne
-	Marihtt·
-	M·rj·
-	M·rjj·
-	M·rt·
-	Matild·
-	M·vdn·
-	M·vnnel
-	Meart·
+	Lohtt√°
+	Lott√°
+	Luviiss√°
+	M√°ddj√°
+	M√°ddji
+	M√°gg√°
+	Magred√°
+	M√°gred√°
+	M√°idna
+	M√°ij√°
+	M√°ijj√°
+	M√°il√°
+	M√°ire
+	M√°kke
+	M√°re
+	M√°ren
+	M√°ret
+	M√°rge
+	M√°rgget
+	M√°rgreht√°
+	M√°rgreitt√°
+	M√°rgu
+	Mari√°nn√°
+	Mari√°nne
+	Marihtt√°
+	M√°rj√°
+	M√°rjj√°
+	M√°rt√°
+	Matild√°
+	M√°vdn√°
+	M√°vnnel
+	Meart√°
 	Meret
-	Merj·
-	Miij·
-	Miinn·
-	Milj·
+	Merj√°
+	Miij√°
+	Miinn√°
+	Milj√°
 	Mimmi
-	Minn·
-	Mirj·
-	N·ddj·
-	Nan·
-	N·nn·
-	N·nni
-	N·sti
-	Nienn·
-	Nin·
-	Nor·
-	Oaj·
+	Minn√°
+	Mirj√°
+	N√°ddj√°
+	Nan√°
+	N√°nn√°
+	N√°nni
+	N√°sti
+	Nienn√°
+	Nin√°
+	Nor√°
+	Oaj√°
 	Oggi
 	Oile
-	Olg·
-	Piij·
-	R·fi
-	R·hkel
-	R·ij·
-	R·vdn·
+	Olg√°
+	Piij√°
+	R√°fi
+	R√°hkel
+	R√°ij√°
+	R√°vdn√°
 	Ravna
-	Red·
-	Regiinn·
-	Rihtt·
-	Riid·
-	Riitt·
+	Red√°
+	Regiinn√°
+	Rihtt√°
+	Riid√°
+	Riitt√°
 	Risten
-	Ristiinn·
+	Ristiinn√°
 	Ruhte
-	Ruvs·
-	S·ben
-	S·bin
-	S·ddja
-	S·ibmi
-	S·nn·
-	S·r·
-	S·r·hkk·
-	äealgg·
-	Sear·
-	äear·
-	Selbm·
+	Ruvs√°
+	S√°ben
+	S√°bin
+	S√°ddja
+	S√°ibmi
+	S√°nn√°
+	S√°r√°
+	S√°r√°hkk√°
+	≈†ealgg√°
+	Sear√°
+	≈†ear√°
+	Selbm√°
 	Selggo
 	Seljo
-	Siinn·
-	Sikk·
-	Silv·
+	Siinn√°
+	Sikk√°
+	Silv√°
 	Sire
 	Siru
 	Sivnne
-	Soab·
+	Soab√°
 	Sofe
-	Soff·
-	Soj·
-	Solj·
+	Soff√°
+	Soj√°
+	Solj√°
 	Solla
-	Sonj·
-	Sunn·
-	Suoinn·
+	Sonj√°
+	Sunn√°
+	Suoinn√°
 	Suonjar
-	Sus·nna
-	Sus·nn·
+	Sus√°nna
+	Sus√°nn√°
 	Sussu
-	Teres·
-	Tiinn·
-	Tild·
-	Tu·
-	Uks·hkk·
-	Ull·
+	Teres√°
+	Tiinn√°
+	Tild√°
+	Tu√°
+	Uks√°hkk√°
+	Ull√°
 	Unni
-	V·bo
-	V·lbor
-	V·rbu
-	V·rv·
-	Venl·
-	Ver·
-	Viivv·
-	Vilbm·
+	V√°bo
+	V√°lbor
+	V√°rbu
+	V√°rv√°
+	Venl√°
+	Ver√°
+	Viivv√°
+	Vilbm√°
 	Virba
-	Virv·
-	Vuohkku}
+	Virv√°
+	Vuohkku
+}

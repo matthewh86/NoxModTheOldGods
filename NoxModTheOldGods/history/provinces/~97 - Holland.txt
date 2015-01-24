@@ -1,4 +1,4 @@
-# 97 Holland - Principal cities: Amsterdam, Haarlem & Den Haag
+ï»¿# 97 Holland - Principal cities: Amsterdam, Haarlem & Den Haag
 
 owner = HOL
 controller = HOL
@@ -42,8 +42,8 @@ discovered_by = ottoman
 1570.1.1   = { unrest = 20 } # The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
 1572.1.1   = { religion = reformed }
 1572.6.15  = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # Rebels take control of large parts of Holland
-1573.7.12  = { revolt = {} controller = SPA } # Don Frederiqué captures Haarlem and others again
-1573.10.8  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Rebels take Alkmaar, Alba replaced by Requésens
+1573.7.12  = { revolt = {} controller = SPA } # Don FrederiquÃ© captures Haarlem and others again
+1573.10.8  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Rebels take Alkmaar, Alba replaced by RequÃ©sens
 1579.1.23  = { revolt = {} owner = NED controller = NED add_core = NED remove_core = SPA base_tax = 10 } # Union of Utrecht
 1585.9.1   = { workshop = yes } # Amsterdam becomes the beacon of the Lowlands
 1590.1.1   = { regimental_camp = yes } # Professionalisation of the Army

@@ -1,4 +1,4 @@
-central_algonquian = {
+﻿central_algonquian = {
 	graphical_culture = northamericagfx
 	
 	shawnee = {

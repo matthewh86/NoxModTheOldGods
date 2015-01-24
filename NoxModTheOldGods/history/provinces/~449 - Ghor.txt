@@ -1,4 +1,4 @@
-#449 - Ghor
+﻿#449 - Ghor
 
 owner = AFG
 controller = AFG

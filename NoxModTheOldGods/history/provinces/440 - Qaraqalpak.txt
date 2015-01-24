@@ -1,4 +1,4 @@
-#440 - Qaraqalpak
+﻿#440 - Qaraqalpak
 
 owner = KHI
 controller = KHI

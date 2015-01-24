@@ -1,4 +1,4 @@
-west_slavic = {
+ï»¿west_slavic = {
 	graphical_culture = westerngfx
 
 	czech = {
@@ -23,9 +23,9 @@ west_slavic = {
 		graphical_culture = easterngfx
 		primary = HUN
 		dynasty_names = {
-			Báthory Hunyadi Szapolyai Rákóczy Bocskai Bethlen Almásy Andrássy Batthyány Csáky Dessewffy
-			Erdody Eszterházy Festetics Hajdú Károlyi Kun Magyary Perényi Rónai Széchenyi Szepessy Teleki 
-			Thököly Tisza Zrínyi
+			BÃ¡thory Hunyadi Szapolyai RÃ¡kÃ³czy Bocskai Bethlen AlmÃ¡sy AndrÃ¡ssy BatthyÃ¡ny CsÃ¡ky Dessewffy
+			Erdody EszterhÃ¡zy Festetics HajdÃº KÃ¡rolyi Kun Magyary PerÃ©nyi RÃ³nai SzÃ©chenyi Szepessy Teleki 
+			ThÃ¶kÃ¶ly Tisza ZrÃ­nyi
 		}
 	}	
 	

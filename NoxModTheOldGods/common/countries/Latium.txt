@@ -1,31 +1,54 @@
-# Latium
+ï»¿# Latium
 graphical_culture = westerngfx
 color = { 200 200 240 }
-historical_idea_groups = {
-	defensive_ideas
-	trade_ideas
-	economic_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	spy_ideas
-	naval_ideas
-	offensive_ideas
+historical_idea_groups = {
+
+	defensive_ideas
+
+	trade_ideas
+
+	economic_ideas
+
+	diplomatic_ideas
+
+	innovativeness_ideas
+
+	spy_ideas
+
+	naval_ideas
+
+	offensive_ideas
+
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	italian_condotta
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	western_men_at_arms
+
+	italian_condotta
+
+	austrian_tercio
+
+	austrian_grenzer
+
+	austrian_hussar
+
+	austrian_white_coat
+
+	austrian_jaeger
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
 }
 
 
@@ -40,12 +63,12 @@ leader_names = {
 	"Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" "Angelo" "Annibale" "Anselmo" "Antonino" 
 	"Antonio" "Antoniotto" "Arcibaldo" "Arderico" "Armando" "Arnolfo" "Arrigo" "Arsenio" "Artemio" "Ascanio" 
 	"Astorre" "Atenolfo" "Attilio" "Aurelio" "Ausilio" "Ausonio" "Averado" "Azzo" "Azzone" "Baldassarre" 
-	"Baldovino" "Barnaba" "Bartolomeo" "Basilio" "Bassiano" "Basso" "Battista" "Benedetto" "Berardo" "Bernabò" 
+	"Baldovino" "Barnaba" "Bartolomeo" "Basilio" "Bassiano" "Basso" "Battista" "Benedetto" "Berardo" "BernabÃ²" 
 	"Bernardo" "Berto" "Bertoldo" "Biagio" "Bonaventura" "Bonifacio" "Borso" "Bruno" "Bruto" "Buonconte" 
 	"Buoso" "Callisto" "Camillo" "Candido" "Cangrande" "Carlo" "Cassio" "Castore" "Cataldo" "Catone" 
 	"Cecco" "Cesare" "Chiaffredo" "Chiano" "Ciro" "Ciuccio" "Claudio" "Clemente" "Comita" "Cornelio" 
 	"Corradino" "Corrado" "Cosimo" "Cosma" "Costante" "Costantino" "Costanzo" "Cristoforo" "Damiano" "Demetrio" 
-	"Dioniso" "Doménico" "Durante" "Eduardo" "Elio" "Emmanuele" "Ennio" "Enrico" "Enzio" "Enzo" 
+	"Dioniso" "DomÃ©nico" "Durante" "Eduardo" "Elio" "Emmanuele" "Ennio" "Enrico" "Enzio" "Enzo" 
 	"Ercole" "Eriprando" "Ermenegildo" "Ettore" "Eugenio" "Ezio" "Ezzelino" "Fabrizio" "Federigo" "Felice" 
 	"Ferdinando" "Ferruccio" "Filippo" "Fiorello" "Fortunato" "Fosco" "Francesco" "Fresco" "Gabriele" "Gabrino" 
 	"Gaetano" "Galasso" "Galeazzo" "Galeotto" "Gaspare" "Gastone" "Gelasio" "Geraldo" "Gerardo" "Germano" 
@@ -55,7 +78,7 @@ leader_names = {
 	"Landolfo" "Landone" "Lanfranco" "Lattanzio" "Lazzarino" "Lealdo" "Leonardo" "Leone" "Leonello" "Leopoldo" 
 	"Libero" "Lionello" "Livio" "Lodovico" "Lorenzo" "Luca" "Luchino" "Lucio" "Luigi" "Malacresta" 
 	"Manfredo" "Manuele" "Marco" "Mariano" "Marino" "Mario" "Marsiglio" "Massimo" "Mastino" "Matteo" 
-	"Merigo" "Michelangelo" "Michele" "Napoleone" "Nazareno" "Nestore" "Niccolò" "Nicola" "Nino" "Oberto" 
+	"Merigo" "Michelangelo" "Michele" "Napoleone" "Nazareno" "Nestore" "NiccolÃ²" "Nicola" "Nino" "Oberto" 
 	"Obizzino" "Obizzo" "Oddone" "Omero" "Onorio" "Oreste" "Orlando" "Ottavio" "Ottobono" "Ottone" 
 	"Pagano" "Pancrazio" "Pandolfo" "Paolo" "Pasquale" "Patrizio" "Pellegrino" "Pericle" "Pietro" "Pio" 
 	"Prospero" "Rafaello" "Radul" "Raimondo" "Rainero" "Raineri" "Riccardo" "Rinaldo" "Rizzardo" "Roberto" 
@@ -155,7 +178,7 @@ monarch_names = {
 	"Battista #0" = 0
 	"Benedetto #0" = 0
 	"Berardo #0" = 0
-	"Bernabò #0" = 0
+	"BernabÃ² #0" = 0
 	"Bernardo #0" = 0
 	"Berto #0" = 0
 	"Bertoldo #0" = 0
@@ -197,7 +220,7 @@ monarch_names = {
 	"Damiano #0" = 0
 	"Demetrio #0" = 0
 	"Dioniso #0" = 0
-	"Doménico #0" = 0
+	"DomÃ©nico #0" = 0
 	"Durante #0" = 0
 	"Eduardo #0" = 0
 	"Elio #0" = 0
@@ -302,7 +325,7 @@ monarch_names = {
 	"Napoleone #0" = 0
 	"Nazareno #0" = 0
 	"Nestore #0" = 0
-	"Niccolò #0" = 0
+	"NiccolÃ² #0" = 0
 	"Nicola #0" = 0
 	"Nino #0" = 0
 	"Oberto #0" = 0
@@ -390,14 +413,23 @@ monarch_names = {
 	"Vittorio #0" = 0
 	"Zaccaria #0" = 0
 }
-ship_names = {
-	Medea Vulcano Gloria Minerva Laatea
-	Diligenza Vittoria Eolo Concordia Forza 
-	Fama Sirena Falcon Ercole Idra "San Andrea"
-	"San Zaccaria" "San Spiridon" "San Gaetano"
-	"Fortuna Guerriera" Terror Aquileta Constanza
-	"Regina del Mar" "San Nicolo" Nettuno Rosa
-	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
-	"Amazzone Guerriera"
+ship_names = {
+
+	Medea Vulcano Gloria Minerva Laatea
+
+	Diligenza Vittoria Eolo Concordia Forza 
+
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+
+	"Fortuna Guerriera" Terror Aquileta Constanza
+
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+
+	"Amazzone Guerriera"
+
 }
 

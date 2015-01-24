@@ -1,4 +1,4 @@
-#Österbotten, down to Vasa.
+ï»¿#Ã–sterbotten, down to Vasa.
 
 owner = FIN
 controller = FIN
@@ -23,7 +23,7 @@ discovered_by = western
 1650.1.1  = { trade_goods = naval_supplies citysize = 1250 } # Estimated Date
 1700.1.1  = { citysize = 1570 }
 1742.11.5 = { controller = RUS } # The War of the Hats-Estimated date
-1743.8.7  = { controller = SWE } # The Peace of Åbo
+1743.8.7  = { controller = SWE } # The Peace of Ã…bo
 1750.1.1  = { citysize = 1900 }
 1800.1.1  = { citysize = 2440 }
 1808.9.14 = { controller = RUS } # The Swedish forces are defeated at the battle Oravais

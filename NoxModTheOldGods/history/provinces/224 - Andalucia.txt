@@ -1,4 +1,4 @@
-#224 - Andalucía
+ï»¿#224 - AndalucÃ­a
 
 owner = AIA		#Juan II of Castille
 controller = AIA
@@ -39,7 +39,7 @@ discovered_by = eastern
 	     } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1550.1.1   = { citysize = 65000 } 
 1600.1.1   = { citysize = 90000 } #customs_house = yes
-1610.1.12  = { culture = castillian courthouse = yes } # Decree for the expulsion of the morisques in Andalucía, which is speedily and uneventfully performed
+1610.1.12  = { culture = castillian courthouse = yes } # Decree for the expulsion of the morisques in AndalucÃ­a, which is speedily and uneventfully performed
 1650.1.1   = { citysize = 52000 }
 1700.1.1   = { citysize = 96000 }
 1713.4.11  = { remove_core = CAS }

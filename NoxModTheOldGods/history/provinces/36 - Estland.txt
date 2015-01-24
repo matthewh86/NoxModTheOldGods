@@ -1,4 +1,4 @@
-#Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
+﻿#Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
 
 owner = EST
 controller = EST

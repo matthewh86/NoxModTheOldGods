@@ -1,4 +1,4 @@
-#2679 - Belitung
+﻿#2679 - Belitung
 
 culture = sumatran
 religion = shafi

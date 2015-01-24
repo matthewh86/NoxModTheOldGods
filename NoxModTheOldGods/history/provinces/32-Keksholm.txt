@@ -1,4 +1,4 @@
-#Keksholms l�n+Karelen, incl. Sordavala and Keksholm.
+﻿#Keksholms län+Karelen, incl. Sordavala and Keksholm.
 
 owner = FIN
 controller = FIN

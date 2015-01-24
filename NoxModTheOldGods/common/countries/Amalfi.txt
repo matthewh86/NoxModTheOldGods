@@ -1,4 +1,4 @@
-# Amalfi
+ï»¿# Amalfi
 graphical_culture = westerngfx
 color = { 140 200 230 }
 
@@ -21,11 +21,11 @@ leader_names = {
 	"Ambrogio" "Amedeo" "Anastasio" "Andrea" "Angelo" "Anselmo" "Antonino" "Antonio" "Antoniotto" "Arcibaldo" 
 	"Arderico" "Armando" "Arrigo" "Arsenio" "Artemio" "Ascanio" "Astorre" "Atenolfo" "Attilio" "Augusto" 
 	"Aurelio" "Ausilio" "Ausonio" "Averado" "Azzo" "Azzone" "Baldassarre" "Baldovino" "Barnaba" "Bartolomeo" 
-	"Basilio" "Bassiano" "Basso" "Battista" "Beltrano" "Benedetto" "Benvenuto" "Berardo" "Bernabò" "Bernardo" 
+	"Basilio" "Bassiano" "Basso" "Battista" "Beltrano" "Benedetto" "Benvenuto" "Berardo" "BernabÃ²" "Bernardo" 
 	"Berto" "Bertoldo" "Borso" "Bruno" "Bruto" "Buonconte" "Buoso" "Callisto" "Camillo" "Candido" 
 	"Carlo" "Cassio" "Castore" "Cataldo" "Catone" "Cecco" "Chiaffredo" "Chiano" "Ciro" "Ciuccio" 
 	"Claudio" "Clemente" "Comita" "Conone" "Cornelio" "Corradino" "Cosimo" "Cosma" "Costante" "Costantino" 
-	"Costanzo" "Cristoforo" "Damiano" "Davide" "Demetrio" "Dioniso" "Doménico" "Durante" "Eduardo" "Elio" 
+	"Costanzo" "Cristoforo" "Damiano" "Davide" "Demetrio" "Dioniso" "DomÃ©nico" "Durante" "Eduardo" "Elio" 
 	"Emmanuele" "Ennio" "Enzio" "Enzo" "Eriprando" "Ermenegildo" "Ettore" "Eugenio" "Ezio" "Fabrizio" 
 	"Federigo" "Felice" "Ferdinando" "Ferruccio" "Filippo" "Fiorello" "Flavio" "Folco" "Fortunato" "Fosco" 
 	"Gabriele" "Gabrino" "Gaetano" "Galasso" "Galeotto" "Gaspare" "Gelasio" "Gentile" "Geraldo" "Gerardo" 
@@ -34,7 +34,7 @@ leader_names = {
 	"Guidone" "Guigliadore" "Iacopo" "Igino" "Innocenzo" "Isnardo" "Jacopo" "Lamberto" "Landolfo" "Landone" 
 	"Lattanzio" "Lazzarino" "Lazzaro" "Lealdo" "Leonardo" "Leone" "Leonello" "Leopoldo" "Libero" "Lionello" 
 	"Livio" "Lorenzo" "Luca" "Luigi" "Malacresta" "Marco" "Mariano" "Marino" "Mario" "Marsiglio" 
-	"Martino" "Massimo" "Matteo" "Merigo" "Michelangelo" "Napoleone" "Nestore" "Niccolò" "Nicola" "Nino" 
+	"Martino" "Massimo" "Matteo" "Merigo" "Michelangelo" "Napoleone" "Nestore" "NiccolÃ²" "Nicola" "Nino" 
 	"Nolfo" "Oberto" "Obizzino" "Obizzo" "Oddone" "Onorio" "Oreste" "Orlando" "Ottobono" "Ottone" 
 	"Pagano" "Pancrazio" "Pandolfo" "Paolo" "Pasquale" "Patrizio" "Pellegrino" "Pericle" "Pio" "Prospero" 
 	"Rafaello" "Radul" "Raimondo" "Rainero" "Raineri" "Riccardo" "Rinaldo" "Rizzardo" "Roberto" "Rodolfo" 
@@ -192,7 +192,7 @@ monarch_names = {
 	"Benedetto #0" = 0
 	"Benvenuto #0" = 0
 	"Berardo #0" = 0
-	"Bernabò #0" = 0
+	"BernabÃ² #0" = 0
 	"Bernardo #0" = 0
 	"Berto #0" = 0
 	"Bertoldo #0" = 0
@@ -230,7 +230,7 @@ monarch_names = {
 	"Davide #0" = 0
 	"Demetrio #0" = 0
 	"Dioniso #0" = 0
-	"Doménico #0" = 0
+	"DomÃ©nico #0" = 0
 	"Durante #0" = 0
 	"Eduardo #0" = 0
 	"Elio #0" = 0
@@ -321,7 +321,7 @@ monarch_names = {
 	"Michelangelo #0" = 0
 	"Napoleone #0" = 0
 	"Nestore #0" = 0
-	"Niccolò #0" = 0
+	"NiccolÃ² #0" = 0
 	"Nicola #0" = 0
 	"Nino #0" = 0
 	"Nolfo #0" = 0

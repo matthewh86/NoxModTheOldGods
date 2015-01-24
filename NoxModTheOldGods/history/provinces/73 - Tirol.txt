@@ -1,4 +1,4 @@
-#73 - Tirol
+ï»¿#73 - Tirol
 
 owner = TIR
 controller = TIR
@@ -30,9 +30,9 @@ marketplace = yes
 	remove_core = STY
 }
 #1500.1.1 = { customs_house = yes } # The Brennerpass is a key position for trading over the Alps
-1504.10.17 = { citysize = 28000 } #Maximilian gains Kitzbühl, Kufstein, Rattenberg from Bavaria
+1504.10.17 = { citysize = 28000 } #Maximilian gains KitzbÃ¼hl, Kufstein, Rattenberg from Bavaria
 1511.6.23 = { manpower = 1 } # Landslibell - Tyrolean's only military duty is the defense of their homeland. 
-1511.7.1 = { regimental_camp = yes } # With the Landslibell came the duty to be prepared for defense -> Schützen
+1511.7.1 = { regimental_camp = yes } # With the Landslibell came the duty to be prepared for defense -> SchÃ¼tzen
 1525.3.1 = { unrest = 6 } # Peasant Revolts
 1525.9.1 = { unrest = 0 }
 1540.1.1 = { constable = yes }
@@ -41,7 +41,7 @@ marketplace = yes
 1577.1.1 = { base_tax = 7 } # Minting moves from Meran to Hall
 1602.1.1 = { base_tax = 8 } # Maximilian's economic reforms
 1611.1.1 = { citysize = 26000 } # Great plague
-1627.1.1 = { workshop = yes } # Kramsacher Glashütte
+1627.1.1 = { workshop = yes } # Kramsacher GlashÃ¼tte
 1634.1.1 = { citysize = 24000 } #Plague
 1646.1.1 = { fort2 = yes}
 1665.6.25 = { manpower = 1 } # Manpower decreased as Landslibell is still in effect under foreign governance

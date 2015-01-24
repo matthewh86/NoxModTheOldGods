@@ -1,199 +1,222 @@
-# Moravia
+Ôªø# Moravia
 graphical_culture = easterngfx
 color = { 157 101 35 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	innovativeness_ideas
-	religious_ideas
+historical_idea_groups = {
+
+	defensive_ideas
+
+	offensive_ideas
+
+	spy_ideas
+
+	trade_ideas
+
+	diplomatic_ideas
+
+	economic_ideas
+
+	innovativeness_ideas
+
+	religious_ideas
+
 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	germanized_pike
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
+historical_units = {
+
+	bardiche_infantry
+
+	eastern_knights
+
+	slavic_stradioti
+
+	eastern_militia
+
+	hungarian_hussar
+
+	germanized_pike
+
+	polish_musketeer
+
+	polish_hussar
+
+	polish_tercio
+
+	polish_winged_hussar
+
+	eastern_skirmisher
+
+	eastern_uhlan
+
+	eastern_carabinier
+
 }
 
 
 
 leader_names = {
 
-	"Borb·la" "Gergely" "Borisz" "«iÁek" "Csilla" "Terezia" "JÛzsa" "¡bel" "Kunigunda" "GÈza" 
-	"Eszter" "Konr·d" "MargarÈta" "L·szlÛ" "Karacik" "Zolt·na" "ZsÛfia" "Czenzi" "Salamon" "«ilbu" 
-	"Gazsi" "N·ndor" "Skolasztika" "M·ria" "Orb·n" "Zsuzsa" "Sevindik" "Tivadar" "Piroska" "Yeldem" 
-	"Endre" "M·rta" "Konstancia" "EldeÁyuk" "Oszk·r" "MiklÛs" "Mih·ly" "Tacsony" "Hedwig" "Bachman" 
-	"Ernı" "Uzluk" "Gizella" "Gyˆrgy" "Hajnal" "Ag·ta" "Kl·ra" "AnikÛ" "GellÈrt" "Samur" 
-	"M·rk" "Levente" "Sevilay" "G·briel" "Asli" "Lampert" "Edit" "KristÛf" "Sati" "G·bor" 
-	"IrÈn" "Vencel" "Fulˆp" "¡d·rn" "Benedek" "Euphemia" "Attila" "Magdolna" "Cenek" "Don·t" 
-	"Gyˆrgyi" "Ferenc" "Tibor" "P·l" "Margit" "Lırinc" "…va" "Yasar" "Kamilla" "M·rton" 
-	"J·cinta" "Saul" "Ambrus" "Odola" "Alajos" "ErzsÈbet" "BertÛk" "Gunduz" "K·lm·n" "Ibolya" 
-	"J·kob" "Angyalka" "J·nos" "Ayten" "IldikÛ" "Luca" "Am·lia" "Markvart" "Izs·k" "Zolt·n" 
-	"Bertalan" "Eliska" "Csillag" "Matild" "Ilt‰b‰r" "Nat·lia" "Tˆrtogul" "PÈter" "Krisztina" "KornÈl" 
-	"MÛzes" "¡lmos" "¡rp·d" "Sarica" "Tarkatzus" "Lin¸tika" "Jenı" "Berta" "Imre" "BÈla" 
-	"B·lint" "Vir·g" "÷zlem" "Gzi" "Aepak" "¡gnes" "M·tÈ" "Begluk" "Kinga" "L·z·r" 
-	"Frigyes" "BorÁ" "RÛzsa" "Illona" "Cs·k" "Sibel" "Jol·n" "«ilen" "Usunbike" "Blush" 
-	"Soma" "Mutlu" "Sirma" "Saru" "Yildiz" "T·dor" "Erika" "Emese" "Sarolt" "Tobi·s" 
-	"Aranka" "Asep" "Bonuslo" "Elek" "Bal·zs" "Blazena" "÷zgul" "«iltanesi" "Luk·cs" "Antal" 
-	"Csaba" "Lajos" "’dˆn" "Zsanett" "Vazul" "Pulad" "Bern·t" "Kopti" "Kozel" "Etel" 
-	"M·ty·s" "Panni" "TundÈr" "Esin" "Gunes" "ElemÈr" "Andr·s" "¡goston" "Gyula" "Dorottya" 
-	"Koza" "Kunhuta" "Istv·n" "DÈnes" "Ipekel" "Sotan" "MarkÈta" "Szilveszter" "Adelaida" "Ilkay" 
-	"Smil" "Orsolya" "Skonka" "Akgul" "Drahoslava" "Jaroslav" "SevenÁ" "DomoszlÛ" "Viola" "Irge" 
-	"Dˆmˆtˆr" "S·ra" "Asalup" "Tolun" "Boldizs·r" "Gulay" "Csongor" "Ituk" "MojmÌr" "Rostislav" 
-	"SlavomÌr" "Dezsı" "G·sp·r" "JÛzsef" "K·roly" "MÛric" "S·muel" "S·ndor" "Tam·s" "Vilmos" 
+	"Borb√°la" "Gergely" "Borisz" "√ái√ßek" "Csilla" "Terezia" "J√≥zsa" "√Åbel" "Kunigunda" "G√©za" 
+	"Eszter" "Konr√°d" "Margar√©ta" "L√°szl√≥" "Karacik" "Zolt√°na" "Zs√≥fia" "Czenzi" "Salamon" "√áilbu" 
+	"Gazsi" "N√°ndor" "Skolasztika" "M√°ria" "Orb√°n" "Zsuzsa" "Sevindik" "Tivadar" "Piroska" "Yeldem" 
+	"Endre" "M√°rta" "Konstancia" "Elde√ßyuk" "Oszk√°r" "Mikl√≥s" "Mih√°ly" "Tacsony" "Hedwig" "Bachman" 
+	"Ern√µ" "Uzluk" "Gizella" "Gy√∂rgy" "Hajnal" "Ag√°ta" "Kl√°ra" "Anik√≥" "Gell√©rt" "Samur" 
+	"M√°rk" "Levente" "Sevilay" "G√°briel" "Asli" "Lampert" "Edit" "Krist√≥f" "Sati" "G√°bor" 
+	"Ir√©n" "Vencel" "Ful√∂p" "√Åd√°rn" "Benedek" "Euphemia" "Attila" "Magdolna" "Cenek" "Don√°t" 
+	"Gy√∂rgyi" "Ferenc" "Tibor" "P√°l" "Margit" "L√µrinc" "√âva" "Yasar" "Kamilla" "M√°rton" 
+	"J√°cinta" "Saul" "Ambrus" "Odola" "Alajos" "Erzs√©bet" "Bert√≥k" "Gunduz" "K√°lm√°n" "Ibolya" 
+	"J√°kob" "Angyalka" "J√°nos" "Ayten" "Ildik√≥" "Luca" "Am√°lia" "Markvart" "Izs√°k" "Zolt√°n" 
+	"Bertalan" "Eliska" "Csillag" "Matild" "Ilt√§b√§r" "Nat√°lia" "T√∂rtogul" "P√©ter" "Krisztina" "Korn√©l" 
+	"M√≥zes" "√Ålmos" "√Årp√°d" "Sarica" "Tarkatzus" "Lin√ºtika" "Jen√µ" "Berta" "Imre" "B√©la" 
+	"B√°lint" "Vir√°g" "√ñzlem" "Gzi" "Aepak" "√Ågnes" "M√°t√©" "Begluk" "Kinga" "L√°z√°r" 
+	"Frigyes" "Bor√ß" "R√≥zsa" "Illona" "Cs√°k" "Sibel" "Jol√°n" "√áilen" "Usunbike" "Blush" 
+	"Soma" "Mutlu" "Sirma" "Saru" "Yildiz" "T√°dor" "Erika" "Emese" "Sarolt" "Tobi√°s" 
+	"Aranka" "Asep" "Bonuslo" "Elek" "Bal√°zs" "Blazena" "√ñzgul" "√áiltanesi" "Luk√°cs" "Antal" 
+	"Csaba" "Lajos" "√ïd√∂n" "Zsanett" "Vazul" "Pulad" "Bern√°t" "Kopti" "Kozel" "Etel" 
+	"M√°ty√°s" "Panni" "Tund√©r" "Esin" "Gunes" "Elem√©r" "Andr√°s" "√Ågoston" "Gyula" "Dorottya" 
+	"Koza" "Kunhuta" "Istv√°n" "D√©nes" "Ipekel" "Sotan" "Mark√©ta" "Szilveszter" "Adelaida" "Ilkay" 
+	"Smil" "Orsolya" "Skonka" "Akgul" "Drahoslava" "Jaroslav" "Seven√ß" "Domoszl√≥" "Viola" "Irge" 
+	"D√∂m√∂t√∂r" "S√°ra" "Asalup" "Tolun" "Boldizs√°r" "Gulay" "Csongor" "Ituk" "Mojm√≠r" "Rostislav" 
+	"Slavom√≠r" "Dezs√µ" "G√°sp√°r" "J√≥zsef" "K√°roly" "M√≥ric" "S√°muel" "S√°ndor" "Tam√°s" "Vilmos" 
 	"Zsigmond" "Zsolt" }
 monarch_names = {
-	"Borb·la #0" = -47
+	"Borb√°la #0" = -47
 	"Gergely #0" = 23
 	"Borisz #0" = 23
-	"«iÁek #0" = -47
+	"√ái√ßek #0" = -47
 	"Csilla #0" = -47
 	"Terezia #0" = -24
-	"JÛzsa #0" = -93
-	"¡bel #0" = 46
+	"J√≥zsa #0" = -93
+	"√Åbel #0" = 46
 	"Kunigunda #0" = -163
-	"GÈza #0" = 69
+	"G√©za #0" = 69
 	"Eszter #0" = -70
-	"Konr·d #0" = 69
-	"MargarÈta #0" = -70
-	"L·szlÛ #0" = 92
+	"Konr√°d #0" = 69
+	"Margar√©ta #0" = -70
+	"L√°szl√≥ #0" = 92
 	"Karacik #0" = -47
-	"Zolt·na #0" = -140
-	"ZsÛfia #0" = -70
+	"Zolt√°na #0" = -140
+	"Zs√≥fia #0" = -70
 	"Czenzi #0" = -93
 	"Salamon #0" = 301
-	"«ilbu #0" = 23
+	"√áilbu #0" = 23
 	"Gazsi #0" = 23
-	"N·ndor #0" = 92
+	"N√°ndor #0" = 92
 	"Skolasztika #0" = -140
-	"M·ria #0" = -24
-	"Orb·n #0" = 46
+	"M√°ria #0" = -24
+	"Orb√°n #0" = 46
 	"Zsuzsa #0" = -140
 	"Sevindik #0" = -47
 	"Tivadar #0" = 23
 	"Piroska #0" = -117
 	"Yeldem #0" = -117
 	"Endre #0" = 23
-	"M·rta #0" = -24
+	"M√°rta #0" = -24
 	"Konstancia #0" = -47
-	"EldeÁyuk #1" = 116
-	"Oszk·r #0" = 69
-	"MiklÛs #0" = 92
-	"Mih·ly #0" = 23
+	"Elde√ßyuk #1" = 116
+	"Oszk√°r #0" = 69
+	"Mikl√≥s #0" = 92
+	"Mih√°ly #0" = 23
 	"Tacsony #0" = 69
 	"Hedwig #0" = -47
 	"Bachman #0" = 23
-	"Ernı #0" = 116
+	"Ern√µ #0" = 116
 	"Uzluk #0" = 46
 	"Gizella #0" = -70
-	"Gyˆrgy #0" = 23
+	"Gy√∂rgy #0" = 23
 	"Hajnal #0" = -93
-	"Ag·ta #0" = -117
-	"Kl·ra #0" = -70
-	"AnikÛ #0" = -186
-	"GellÈrt #0" = 46
+	"Ag√°ta #0" = -117
+	"Kl√°ra #0" = -70
+	"Anik√≥ #0" = -186
+	"Gell√©rt #0" = 46
 	"Samur #0" = -24
-	"M·rk #0" = 23
+	"M√°rk #0" = 23
 	"Levente #0" = 69
 	"Sevilay #0" = -24
-	"G·briel #0" = 46
+	"G√°briel #0" = 46
 	"Asli #0" = -47
 	"Lampert #0" = 23
 	"Edit #0" = -70
-	"KristÛf #0" = 46
+	"Krist√≥f #0" = 46
 	"Sati #0" = -24
-	"G·bor #0" = 46
-	"IrÈn #0" = -70
+	"G√°bor #0" = 46
+	"Ir√©n #0" = -70
 	"Vencel #0" = 23
-	"Fulˆp #0" = 23
-	"¡d·rn #0" = 46
+	"Ful√∂p #0" = 23
+	"√Åd√°rn #0" = 46
 	"Benedek #0" = 23
 	"Euphemia #0" = -47
 	"Attila #1" = 92
 	"Magdolna #0" = -70
 	"Cenek #0" = 23
-	"Don·t #0" = 46
-	"Gyˆrgyi #0" = -47
+	"Don√°t #0" = 46
+	"Gy√∂rgyi #0" = -47
 	"Ferenc #0" = 69
 	"Tibor #0" = 69
-	"P·l #0" = 46
+	"P√°l #0" = 46
 	"Margit #0" = -186
-	"Lırinc #0" = 92
-	"…va #0" = -70
+	"L√µrinc #0" = 92
+	"√âva #0" = -70
 	"Yasar #0" = -93
 	"Kamilla #0" = -47
-	"M·rton #0" = 92
-	"J·cinta #0" = -24
+	"M√°rton #0" = 92
+	"J√°cinta #0" = -24
 	"Saul #0" = 139
 	"Ambrus #0" = 116
 	"Odola #0" = -47
 	"Alajos #0" = 69
-	"ErzsÈbet #0" = -70
-	"BertÛk #0" = 69
+	"Erzs√©bet #0" = -70
+	"Bert√≥k #0" = 69
 	"Gunduz #0" = -47
-	"K·lm·n #0" = 69
+	"K√°lm√°n #0" = 69
 	"Ibolya #0" = -70
-	"J·kob #0" = 46
+	"J√°kob #0" = 46
 	"Angyalka #0" = -47
-	"J·nos #0" = 92
+	"J√°nos #0" = 92
 	"Ayten #0" = -70
-	"IldikÛ #0" = -47
+	"Ildik√≥ #0" = -47
 	"Luca #0" = -47
-	"Am·lia #0" = -70
+	"Am√°lia #0" = -70
 	"Markvart #0" = 23
-	"Izs·k #0" = 185
-	"Zolt·n #0" = 23
+	"Izs√°k #0" = 185
+	"Zolt√°n #0" = 23
 	"Bertalan #0" = 23
 	"Eliska #0" = -24
 	"Csillag #0" = -70
 	"Matild #0" = -93
-	"Ilt‰b‰r #0" = 23
-	"Nat·lia #0" = -70
-	"Tˆrtogul #1" = 69
-	"PÈter #0" = 116
+	"Ilt√§b√§r #0" = 23
+	"Nat√°lia #0" = -70
+	"T√∂rtogul #1" = 69
+	"P√©ter #0" = 116
 	"Krisztina #0" = -24
-	"KornÈl #0" = 23
-	"MÛzes #0" = 23
-	"¡lmos #0" = 46
-	"¡rp·d #1" = 69
+	"Korn√©l #0" = 23
+	"M√≥zes #0" = 23
+	"√Ålmos #0" = 46
+	"√Årp√°d #1" = 69
 	"Sarica #0" = -47
 	"Tarkatzus #0" = 69
-	"Lin¸tika #1" = 23
-	"Jenı #1" = 116
+	"Lin√ºtika #1" = 23
+	"Jen√µ #1" = 116
 	"Berta #0" = -93
 	"Imre #1" = 23
-	"BÈla #0" = 46
-	"B·lint #0" = 46
-	"Vir·g #0" = -70
-	"÷zlem #0" = -24
+	"B√©la #0" = 46
+	"B√°lint #0" = 46
+	"Vir√°g #0" = -70
+	"√ñzlem #0" = -24
 	"Gzi #0" = 23
 	"Aepak #0" = 23
-	"¡gnes #0" = -70
-	"M·tÈ #0" = 92
+	"√Ågnes #0" = -70
+	"M√°t√© #0" = 92
 	"Begluk #0" = 23
 	"Kinga #0" = -70
-	"L·z·r #0" = 23
+	"L√°z√°r #0" = 23
 	"Frigyes #0" = 46
-	"BorÁ #0" = 23
-	"RÛzsa #0" = -24
+	"Bor√ß #0" = 23
+	"R√≥zsa #0" = -24
 	"Illona #0" = -24
-	"Cs·k #0" = 23
+	"Cs√°k #0" = 23
 	"Sibel #0" = -24
-	"Jol·n #0" = -47
-	"«ilen #0" = -47
+	"Jol√°n #0" = -47
+	"√áilen #0" = -47
 	"Usunbike #0" = -24
 	"Blush #0" = 46
 	"Soma #0" = 23
@@ -201,48 +224,48 @@ monarch_names = {
 	"Sirma #0" = -47
 	"Saru #1" = 69
 	"Yildiz #0" = -47
-	"T·dor #0" = 46
+	"T√°dor #0" = 46
 	"Erika #0" = -70
 	"Emese #0" = -70
 	"Sarolt #0" = -47
-	"Tobi·s #0" = 23
+	"Tobi√°s #0" = 23
 	"Aranka #0" = -24
 	"Asep #0" = 46
 	"Bonuslo #0" = 23
 	"Elek #0" = 46
-	"Bal·zs #0" = 46
+	"Bal√°zs #0" = 46
 	"Blazena #0" = -24
-	"÷zgul #0" = -24
-	"«iltanesi #0" = -24
-	"Luk·cs #0" = 46
+	"√ñzgul #0" = -24
+	"√áiltanesi #0" = -24
+	"Luk√°cs #0" = 46
 	"Antal #0" = 46
 	"Csaba #1" = 46
 	"Lajos #0" = 69
-	"’dˆn #0" = 23
+	"√ïd√∂n #0" = 23
 	"Zsanett #0" = -24
 	"Vazul #0" = 46
 	"Pulad #0" = 46
-	"Bern·t #0" = 46
+	"Bern√°t #0" = 46
 	"Kopti #2" = 69
 	"Kozel #0" = 23
 	"Etel #0" = -24
-	"M·ty·s #0" = 69
+	"M√°ty√°s #0" = 69
 	"Panni #0" = -24
-	"TundÈr #0" = -47
+	"Tund√©r #0" = -47
 	"Esin #0" = -24
 	"Gunes #0" = -47
-	"ElemÈr #0" = 23
-	"Andr·s #0" = 23
-	"¡goston #2" = 23
+	"Elem√©r #0" = 23
+	"Andr√°s #0" = 23
+	"√Ågoston #2" = 23
 	"Gyula #0" = 23
 	"Dorottya #0" = -24
 	"Koza #0" = 23
 	"Kunhuta #0" = -24
-	"Istv·n #0" = 69
-	"DÈnes #0" = 23
+	"Istv√°n #0" = 69
+	"D√©nes #0" = 23
 	"Ipekel #0" = -24
 	"Sotan #0" = 23
-	"MarkÈta #0" = -24
+	"Mark√©ta #0" = -24
 	"Szilveszter #1" = 23
 	"Adelaida #0" = -24
 	"Ilkay #0" = -24
@@ -252,43 +275,54 @@ monarch_names = {
 	"Akgul #0" = -24
 	"Drahoslava #0" = -24
 	"Jaroslav #0" = 23
-	"SevenÁ #0" = 23
-	"DomoszlÛ #0" = 23
+	"Seven√ß #0" = 23
+	"Domoszl√≥ #0" = 23
 	"Viola #0" = -47
 	"Irge #0" = -24
-	"Dˆmˆtˆr #0" = 23
-	"S·ra #0" = -24
+	"D√∂m√∂t√∂r #0" = 23
+	"S√°ra #0" = -24
 	"Asalup #1" = 23
 	"Tolun #0" = 23
-	"Boldizs·r #0" = 23
+	"Boldizs√°r #0" = 23
 	"Gulay #0" = -24
 	"Csongor #0" = 23
 	"Ituk #0" = 23
-	"MojmÌr #1" = 0
+	"Mojm√≠r #1" = 0
 	"Rostislav #1" = 0
-	"SlavomÌr #1" = 0
-	"Dezsı #0" = 0
-	"G·sp·r #0" = 0
-	"JÛzsef #0" = 0
-	"K·roly #0" = 0
-	"MÛric #0" = 0
-	"S·muel #0" = 0
-	"S·ndor #0" = 0
-	"Tam·s #0" = 0
+	"Slavom√≠r #1" = 0
+	"Dezs√µ #0" = 0
+	"G√°sp√°r #0" = 0
+	"J√≥zsef #0" = 0
+	"K√°roly #0" = 0
+	"M√≥ric #0" = 0
+	"S√°muel #0" = 0
+	"S√°ndor #0" = 0
+	"Tam√°s #0" = 0
 	"Vilmos #0" = 0
 	"Zsigmond #0" = 0
 	"Zsolt #0" = 0
 }
-ship_names = {
-	Aranybulla 
-	Arpad
-	Magyar
-	Sigismund
-	"Szent Istvan kiraly"
-	"Hunyadi Matyas"
-	"Karoly Robert"
-	"Nagy Lajos"
-	Laszlo
-	Kalman
+ship_names = {
+
+	Aranybulla 
+
+	Arpad
+
+	Magyar
+
+	Sigismund
+
+	"Szent Istvan kiraly"
+
+	"Hunyadi Matyas"
+
+	"Karoly Robert"
+
+	"Nagy Lajos"
+
+	Laszlo
+
+	Kalman
+
 }
 

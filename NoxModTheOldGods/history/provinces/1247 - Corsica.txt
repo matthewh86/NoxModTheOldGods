@@ -1,4 +1,4 @@
-#1247 - Corsica
+﻿#1247 - Corsica
 
 owner = COR
 controller = COR
@@ -37,7 +37,7 @@ discovered_by = ottoman
 1559.1.1   = {	owner = GEN
 		controller = GEN
 	     	remove_core = FRA
-	     } # Treaty of Cateau-Cambr�sis
+	     } # Treaty of Cateau-Cambrésis
 1600.1.1   = { citysize = 7800 }
 1650.1.1   = { citysize = 8120 marketplace = yes }
 1700.1.1   = { citysize = 9057 }

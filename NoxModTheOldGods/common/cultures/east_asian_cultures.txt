@@ -1,4 +1,4 @@
-east_asian = {	#Chinese Group
+﻿east_asian = {	#Chinese Group
 	graphical_culture = asiangfx
 
 	manchu = {
@@ -102,7 +102,7 @@ mon_khmer = {
 	vietnamese = {
 		primary = DAI
 		dynasty_names = {
-			"Lê" "Tran" "Hau Le" "Mac" "Tay Son" "Nguyen" "Trinh"
+			"LÃª" "Tran" "Hau Le" "Mac" "Tay Son" "Nguyen" "Trinh"
 		}
 	}
 
@@ -237,7 +237,7 @@ burman= {
 	}
 }
 
-hmong–mien = {
+hmongâ€“mien = {
 	graphical_culture = asiangfx
 	
 	miao = {

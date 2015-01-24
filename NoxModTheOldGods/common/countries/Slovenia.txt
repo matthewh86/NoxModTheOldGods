@@ -1,4 +1,4 @@
-# Slovenia
+﻿# Slovenia
 
 graphical_culture = easterngfx
 
@@ -79,7 +79,7 @@ monarch_names = {
 leader_names = {
 	Blagai Bot Buzimski
 	Celjski Cesnegic Coronini Crnkovic 
-	Derencin Dra�kovic
+	Derencin Draškovic
 	Eltz
 	Frankopan
 	Gorjanski 

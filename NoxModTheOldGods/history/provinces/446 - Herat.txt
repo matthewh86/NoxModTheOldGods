@@ -1,4 +1,4 @@
-#446 - Herat
+﻿#446 - Herat
 
 owner = KHO
 controller = KHO

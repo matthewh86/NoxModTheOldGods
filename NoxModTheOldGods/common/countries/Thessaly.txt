@@ -1,34 +1,60 @@
-# Thessalonika
+﻿# Thessalonika
 graphical_culture = easterngfx
 color = { 150 150 190 }
-historical_idea_groups = {
-	religious_ideas
-	defensive_ideas
-	spy_ideas
-	trade_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	innovativeness_ideas
+historical_idea_groups = {
+
+	religious_ideas
+
+	defensive_ideas
+
+	spy_ideas
+
+	trade_ideas
+
+	offensive_ideas
+
+	economic_ideas
+
+	diplomatic_ideas
+
+	innovativeness_ideas
+
 }
 
-historical_units = {
-	eastern_medieval_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	ottoman_spahi
-	ottoman_sekban
-	ottoman_reformed_spahi
-	ottoman_reformed_janissary
-	ottoman_toprakli_hit_and_run
-	ottoman_nizami_cedid
-	ottoman_toprakli_dragoon
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	ottoman_new_model
-	ottoman_lancer
+historical_units = {
+
+	eastern_medieval_infantry
+
+	eastern_knights
+
+	slavic_stradioti
+
+	eastern_militia
+
+	ottoman_spahi
+
+	ottoman_sekban
+
+	ottoman_reformed_spahi
+
+	ottoman_reformed_janissary
+
+	ottoman_toprakli_hit_and_run
+
+	ottoman_nizami_cedid
+
+	ottoman_toprakli_dragoon
+
+	eastern_skirmisher
+
+	eastern_uhlan
+
+	eastern_carabinier
+
+	ottoman_new_model
+
+	ottoman_lancer
+
 }
 
 
@@ -245,13 +271,21 @@ monarch_names = {
 	"Zacharias #0" = 0
 	"Zenobios #0" = 0
 }
-ship_names = {
-	Hydra
-	Lesbos Limnos
-	Mikonios
-	Pezopoulos
-	Salamis Samos Simitzopoulos
-	Themistoklis
-	Votsis
+ship_names = {
+
+	Hydra
+
+	Lesbos Limnos
+
+	Mikonios
+
+	Pezopoulos
+
+	Salamis Samos Simitzopoulos
+
+	Themistoklis
+
+	Votsis
+
 }
 

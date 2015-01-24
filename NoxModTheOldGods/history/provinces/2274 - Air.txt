@@ -1,4 +1,4 @@
-# No previous file for Air
+﻿# No previous file for Air
 
 owner = AIR
 controller = AIR
@@ -6,7 +6,7 @@ add_core = AIR
 citysize = 5000
 culture = tuareg 
 religion = maliki
-capital = "Asod�"
+capital = "Asodé"
 trade_goods = iron
 hre = no
 base_tax = 4

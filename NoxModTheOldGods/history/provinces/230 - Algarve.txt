@@ -1,4 +1,4 @@
-#230 - Algarve
+Ôªø#230 - Algarve
 
 owner = AIA
 controller = AIA
@@ -21,11 +21,11 @@ discovered_by = eastern
 1500.1.1   = { citysize = 5477 }
 1550.1.1   = { citysize = 6000 }
 1600.1.1   = { citysize = 6850 marketplace = yes }
-1640.1.1   = { unrest = 8 } # Revolt headed by John of BraganÁa
+1640.1.1   = { unrest = 8 } # Revolt headed by John of Bragan√ßa
 1640.12.1  = { unrest = 0 }
 1650.1.1   = { citysize = 7900 }
 1700.1.1   = { citysize = 7000 }
 1750.1.1   = { citysize = 8100 }
 1800.1.1   = { citysize = 9440 }
 1807.11.30 = { controller = FRA } # Occupied by troops led by Manuel Godoy
-1808.6.18  = { controller = POR } # Revolt in Olh„o
+1808.6.18  = { controller = POR } # Revolt in Olh√£o

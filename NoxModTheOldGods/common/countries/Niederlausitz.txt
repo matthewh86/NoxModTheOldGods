@@ -1,32 +1,56 @@
-# Niederlausitz
+Ôªø# Niederlausitz
 graphical_culture = easterngfx
 color = { 185 27 17 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	spy_ideas
-	innovativeness_ideas
-	quantity_ideas
-	administrative_ideas
-	religious_ideas
+historical_idea_groups = {
+
+	defensive_ideas
+
+	offensive_ideas
+
+	economic_ideas
+
+	spy_ideas
+
+	innovativeness_ideas
+
+	quantity_ideas
+
+	administrative_ideas
+
+	religious_ideas
+
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	western_men_at_arms
+
+	swiss_landsknechten
+
+	dutch_maurician
+
+	austrian_tercio
+
+	austrian_grenzer
+
+	austrian_hussar
+
+	austrian_white_coat
+
+	austrian_jaeger
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
 }
 
 
@@ -35,15 +59,15 @@ leader_names = {
 
 	"Smil" "Jesek" "Eufemie" "Cenek" "Helena" "Vladislav" "Eliska" "Richeza" "Heralt" "Vojslava" 
 	"Premysl" "Nezamysl" "Mnata" "Vojen" "Unislav" "Kresomysl" "Diepold" "Hostivit" "Neklan" "Hedvika" 
-	"Borivoj" "Strojmir" "Tobi·s" "Hrabis" "Spytimir" "Sobieslav" "Milic" "Olga" "Prokop" "Konstancie" 
-	"Drslav" "Bozena" "Otakar" "Blazena" "VilemÌna" "OjÌr" "Anna" "JirÌk" "Ctirad" "Bohuslava" 
-	"Ota" "Skonka" "Budivoj" "Hynek" "Perchta" "Pelhrim" "Domaslava" "DrahomÌra" "Boleslav" "Zbynek" 
-	"Jitka" "Havel" "Dorota" "MojmÌr" "Rostislav" "Castolov" "VladimÌr" "Spytihnev" "Judita" "Markvart" 
+	"Borivoj" "Strojmir" "Tobi√°s" "Hrabis" "Spytimir" "Sobieslav" "Milic" "Olga" "Prokop" "Konstancie" 
+	"Drslav" "Bozena" "Otakar" "Blazena" "Vilem√≠na" "Oj√≠r" "Anna" "Jir√≠k" "Ctirad" "Bohuslava" 
+	"Ota" "Skonka" "Budivoj" "Hynek" "Perchta" "Pelhrim" "Domaslava" "Drahom√≠ra" "Boleslav" "Zbynek" 
+	"Jitka" "Havel" "Dorota" "Mojm√≠r" "Rostislav" "Castolov" "Vladim√≠r" "Spytihnev" "Judita" "Markvart" 
 	"Dobromila" "Albrecht" "Barbora" "Albert" "Ales" "Arnost" "Bavor" "Bedrich" "Benes" "Bocek" 
 	"Bohuslav" "Bores" "Borijov" "Bretislav" "Chval" "Detrich" "Gerhard" "Hanus" "Herman" "Jan" 
-	"JaromÌr" "Jaroslav" "Jindrich" "Karel" "Kojata" "Konr·d" "KunÌk" "Litold" "Matous" "Mikul·s" 
-	"Oldrich" "Ondrej" "Petr" "Rajmund" "Sezima" "Slavibor" "SlavomÌr" "Strachkvas" "Svatobor" "Svatopluk" 
-	"V·clav" "ViktorÌn" "VÌtek" "Vanek" "VilÈm" "Vojtech" "Vratislav" "Vsebor" "Z·vis" "ZdÌk" 
+	"Jarom√≠r" "Jaroslav" "Jindrich" "Karel" "Kojata" "Konr√°d" "Kun√≠k" "Litold" "Matous" "Mikul√°s" 
+	"Oldrich" "Ondrej" "Petr" "Rajmund" "Sezima" "Slavibor" "Slavom√≠r" "Strachkvas" "Svatobor" "Svatopluk" 
+	"V√°clav" "Viktor√≠n" "V√≠tek" "Vanek" "Vil√©m" "Vojtech" "Vratislav" "Vsebor" "Z√°vis" "Zd√≠k" 
 	"Zdirad" "Zikmund" }
 monarch_names = {
 	"Smil #0" = 24
@@ -68,7 +92,7 @@ monarch_names = {
 	"Hedvika #0" = -13
 	"Borivoj #0" = 24
 	"Strojmir #0" = 12
-	"Tobi·s #1" = 24
+	"Tobi√°s #1" = 24
 	"Hrabis #0" = 12
 	"Spytimir #0" = 12
 	"Sobieslav #1" = 12
@@ -80,10 +104,10 @@ monarch_names = {
 	"Bozena #0" = -25
 	"Otakar #0" = 12
 	"Blazena #0" = -13
-	"VilemÌna #0" = -13
-	"OjÌr #0" = 12
+	"Vilem√≠na #0" = -13
+	"Oj√≠r #0" = 12
 	"Anna #0" = -13
-	"JirÌk #0" = 24
+	"Jir√≠k #0" = 24
 	"Ctirad #0" = 12
 	"Bohuslava #0" = -25
 	"Ota #0" = 12
@@ -93,16 +117,16 @@ monarch_names = {
 	"Perchta #0" = -13
 	"Pelhrim #1" = 12
 	"Domaslava #0" = -13
-	"DrahomÌra #0" = -13
+	"Drahom√≠ra #0" = -13
 	"Boleslav #0" = 12
 	"Zbynek #0" = 12
 	"Jitka #0" = -13
 	"Havel #0" = 12
 	"Dorota #1" = -13
-	"MojmÌr #1" = 12
+	"Mojm√≠r #1" = 12
 	"Rostislav #0" = 24
 	"Castolov #0" = 12
-	"VladimÌr #1" = 12
+	"Vladim√≠r #1" = 12
 	"Spytihnev #0" = 12
 	"Judita #0" = -13
 	"Markvart #1" = 24
@@ -126,68 +150,98 @@ monarch_names = {
 	"Hanus #0" = 0
 	"Herman #0" = 0
 	"Jan #0" = 0
-	"JaromÌr #0" = 0
+	"Jarom√≠r #0" = 0
 	"Jaroslav #0" = 0
 	"Jindrich #0" = 0
 	"Karel #0" = 0
 	"Kojata #0" = 0
-	"Konr·d #0" = 0
-	"KunÌk #0" = 0
+	"Konr√°d #0" = 0
+	"Kun√≠k #0" = 0
 	"Litold #0" = 0
 	"Matous #0" = 0
-	"Mikul·s #0" = 0
+	"Mikul√°s #0" = 0
 	"Oldrich #0" = 0
 	"Ondrej #0" = 0
 	"Petr #0" = 0
 	"Rajmund #0" = 0
 	"Sezima #0" = 0
 	"Slavibor #0" = 0
-	"SlavomÌr #0" = 0
+	"Slavom√≠r #0" = 0
 	"Strachkvas #0" = 0
 	"Svatobor #0" = 0
 	"Svatopluk #0" = 0
-	"V·clav #0" = 0
-	"ViktorÌn #0" = 0
-	"VÌtek #0" = 0
+	"V√°clav #0" = 0
+	"Viktor√≠n #0" = 0
+	"V√≠tek #0" = 0
 	"Vanek #0" = 0
-	"VilÈm #0" = 0
+	"Vil√©m #0" = 0
 	"Vojtech #0" = 0
 	"Vratislav #0" = 0
 	"Vsebor #0" = 0
-	"Z·vis #0" = 0
-	"ZdÌk #0" = 0
+	"Z√°vis #0" = 0
+	"Zd√≠k #0" = 0
 	"Zdirad #0" = 0
 	"Zikmund #0" = 0
 }
-ship_names = {
-	"Svat˝ Vaclav"
-	"Svat· Ludmila"
-	"Svat˝ Jan Nepomuck˝"
-	"Svat˝ Mikul·s"
-	"Svat˝ JirÌ"
-	"Svat· Anezk·"
-	"NejsvetejsÌ Trojice"
-	"Kr·l Karel"
-	"Kr·l Boleslav"
-	"Kr·l Premysl"
-	"Panna Maria Vitezn·"
-	"Jan Hus"
-	"Jan Zizka"
-	"Prokop Hol˝"
-	"KnÌze Bretislav"
-	"Premysl Orac"
-	Ctirad
-	Cechy
-	Morava
-	Libuse
-	Odv·zn˝
-	Neporaziteln˝
-	Rychl˝
-	Bystr˝
-	Orel
-	Sokol
-	Slezsko
-	Sipka
-	Hvezda
+ship_names = {
+
+	"Svat√Ω Vaclav"
+
+	"Svat√° Ludmila"
+
+	"Svat√Ω Jan Nepomuck√Ω"
+
+	"Svat√Ω Mikul√°s"
+
+	"Svat√Ω Jir√≠"
+
+	"Svat√° Anezk√°"
+
+	"Nejsvetejs√≠ Trojice"
+
+	"Kr√°l Karel"
+
+	"Kr√°l Boleslav"
+
+	"Kr√°l Premysl"
+
+	"Panna Maria Vitezn√°"
+
+	"Jan Hus"
+
+	"Jan Zizka"
+
+	"Prokop Hol√Ω"
+
+	"Kn√≠ze Bretislav"
+
+	"Premysl Orac"
+
+	Ctirad
+
+	Cechy
+
+	Morava
+
+	Libuse
+
+	Odv√°zn√Ω
+
+	Neporaziteln√Ω
+
+	Rychl√Ω
+
+	Bystr√Ω
+
+	Orel
+
+	Sokol
+
+	Slezsko
+
+	Sipka
+
+	Hvezda
+
 }
 

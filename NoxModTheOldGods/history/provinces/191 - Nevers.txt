@@ -1,4 +1,4 @@
-# 191 Nevers - Principal cities: Nevers
+ï»¿# 191 Nevers - Principal cities: Nevers
 
 owner = NEV
 controller = NEV 
@@ -30,9 +30,9 @@ discovered_by = ottoman
 1640.1.1   = { fort3 = yes }
 1641.1.1   = { unrest = 0 }
 1650.1.1   = { citysize = 10000 constable = yes }
-1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes CondÃ©, Conti & Longueville, the beginning of the Second Fronde
 1651.4.1   = { unrest = 4 } # An unstable peace is concluded
-1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1651.12.1  = { unrest = 7 } # Mazarin returns from exile, CondÃ© sides with Spain, situation heats up again
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 1700.1.1   = { citysize = 11000 }
 1710.1.1   = { fort4 = yes }

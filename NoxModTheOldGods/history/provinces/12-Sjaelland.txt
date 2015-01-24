@@ -1,4 +1,4 @@
-#Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
+ï»¿#Sjaelland, incl. KÃ¸benhavn, Roskilde, HelsingÃ¸r, Ringsted
 
 add_core = DAN
 owner = DAN
@@ -10,7 +10,7 @@ base_tax = 7
 trade_goods = fish
 manpower = 6
 fort1 = yes
-capital = "København"
+capital = "KÃ¸benhavn"
 marketplace = yes
 citysize = 5000 # Estimated
 discovered_by = eastern

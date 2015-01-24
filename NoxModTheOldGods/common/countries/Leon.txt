@@ -1,7 +1,9 @@
-# LeÛn
+Ôªø# Le√≥n
 graphical_culture = westerngfx
 color = { 240 40 40 }
-historical_idea_groups = {	religious_ideas	offensive_ideas
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
 	quality_ideas
 	diplomatic_ideas
 	exploration_ideas
@@ -10,26 +12,40 @@ historical_idea_groups = {	religious_ideas	offensive_ideas
 	economic_ideas
 }
 
-historical_units = {	western_medieval_infantry	western_medieval_knights	western_men_at_arms	spanish_tercio	austrian_tercio	austrian_grenzer	austrian_hussar	austrian_white_coat	austrian_jaeger	mixed_order_infantry	open_order_cavalry	napoleonic_square	napoleonic_lancers}
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
 
 leader_names = {
-	"Ermengarda" "Jimeno" "Blasco" "Juan" "Aldonza" "Richard" "NuÒadona" "Leonor" "Petronila" "DueÒa" 
-	"Gundemaro" "Oswine" "Tiburge" "Teresa" "Jacques" "NuÒo" "Lopa" "Mendo" "Dulce" "Sancha" 
-	"Gaudiosa" "Cristina" "MartÌn" "Isabel" "Copsige" "BlÊja" "Luis" "Galindo" "Domingo" "EstefanÌa" 
-	"Cyneswith" "Diego" "Velasco" "Jaime" "Berenguela" "Gotina" "MencÌa" "Ansur" "Fernando" "”nega" 
-	"MarÌa" "Lothar" "Gontroda" "Usenda" "Benita" "Eylo" "Sol" "Cuthberht" "Arsenda" "Aurelio" 
-	"LeofflÊd" "AndrÈs" "Guillermo" "Pedro" "Andregoto" "∆thelhild" "FlaÌn" "WihtrÊd" "Cuthburg" "Guiomar" 
-	"Godo" "Thomas" "Adosinda" "Alfonso" "Fruela" "Vermudo" "Ramiro" "OrdoÒo" "Mauregato" "Hermenegildo" 
-	"Ermesinda" "GatÛn" "Esteban" "Antonino" "Odoario" "Anderquina" "Eva" "Leodegunda" "Enrique" "Velasquita" 
-	"Egilona" "Savarico" "Patruina" "Vela" "MuÒa" "Mafalda" "GarcÌa" "Jacobo" "Dalia" "Juliana" 
-	"Gutierre" "Pelayo" "Toda" "Nicor" "Urraca" "Violante" "InÈs" "MuÒadona" "Branca" "Varela" 
-	"Rosendo" "Alduara" "Lorenzo" "Fronilda" "BrÌgida" "Rom·n" "Manrique" "Blanca" "Margarita" "Guina" 
+	"Ermengarda" "Jimeno" "Blasco" "Juan" "Aldonza" "Richard" "Nu√±adona" "Leonor" "Petronila" "Due√±a" 
+	"Gundemaro" "Oswine" "Tiburge" "Teresa" "Jacques" "Nu√±o" "Lopa" "Mendo" "Dulce" "Sancha" 
+	"Gaudiosa" "Cristina" "Mart√≠n" "Isabel" "Copsige" "Bl√¶ja" "Luis" "Galindo" "Domingo" "Estefan√≠a" 
+	"Cyneswith" "Diego" "Velasco" "Jaime" "Berenguela" "Gotina" "Menc√≠a" "Ansur" "Fernando" "√ìnega" 
+	"Mar√≠a" "Lothar" "Gontroda" "Usenda" "Benita" "Eylo" "Sol" "Cuthberht" "Arsenda" "Aurelio" 
+	"Leoffl√¶d" "Andr√©s" "Guillermo" "Pedro" "Andregoto" "√Üthelhild" "Fla√≠n" "Wihtr√¶d" "Cuthburg" "Guiomar" 
+	"Godo" "Thomas" "Adosinda" "Alfonso" "Fruela" "Vermudo" "Ramiro" "Ordo√±o" "Mauregato" "Hermenegildo" 
+	"Ermesinda" "Gat√≥n" "Esteban" "Antonino" "Odoario" "Anderquina" "Eva" "Leodegunda" "Enrique" "Velasquita" 
+	"Egilona" "Savarico" "Patruina" "Vela" "Mu√±a" "Mafalda" "Garc√≠a" "Jacobo" "Dalia" "Juliana" 
+	"Gutierre" "Pelayo" "Toda" "Nicor" "Urraca" "Violante" "In√©s" "Mu√±adona" "Branca" "Varela" 
+	"Rosendo" "Alduara" "Lorenzo" "Fronilda" "Br√≠gida" "Rom√°n" "Manrique" "Blanca" "Margarita" "Guina" 
 	"Aragonta" "Juana" "Rodrigo" "Eulalia" "Ponce" "Aznar" "Osorio" "Antonio" "Constanza" "Aurovita" 
-	"Eslonza" "Argilo" "Heregyth" "Facundo" "Mathilde" "Gonzalo" "BenoÓte" "Bourgogne" "Favila" "Silo" 
-	"Godwine" "Wulfhere" "Alonso" "¡lvar" "¡lvaro" "Arias" "Artal" "Beltr·n" "Benito" "Berenguel" 
-	"Bernardo" "BosÛn" "Fadrique" "Felipe" "Fern·n" "Gil" "GuillÈn" "Gustio" "Guzm·n" "Juan-Alfonso" 
-	"Juli·n" "Lope" "Manuel" "Menendo" "MuÒo" "Oveco" "PiÒolo" "Raimundo" "RamÛn" "Salvador" 
-	"Sancho" "Sebasti·n" "Tello" "Teobaldo" }
+	"Eslonza" "Argilo" "Heregyth" "Facundo" "Mathilde" "Gonzalo" "Beno√Æte" "Bourgogne" "Favila" "Silo" 
+	"Godwine" "Wulfhere" "Alonso" "√Ålvar" "√Ålvaro" "Arias" "Artal" "Beltr√°n" "Benito" "Berenguel" 
+	"Bernardo" "Bos√≥n" "Fadrique" "Felipe" "Fern√°n" "Gil" "Guill√©n" "Gustio" "Guzm√°n" "Juan-Alfonso" 
+	"Juli√°n" "Lope" "Manuel" "Menendo" "Mu√±o" "Oveco" "Pi√±olo" "Raimundo" "Ram√≥n" "Salvador" 
+	"Sancho" "Sebasti√°n" "Tello" "Teobaldo" }
 monarch_names = {
 	"Ermengarda #0" = -35
 	"Jimeno #0" = 52
@@ -37,41 +53,41 @@ monarch_names = {
 	"Juan #0" = 52
 	"Aldonza #0" = -53
 	"Richard #0" = 17
-	"NuÒadona #0" = -18
+	"Nu√±adona #0" = -18
 	"Leonor #0" = -88
 	"Petronila #0" = -18
-	"DueÒa #0" = -18
+	"Due√±a #0" = -18
 	"Gundemaro #3" = 121
 	"Oswine #0" = 17
 	"Tiburge #0" = -53
 	"Teresa #0" = -35
 	"Jacques #0" = 17
-	"NuÒo #0" = 34
+	"Nu√±o #0" = 34
 	"Lopa #0" = -35
 	"Mendo #1" = 69
 	"Dulce #0" = -88
 	"Sancha #0" = -53
 	"Gaudiosa #0" = -35
 	"Cristina #0" = -53
-	"MartÌn #0" = 34
+	"Mart√≠n #0" = 34
 	"Isabel #0" = -35
 	"Copsige #0" = 17
-	"BlÊja #0" = -18
+	"Bl√¶ja #0" = -18
 	"Luis #1" = 139
 	"Galindo #1" = 34
 	"Domingo #0" = 69
-	"EstefanÌa #0" = -53
+	"Estefan√≠a #0" = -53
 	"Cyneswith #0" = -18
 	"Diego #0" = 121
 	"Velasco #0" = 69
 	"Jaime #0" = 69
 	"Berenguela #0" = -18
 	"Gotina #0" = -88
-	"MencÌa #0" = -53
+	"Menc√≠a #0" = -53
 	"Ansur #0" = 52
 	"Fernando #0" = 17
-	"”nega #0" = -35
-	"MarÌa #0" = -18
+	"√ìnega #0" = -35
+	"Mar√≠a #0" = -18
 	"Lothar #0" = 17
 	"Gontroda #0" = -18
 	"Usenda #1" = -53
@@ -81,14 +97,14 @@ monarch_names = {
 	"Cuthberht #0" = 17
 	"Arsenda #0" = -18
 	"Aurelio #3" = 69
-	"LeofflÊd #0" = -18
-	"AndrÈs #0" = 17
+	"Leoffl√¶d #0" = -18
+	"Andr√©s #0" = 17
 	"Guillermo #0" = 17
 	"Pedro #0" = 34
 	"Andregoto #0" = -53
-	"∆thelhild #0" = -18
-	"FlaÌn #0" = 17
-	"WihtrÊd #0" = 17
+	"√Üthelhild #0" = -18
+	"Fla√≠n #0" = 17
+	"Wihtr√¶d #0" = 17
 	"Cuthburg #0" = -18
 	"Guiomar #0" = -53
 	"Godo #0" = -53
@@ -98,11 +114,11 @@ monarch_names = {
 	"Fruela #1" = 69
 	"Vermudo #1" = 208
 	"Ramiro #1" = 17
-	"OrdoÒo #1" = 52
+	"Ordo√±o #1" = 52
 	"Mauregato #1" = 34
 	"Hermenegildo #0" = 52
 	"Ermesinda #0" = -70
-	"GatÛn #0" = 34
+	"Gat√≥n #0" = 34
 	"Esteban #0" = 17
 	"Antonino #0" = 17
 	"Odoario #0" = 17
@@ -115,9 +131,9 @@ monarch_names = {
 	"Savarico #0" = 34
 	"Patruina #0" = -18
 	"Vela #0" = 52
-	"MuÒa #0" = -53
+	"Mu√±a #0" = -53
 	"Mafalda #0" = -53
-	"GarcÌa #0" = 52
+	"Garc√≠a #0" = 52
 	"Jacobo #0" = 17
 	"Dalia #0" = -35
 	"Juliana #0" = -18
@@ -127,16 +143,16 @@ monarch_names = {
 	"Nicor #0" = -18
 	"Urraca #0" = -18
 	"Violante #0" = -88
-	"InÈs #0" = -35
-	"MuÒadona #0" = -18
+	"In√©s #0" = -35
+	"Mu√±adona #0" = -18
 	"Branca #0" = -35
 	"Varela #0" = -18
 	"Rosendo #0" = 17
 	"Alduara #0" = -35
 	"Lorenzo #0" = 34
 	"Fronilda #0" = -18
-	"BrÌgida #0" = -18
-	"Rom·n #0" = 17
+	"Br√≠gida #0" = -18
+	"Rom√°n #0" = 17
 	"Manrique #1" = 34
 	"Blanca #0" = -35
 	"Margarita #0" = -18
@@ -157,62 +173,80 @@ monarch_names = {
 	"Facundo #0" = 17
 	"Mathilde #0" = -18
 	"Gonzalo #0" = 17
-	"BenoÓte #0" = -18
+	"Beno√Æte #0" = -18
 	"Bourgogne #0" = -18
 	"Favila #1" = 0
 	"Silo #1" = 0
 	"Godwine #1" = 0
 	"Wulfhere #1" = 0
 	"Alonso #0" = 0
-	"¡lvar #0" = 0
-	"¡lvaro #0" = 0
+	"√Ålvar #0" = 0
+	"√Ålvaro #0" = 0
 	"Arias #0" = 0
 	"Artal #0" = 0
-	"Beltr·n #0" = 0
+	"Beltr√°n #0" = 0
 	"Benito #0" = 0
 	"Berenguel #0" = 0
 	"Bernardo #0" = 0
-	"BosÛn #0" = 0
+	"Bos√≥n #0" = 0
 	"Fadrique #0" = 0
 	"Felipe #0" = 0
-	"Fern·n #0" = 0
+	"Fern√°n #0" = 0
 	"Gil #0" = 0
-	"GuillÈn #0" = 0
+	"Guill√©n #0" = 0
 	"Gustio #0" = 0
-	"Guzm·n #0" = 0
+	"Guzm√°n #0" = 0
 	"Juan-Alfonso #0" = 0
-	"Juli·n #0" = 0
+	"Juli√°n #0" = 0
 	"Lope #0" = 0
 	"Manuel #0" = 0
 	"Menendo #0" = 0
-	"MuÒo #0" = 0
+	"Mu√±o #0" = 0
 	"Oveco #0" = 0
-	"PiÒolo #0" = 0
+	"Pi√±olo #0" = 0
 	"Raimundo #0" = 0
-	"RamÛn #0" = 0
+	"Ram√≥n #0" = 0
 	"Salvador #0" = 0
 	"Sancho #0" = 0
-	"Sebasti·n #0" = 0
+	"Sebasti√°n #0" = 0
 	"Tello #0" = 0
 	"Teobaldo #0" = 0
 }
-ship_names = {
-	AndalucÌa Argonauta Asturias AsunciÛn Atrevido Azor
-	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
-	Doncella DragÛn 
-	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "EspÌritu Santo" Extremadura
-	Furor Galicia "Gran GrifÛn" HalcÛn HÈrcules Isabela J˙piter
-	"La ConcepciÛn" "La Magdalena" "La Manuela" LeÛn Ligera "Lobo Marino"
-	Marte Mercurio Neptuno NiÒa OriÛn
-	"Paloma Blanca" Pegaso "Perro Marino" Pinta PlutÛn Pollux "PrÌncipe de Asturias"
-	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
-	"San AndrÈs" "San Antonio" "San BartolomÈ" "San BernabÈ" "San Cristobal" "San Enrique"
-	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San JerÛnimo"
-	"San JosÈ" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
-	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa B·rbara" "Santa Beatriz"
-	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa MarÌa"
-	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "SantÌsima Trinidad" "Santo Domingo" Sirena
-	Terror Toledo Trinidad TritÛn Unicornio
-	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Z˙Òiga
+ship_names = {
+
+	Andaluc√≠a Argonauta Asturias Asunci√≥n Atrevido Azor
+
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+
+	Doncella Drag√≥n 
+
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Esp√≠ritu Santo" Extremadura
+
+	Furor Galicia "Gran Grif√≥n" Halc√≥n H√©rcules Isabela J√∫piter
+
+	"La Concepci√≥n" "La Magdalena" "La Manuela" Le√≥n Ligera "Lobo Marino"
+
+	Marte Mercurio Neptuno Ni√±a Ori√≥n
+
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plut√≥n Pollux "Pr√≠ncipe de Asturias"
+
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+
+	"San Andr√©s" "San Antonio" "San Bartolom√©" "San Bernab√©" "San Cristobal" "San Enrique"
+
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jer√≥nimo"
+
+	"San Jos√©" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa B√°rbara" "Santa Beatriz"
+
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa Mar√≠a"
+
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Sant√≠sima Trinidad" "Santo Domingo" Sirena
+
+	Terror Toledo Trinidad Trit√≥n Unicornio
+
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Z√∫√±iga
+
 }
 

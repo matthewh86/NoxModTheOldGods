@@ -1,32 +1,56 @@
-# Lothian
+Ôªø# Lothian
 graphical_culture = westerngfx
 color = { 220 180 20 }
-historical_idea_groups = {
-	defensive_ideas
-	aristocracy_ideas
-	naval_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	innovativeness_ideas
-	offensive_ideas
+historical_idea_groups = {
+
+	defensive_ideas
+
+	aristocracy_ideas
+
+	naval_ideas
+
+	trade_ideas
+
+	diplomatic_ideas
+
+	economic_ideas
+
+	innovativeness_ideas
+
+	offensive_ideas
+
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	gaelic_galloglaigh
-	gaelic_mercenary
-	gaelic_free_shooter
-	irish_charge
-	scottish_highlander
-	british_redcoat
-	british_hussar
-	british_square
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+
+	western_medieval_infantry
+
+	western_medieval_knights
+
+	gaelic_galloglaigh
+
+	gaelic_mercenary
+
+	gaelic_free_shooter
+
+	irish_charge
+
+	scottish_highlander
+
+	british_redcoat
+
+	british_hussar
+
+	british_square
+
+	mixed_order_infantry
+
+	open_order_cavalry
+
+	napoleonic_square
+
+	napoleonic_lancers
+
 }
 
 
@@ -34,15 +58,15 @@ historical_units = {
 leader_names = {
 
 	"Mallt" "Nesta" "Denis" "Cerie" "Adda" "Maelgwn" "Owena" "Llecci" "Io" "Maches" 
-	"Euronwy" "Einion" "Si‚n" "Gwenwynwyn" "Lachlan" "Tudwallon" "Elspeth" "Ynyr" "Meirion" "Ysfael" 
+	"Euronwy" "Einion" "Si√¢n" "Gwenwynwyn" "Lachlan" "Tudwallon" "Elspeth" "Ynyr" "Meirion" "Ysfael" 
 	"Bronwen" "Morgan" "Ranald" "Caradog" "Ceneu" "Iseult" "Iolo" "Haer" "Ednyfed" "Elystan" 
 	"Pryderi" "Maldoven" "Marchell" "Robert" "Sion" "Hellawes" "Shona" "Cristin" "Enid" "Dwywai" 
 	"Marared" "Mael" "Trahaearn" "Edern" "Mair" "Rhys" "Arthfael" "Gwriad" "Brochfael" "Ithel" 
 	"Meurig" "Hywel" "Aneurin" "Brychan" "Glynys" "Ffernfael" "Ysbail" "Owain" "Brwt" "Cerys" 
 	"Nest" "Gruffydd" "Melisant" "Fyrsil" "Gwenhwyfar" "Aeronwen" "Clarisant" "Alwyn" "Aelwyd" "Emrys" 
-	"Rhiannon" "Gronw" "Anarawd" "Morydd" "Blodwen" "Sl·Ìne" "Caswallon" "Ilud" "Mawd" "Gwen" 
-	"Gwladys" "Gwenfrewwi" "Deheuwant" "Siwan" "Essyllt" "Iestyn" "Angharad" "Alan" "Eilionora" "AÌbinn" 
-	"Gwerthefyr" "Arddyn" "Seonaid" "Fiachnae" "Olwen" "Llywelyn" "Seisyll" "Cedwyn" "Dogfael" "¡engus" 
+	"Rhiannon" "Gronw" "Anarawd" "Morydd" "Blodwen" "Sl√°√≠ne" "Caswallon" "Ilud" "Mawd" "Gwen" 
+	"Gwladys" "Gwenfrewwi" "Deheuwant" "Siwan" "Essyllt" "Iestyn" "Angharad" "Alan" "Eilionora" "A√≠binn" 
+	"Gwerthefyr" "Arddyn" "Seonaid" "Fiachnae" "Olwen" "Llywelyn" "Seisyll" "Cedwyn" "Dogfael" "√Åengus" 
 	"Cynan" "Gwenwyn" "Deniela" "Ceridwen" "Heledd" "Peredyr" "Margred" "Meilyr" "Elaine" "Pandoff" 
 	"Sannant" "Mabyn" "Heulwen" "Myfanwy" "Llywarch" "Cadog" "Isabel" "Colin" "Kenneth" "Donald" 
 	"Malmure" "Adam" "Angus" "Archibald" "Brice" "Colban" "Dugald" "Duncan" "Edgar" "Edward" 
@@ -62,7 +86,7 @@ monarch_names = {
 	"Maches #0" = -17
 	"Euronwy #0" = -17
 	"Einion #0" = 33
-	"Si‚n #0" = -17
+	"Si√¢n #0" = -17
 	"Gwenwynwyn #0" = 16
 	"Lachlan #0" = 16
 	"Tudwallon #0" = 50
@@ -125,7 +149,7 @@ monarch_names = {
 	"Anarawd #0" = 50
 	"Morydd #0" = 16
 	"Blodwen #0" = -17
-	"Sl·Ìne #0" = -17
+	"Sl√°√≠ne #0" = -17
 	"Caswallon #0" = 16
 	"Ilud #0" = -17
 	"Mawd #0" = -17
@@ -139,7 +163,7 @@ monarch_names = {
 	"Angharad #0" = -17
 	"Alan #0" = 16
 	"Eilionora #0" = -17
-	"AÌbinn #0" = -17
+	"A√≠binn #0" = -17
 	"Gwerthefyr #1" = 16
 	"Arddyn #0" = -17
 	"Seonaid #0" = -17
@@ -149,7 +173,7 @@ monarch_names = {
 	"Seisyll #0" = 16
 	"Cedwyn #0" = 16
 	"Dogfael #1" = 50
-	"¡engus #0" = 16
+	"√Åengus #0" = 16
 	"Cynan #0" = 16
 	"Gwenwyn #0" = -34
 	"Deniela #0" = -17
@@ -209,24 +233,43 @@ monarch_names = {
 	"Walter #0" = 0
 	"William #0" = 0
 }
-ship_names = {
-	Advantage "Ann of Anstruther"
-	Bonaventure Bruce
-	Charles "Christian of Boness" Christopher Cuckoo
-	Flower Fortune
-	"Good Fortune" Green-tree
-	"Great Michael"
-	James Janet "Jenny Pirwin"
-	"King's Caravel"
-	"Lamb of Leith" Lesley Lion
-	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
-	Pelican "Prince Rupert" "Providence of Dundee"
-	"Rainbow of Dundee" Rothes
-	Salamander "St. Salvator"
-	Thistle
-	Unicorn
-	Venture
-	Wemyss
-	"Yellow Caravel"
+ship_names = {
+
+	Advantage "Ann of Anstruther"
+
+	Bonaventure Bruce
+
+	Charles "Christian of Boness" Christopher Cuckoo
+
+	Flower Fortune
+
+	"Good Fortune" Green-tree
+
+	"Great Michael"
+
+	James Janet "Jenny Pirwin"
+
+	"King's Caravel"
+
+	"Lamb of Leith" Lesley Lion
+
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+
+	Pelican "Prince Rupert" "Providence of Dundee"
+
+	"Rainbow of Dundee" Rothes
+
+	Salamander "St. Salvator"
+
+	Thistle
+
+	Unicorn
+
+	Venture
+
+	Wemyss
+
+	"Yellow Caravel"
+
 }
 

@@ -1,4 +1,4 @@
-# 88 Artois - Principal cities: Arras, Saint-Omer & Lille
+﻿# 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
 owner = CMY
 controller = CMY
@@ -41,7 +41,7 @@ discovered_by = ottoman
 1610.1.1 = { capital = "Lille" } # Lille becomes more important than Arras
 1630.1.1 = { fort3 = yes }
 1635.5.1 = { controller = FRA } # French troops capture parts of the Southern Lowlands
-1648.1.30  = { controller = SPA } # Peace of M�nster/Westphalia
+1648.1.30  = { controller = SPA } # Peace of Münster/Westphalia
 1650.1.1 = { add_core = FRA citysize = 66000 } # Chambers of Reunion
 1658.6.14  = { controller = FRA } # French troops capture most of the area
 1659.10.28 = { owner = FRA remove_core = SPA } # Peace of the Pyrenees

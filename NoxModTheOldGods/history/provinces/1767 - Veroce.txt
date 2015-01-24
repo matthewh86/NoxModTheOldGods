@@ -1,4 +1,4 @@
-#1767 - Veroce
+﻿#1767 - Veroce
 
 owner = CRO
 controller = CRO
@@ -22,7 +22,7 @@ discovered_by = ottoman
 1526.8.30 = {	owner = TUR
 		controller = TUR
 		add_core = TUR
-        } # Battle of Moh�cs
+        } # Battle of Mohács
 1550.1.1  = { citysize = 6541 }
 1567.1.1  = { religion = reformed } # Synod of Debrecen
 1600.1.1  = { citysize = 7120 }

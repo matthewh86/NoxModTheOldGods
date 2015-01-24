@@ -1,4 +1,4 @@
-# 170 Finist�re - Principal cities: Brest
+﻿# 170 Finistère - Principal cities: Brest
 
 owner = BRI
 controller = BRI

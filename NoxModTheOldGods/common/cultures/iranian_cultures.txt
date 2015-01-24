@@ -1,4 +1,4 @@
-iranian	= {
+﻿iranian	= {
 	graphical_culture = muslimgfx
 	persian = {
 		primary = PER

@@ -1,4 +1,4 @@
-je = {
+﻿je = {
 	graphical_culture = northamericagfx
 	charruan = {
 		primary = CUA

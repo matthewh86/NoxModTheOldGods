@@ -1,4 +1,4 @@
-#1768 - Lienz
+﻿#1768 - Lienz
 
 owner = STY
 controller = STY

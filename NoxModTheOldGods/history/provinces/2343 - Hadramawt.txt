@@ -1,4 +1,4 @@
-#2343 - Hadramawt
+ï»¿#2343 - Hadramawt
 
 owner = ADE
 controller = ADE
@@ -28,7 +28,7 @@ discovered_by = SFA
 
 1450.1.1 = { citysize = 1200}
 1480.1.1 = { discovered_by = TUR }
-1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
+1488.1.1 = { discovered_by = POR } # PÃªro da CovilhÃ£
 1500.1.1 = { citysize = 1377 }
 1538.1.1 = {	owner = TUR
 		controller = TUR

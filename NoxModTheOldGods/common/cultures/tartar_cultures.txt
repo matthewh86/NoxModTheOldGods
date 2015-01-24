@@ -1,4 +1,4 @@
-tartar	= {
+﻿tartar	= {
 	graphical_culture = muslimgfx
 	astrakhani = {
 		primary = AST
@@ -25,6 +25,6 @@ tartar	= {
 		primary = SIB
 	}
 	dynasty_names = {
-		"Chagatay" "Edig�id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 	}
 }

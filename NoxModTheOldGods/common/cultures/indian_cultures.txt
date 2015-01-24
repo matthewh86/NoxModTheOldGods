@@ -1,4 +1,4 @@
-eastern_aryan = {
+﻿eastern_aryan = {
 	graphical_culture = indiangfx
 
 	assamese = {

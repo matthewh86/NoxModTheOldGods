@@ -1,4 +1,4 @@
-#1132 - Timbuktu
+﻿#1132 - Timbuktu
 
 owner = TMB
 controller = TMB # under Tuareg rule to 1468

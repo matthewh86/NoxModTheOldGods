@@ -1,4 +1,4 @@
-namespace = orthodox_flavor
+﻿namespace = orthodox_flavor
 
 #The Non-Possessor Movement 
 country_event = {

@@ -1,4 +1,4 @@
-#Ösel and Dagö, incl. Sonnenburg and Arensburg.
+ï»¿#Ã–sel and DagÃ¶, incl. Sonnenburg and Arensburg.
 
 owner = GOT
 controller = GOT
@@ -31,7 +31,7 @@ discovered_by = eastern
 		controller = SWE
 		add_core = SWE
 		remove_core = DAN
-		} # The Peace of Brömsebro
+		} # The Peace of BrÃ¶msebro
 1650.1.1   = { citysize = 1960 }
 1700.1.1   = { citysize = 2240 }
 1710.9.20  = { controller = RUS } # Estimated date

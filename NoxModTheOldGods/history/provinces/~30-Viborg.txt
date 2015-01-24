@@ -1,4 +1,4 @@
-#Viborgs l‰n, incl. Viborg, Villmansstrand, and Kivin‰bb.
+Ôªø#Viborgs l√§n, incl. Viborg, Villmansstrand, and Kivin√§bb.
 
 owner = FIN
 controller = FIN

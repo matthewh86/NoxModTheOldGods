@@ -1,4 +1,4 @@
-#115 - Pisa
+﻿#115 - Pisa
 
 owner = PIS
 controller = PIS
@@ -36,7 +36,7 @@ discovered_by = ottoman
 1801.2.9   = {	owner = FRA
 		controller = FRA
 		add_core = FRA
-	     } # The Treaty of Lun�ville
+	     } # The Treaty of Lunéville
 1801.3.21  = {	owner = ETR
 		controller = ETR
 		add_core = ETR

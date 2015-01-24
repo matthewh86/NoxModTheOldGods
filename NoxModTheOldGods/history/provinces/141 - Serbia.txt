@@ -1,10 +1,10 @@
-#141 - Serbia
+﻿#141 - Serbia
 
 owner = SER
 controller = SER
 culture = serbian
 religion = balkan_slavic
-capital = "Kru�evac"
+capital = "Kruševac"
 trade_goods = grain
 hre = no
 base_tax = 4

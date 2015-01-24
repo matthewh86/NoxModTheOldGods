@@ -1,4 +1,4 @@
-#1124 - Wasuju
+﻿#1124 - Wasuju
 
 owner = MAL
 controller = MAL
@@ -20,7 +20,7 @@ discovered_by = sub_saharan
 1481.1.1 = { discovered_by = POR } # Portuguese Mission arrives at the court of the Mali Mansa
 #1534.1.1 - second Portuguese mission to the Mali Mansa
 1550.1.1 = { citysize = 16000 } # continuous raids by Songhai causes population migrations out of region
-1600.1.1 = { base_tax = 2 manpower = 1 } #Collapse of mali into minor states after Jenn�
+1600.1.1 = { base_tax = 2 manpower = 1 } #Collapse of mali into minor states after Jenné
 1650.1.1 = { trade_goods = ivory } # shift in center of gravity of region from Niger River to the Forest Region
 1658.1.1 = { owner = SOF controller = SOF add_core = SOF citysize = 10000 manpower = 2 } # under control of Bambara kingdom of Kaladian Kulibali
 1685.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Bambara control lost in wake of death of death of Kaladian Kulibali 

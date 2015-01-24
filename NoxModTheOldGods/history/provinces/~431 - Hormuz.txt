@@ -1,4 +1,4 @@
-#431 - Hormoz
+ï»¿#431 - Hormoz
 
 owner = PER
 controller = PER
@@ -32,7 +32,7 @@ fort1 = yes
 1460.1.1 = { controller = TIM }
 1461.1.1 = { owner = TIM add_core = TIM }
 1469.2.4 = { controller = AKK owner = AKK add_core = AKK remove_core = TIM } #Battle of Qarabagh
-1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
+1488.1.1 = { discovered_by = POR } # PÃªro da CovilhÃ£
 1496.2.8 = { controller = REB revolt = { type = pretender_rebels size = 0 name = "Muhammad's Faction" leader = "Muhammad Ak Koyunlu" } } # Civil war in Ak Koyunlu
 1500.1.1 = { marketplace = yes }
 1501.7.1 = { controller = AKK revolt = { } }

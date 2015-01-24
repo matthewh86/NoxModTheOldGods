@@ -1,4 +1,4 @@
-byzantine = {
+﻿byzantine = {
 	graphical_culture = easterngfx
 	greek = {
 		primary = GRE

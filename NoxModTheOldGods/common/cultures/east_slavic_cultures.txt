@@ -1,4 +1,4 @@
-east_slavic = {
+﻿east_slavic = {
 	graphical_culture = easterngfx
 	russian = {
 		primary = MOS

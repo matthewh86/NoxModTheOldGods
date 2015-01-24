@@ -1,4 +1,4 @@
-#212 - Girona
+Ôªø#212 - Girona
 
 owner = GIR		#Alfons V of Aragon
 controller = GIR
@@ -19,12 +19,12 @@ discovered_by = ottoman
 
 1450.1.1   = { citysize = 4500 }
 1461.9.23  = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Catalan nobility revolts against King Joan, later the "Remensa" peasant revolt erupts, which is used by the King to erode the Catalan nobility. 
-1462.4.11  = { revolt = {} controller = CAS } # Catalan nobility revolts against King Joan, later the RemenÁa peasant revolt erupts.
+1462.4.11  = { revolt = {} controller = CAS } # Catalan nobility revolts against King Joan, later the Remen√ßa peasant revolt erupts.
 1463.1.1   = { revolt = { type = pretender_rebels size = 1 leader = "Pere de Portugal" } controller = REB } # Jaime de Urgell Uprising
 1466.6.30  = { revolt = {} controller = PRO citysize = 3300 } # census of 1473 (population lost due to the war). Succession war against Provence
 1469.1.1   = { controller = ARA }
-1484.1.1   = { unrest = 3 } # Second RemenÁa revolt
-1486.4.21  = { unrest = 0 } # King Ferr‡n arbit rates a resolution between the revolted peasants and the catalan nobles. 
+1484.1.1   = { unrest = 3 } # Second Remen√ßa revolt
+1486.4.21  = { unrest = 0 } # King Ferr√†n arbit rates a resolution between the revolted peasants and the catalan nobles. 
 1497.1.1   = { citysize = 6000 temple = yes } # census of 1497 
 1506.1.1   = { citysize = 4500 } # Epidemic
 1515.1.1   = { citysize = 6000 } # census of 1515, population stagnated due to epidemics
