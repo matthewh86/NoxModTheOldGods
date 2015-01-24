@@ -3,7 +3,7 @@
 owner = BUL
 controller = BUL
 culture = bulgarian
-religion = balkan_slavic
+religion = orthodox
 capital = "Tarnovo"
 trade_goods = iron
 hre = no

@@ -3,7 +3,7 @@
 owner = MOL
 controller = MOL
 culture = ruthenian
-religion = tengri
+religion = magyar
 hre = no
 base_tax = 3
 trade_goods = wool

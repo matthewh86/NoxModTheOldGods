@@ -1,14 +1,14 @@
-#150 - Bulgaria
+#2750 - Plovdiv / Upper Thrace
 
 owner = BUL
 controller = BUL
 culture = bulgarian
-religion = balkan_slavic
-capital = "Tarnovo"
-trade_goods = iron
+religion = orthodox
+capital = "Plovdiv"
+trade_goods = grain
 hre = no
 base_tax = 4
-manpower = 3
+manpower = 2
 citysize = 11000
 fort1 = yes
 add_core = BUL

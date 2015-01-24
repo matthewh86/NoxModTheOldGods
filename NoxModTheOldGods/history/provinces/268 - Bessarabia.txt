@@ -3,7 +3,7 @@
 owner = MOL
 controller = MOL
 culture = romanian
-religion = tengri
+religion = magyar
 hre = no
 base_tax = 6
 capital = "Suceava"

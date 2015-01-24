@@ -3,7 +3,7 @@
 owner = BUL
 controller = BUL
 culture = bulgarian
-religion = balkan_slavic
+religion = orthodox
 capital = "Vidin"
 trade_goods = grain
 hre = no

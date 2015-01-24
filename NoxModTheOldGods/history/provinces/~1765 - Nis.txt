@@ -1,14 +1,14 @@
-#150 - Bulgaria
+#1765 - Sofia
 
 owner = BUL
 controller = BUL
 culture = bulgarian
-religion = balkan_slavic
-capital = "Tarnovo"
-trade_goods = iron
+religion = orthodox
+capital = "Sofia"
+trade_goods = copper
 hre = no
-base_tax = 4
-manpower = 3
+base_tax = 3
+manpower = 2
 citysize = 11000
 fort1 = yes
 add_core = BUL
