@@ -1,0 +1,741 @@
+# jamtland
+graphical_culture = westerngfx
+color = { 80 80 100 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"Ábel" "Ábo" "Ábrrán" "Ádo" "Ádolfe" "Ágá" "Ággi" "Ahkebeaivi" "Ahkejuoksa" "Ahkemiella" "Áibmu" "Áigesárri" "Áigin" "Áillon" "Áivvit" "Áksel" "Álbe" "Albearta" "Ále" "Áles" "Álfa" "Algebeaivi" "Állan" "Ámmá" "Ámmol" "Ámmon" "Ámmot" "Ándá" "Ándaras" "Ándde" "Ánddijá" "Ánde" "Ánderijá" "Ánnjá" "Áno" "Ánot" "Ansealbma" "Anselbme" "Ánte" "Ánton" "Ántte" "Ápmot" "Áppo" "Áppá" "Ápparan" "Áron" "Árrajuoksa" "Ártne" "Ártor" "Árvet" "Ásko" "Áslat" "Ásllak" "Ásllat" "Áttán" "Ávgos" "Ávvu" "Bánccu" "Báncu" "Bánnos" "Bávllos" "Bávlos" "Bávva" "Bávval" "Bávvál" "Bážá" "Dáidu" "Beahkká" "Beaivi" "Beaivvet" "Beanta" "Beartu" "Bedar" "Bede" "Begá" "Behkká" "Behtter" "Benjáme" "Benne" "Bide" "Biede" "Biehtár" "Biejan" "Biejaš" "Bienná" "Biera" "Bieraš" "Bierdna" "Bierra" "Bierrán" "Bierrelaš" "Bierril" "Bierža" "Bieržá" "Biette" "Bihto" "Bijáš" "Bilzi" "Birger" "Birki" "Cáijá" "Coavvá" "Cuivi" "Curtnaš" "Dánel" "Dárbmu" "Dávgon" "Dávved" "Dávvet" "Deahppán" "Dearsu" "Defá" "Diijá" "Doaivu" "Doaivvot" "Doffá" "Dommá" "Dorste" "Duomis" "Duommá" "Duo?gi" "Dure" "Duttá" "Duvká" "Duvre" "Eaddji" "Ealjá" "Edo" "Egel" "Eidnár" "Eidno" "Einár" "Eiven" "Elejas" "Eles" "Elias" "Eljes" "Emel" "Eret" "Erke" "Ertno" "Esájas" "Feles" "Filpa" "Fretterat" "Fretteret" "Gábe" "Gáhppá" "Gáiju" "Gáivvaš" "Gáktu" "Gállá" "Gállagas" "Gáppe" "Gárral" "Gávgu" "Gealbu" "Gearral" "Geažotmiella" "Guhtur" "Guivi" "Gunnár" "Gusto" "Gustu" "Hánas" "Hánno" "Hánsa" "Háral" "Hárri" "Heaibmu" "Heaika" "Heammu" "Heandarak" "Heandarat" "Hegon" "Heige" "Heigen" "Heijá" "Hendá" "Henddo" "Heneš" "Hennet" "Hentto" "Herko" "Holger" "Hugo" "Idga" "Iiggá" "Iisku" "Iissát" "Ilbmar" "Imbá" "Indu" "Irján" "Iskko" "Isku" "Issák" "Issát" "Ivvár" "Jágát" "Jágo" "Jáhken" "Jáhko" "Jáhkot" "Jálbmár" "Járre" "Járri" "Jeansa" "Joavnna" "Joel" "Johá" "Johán" "Johanas" "Johánas" "Jompá" "Joná" "Jonás" "Jo?gu" "Jonsá" "Joret" "Jorge" "Jorgen" "Josáp" "Josát" "Jovnna" "Jovnnás" "Jovssek" "Jovssep" "Jovsset" "Jovssut" "Jovvá" "Juffe" "Juhán" "Juho" "Juhu" "Juhván" "Juhvo" "Julejus" "Jullá" "Ju?gi" "Ju?kil" "Junne" "Junte" "Juoksa" "Jusát" "Jussá" "Jusse" "Jussenaš" "Juvvá" "Juvven" "Kállá" "Kálle" "Kárral" "Klemmá" "Lágon" "Lájár" "Lárá" "Láras" "Lársa" "Lásse" "Lávo" "Lávra" "Lávrrahaš" "Lávrras" "Lávrrohaš" "Leaifa" "Leammá" "Leammu" "Ledjo" "Lejo" "Lemek" "Lemet" "Lemmá" "Máde" "Máden" "Mádes" "Máhtte" "Máhtto" "Máidnu" "Márkkos" "Márte" "Márten" "Mávdnos" "Mávnos" "Mávra" "Mávrres" "Mellet" "Mielat" "Migál" "Migáš" "Migil" "Migos" "Migoš" "Migot" "Mihka" "Mihkil" "Mihkkal" "Mihkkel" "Mihkkil" "Mihkku" "Mikkal" "Mikko" "Mikkol" "Mikku" "Milot" "Mohkku" "Mokci" "Morte" "Morten" "Mortu" "Mures" "Náhkol" "Náinnas" "Nanit" "Nibá" "Nigá" "Nigo" "Nihkke" "Nihkko" "Nihkolávo" "Nihkul" "Niikke" "Niikko" "Niilá" "Niillá" "Niillán" "N" "cont". "Niillas" "Nilá" "Nilán" "Nilke" "Nillá" "Nilpa" "Nilsa" "Nilse" "Njulgu" "Nuhtte" "Nunná" "Nuvtte" "Oaván" "Oge" "Oijá" "Olá" "Olen" "Olet" "Olle" "Ommot" "Orddot" "Oskár" "Osku" "Otto" "Ovla" "Ovlá" "Ovlin" "Ovllá" "Peivas" "Piera" "Poalla" "Ráffo" "Ráidner" "Rálfa" "Ránso" "Rásmmos" "Rásmos" "Rássa" "Rástoš" "Rásttoš" "Rávdnár" "Rávle" "Reaidnu" "Rede" "Riggu" "Riibma" "Riigu" "Rijá" "Rikkar" "Robe" "Robearta" "Rolfa" "Ruben" "Ruigi" "Sabbe" "Sáhkár" "Sálá" "Sálbmo" "Sálmmo" "Sálmo" "Sámmol" "Sáppá" "Sárra" "Sárrajuoksa" "Sávlos" "Sierge" "Siiggur" "Siivár" "Silvu" "Simit" "Simmá" "Simmon" "Sivdda" "Skarild" "Speaidna" "Sveidn" "Tobejas" "Uddi" "Udjjus" "Uhkku" "Ulmmá" "Urbán" "Uvllá" "Válde" "Valljáš" "Vállju" "Válter" "Veaidnu" "Veaiku" "Vide" "Viggu" "Viktor" "Vilhealbma" "Ville" "Volbmar" "Vulle" "Vuoitu" "Vuolát" "Vuollá"
+}
+monarch_names = {
+	"Áillun #0" = 0
+	"Áilu #0" = 0
+	"Ára #0" = 0
+	"Bigge #0" = 0
+	"Jonne #0" = 0
+	"Larsa #0" = 0
+	"Lenne #0" = 0
+	"Matti #0" = 0
+	"Niikka #0" = 0
+	"Ninna #0" = 0
+	"Selen #0" = 0
+	"Sive #0" = 0
+	"Unni #0" = 0
+	"Ábel #0" = 5
+	"Ábo #0" = 5
+	"Ábrrán #0" = 5
+	"Ádo #0" = 5
+	"Ádolfe #0" = 5
+	"Ágá #0" = 5
+	"Ággi #0" = 5
+	"Ahkebeaivi #0" = 5
+	"Ahkejuoksa #0" = 5
+	"Ahkemiella #0" = 5
+	"Áibmu #0" = 5
+	"Áigesárri #0" = 5
+	"Áigin #0" = 5
+	"Áivvit #0" = 5
+	"Áksel #0" = 5
+	"Álbe #0" = 5
+	"Albearta #0" = 5
+	"Ále #0" = 5
+	"Áles #0" = 5
+	"Álfa #0" = 5
+	"Algebeaivi #0" = 5
+	"Állan #0" = 5
+	"Ámmá #0" = 5
+	"Ámmol #0" = 5
+	"Ámmon #0" = 5
+	"Ámmot #0" = 5
+	"Ándá #0" = 5
+	"Ándaras #0" = 5
+	"Ándde #0" = 5
+	"Ánddijá #0" = 5
+	"Ánde #0" = 5
+	"Ánderijá #0" = 5
+	"Ánnjá #0" = 5
+	"Áno #0" = 5
+	"Ánot #0" = 5
+	"Ansealbma #0" = 5
+	"Anselbme #0" = 5
+	"Ánte #0" = 5
+	"Ánton #0" = 5
+	"Ántte #0" = 5
+	"Ápmot #0" = 5
+	"Áppo #0" = 5
+	"Áppá #0" = 5
+	"Ápparan #0" = 5
+	"Áron #0" = 5
+	"Árrajuoksa #0" = 5
+	"Ártne #0" = 5
+	"Ártor #0" = 5
+	"Árvet #0" = 5
+	"Ásko #0" = 5
+	"Áslat #0" = 5
+	"Ásllak #0" = 5
+	"Ásllat #0" = 5
+	"Áttán #0" = 5
+	"Ávgos #0" = 5
+	"Ávvu #0" = 5
+	"Bánccu #0" = 5
+	"Báncu #0" = 5
+	"Bánnos #0" = 5
+	"Bávllos #0" = 5
+	"Bávlos #0" = 5
+	"Bávva #0" = 5
+	"Bávval #0" = 5
+	"Bávvál #0" = 5
+	"Bážá #0" = 5
+	"Dáidu #0" = 5
+	"Beahkká #0" = 5
+	"Beaivi #0" = 5
+	"Beaivvet #0" = 5
+	"Beanta #0" = 5
+	"Beartu #0" = 5
+	"Bedar #0" = 5
+	"Bede #0" = 5
+	"Begá #0" = 5
+	"Behkká #0" = 5
+	"Behtter #0" = 5
+	"Benjáme #0" = 5
+	"Benne #0" = 5
+	"Bide #0" = 5
+	"Biede #0" = 5
+	"Biehtár #0" = 5
+	"Biejan #0" = 5
+	"Biejaš #0" = 5
+	"Bienná #0" = 5
+	"Biera #0" = 5
+	"Bieraš #0" = 5
+	"Bierdna #0" = 5
+	"Bierra #0" = 5
+	"Bierrán #0" = 5
+	"Bierrelaš #0" = 5
+	"Bierril #0" = 5
+	"Bierža #0" = 5
+	"Bieržá #0" = 5
+	"Biette #0" = 5
+	"Bihto #0" = 5
+	"Bijáš #0" = 5
+	"Bilzi #0" = 5
+	"Birger #0" = 5
+	"Birki #0" = 5
+	"Cáijá #0" = 5
+	"Coavvá #0" = 5
+	"Cuivi #0" = 5
+	"Curtnaš #0" = 5
+	"Dánel #0" = 5
+	"Dárbmu #0" = 5
+	"Dávgon #0" = 5
+	"Dávved #0" = 5
+	"Dávvet #0" = 5
+	"Deahppán #0" = 5
+	"Dearsu #0" = 5
+	"Defá #0" = 5
+	"Diijá #0" = 5
+	"Doaivu #0" = 5
+	"Doaivvot #0" = 5
+	"Doffá #0" = 5
+	"Dommá #0" = 5
+	"Dorste #0" = 5
+	"Duomis #0" = 5
+	"Duommá #0" = 5
+	"Duo?gi #0" = 5
+	"Dure #0" = 5
+	"Duttá #0" = 5
+	"Duvká #0" = 5
+	"Duvre #0" = 5
+	"Eaddji #0" = 5
+	"Ealjá #0" = 5
+	"Edo #0" = 5
+	"Egel #0" = 5
+	"Eidnár #0" = 5
+	"Eidno #0" = 5
+	"Einár #0" = 5
+	"Eiven #0" = 5
+	"Elejas #0" = 5
+	"Eles #0" = 5
+	"Elias #0" = 5
+	"Eljes #0" = 5
+	"Emel #0" = 5
+	"Eret #0" = 5
+	"Erke #0" = 5
+	"Ertno #0" = 5
+	"Esájas #0" = 5
+	"Feles #0" = 5
+	"Filpa #0" = 5
+	"Fretterat #0" = 5
+	"Fretteret #0" = 5
+	"Gábe #0" = 5
+	"Gáhppá #0" = 5
+	"Gáiju #0" = 5
+	"Gáivvaš #0" = 5
+	"Gáktu #0" = 5
+	"Gállá #0" = 5
+	"Gállagas #0" = 5
+	"Gáppe #0" = 5
+	"Gárral #0" = 5
+	"Gávgu #0" = 5
+	"Gealbu #0" = 5
+	"Gearral #0" = 5
+	"Geažotmiella #0" = 5
+	"Guhtur #0" = 5
+	"Guivi #0" = 5
+	"Gunnár #0" = 5
+	"Gusto #0" = 5
+	"Gustu #0" = 5
+	"Hánas #0" = 5
+	"Hánno #0" = 5
+	"Hánsa #0" = 5
+	"Háral #0" = 5
+	"Hárri #0" = 5
+	"Heaibmu #0" = 5
+	"Heaika #0" = 5
+	"Heammu #0" = 5
+	"Heandarak #0" = 5
+	"Heandarat #0" = 5
+	"Hegon #0" = 5
+	"Heige #0" = 5
+	"Heigen #0" = 5
+	"Heijá #0" = 5
+	"Hendá #0" = 5
+	"Henddo #0" = 5
+	"Heneš #0" = 5
+	"Hennet #0" = 5
+	"Hentto #0" = 5
+	"Herko #0" = 5
+	"Holger #0" = 5
+	"Hugo #0" = 5
+	"Idga #0" = 5
+	"Iiggá #0" = 5
+	"Iisku #0" = 5
+	"Iissát #0" = 5
+	"Ilbmar #0" = 5
+	"Imbá #0" = 5
+	"Indu #0" = 5
+	"Irján #0" = 5
+	"Iskko #0" = 5
+	"Isku #0" = 5
+	"Issák #0" = 5
+	"Issát #0" = 5
+	"Ivvár #0" = 5
+	"Jágát #0" = 5
+	"Jágo #0" = 5
+	"Jáhken #0" = 5
+	"Jáhko #0" = 5
+	"Jáhkot #0" = 5
+	"Jálbmár #0" = 5
+	"Járre #0" = 5
+	"Járri #0" = 5
+	"Jeansa #0" = 5
+	"Joavnna #0" = 5
+	"Joel #0" = 5
+	"Johá #0" = 5
+	"Johán #0" = 5
+	"Johanas #0" = 5
+	"Johánas #0" = 5
+	"Jompá #0" = 5
+	"Joná #0" = 5
+	"Jonás #0" = 5
+	"Jo?gu #0" = 5
+	"Jonsá #0" = 5
+	"Joret #0" = 5
+	"Jorge #0" = 5
+	"Jorgen #0" = 5
+	"Josáp #0" = 5
+	"Josát #0" = 5
+	"Jovnna #0" = 5
+	"Jovnnás #0" = 5
+	"Jovssek #0" = 5
+	"Jovssep #0" = 5
+	"Jovsset #0" = 5
+	"Jovssut #0" = 5
+	"Jovvá #0" = 5
+	"Juffe #0" = 5
+	"Juhán #0" = 5
+	"Juho #0" = 5
+	"Juhu #0" = 5
+	"Juhván #0" = 5
+	"Juhvo #0" = 5
+	"Julejus #0" = 5
+	"Jullá #0" = 5
+	"Ju?gi #0" = 5
+	"Ju?kil #0" = 5
+	"Junne #0" = 5
+	"Junte #0" = 5
+	"Juoksa #0" = 5
+	"Jusát #0" = 5
+	"Jussá #0" = 5
+	"Jusse #0" = 5
+	"Jussenaš #0" = 5
+	"Juvvá #0" = 5
+	"Juvven #0" = 5
+	"Kállá #0" = 5
+	"Kálle #0" = 5
+	"Kárral #0" = 5
+	"Klemmá #0" = 5
+	"Lágon #0" = 5
+	"Lájár #0" = 5
+	"Lárá #0" = 5
+	"Láras #0" = 5
+	"Lársa #0" = 5
+	"Lásse #0" = 5
+	"Lávo #0" = 5
+	"Lávra #0" = 5
+	"Lávrrahaš #0" = 5
+	"Lávrras #0" = 5
+	"Lávrrohaš #0" = 5
+	"Leaifa #0" = 5
+	"Leammá #0" = 5
+	"Leammu #0" = 5
+	"Ledjo #0" = 5
+	"Lejo #0" = 5
+	"Lemek #0" = 5
+	"Lemet #0" = 5
+	"Lemmá #0" = 5
+	"Máde #0" = 5
+	"Máden #0" = 5
+	"Mádes #0" = 5
+	"Máhtte #0" = 5
+	"Máhtto #0" = 5
+	"Máidnu #0" = 5
+	"Márkkos #0" = 5
+	"Márte #0" = 5
+	"Márten #0" = 5
+	"Mávdnos #0" = 5
+	"Mávnos #0" = 5
+	"Mávra #0" = 5
+	"Mávrres #0" = 5
+	"Mellet #0" = 5
+	"Mielat #0" = 5
+	"Migál #0" = 5
+	"Migáš #0" = 5
+	"Migil #0" = 5
+	"Migos #0" = 5
+	"Migoš #0" = 5
+	"Migot #0" = 5
+	"Mihka #0" = 5
+	"Mihkil #0" = 5
+	"Mihkkal #0" = 5
+	"Mihkkel #0" = 5
+	"Mihkkil #0" = 5
+	"Mihkku #0" = 5
+	"Mikkal #0" = 5
+	"Mikko #0" = 5
+	"Mikkol #0" = 5
+	"Mikku #0" = 5
+	"Milot #0" = 5
+	"Mohkku #0" = 5
+	"Mokci #0" = 5
+	"Morte #0" = 5
+	"Morten #0" = 5
+	"Mortu #0" = 5
+	"Mures #0" = 5
+	"Náhkol #0" = 5
+	"Náinnas #0" = 5
+	"Nanit #0" = 5
+	"Nibá #0" = 5
+	"Nigá #0" = 5
+	"Nigo #0" = 5
+	"Nihkke #0" = 5
+	"Nihkko #0" = 5
+	"Nihkolávo #0" = 5
+	"Nihkul #0" = 5
+	"Niikke #0" = 5
+	"Niikko #0" = 5
+	"Niilá #0" = 5
+	"Niillá #0" = 5
+	"Niillán #0" = 5
+	"Niillas #0" = 5
+	"Nilá #0" = 5
+	"Nilán #0" = 5
+	"Nilke #0" = 5
+	"Nillá #0" = 5
+	"Nilpa #0" = 5
+	"Nilsa #0" = 5
+	"Nilse #0" = 5
+	"Njulgu #0" = 5
+	"Nuhtte #0" = 5
+	"Nunná #0" = 5
+	"Nuvtte #0" = 5
+	"Oaván #0" = 5
+	"Oge #0" = 5
+	"Oijá #0" = 5
+	"Olá #0" = 5
+	"Olen #0" = 5
+	"Olet #0" = 5
+	"Olle #0" = 5
+	"Ommot #0" = 5
+	"Orddot #0" = 5
+	"Oskár #0" = 5
+	"Osku #0" = 5
+	"Otto #0" = 5
+	"Ovla #0" = 5
+	"Ovlá #0" = 5
+	"Ovlin #0" = 5
+	"Ovllá #0" = 5
+	"Peivas #0" = 5
+	"Piera #0" = 5
+	"Poalla #0" = 5
+	"Ráffo #0" = 5
+	"Ráidner #0" = 5
+	"Rálfa #0" = 5
+	"Ránso #0" = 5
+	"Rásmmos #0" = 5
+	"Rásmos #0" = 5
+	"Rássa #0" = 5
+	"Rástoš #0" = 5
+	"Rásttoš #0" = 5
+	"Rávdnár #0" = 5
+	"Rávle #0" = 5
+	"Reaidnu #0" = 5
+	"Rede #0" = 5
+	"Riggu #0" = 5
+	"Riibma #0" = 5
+	"Riigu #0" = 5
+	"Rijá #0" = 5
+	"Rikkar #0" = 5
+	"Robe #0" = 5
+	"Robearta #0" = 5
+	"Rolfa #0" = 5
+	"Ruben #0" = 5
+	"Ruigi #0" = 5
+	"Sabbe #0" = 5
+	"Sáhkár #0" = 5
+	"Sálá #0" = 5
+	"Sálbmo #0" = 5
+	"Sálmmo #0" = 5
+	"Sálmo #0" = 5
+	"Sámmol #0" = 5
+	"Sáppá #0" = 5
+	"Sárra #0" = 5
+	"Sárrajuoksa #0" = 5
+	"Sávlos #0" = 5
+	"Sierge #0" = 5
+	"Siiggur #0" = 5
+	"Siivár #0" = 5
+	"Silvu #0" = 5
+	"Simit #0" = 5
+	"Simmá #0" = 5
+	"Simmon #0" = 5
+	"Sivdda #0" = 5
+	"Skarild #0" = 5
+	"Speaidna #0" = 5
+	"Sveidn #0" = 5
+	"Tobejas #0" = 5
+	"Uddi #0" = 5
+	"Udjjus #0" = 5
+	"Uhkku #0" = 5
+	"Ulmmá #0" = 5
+	"Urbán #0" = 5
+	"Uvllá #0" = 5
+	"Válde #0" = 5
+	"Valljáš #0" = 5
+	"Vállju #0" = 5
+	"Válter #0" = 5
+	"Veaidnu #0" = 5
+	"Veaiku #0" = 5
+	"Vide #0" = 5
+	"Viggu #0" = 5
+	"Viktor #0" = 5
+	"Vilhealbma #0" = 5
+	"Ville #0" = 5
+	"Volbmar #0" = 5
+	"Vulle #0" = 5
+	"Vuoitu #0" = 5
+	"Vuolát #0" = 5
+	"Vuollá #0" = 5
+}
+ship_names = {
+	Ádá
+	Agát
+	Áidná
+	Áidnu
+	Áila
+	Aile
+	Áile
+	Áillun
+	Áilon
+	Áilu
+	Áirá
+	Áire
+	Álbma
+	Álehtta
+	Álehttá
+	Álet
+	Álgen
+	Aliinná
+	Aliissá
+	Állet
+	Álvá
+	Amándá
+	Ánet
+	Ánná
+	Ánne
+	Ássa
+	Ássá
+	Ásta
+	Ástá
+	Ávdnos
+	Ávrá
+	Bávlá
+	Bente
+	Biellá
+	Biergá
+	Bigga
+	Biggá
+	Bigge
+	Biijá
+	Bikká
+	Biret
+	Birgget
+	Birrá
+	Birtá
+	Buohttá
+	Cuvje
+	Dárjá
+	Dávdna
+	Delle
+	Diinna
+	Diinná
+	Duiri
+	Dulá
+	Duojá
+	Duová
+	Edel
+	Eijá
+	Eirá
+	Eivor
+	Elbmá
+	Elen
+	Eliissá
+	Ellá
+	Elle
+	Ello
+	Elsá
+	Elssá
+	Elve
+	Emmá
+	Emmoš
+	Ervá
+	Ester
+	Evá
+	Florá
+	Gáddjá
+	Gáhte
+	Gáhteriinná
+	Gáre
+	Gáren
+	Gealá
+	Geardá
+	Gearte
+	Gideš
+	Gierá
+	Girste
+	Giste
+	Gollá
+	Gunná
+	Gunvor
+	Gutnel
+	Hánna
+	Hánná
+	Heide
+	Heidi
+	Helbme
+	Heleainná
+	Helená
+	Helgá
+	Njáveš
+	Helve
+	Henná
+	Hilbmá
+	Hildá
+	Hilká
+	Hillá
+	Ibbá
+	Iidá
+	Iiddá
+	Iinná
+	Ikká
+	I?gá
+	I?ger
+	I?gir
+	I??er
+	Irbmá
+	Isá
+	Janihtá
+	Janiinná
+	Jaská
+	Johánná
+	Judet
+	Juhánná
+	Juljá
+	Juoksáhkká
+	Káhtariinná
+	Káre
+	Káren
+	Kariinná
+	Karoliinná
+	Kearte
+	Kirste
+	Kristiinná
+	Láidná
+	Láilá
+	Lávrá
+	Leainná
+	Leandu
+	Leinná
+	Lejá
+	Lená
+	Lieddi
+	Liisá
+	Liissá
+	Liljá
+	Lindá
+	Linne
+	Livli
+	Lohcca
+	Lohttá
+	Lottá
+	Luviissá
+	Máddjá
+	Máddji
+	Mággá
+	Magredá
+	Mágredá
+	Máidna
+	Máijá
+	Máijjá
+	Máilá
+	Máire
+	Mákke
+	Máre
+	Máren
+	Máret
+	Márge
+	Márgget
+	Márgrehtá
+	Márgreittá
+	Márgu
+	Mariánná
+	Mariánne
+	Marihttá
+	Márjá
+	Márjjá
+	Mártá
+	Matildá
+	Mávdná
+	Mávnnel
+	Meartá
+	Meret
+	Merjá
+	Miijá
+	Miinná
+	Miljá
+	Mimmi
+	Minná
+	Mirjá
+	Náddjá
+	Naná
+	Nánná
+	Nánni
+	Násti
+	Nienná
+	Niná
+	Norá
+	Oajá
+	Oggi
+	Oile
+	Olgá
+	Piijá
+	Ráfi
+	Ráhkel
+	Ráijá
+	Rávdná
+	Ravna
+	Redá
+	Regiinná
+	Rihttá
+	Riidá
+	Riittá
+	Risten
+	Ristiinná
+	Ruhte
+	Ruvsá
+	Sáben
+	Sábin
+	Sáddja
+	Sáibmi
+	Sánná
+	Sárá
+	Sáráhkká
+	Šealggá
+	Seará
+	Šeará
+	Selbmá
+	Selggo
+	Seljo
+	Siinná
+	Sikká
+	Silvá
+	Sire
+	Siru
+	Sivnne
+	Soabá
+	Sofe
+	Soffá
+	Sojá
+	Soljá
+	Solla
+	Sonjá
+	Sunná
+	Suoinná
+	Suonjar
+	Susánna
+	Susánná
+	Sussu
+	Teresá
+	Tiinná
+	Tildá
+	Tuá
+	Uksáhkká
+	Ullá
+	Unni
+	Vábo
+	Válbor
+	Várbu
+	Várvá
+	Venlá
+	Verá
+	Viivvá
+	Vilbmá
+	Virba
+	Virvá
+	Vuohkku
+}

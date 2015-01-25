@@ -3,7 +3,7 @@
 owner = SIL
 controller = SIL
 culture = schlesian
-religion = catholic
+religion = rus_slavic
 capital = "Breslau"
 trade_goods = iron
 hre = yes
