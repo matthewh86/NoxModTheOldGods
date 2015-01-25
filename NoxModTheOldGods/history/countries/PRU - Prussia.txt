@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -3
 primary_culture = prussian
 religion = romuva
-technology_group = western
+technology_group = eastern
 capital = 41	# K�nigsberg
 
 1510.12.14 = {
@@ -314,3 +314,4 @@ capital = 41	# K�nigsberg
 1807.1.1 = { capital = 40 } # Memel
 
 1808.1.1 = { capital = 50 } # Berlin
+                  

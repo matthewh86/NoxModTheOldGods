@@ -8,7 +8,6 @@ mercantilism = 0.1
 #quality_quantity = -1
 #serfdom_freesubjects = -5
 primary_culture = lithuanian
-add_accepted_culture = polish
 religion = romuva
 technology_group = eastern
 historical_friend = POL

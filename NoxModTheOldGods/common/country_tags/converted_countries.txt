@@ -7,6 +7,7 @@ ANJ = countries/Anjou.txt
 AZV = countries/Azov.txt
 BJA = countries/Bjarmia.txt
 BYE = countries/Byelorussia.txt
+CLS = countries/Calais.txt
 CMB = countries/Cumberland.txt
 CMY = countries/Cambray.txt
 DLM = countries/Dalmatia.txt

@@ -1,7 +1,7 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner = FLA
-controller = FLA 
+owner = CLS
+controller = CLS 
 capital = "Amiens"
 citysize = 15000
 culture = cosmopolitan_french
@@ -10,7 +10,7 @@ hre = no
 base_tax = 6
 trade_goods = grain
 manpower = 5
-add_core = FLA
+add_core = CLS
 fort1 = yes
 temple = yes # Notre Dame d'Amiens
 discovered_by = eastern
@@ -18,7 +18,6 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1444.1.1 = { add_core = FRA }
 1450.1.1 = { citysize = 17000 }
 1475.8.29 = { remove_core = ENG } # Treaty of Picquigny
 1477.1.5 = { owner = FRA controller = FRA add_core  = FRA remove_core = BUR } # Charles the Bold dies and transfers Picardie to France
