@@ -1,7 +1,7 @@
 #142 - Corfu
 
-owner = BYZ
-controller = BYZ
+owner = CEP
+controller = CEP
 culture = greek
 religion = orthodox
 capital = "Corfu"
@@ -11,7 +11,6 @@ base_tax = 4
 manpower = 1
 citysize = 5800
 fort1 = yes
-add_core = BYZ
 add_core = CEP
 discovered_by = western
 discovered_by = eastern

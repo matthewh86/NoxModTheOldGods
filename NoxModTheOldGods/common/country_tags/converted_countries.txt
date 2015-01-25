@@ -17,6 +17,7 @@ GLS = countries/Gloucestershire.txt
 GRO = countries/Grodno.txt
 ICE = countries/Iceland.txt
 ISR = countries/Israel.txt
+JAM = countries/Jamtland.txt
 KRL = countries/Karelia.txt
 KHZ = countries/Khazaria.txt
 LAQ = countries/LAquila.txt
