@@ -1,0 +1,38 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = -5
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 5
+#land_naval = -4
+#quality_quantity = -3
+#serfdom_freesubjects = -3
+primary_culture = wallonian
+religion = druidic
+technology_group = western
+capital = 181	# rethel
+fixed_capital = 181 # Cannot move capital away from this province & no power cost to move to it
+
+1392.1.1 = {
+	monarch = {
+		name = "Philip III"
+		dynasty = "Capet"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1394.11.24 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles II"
+		dynasty = "Capet"
+		birth_date = 1394.11.24
+		death_date = 1465.1.5
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,23 @@
+government = feudal_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 5
+#innovative_narrowminded = -1
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 2
+#quality_quantity = 2
+#serfdom_freesubjects = 3
+primary_culture = catalan
+religion = catholic
+technology_group = western
+capital = 212 # girona
+
+1396.5.19 = {
+	monarch = {
+		name = "Martin I"
+		dynasty = "d'Girona"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
