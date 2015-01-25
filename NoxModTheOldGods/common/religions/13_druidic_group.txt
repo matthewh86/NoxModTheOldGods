@@ -1,0 +1,19 @@
+druidic_group = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	center_of_religion = 239 # Gloucester
+	
+	druidic = {
+		icon = 32
+		color = { 0.95 0.95 0.95 }
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			heir_chance = 0.5
+			stability_cost_modifier = -0.10
+		}
+		uses_piety = yes
+		heretic = { OLD_DRUIDIC }
+	}
+}

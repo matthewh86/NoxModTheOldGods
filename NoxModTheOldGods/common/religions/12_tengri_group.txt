@@ -16,4 +16,18 @@ tengri_group = {
 		uses_piety = yes
 		heretic = { OLD_TENGRI }
 	}
+	
+	magyar = {
+		icon = 33
+		color = { 0.7 0.3 0.3 }
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country = {
+			heir_chance = 0.5
+			stability_cost_modifier = -0.10
+		}
+		uses_piety = yes
+		heretic = { OLD_MAGYAR }
+	}
 }
